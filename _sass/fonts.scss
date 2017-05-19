@@ -1,0 +1,59 @@
+/*Linux Libertine font*/
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-weight: normal;
+    font-style: normal;
+    src: local("Linux Libertine"), url("../fonts/LinLibertine_R.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-weight: normal;
+    font-style: italic;
+    src: local("Linux Libertine Italic"), url("../fonts/LinLibertine_RI.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-weight: bold;
+    font-style: normal;
+    src: local("Linux Libertine Bold"), url("../fonts/LinLibertine_RB.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Linux Libertine';
+    font-weight: bold;
+    font-style: italic;
+    src: local("Linux Libertine Bold Italic"), url("../fonts/LinLibertine_RBI.woff") format("woff");
+}
+
+/*Lato font*/
+
+@font-face {
+	font-family: 'Lato';
+	font-weight: normal;
+	font-style: normal;
+	src: local("Lato"), url("../fonts/LatoLatin-Regular.woff2") format("woff2"), url("../fonts/LatoLatin-Regular.woff") format("woff");
+}
+
+@font-face {
+	font-family: 'Lato';
+	font-weight: normal;
+	font-style: italic;
+	src: local("Lato Italic"), url("../fonts/LatoLatin-Italic.woff2") format("woff2"), url("../fonts/LatoLatin-Italic.woff") format("woff");
+}
+
+@font-face {
+	font-family: 'Lato';
+	font-weight: bold;
+	font-style: normal;
+	src: local("Lato Bold"), url("../fonts/LatoLatin-Bold.woff2") format("woff2"), url("../fonts/LatoLatin-Bold.woff") format("woff");
+}
+
+@font-face {
+	font-family: 'Lato';
+	font-weight: bold;
+	font-style: italic;
+	src: local("Lato Bold Italic"), url("../fonts/LatoLatin-BoldItalic.woff2") format("woff2"), url("../fonts/LatoLatin-BoldItalic.woff") format("woff");
+}

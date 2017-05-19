@@ -1,4 +1,9 @@
+---
+---
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+
+@import "colours";
+@import "fonts";
 
 html {
     color: #222;
@@ -51,13 +56,12 @@ textarea {
     padding: 0.2em 0;
 }
 
-
-/* ===== Initializr Styles ==================================================
-   Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
-   ========================================================================== */
-
 body {
-    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    font-family: "Linux Libertine",serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Lato", sans-serif;
 }
 
 .wrapper {
@@ -65,31 +69,30 @@ body {
     margin: 0 5%;
 }
 
-/* ===================
-    ALL: Orange Theme
-   =================== */
-
 .header-container {
-    border-bottom: 20px solid #e44d26;
+    border-bottom: 1px solid $border-colour;
 }
 
-.footer-container,
+.footer-container {
+    border-top: 1px solid $border-colour;
+}
+
 .main aside {
-    border-top: 20px solid #e44d26;
+    border-left: 1px solid $border-colour;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #f16529;
+    
 }
 
 .title {
-    color: white;
+
 }
 
 /* ==============
-    MOBILE: Menu
+    Menu
    ============== */
 
 nav ul {
@@ -107,17 +110,18 @@ nav a {
     text-decoration: none;
     font-weight: bold;
 
-    color: white;
-    background: #e44d26;
+    border-bottom: 2px solid $border-colour;
+    color: black;
 }
 
 nav a:hover,
 nav a:visited {
-    color: white;
+    
 }
 
 nav a:hover {
-    text-decoration: underline;
+    background-color: rgba($accent-colour, 0.13);
+    border-bottom: 2px solid $accent-colour;
 }
 
 /* ==============
@@ -133,12 +137,12 @@ nav a:hover {
 }
 
 .main aside {
-    color: white;
+/*     color: white; */
     padding: 0px 5% 10px;
 }
 
 .footer-container footer {
-    color: white;
+/*     color: white; */
     padding: 20px 0;
 }
 
@@ -149,24 +153,6 @@ nav a:hover {
 .ie7 .title {
     padding-top: 20px;
 }
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* ==========================================================================
    Media Queries
@@ -208,17 +194,6 @@ nav a:hover {
 }
 
 @media only screen and (min-width: 768px) {
-
-/* ====================
-    WIDE: CSS3 Effects
-   ==================== */
-
-    .header-container,
-    .main aside {
-        -webkit-box-shadow: 0 5px 10px #aaa;
-           -moz-box-shadow: 0 5px 10px #aaa;
-                box-shadow: 0 5px 10px #aaa;
-    }
 
 /* ============
     WIDE: Menu
