@@ -27,6 +27,21 @@
                     </address>
                 </header>
                 <nav>
+                    <div class="articles" id="projects">
+                        <h2>projects</h2>
+                        <ul>
+                            {% for repo in site.github.public_repositories %}
+                            {% if repo.name != "canmom.github.io" %}
+                            <li>
+                                <a href="{{ repo.html_link }}">
+                                    <h3>{{ repo.name }}</h3>
+                                    <p>{{ repo.description }}</p>
+                                </a>
+                            </li>
+                            {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </div>
                     {% for category in page.articles %}
                     <div class="articles">
                         <h2>{{category.title}}</h2>
