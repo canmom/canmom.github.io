@@ -30,7 +30,7 @@
                     <div class="articles" id="projects">
                         <h2>projects</h2>
                         <ul>
-                            {% for repo in site.github.public_repositories %}
+                            {% for repo in site.github.public_repositories reversed%}
                             
                             <li>
                                 <a href="{{ repo.html_url }}">
