@@ -59,3 +59,12 @@ h1, h2, h3, h4, h5 {
     background: #b3d4fc;
     text-shadow: none;
 }
+
+a {
+	text-decoration: none;
+	color: $text-colour;
+}
+
+a:hover {
+	color: $accent-colour;
+}

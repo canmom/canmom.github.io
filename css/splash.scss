@@ -15,7 +15,7 @@ section {
 }
 
 header {
-	max-width: 700px;
+	max-width: 475px;
 }
 
 header h1 {
@@ -24,23 +24,21 @@ header h1 {
 
 address {
 	font-style: normal;
-	margin-left: 2em;
+	margin-left: 1em;
 }
 
 a {
 	display: block;
-	text-decoration: none;
-	color: $text-colour;
-	
-}
-
-a:hover {
-	color: $accent-colour;
 }
 
 nav {
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+nav .articles {
+	max-width: 450px;
 }
 
 nav .articles h2 {
@@ -86,15 +84,29 @@ li p {
 
 @media only screen and (min-width: 768px) {
 
-	nav .articles {
-		margin-right: 5em;
+	nav .articles:last-child {
+		margin-right: 0;
 	}
 
 	ul {
-		margin-left: 2em;
+		margin-left: 1em;
 	}
 
 	li p {
 		margin-left: 1em;
+	}
+}
+
+@media only screen and (min-width: 1000px) {
+	nav .articles {
+		max-width: 500px;
+	}
+}
+
+@media only screen and (max-width: 1250px) {
+	#container {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 	}
 }
