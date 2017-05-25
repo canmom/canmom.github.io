@@ -7,8 +7,8 @@
 
 html {
     color: #222;
-    font-size: 1em;
-    line-height: 1.4;
+    font-size: 18px;
+    // line-height: 1.4;
 }
 
 ::-moz-selection {
@@ -79,6 +79,7 @@ h1, h2, h3, h4, h5 {
 
 .main aside {
     border-left: 1px solid $border-colour;
+    border-top: 4px solid $accent-colour;
 }
 
 .header-container,
@@ -88,7 +89,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .title {
-
+    margin: 15px 0;
 }
 
 /* ==============
@@ -112,6 +113,8 @@ nav a {
 
     border-bottom: 2px solid $border-colour;
     color: black;
+
+    font-family: "Lato", sans-serif;
 }
 
 nav a:hover,
@@ -132,8 +135,35 @@ nav a:hover {
     padding: 30px 0;
 }
 
+.main article {
+    padding-left: 25px;
+}
+
 .main article h1 {
-    font-size: 2em;
+    margin: 0 0 20px -25px;
+    font-size: 32px;
+    line-height: 33px;
+    font-family: 'Lato', 'Helvetica neue', Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.main article h2 {
+    font-size: 20px;
+    font-family: 'Lato', 'Helvetica neue', Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    margin: 0 0 20px -15px;
+}
+
+.main article h3 {
+    font-size: 18px;
+    font-family: 'Lato', 'Helvetica neue', Helvetica, Arial, sans-serif;
+    font-weight:bold;
+    opacity:.8;
+    margin: 0 0 20px -5px;
+}
+
+.main article p {
+    margin: 0 0 20px 0;
 }
 
 .main aside {
