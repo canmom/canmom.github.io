@@ -31,14 +31,17 @@
                         <h2>projects</h2>
                         <ul>
                             {% for repo in site.github.public_repositories %}
-                            {% if repo.name != "canmom.github.io" %}
+                            
                             <li>
                                 <a href="{{ repo.html_url }}">
                                     <h3>{{ repo.name }}</h3>
+                                    {% if repo.name == "canmom.github.io" %}
+                                    <p>The source code to the website you're looking at right now!</p>
+                                    {% else %}
                                     <p>{{ repo.description }}</p>
+                                    {% endif %}
                                 </a>
                             </li>
-                            {% endif %}
                             {% endfor %}
                         </ul>
                     </div>
