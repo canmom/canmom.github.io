@@ -1,113 +1,89 @@
 ---
 ---
-/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 
 @import "base";
 
-.wrapper {
+.column {
     width: 90%;
     margin: 0 5%;
 }
 
-.header-container {
-    border-bottom: 1px solid $border-colour;
+header.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+    background-color: rgba($border-colour,0.4);
 }
 
-.footer-container {
-    border-top: 1px solid $border-colour;
-}
-
-.main aside {
-    border-left: 1px solid $border-colour;
-    border-top: 4px solid $accent-colour;
-}
-
-.header-container,
-.footer-container,
-.main aside {
-    
-}
-
-.title {
-    margin: 15px 0;
+h1.title {
+    margin: 0;
+    // line-height: 45px;
 }
 
 /* ==============
     Menu
    ============== */
 
-nav ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
+nav {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    width: 225px;
 }
 
 nav a {
     display: block;
-    margin-bottom: 10px;
-    padding: 15px 0;
 
     text-align: center;
     text-decoration: none;
     font-weight: bold;
 
-    border-bottom: 2px solid $border-colour;
+    margin-left: 8px;
+    width: max-content;
+
+    border-bottom: 4px solid $border-colour;
 
     font-family: "Lato", sans-serif;
 }
 
-nav a:hover,
-nav a:visited {
-    
-}
-
 nav a:hover {
-    background-color: rgba($accent-colour, 0.13);
-    border-bottom: 2px solid $accent-colour;
+    background-color: rgba($accent-colour, 0.05);
+    border-bottom: 4px solid $accent-colour;
 }
 
 /* ==============
     MOBILE: Main
    ============== */
 
-.main {
-    padding: 30px 0;
+article {
+    margin-top: 25px;
+    // padding: 0 25px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
-.main article {
-    padding-left: 25px;
-}
-
-.main article h1 {
-    margin: 0 0 20px -25px;
+article h1 {
+    margin: 0 0 20px 0;
     font-size: 32px;
     line-height: 33px;
-    font-family: 'Lato', 'Helvetica neue', Helvetica, sans-serif;
-    font-weight: bold;
 }
 
-.main article h2 {
+article h2 {
     font-size: 20px;
-    font-family: 'Lato', 'Helvetica neue', Helvetica, Arial, sans-serif;
-    font-weight: bold;
-    margin: 0 0 20px -15px;
+    margin: 0 0 20px 10px;
 }
 
-.main article h3 {
+article h3 {
     font-size: 18px;
-    font-family: 'Lato', 'Helvetica neue', Helvetica, Arial, sans-serif;
-    font-weight:bold;
     opacity:.8;
-    margin: 0 0 20px -5px;
+    margin: 0 0 20px 20px;
 }
 
-.main article p {
-    margin: 0 0 20px 0;
-}
-
-.main aside {
-/*     color: white; */
-    padding: 0px 5% 10px;
+article p {
+    margin: 0 0 20px 25px;
 }
 
 .footer-container footer {
@@ -127,38 +103,14 @@ nav a:hover {
    Media Queries
    ========================================================================== */
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 420px) {
 
 /* ====================
     INTERMEDIATE: Menu
    ==================== */
 
     nav a {
-        float: left;
-        width: 27%;
-        margin: 0 1.7%;
-        padding: 25px 2%;
-        margin-bottom: 0;
-    }
-
-    nav li:first-child a {
-        margin-left: 0;
-    }
-
-    nav li:last-child a {
-        margin-right: 0;
-    }
-
-/* ========================
-    INTERMEDIATE: IE Fixes
-   ======================== */
-
-    nav ul li {
-        display: inline;
-    }
-
-    .oldie nav a {
-        margin: 0 0.7%;
+        padding-top: 20px;
     }
 }
 
@@ -168,38 +120,24 @@ nav a:hover {
     WIDE: Menu
    ============ */
 
-    .title {
-        float: left;
-    }
+    // nav {
+    //     width: 38%;
+    // }
 
-    nav {
-        float: right;
-        width: 38%;
-    }
-
-/* ============
-    WIDE: Main
-   ============ */
-
-    .main article {
-        float: left;
-        width: 57%;
-    }
-
-    .main aside {
-        float: right;
-        width: 28%;
+    article {
+        width: 691px;
+        margin: 0 auto;
     }
 }
 
-@media only screen and (min-width: 1140px) {
+@media only screen and (min-width: 1000px) {
 
 /* ===============
     Maximal Width
    =============== */
 
-    .wrapper {
-        width: 1026px; /* 1140px - 10% for margins */
+    .column {
+        width: 900px; /* 1000px - 10% for margins */
         margin: 0 auto;
     }
 }
@@ -236,20 +174,6 @@ nav a:hover {
 
 .invisible {
     visibility: hidden;
-}
-
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-.clearfix {
-    *zoom: 1;
 }
 
 /* ==========================================================================
