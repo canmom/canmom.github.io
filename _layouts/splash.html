@@ -22,7 +22,7 @@
                     <h1>{{ page.header }}</h1>
                     <address>
                         {% for detail in page.contact_details %}
-                            <a id="{{ detail.id }}" href='{{ detail.href }}'>{{ detail.text }}</a>
+                        <a id="{{ detail.id }}" href='{{ detail.href }}'>{{ detail.text }}</a>
                         {% endfor %}
                     </address>
                 </header>
@@ -32,12 +32,12 @@
                         <h2>{{category.title}}</h2>
                         <ul>
                             {% for article in category.articles %}
-                                <li>
-                                    <a href="{{ article.permalink }}">
-                                        <h3>{{ article.title }}</h3>
-                                        <p>{{ article.description }}</p>
-                                    </a>
-                                </li>
+                            <li>
+                                <a href="{{ article.permalink }}">
+                                    <h3>{{ article.title }}</h3>
+                                    <p>{{ article.description }}</p>
+                                </a>
+                            </li>
                             {% endfor %}
                         </ul>
                     </div>
