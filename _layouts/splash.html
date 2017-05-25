@@ -33,7 +33,7 @@
                             {% for repo in site.github.public_repositories %}
                             {% if repo.name != "canmom.github.io" %}
                             <li>
-                                <a href="{{ repo.html_link }}">
+                                <a href="{{ repo.html_url }}">
                                     <h3>{{ repo.name }}</h3>
                                     <p>{{ repo.description }}</p>
                                 </a>
