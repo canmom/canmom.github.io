@@ -8,11 +8,42 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/splash.css">
+
+
 
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     </head>
     <body>
-        
+        <section>
+            <img src="img/splash-photo.png" alt="A photo of Bryn Dickinson, a woman with long red hair, smiling towards the camera on a cloudy day. The photo is cropped into a circle.">
+            <div>
+                <header>
+                    <h1>{{ page.header }}</h1>
+                    <address>
+                        {% for detail in page.contact_details %}
+                            <a id="{{ detail.id }}" href='{{ detail.href }}'>{{ detail.text }}</a>
+                        {% endfor %}
+                    </address>
+                </header>
+                <nav>
+                    {% for category in page.articles %}
+                    <div class="articles">
+                        <h2>{{category.title}}</h2>
+                        <ul>
+                            {% for article in category.articles %}
+                                <li>
+                                    <a href="{{ article.permalink }}">
+                                        <h3>{{ article.title }}</h3>
+                                        <p>{{ article.description }}</p>
+                                    </a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    {% endfor %}
+                </nav>
+            </div>
+        </section>
     </body>
 </html>

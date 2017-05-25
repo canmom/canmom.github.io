@@ -2,67 +2,7 @@
 ---
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
 
-@import "colours";
-@import "fonts";
-
-html {
-    color: #222;
-    font-size: 18px;
-    // line-height: 1.4;
-}
-
-::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-::selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
-}
-
-audio,
-canvas,
-iframe,
-img,
-svg,
-video {
-    vertical-align: middle;
-}
-
-fieldset {
-    border: 0;
-    margin: 0;
-    padding: 0;
-}
-
-textarea {
-    resize: vertical;
-}
-
-.browserupgrade {
-    margin: 0.2em 0;
-    background: #ccc;
-    color: #000;
-    padding: 0.2em 0;
-}
-
-body {
-    font-family: "Linux Libertine",serif;
-}
-
-h1, h2, h3, h4, h5 {
-    font-family: "Lato", sans-serif;
-}
+@import "base";
 
 .wrapper {
     width: 90%;

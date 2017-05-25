@@ -1,0 +1,100 @@
+---
+---
+
+@import "base";
+
+img {
+	max-width: 20%;
+}
+
+section {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: flex-start
+}
+
+header {
+	max-width: 700px;
+}
+
+header h1 {
+	margin-bottom: 0;
+}
+
+address {
+	font-style: normal;
+	margin-left: 2em;
+}
+
+a {
+	display: block;
+	text-decoration: none;
+	color: $text-colour;
+	
+}
+
+a:hover {
+	color: $accent-colour;
+}
+
+nav {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+nav .articles h2 {
+	margin-bottom: 0;
+}
+
+ul {
+	padding-left: 0;
+	margin-left: 5px;
+	margin-top: 0;
+	padding-top: 20px;
+	margin-bottom: 0;
+	border-left: 2px solid $border-colour;
+}
+
+ul a {
+	border-left: 4px solid $border-colour;
+	padding-left: 6px;
+}
+
+ul a:hover {
+	border-left: 4px solid $accent-colour;
+}
+
+li {
+	list-style-type: none;
+	padding-left: 0;
+	margin-top: 10px;
+}
+
+li:first-child {
+	margin-top: 0;
+}
+
+li h3 {
+	margin: 0;
+}
+
+li p {
+	margin: 0;
+	font-style: italic;
+}
+
+@media only screen and (min-width: 768px) {
+
+	nav .articles {
+		margin-right: 5em;
+	}
+
+	ul {
+		margin-left: 2em;
+	}
+
+	li p {
+		margin-left: 1em;
+	}
+}
