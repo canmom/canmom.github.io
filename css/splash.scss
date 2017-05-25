@@ -38,7 +38,7 @@ nav {
 }
 
 nav .articles {
-	max-width: 450px;
+	max-width: 500px;
 }
 
 nav .articles h2 {
@@ -82,12 +82,7 @@ li p {
 	font-style: italic;
 }
 
-@media only screen and (min-width: 768px) {
-
-	nav .articles:last-child {
-		margin-right: 0;
-	}
-
+@media only screen and (min-width: 1000px) {
 	ul {
 		margin-left: 1em;
 	}
@@ -97,16 +92,20 @@ li p {
 	}
 }
 
-@media only screen and (min-width: 1000px) {
-	nav .articles {
-		max-width: 500px;
-	}
-}
-
-@media only screen and (max-width: 1250px) {
+@media only screen and (max-width: 1249px) {
 	#container {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+	}
+}
+
+@media only screen and (min-width: 1250px) {
+	#container {
+		width: 80%;
+	}
+
+	nav .articles {
+		max-width: 45%;
 	}
 }
