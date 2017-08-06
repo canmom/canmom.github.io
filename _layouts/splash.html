@@ -7,8 +7,8 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/splash.css">
+        <link rel="stylesheet" href="{{ '/css/normalize.min.css' | absolute_url}}">
+        <link rel="stylesheet" href="{{ '/css/splash.css' | absolute_url}}">
 
 
 
@@ -16,7 +16,7 @@
     </head>
     <body>
         <section>
-            <img src="img/splash-photo.png" alt="A photo of Bryn Dickinson, a woman with long red hair, smiling towards the camera on a cloudy day. The photo is cropped into a circle.">
+            <img src="img/splash-photo.png" alt="A photo of site author Bryn Dickinson, a woman with long red hair, smiling towards the camera on a cloudy day. The photo is cropped into a circle.">
             <div id="container">
                 <header>
                     <h1>{{ page.header }}</h1>
@@ -45,15 +45,15 @@
                             {% endfor %}
                         </ul>
                     </div>
-                    {% for category in page.articles %}
+                    {% for category in site.categories %}
                     <div class="articles">
-                        <h2>{{category.title}}</h2>
+                        <h2>{{category | first}}</h2>
                         <ul>
-                            {% for article in category.articles %}
+                            {% for post in site.posts %}
                             <li>
-                                <a href="{{ article.permalink }}">
-                                    <h3>{{ article.title }}</h3>
-                                    <p>{{ article.description }}</p>
+                                <a href="{{ post.url }}">
+                                    <h3>{{ post.title }}</h3>
+                                    <p>{{ post.excerpt }}</p>
                                 </a>
                             </li>
                             {% endfor %}

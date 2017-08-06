@@ -7,17 +7,18 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/article.css">
+        <link rel="stylesheet" href="{{ '/css/normalize.min.css' | absolute_url}}">
+        <link rel="stylesheet" href="{{ '/css/article.css' | absolute_url}}">
 
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <script src="{{ '/js/vendor/modernizr-2.8.3.min.js' | absolute_url}}"></script>
+        
+        {% include mathjax.html %}
     </head>
     <body>
         <header class="column page-header">
             <h1 class="title">{{ page.title }}</h1>
             <nav>
-                <a href="">projects</a>
-                <a href="">physics writing</a>
+                <a href="{{ site.url }}">home</a>
             </nav>
         </header>
 
@@ -27,6 +28,6 @@
         <footer class="column">
         </footer>
 
-        <script src="js/main.js"></script>
+        <script src="{{ '/js/main.js' | absolute_url }}"></script>
     </body>
 </html>

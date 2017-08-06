@@ -1,3 +1,4 @@
 name: bryn::portfolio
 markdown: kramdown
 repository: canmom/canmom.github.io
+permalink: /:categories/:title
