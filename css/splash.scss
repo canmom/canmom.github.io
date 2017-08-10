@@ -77,9 +77,30 @@ li p {
 	font-style: italic;
 }
 
+ul.tags {
+	margin-top: 0;
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 80%;
+}
+
+ul.tags li {
+	background-color: rgba(black, 0.1);
+	padding: 2px 4px;
+	margin-top: 2px;
+}
+
+ul a:hover ul.tags li {
+	background-color: rgba($accent-colour, 0.2);
+}
+
 @media only screen and (min-width: 1000px) {
 
 	li p {
+		margin-left: 1em;
+	}
+
+	li ul.tags li {
 		margin-left: 1em;
 	}
 }

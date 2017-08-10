@@ -31,7 +31,7 @@
                         <h2>projects</h2>
                         <ul>
                             {% for repo in site.github.public_repositories reversed%}
-                            
+                            {% unless page.project_excludes contains repo.name %}
                             <li>
                                 <a href="{{ repo.html_url }}">
                                     <h3>{{ repo.name }}</h3>
@@ -42,18 +42,25 @@
                                     {% endif %}
                                 </a>
                             </li>
+                            {% endunless %}
                             {% endfor %}
                         </ul>
                     </div>
                     {% for category in site.categories %}
                     <div class="articles">
-                        <h2>{{category | first}}</h2>
+                        {% capture category_name %}{{category | first}}{% endcapture %}
+                        <h2>{{category_name}}</h2>
                         <ul>
-                            {% for post in site.posts %}
+                            {% for post in site.categories[category_name] %}
                             <li>
                                 <a href="{{ post.url }}">
                                     <h3>{{ post.title }}</h3>
                                     <p>{{ post.excerpt }}</p>
+                                    <ul class="tags">
+                                        {% for tag in post.tags %}
+                                            <li>{{tag}}</li>
+                                        {% endfor %}
+                                    </ul>
                                 </a>
                             </li>
                             {% endfor %}
