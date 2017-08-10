@@ -23,6 +23,9 @@
         </header>
 
         <article>
+            {% if page.origin %}
+            <p id="origin">originally posted at <a href="{{ page.origin }}">{{ page.origin | truncate: 40 }}</a></p>
+            {% endif %}
             {{ content }}
         </article>
         <footer class="column">
