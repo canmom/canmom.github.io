@@ -26,7 +26,7 @@ h1.title {
     Menu
    ============== */
 
-nav {
+header nav {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
@@ -34,7 +34,7 @@ nav {
     flex-direction: row-reverse;
 }
 
-nav a {
+header nav a {
     display: block;
 
     text-align: center;
@@ -49,7 +49,7 @@ nav a {
     font-family: "Lato", sans-serif;
 }
 
-nav a:hover {
+header nav a:hover {
     background-color: rgba($accent-colour, 0.05);
     border-bottom: 4px solid $accent-colour;
 }
@@ -89,6 +89,43 @@ article p {
 
 article p:first-child {
     margin-top: 20px;
+}
+
+nav.tags {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.tag {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    justify-items: stretch;
+    font-size: 80%;
+    background-color: rgba($border-colour,0.4);
+}
+
+.tag .previous {
+    grid-column: 1;
+}
+
+.tag .tagname {
+    grid-column: 2;
+}
+
+.tag .next {
+    grid-column: 3;
+}
+
+.tag .next, .tag .tagname, .tag .previous {
+    grid-row: 0;
+    text-align: center;
+}
+
+.tag a {
+    display: block;
+    width: 100%;
 }
 
 #origin {
@@ -135,7 +172,7 @@ article a:hover {
     INTERMEDIATE: Menu
    ==================== */
 
-    nav a {
+    header nav a {
         padding-top: 20px;
     }
 }

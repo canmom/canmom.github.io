@@ -1,36 +1,41 @@
 <!doctype html>
 <html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="{{ '/css/normalize.min.css' | absolute_url}}">
-        <link rel="stylesheet" href="{{ '/css/article.css' | absolute_url}}">
+  <link rel="stylesheet" href="{{ '/css/normalize.min.css' | absolute_url}}">
+  <link rel="stylesheet" href="{{ '/css/article.css' | absolute_url}}">
 
-        <script src="{{ '/js/vendor/modernizr-2.8.3.min.js' | absolute_url}}"></script>
-        
-        {% include mathjax.html %}
-    </head>
-    <body>
-        <header class="column page-header">
-            <h1 class="title">{{ page.title }}</h1>
-            <nav>
-                <a href="{{ site.url }}">home</a>
-            </nav>
-        </header>
+  <script src="{{ '/js/vendor/modernizr-2.8.3.min.js' | absolute_url}}"></script>
 
-        <article>
-            {% if page.origin %}
-            <p id="origin">originally posted at <a href="{{ page.origin }}">{{ page.origin | truncate: 40 }}</a></p>
-            {% endif %}
-            {{ content }}
-        </article>
-        <footer class="column">
-        </footer>
+  {% include mathjax.html %}
+</head>
+<body>
+  <header class="column page-header">
+    <h1 class="title">{{ page.title }}</h1>
+    <nav>
+      <a href="{{ site.url }}">home</a>
+    </nav>
+  </header>
 
-        <script src="{{ '/js/main.js' | absolute_url }}"></script>
-    </body>
+  <article>
+    <nav class="tags">
+      {% for tag in page.tags %}
+        {% include tag.html tag=tag url=page.url %}
+      {% endfor %}
+    </nav>
+    {% if page.origin %}
+    <p id="origin">originally posted at <a href="{{ page.origin }}">{{ page.origin | truncate: 40 }}</a></p>
+    {% endif %}
+    {{ content }}
+  </article>
+  <footer class="column">
+  </footer>
+
+  <script src="{{ '/js/main.js' | absolute_url }}"></script>
+</body>
 </html>
