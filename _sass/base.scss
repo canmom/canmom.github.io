@@ -68,3 +68,7 @@ a {
 a:hover {
 	color: $accent-colour;
 }
+
+blockquote {
+    border-left: 3px solid $border-colour;
+}
