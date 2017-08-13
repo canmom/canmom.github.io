@@ -2,18 +2,19 @@
     MathJax.Hub.Config({
         TeX: {
             Macros: {
-                arcsinh: "\\operatorname\{arcsinh\}",
-                arccosh: "\\operatorname\{arccosh\}",
-                arctanh: "\\operatorname\{arctanh\}",
-                cosech: "\\operatorname\{cosech\}",
-                sech: "\\operatorname\{sech\}",
-                coth: "\\operatorname\{tanh\}",
-                erf: "\\operatorname\{erf\}",
-                dif: "\\mathop\{\}\\!\\mathrm\{d\}",
-                unit: ["\\mathrm\{#1\}",1],
-                casealign: ["\\left\\\{\\begin\{alignedat\}\{2\}#1\\end\{alignedat\}\\right.",1]
+                arcsinh: "\\operatorname{arcsinh}",
+                arccosh: "\\operatorname{arccosh}",
+                arctanh: "\\operatorname{arctanh}",
+                cosech: "\\operatorname{cosech}",
+                sech: "\\operatorname{sech}",
+                coth: "\\operatorname{tanh}",
+                erf: "\\operatorname{erf}",
+                dif: "\\mathop{}\\!\\mathrm{d}",
+                unit: ["\\,\\mathrm{#1}",1],
+                casealign: ["\\left\\{\\begin{alignedat}{2}#1\\end{alignedat}\\right.",1],
+                df: ["\\frac{\\dif #1}{\\dif #2}",2]
             }
         }
     });
 </script>
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML"></script>
