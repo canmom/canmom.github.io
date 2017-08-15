@@ -32,6 +32,11 @@
     <p id="origin">originally posted at <a href="{{ page.origin }}">{{ page.origin | truncate: 40 }}</a></p>
     {% endif %}
     {{ content }}
+    <nav class="tags">
+      {% for tag in page.tags %}
+        {% include tag.html tag=tag url=page.url %}
+      {% endfor %}
+    </nav>
   </article>
   <footer class="column">
   </footer>
