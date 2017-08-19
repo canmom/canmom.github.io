@@ -98,6 +98,10 @@ article blockquote p {
     margin-left: 0;
 }
 
+article blockquote blockquote {
+    margin-left: 0;
+}
+
 article p:first-child {
     margin-top: 20px;
 }
