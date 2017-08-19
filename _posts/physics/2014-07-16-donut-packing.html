@@ -1,0 +1,109 @@
+---
+title: The donut packing problem
+excerpt: There is such a thing as a square donut. Placed in a box, will this get you more donut per donut?
+layout: article
+categories: physics
+origin: https://canmom.tumblr.com/post/91988115497/1haiweewicci-tyleroakley
+---
+<section class="photoset">
+  <figure>
+    <img alt="Photo of 'square' donuts. They have a square outline, and a square hole in the middle, and the cross-section of each side is square." src="{{ site.url }}/img/embed/2014-07-16-donut-packing/img-00.jpg">
+  </figure>
+</section>
+
+<p><a class="tumblr_blog" href="http://hookteeth.tumblr.com/post/61749938905/hethatcures-this-legitimately-upsets-me">hookteeth</a> said:</p>
+<blockquote>
+  <p>… Y’see, now, y’see, I’m looking at this, thinking, squares fit together better than circles, so, say, if you wanted a box of donuts, a full box, you could probably fit more square donuts in than circle donuts if the circumference of the circle touched the each of the corners of the square donut.</p>
+
+  <p>So you might end up with more donuts.</p>
+
+  <p>But then I also think… Does the square or round donut have a greater donut volume? Is the number of donuts better than the entire donut mass as a whole?</p>
+
+  <p>Hrm.</p>
+
+  <p>HRM.</p>
+</blockquote>
+
+<p><a class="tumblr_blog" href="http://entropiaorganizada.tumblr.com/post/61779548218">entropiaorganizada</a> said:</p>
+
+<blockquote>
+  <p>A round donut with radius R<sub>1</sub> occupies the same space as a square donut with side 2R<sub>1</sub>. If the center circle of a round donut has a radius R<sub>2</sub> and the hole of a square donut has a side 2R<sub>2</sub>, then the area of a round donut is πR<sub>1</sub><sup>2</sup> - πr<sub>2</sub><sup>2</sup>. The area of a square donut would be then 4R<sub>1</sub><sup>2</sup> - 4R<sub>2</sub><sup>2</sup>. This doesn’t say much, but in general and&nbsp; throwing numbers, a full box of square donuts has more donut per donut than a full box of round donuts.<br>
+  <br>
+  The interesting thing is knowing exactly how much more donut per donut we have. Assuming first a small center hole (R<sub>2</sub> = R<sub>1</sub>/4) and replacing in the proper expressions, we have a 27,6% more donut in the square one (Round: 15πR<sub>1</sub><sup>2</sup>/16 ≃ 2,94R<sub>1</sub><sup>2</sup>, square: 15R<sub>1</sub><sup>2</sup>/4 = 3,75R<sub>1</sub><sup>2</sup>). Now, assuming a large center hole (R<sub>2</sub> = 3R<sub>1</sub>/4) we have a 27,7% more donut in the square one (Round: 7πR<sub>1</sub><sup>2</sup>/16 ≃ 1,37R<sub>1</sub><sup>2</sup>, square: 7R<sub>1</sub><sup>2</sup>/4 = 1,75R<sub>1</sub><sup>2</sup>). This tells us that, approximately, we’ll have a 27% bigger donut if it’s square than if it’s round.</p>
+
+  <p><br>
+  tl;dr: Square donuts have a 27% more donut per donut in the same space as a round one.</p>
+</blockquote>
+
+<p>It’s a good stuarting point, but this discussion of donut packing neglects <em>several crucial details</em>.</p>
+
+<p>Donuts are 3D objects, and have a volume rather than a cross-sectional area. This wouldn’t matter if ordinary circle donuts were extruded annuli, but they’re tori.</p>
+
+<figure>
+  <img alt="3D render of three types of donut: the familiar torus, the 'extruded annulus' which has the same silhouette as the torus from above but is flat on the top and bottom, and the square donut." src="{{ site.url }}/img/embed/2014-07-16-donut-packing/img-01.png">
+</figure>
+
+<p>A quick note about the extruded annular donut case, to add to the above discussion: \(\left({R_1}^2 - {R_2}^2\right)\) factors out, so the area ratio is <em>always</em> \(4:\pi \approx 1.273:1\), regardless of the two radii.</p>
+
+<h2>What is the volume of a donut?</h2>
+
+<p>The <strong>volume</strong> of a <a href="http://en.wikipedia.org/wiki/Torus#Geometry">toroidal</a> donut of major radius (distance from centre to the centre of the tube) of \(R\) and a minor radius (radius of the tube) of \(r\) is \(2\pi^2 Rr^2\)</p>
+
+<p>We can convert to have this in terms of the inner radius \(R_2\) and outer radius \(R_1\) using
+\begin{align}
+R &amp; = \frac{R_2+R_1}{2} \\
+r &amp; = \frac{R_2-R_1}{2}
+\end{align}</p>
+
+<p>In terms of these values, the volume of the toroidal donut is
+
+$$V_t = \frac{\pi^2}{4} \left({R_1}^2 - {R_2}^2\right)(R_1-R_2)$$</p>
+
+<p>The volume of the corresponding square donut is
+
+$$V_s=4\left({R_1}^2-{R_2}^2\right)(R_1-R_2)$$</p>
+
+<p>So… all the factors of \(R_1\) and \(R_2\) just factor out again! The volume ratio per donut turns out to be \(16:\pi^2 \approx 1.62 : 1\), even more in favour of the square donuts.</p>
+
+<h2>Does tiling counteract that?</h2>
+
+<p>Tiling in a square grid is not the most efficient way to pack identical circles into the plane.</p>
+
+<p>If we’re putting our donuts into an infinitely large box, we should use hexagonal packing. More likely we have a square box, in which case we could use this data on the <a href="http://hydra.nat.uni-magdeburg.de/packing/csq/csq.html">best known packings</a> to figure out how many <strike>circles we can fit in a given size of square</strike> donuts we can fit in a given sized box.</p>
+
+<p>We’re never going to do quite as well as the square donuts in terms of volume, but we might be able to get an extra donut or two in and make things a bit better for the toroidal donuts. In this picture, we can get one extra round donut per layer…</p>
+
+<figure>
+  <img alt="A render of donuts packed into a box. The box happens to be sized such that an extra toroidal donut can be added to each layer." src="{{ site.url }}/img/embed/2014-07-16-donut-packing/img-02.png">
+</figure>
+<p>Admittedly, we’ll probably have a square flat box and stand our donuts on their sides only one layer deep, in which case we’re pretty much guaranteed to have the same number of square and round donuts.</p>
+
+<figure>
+  <img alt="Another render of packed donuts, this time with the donuts standing on their sides. This makes it impossible to fit extra donuts in the box with circular donuts." src="{{ site.url }}/img/embed/2014-07-16-donut-packing/img-03.png">
+</figure>
+
+<p>Using a fairly naive packing scheme of ‘put it in a grid I guess’, the number of square donuts we can fit in a square layer of side \(L\) is at least \(\left\lfloor\frac{L}{2R_1}\right\rfloor^2\). We can sometimes fit an extra donut in, iff \(L \bmod 2R_1 \ge R_1 \sqrt{2}\). There are probably more efficient packing schemes - apparently packing squares inside a bigger square is <a href="http://en.wikipedia.org/wiki/Square_packing_in_a_square">still an open problem</a>.</p>
+
+<p>Let’s plot the number of donuts we can fit in a flat layer with the two schemes…</p>
+
+<figure>
+  <img alt="Plot of number of donuts packed into a box at various sizes of box ranging from 0 to 100 times the diameter of a donut. The square donuts seem to make a continuous curve at this scale, while the circular donuts form a cloud of points above this curve" src="{{ site.url }}/img/embed/2014-07-16-donut-packing/img-04.png">
+</figure>
+
+<p>So it varies, but yeah, you can often get a lot more circular donuts in your box. To apply this to the volume ratio, we need the ratio \(\text{circle} : \text{square}\) between the number of circular donuts and the number of square donuts…</p>
+
+<figure>
+  <img alt="Plot of the circle:square ratio of the number of circular donuts to the number of square donuts that can fit in a given size of box over the same range of values. At low values this leaps as high as 1.8 but generally converges to within the range 1.0-1.2." src="{{ site.url }}/img/embed/2014-07-16-donut-packing/img-05.png">
+</figure>
+
+<p>If we call this number ratio \(q\), the ratio between the <em>volumes</em> of donut material in each box \(\text{square} : \text{circle}\) becomes \(16:q\pi^2 \approx \frac{1.62}{q}:1\). Let’s plot \(\frac{1.62}{q}\)…</p>
+
+<figure>
+  <img alt="Plot of the square:circle ratio of donut material in a given size of box. For almost all values, this ratio is greater than 1 meaning square donuts give more material, but for a solitary point (or range of points) when the box is slightly less than five times the diameter of a donut, it's less than 1 and the circular donuts give more." src="{{ site.url }}/img/embed/2014-07-16-donut-packing/img-06.png">
+</figure>
+
+<p>From the graph, we see that for most box sizes, <strong>square donuts give you about 1.4 to 1.6 times as much donut per box.</strong> However, intriguingly, there is one size of the box for which square donuts are no good…</p>
+
+<p>At this point, Mathematica crashed and I hadn’t saved my worksheet. The mysterious value where circular donuts are better will have to remain a mystery.</p>
+
+<p><em><strong>19 Aug 2017 note:</strong> I don't know why I suddenly switched from using a circle:square ratio to a square:circle ratio when I originally wrote this. It makes things needlessly confusing, and while I'm not going to replot the graphs, I've done my best to clarify in the text.</em></p>
