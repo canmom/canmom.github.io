@@ -26,6 +26,32 @@
                     </address>
                 </header>
                 <nav>
+                    {% for category in site.categories %}
+                    <div class="articles">
+                        {% capture category_name %}{{category | first}}{% endcapture %}
+                        <h2>{{category_name}}</h2>
+                        <ul>
+                            {% for post in site.categories[category_name] %}
+                            <li>
+                                <a href="{{ post.url }}">
+                                    <div class="titledate">
+                                        <h3>{{ post.title }}</h3>
+                                        <div class="date">
+                                            {{post.date | date: "%e&nbsp;%b.&nbsp;%Y"}}
+                                        </div>
+                                    </div>
+                                    <p>{{ post.excerpt }}</p>
+                                    <ul class="tags">
+                                        {% for tag in post.tags %}
+                                            <li class="tag">{{tag}}</li>
+                                        {% endfor %}
+                                    </ul>
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    {% endfor %}
                     <div class="articles" id="projects">
                         <h2>projects</h2>
                         <ul>
@@ -45,27 +71,6 @@
                             {% endfor %}
                         </ul>
                     </div>
-                    {% for category in site.categories %}
-                    <div class="articles">
-                        {% capture category_name %}{{category | first}}{% endcapture %}
-                        <h2>{{category_name}}</h2>
-                        <ul>
-                            {% for post in site.categories[category_name] %}
-                            <li>
-                                <a href="{{ post.url }}">
-                                    <h3>{{ post.title }}</h3>
-                                    <p>{{ post.excerpt }}</p>
-                                    <ul class="tags">
-                                        {% for tag in post.tags %}
-                                            <li>{{tag}}</li>
-                                        {% endfor %}
-                                    </ul>
-                                </a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                    {% endfor %}
                 </nav>
             </div>
         </section>
