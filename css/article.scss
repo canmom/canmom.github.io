@@ -112,12 +112,12 @@ nav.tags {
 }
 
 .tag {
-    margin: 0 auto;
+    margin: 10px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     justify-items: stretch;
-    font-size: 80%;
+    font-size: 90%;
     background-color: rgba($border-colour,0.4);
 }
 
@@ -126,6 +126,8 @@ nav.tags {
 }
 
 .tag .tagname {
+    padding-top: 5px;
+    padding-bottom: 5px;
     grid-column: 2;
 }
 
@@ -139,6 +141,8 @@ nav.tags {
 }
 
 .tag a {
+    padding-top: 5px;
+    padding-bottom: 5px;
     display: block;
     width: 100%;
 }
