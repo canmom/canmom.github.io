@@ -83,7 +83,7 @@ article h3 {
     margin: 0 0 20px 20px;
 }
 
-article p {
+article p, article ul {
     margin: 0 0 20px 25px;
 }
 
@@ -157,7 +157,17 @@ nav.tags {
 article figure {
     margin: 0 0 20px 25px;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+article figure img {
+    max-width: 100%;
+}
+
+article figure figcaption {
+    margin: 0 20px;
+    font-size: 90%;
 }
 
 article a {

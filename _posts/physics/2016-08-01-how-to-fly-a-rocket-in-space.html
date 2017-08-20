@@ -1,0 +1,217 @@
+---
+title: How to fly a rocket (in space!)
+excerpt: An intuitive introduction to the principles of rocket flight. Minimal maths.
+layout: article
+categories: physics
+tags:
+ - rockets
+ - space
+ - orbital mechanics
+origin: https://canmom.tumblr.com/post/148291364972/how-to-fly-a-rocket-in-space
+---
+<p>This is the first post in a series to try and cover all the main concepts of flying rockets around in space in a reasonably accessible way.</p>
+
+<p>I am, sadly, not an astronaut, but I’ve done most of a physics degree, and Kerbal Space Program has convinced me that rocketry can actually be really simple and intuitive. Hopefully these posts will be helpful if you want to write about science fiction spaceships or the like.</p>
+
+<h2>Why are rockets a thing?</h2>
+
+<p>On Earth, if we want to move somewhere, we can do so by pushing off something else: the ground (for walkers, cars, etc.) or the air (for aeroplanes, birds, etc.). In space, there is nothing to push against.</p>
+
+<p>There are, basically, two options. Either you can push against what little there is (such as sunlight, or a huge laser array back home), or you can shoot part of your spaceship away from the rest of it, causing the remaining parts of the spaceship to move in the opposite direction. All space engines, not matter how complicated, amount to doing one of these two things, usually the latter.</p>
+
+<p>Here’s a very simple illustration “rocket”: the arm drive. An astronaut picks up bowling balls in throws them out the back of her rocket. This makes the rocket go forwards.</p>
+
+<figure>
+  <img alt="A cartoon of a rocket. An astronaut has a stack of bowling balls, which she hurls out the back of the rocket, causing the rocket to go forwards." src="{{ site.url }}/img/embed/2016-08-01-how-to-fly-a-rocket-in-space/img-00.png">
+</figure>
+
+<p><strong>Jargon:</strong> the stuff that you throw out the back of your rocket is called <em>reaction mass</em>. This is distinct from <em>fuel</em> which provides the energy, though in the case of chemical rockets, the fuel and reaction mass are one and the same.</p>
+
+<p>You use a rocket to change your velocity. Velocity is a thing that combines speed and direction: an object going 5 metres per second north, and an object going five metres per second west have the same speed but different velocities.</p>
+
+<p>The good news about being in space is that nothing is going to slow you down. On Earth, friction and air resistance always conspire to make anything moving relative to the surface of the Earth, or at least to the air in the case of an aeroplane, slow down and stop. In space, there is nothing. So whatever your velocity is, it will stay the same unless affected by gravity.</p>
+
+<p>So a rocket consists of two parts: the thing that you actually care about (sometimes called the payload) plus the structure of the rocket, and ‘reaction mass’ which will be launched out of the rocket to change its velocity.</p>
+
+<h2>Mass ratios and the almighty rocket equation</h2>
+
+<p>OK, here’s where it gets sticky. When you turn on the rocket, it doesn’t just have to move the rocket, but also all the reaction mass you’re still holding on board to throw out later. So the amount of reaction mass you need to change your velocity by a certain amount increases much faster than the velocity change you want to make.</p>
+
+<p><strong>Some more jargon:</strong> turning on your rocket to change your velocity is called a <em>burn</em>. The ratio of the mass of the rocket at the beginning of the burn \(M_i\) to the mass ratio at the end of the burn \(M_f\) (after losing some reaction mass) is called the <em>mass ratio</em>. The change in the velocity of your rocket is called the <em>delta-v</em> (“delta vee”), or \(\Delta v\).</p>
+
+<p>(Reason for the name: the greek letter Delta \(\Delta\) represents a change in something: \(\Delta v\) is “change in \(v\)”. \(v\) is the usual symbol for velocity.)</p>
+
+<p>There’s an equation called the <a href="https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation">Tsiolkovsky Rocket Equation</a> which says that the change in the velocity of a rocket after a burn depends on the exhaust velocity \(v_e\) and the mass ratio \(M_i/M_f\) according to $$\Delta v = v_e \log \frac{M_i}{M_f}$$What this means is that the mass ratio is exponential in the delta-v: if you want to change your velocity by twice the amount, you need the mass ratio to increase by a factor of 7.4; if you want to change your velocity by three times the amount you need to increase your mass ratio by a factor of 20.1; it quickly becomes ridiculous.</p>
+
+<p>If you’d like to know more about the maths, I work through the derivation of the Tsiolkovsky rocket equation and its relativistic counterpart <a href="{% post_url physics/2014-09-20-relativistic-rocket-part-1 %}">here</a>.</p>
+
+<p>Practically speaking, only so much of your rocket can consist of reaction mass. The <a href="https://en.wikipedia.org/wiki/Saturn_V">Saturn V</a> used in the Apollo moon missions had a mass ratio of about 60, meaning 60 times the mass of the payload (the various modules used at the moon) was expelled either as reaction mass or as spent stages. In other words, the vast majority of material in your rocket is not actually useful, but just going to be thrown out the back.</p>
+
+<p>This also places harsh limits on the amount of mass you can carry. Every kilogram of stuff you carry in your rocket requires you to carry tens or hundreds of kilograms of reaction mass to get the same delta-v. Rockets must be as light as possible and there’s no real way around that.</p>
+
+<h2>The two important numbers: thrust &amp; specific impulse</h2>
+
+<p>To improve the amount of velocity change you can get from a given mass ratio, the <em>only</em> thing you can do is to increase the exhaust velocity, also known as your <em>specific impulse</em> (a name coming from the fact that it’s the force divided by the mass flow rate, 'specific’ being used by scientists to mean 'per unit mass’).</p>
+
+<p>A chemical rocket, though easier to build than other kinds of space engine, has a relatively low exhaust velocity, around \(4,000\unit{m s^{-1}}\). Other propulsion systems, such as <a href="https://en.wikipedia.org/wiki/Ion_thruster">ion drives</a>, can achieve much higher specific impulses; Wikipedia offers around \(30,000\unit{m s^{-1}}\) for a typical ion thruster, or more for more speculative designs such as the VASIMR.</p>
+
+<p>The drawback of ion thrusters, and some other high specific impulse propulsion systems, is that they have very low thrust. <em>Thrust</em> is the other measure of a rocket: it’s just how much force a rocket applies to the ship when it is running, and hence how quickly it changes the velocity (the <em>acceleration</em> - note unlike everyday use of 'acceleration’, to physicists 'acceleration’ includes both changes of speed and direction). A low thrust rocket can achieve the same changes in velocity as a high thrust rocket, but it takes much longer to do it.</p>
+
+<p>So in general the change of velocity in a burn depends on the thrust, mass of the rocket, and the duration of the burn.</p>
+
+<p>In the distant future, much more speculative designs exist such as fusion rockets that have both high thrust and high specific impulse. But presently we are forced to choose.</p>
+
+<p>High thrust is very important when leaving the ground. But we will come to that later.</p>
+
+<h2>Spaceships have their engines turned off most of the time</h2>
+
+<p>Because mass ratios increase so quickly, rockets can only change their velocity by so much before they expend all their reaction mass. This is called the <em>delta-v budget</em> of a mission.</p>
+
+<p>Following the metaphor, a spaceship will 'spend’ its delta-v budget to perform maneuvers. Maneuvers - such as changing from one orbit to another - have a certain delta-v 'cost’.</p>
+
+<p>The rest of the time, the rocket is inactive. Generally the rockets will only burn for a tiny portion of the mission.</p>
+
+<p>This is unintuitive, since we’re used to Earth vehicles which are constantly losing energy to friction and air resistance, and therefore must have their engines running all the time. Sci-fi films frequently decide they’d prefer to show spaceships with the engines glowing, even if the ship is not performing a maneuver.</p>
+
+<p>(Low-thrust engines such as ion drives are a semi-exception, in that they must burn for much longer than high-thrust engines to complete maneuvers, as mentioned in the previous section. But they still only activate their engines when they are changing their velocity.)</p>
+
+<h2>Orbits</h2>
+
+<p>Usually your rocket is not just hanging out in empty space; there is something big and heavy such as a planet or star in the vicinity that will change its trajectory through gravity. So lets talk about orbits.</p>
+
+<p>When there are lots of planets, moons, etc. around it gets quite complicated, but we can start from building up from the simplest case: when your rocket is orbiting just one thing.</p>
+
+<p>There are basically two kinds of orbits we’re concerned about: <em>elliptical</em> orbits and <em>hyperbolic</em> orbits. There is a third kind, parabolic orbits, which we won’t worry about because they only occur in ridiculously specific circumstances.</p>
+
+<h2>Elliptical orbits (space eggs)</h2>
+
+<p>Elliptical orbits are what you’d generally think of as an orbit, as in, your rocket’s going round a thing. They look like this:</p>
+
+<figure>
+  <img alt="A diagram of an elliptical orbit with important points labelled. A line connects the two furthest points of the ellipse, labelled periapsis and apoapsis. Two points on this line are labelled the foci; one of them has the planet, star, etc. A red dot on the ellipse is marked spaceship, and a red arrow tangential to the ellipse is marked velocity." src="{{ site.url }}/img/embed/2016-08-01-how-to-fly-a-rocket-in-space/img-01.png">
+</figure>
+
+<p>Mathematically, this is an <a href="https://en.wikipedia.org/wiki/Ellipse">ellipse</a> with one of the two <em>foci</em> (singular 'focus’) on the centre of the massive object (planet, star, etc.). For simplicity’s sake, we’ll call the thing it’s orbiting a planet.</p>
+
+<p>Elliptical orbits are characterised by a parameter called the <em>eccentricity</em>, which is usually written \(e\). The eccentricity tells you how how long and narrow the ellipse is. A circular orbit has an eccentricity of zero. An orbit with a higher eccentricity moves further away from the thing it’s orbiting, and back, over time. Elliptical orbits all have eccentricities between zero and 1.</p>
+
+<p>There are two important points on an orbit: the <em>periapsis</em> and the <em>apoapsis</em>. (These have special names in some cases: for example if something is orbiting Earth we call them the perigee and apogee, if something’s orbiting the sun the perihelion and aphelion, etc.). The periapsis is the point on the orbit closest to the planet. The apoapsis is the point furthest away.</p>
+
+<p>The second important parameter is the <em>semi-major axis</em>, usually written \(a\). This is just how big the orbit is: it’s half the length between the periapsis and apoapsis. For a circular orbit, the semi-major axis is the radius of the circle.</p>
+
+<p>The periapsis is a distance \((1-e)a\) from the centre of the planet. The apoapsis is a distance \((1+e)a\) away.</p>
+
+<p>The velocity of a rocket on an elliptical orbit is constantly changing, but its direction is always a tangent of the ellipse. And now an important point: <strong>the speed of a rocket is faster when it’s near the planet, and slower when it’s further from the planet</strong>. As the rocket comes in towards the periapsis, it picks up speed; as it moves out towards the apoapsis, it loses speed. This means the rocket spends a lot more time in the further away parts of the orbit than the nearby parts of the orbit. (The exact speed it has is precisely determined by for example the <a href="https://en.wikipedia.org/wiki/Vis-viva_equation">vis-viva equation</a>, but I’m trying to avoid giving too much detail here.)</p>
+
+<p>Here’s an animation to illustrate this principle:</p>
+
+<figure>
+  <img alt="An animated gif showing an elliptical orbit. The green dot slows down while distant from the planet at the apoapsis, and rapidly speeds up while close to the planet at the periapsis." src="{{ site.url }}/img/embed/2016-08-01-how-to-fly-a-rocket-in-space/img-02.gif">
+</figure>
+
+<p>[modified from <a href="https://commons.wikimedia.org/wiki/File:Elliptic_orbit.gif">this animation</a> by Brandir on Wikimedia Commons; license CC BY-SA 3.0.]</p>
+
+<p>Which orbit does a rocket actually follow? It depends on its position and velocity: every combination of position and velocity corresponds to a different orbit. For example, here’s a picture of a succession of orbits that each pass through the same point in the same direction, but with different speeds. For some of these orbits, this point is the apoapsis; for others it is the periapsis. Dividing these two groups of orbits is a circular orbit. There are two orbits shown for each eccentricity, with different semi-major axes.</p>
+
+<figure>
+  <img alt="An illustration of a number of elliptical orbits of different eccentricities passing through the same point with the same velocity direction and different speeds. For each value of eccentricity except 0, there are two ellipses, one where the rocket is presently at the periapsis, and one where it is at the apsoapsis. As the eccentricity increases, the ellipses get more elongated." src="{{ site.url }}/img/embed/2016-08-01-how-to-fly-a-rocket-in-space/img-03.png">
+</figure>
+
+<p>So far, we’ve been showing two-dimensional representations of orbits, all in the same plane. However, an orbit can be in any plane containing the central planet.</p>
+
+<p>Astronomers have a number of different ways to describe orbits. In general, you need five numbers to pick out a specific orbit, and a sixth number to identify a position on that orbit. One way is to pick a position (three coordinates) and velocity (three components). Another important way is the <a href="https://en.wikipedia.org/wiki/Orbital_elements">Keplerian orbital elements</a>.</p>
+
+<h2>Hyperbolic <strike>orbits</strike> trajectories</h2>
+
+<p>Hyperbolic ‘orbits’, or if you prefer hyperolic trajectories, are what happens when your spaceship is going too fast to stay in orbit. This is the course you follow if you’re escaping from a planet’s gravity, or if you’re doing a flyby.</p>
+
+<p>A hyperbolic orbit looks like this:</p>
+
+<figure>
+  <img alt="A diagram of a hyperbolic trajectory, curving past the planet, star, etc. so that it's symmetric about the horizontal line through the planet. As before, the spaceship is a red dot with its velocity tangential. The periapsis is marked, but there is no apoapsis. There is only one focus shown at the planet, although hyperbolae have two foci." src="{{ site.url }}/img/embed/2016-08-01-how-to-fly-a-rocket-in-space/img-04.png">
+</figure>
+
+<p>Mathematically, this is one of the two branches of a <a href="https://en.wikipedia.org/wiki/Hyperbola">hyberbola</a>. Like with the ellipse, its focus is on the centre of the planet. It has a periapsis, but no apoapsis. Many of the same rules apply: the spaceship gets faster as it gets closer to the periapsis, and slows down as it moves away.</p>
+
+<p>As the ship moves further and further away from the planet in its hyperbolic orbit, it gets closer and closer (<a href="https://en.wikipedia.org/wiki/Asymptote">asymptotically</a>) to moving on a straight line. This makes intuitive sense: in the absence of a planet, the ship would move in a straight line, and the planet’s gravitational influence gets less and less significant the further away you travel.</p>
+
+<p>Like ellipses, hyperbolas have a parameter called the eccentricity \(e\). While for an ellipse, the eccentricity is always greater than or equal to zero, and less than 1, for a hyperbola it can be any number greater than 1. The reason both kinds of curves have this parameter is because hyperbolas and ellipses are both members of a family of curves called <a href="https://en.wikipedia.org/wiki/Conic_section"><em>conic sections</em></a>. (The parabolic trajectory, which we mentioned above but won’t discuss in detail, has an eccentricity of exactly 1. It’s nigh impossible to get onto a parabolic orbit in real life, and it’s pretty much the same as a hyperbolic orbit so we won’t worry about it.)</p>
+
+<p>Here’s a quick summary of possible cases for the eccentricity:</p>
+<ul>
+  <li>\(e=0\): circular orbit</li>
+
+  <li>\(0&lt;e&lt;1\): elliptical orbit</li>
+
+  <li>\(e=1\): parabolic trajectory</li>
+
+  <li>\(e&gt;1\): hyperbolic trajectory</li>
+</ul>
+
+<p>For a hyperbola, the eccentricity basically measures how much the ship’s path curves around the planet. A spaceship following a hyperbola with a high eccentricity barely has its trajectory changed by the encounter with the planet. One with a low eccentricity can have its trajectory changed dramatically.</p>
+
+<p>Like with an ellipse, the hyperbola also has a parameter called \(a\), again called the semi-major axis, though the reason for that name is less obvious. The periapsis is a distance \((e-1)a\) from the focus.</p>
+
+<p>Here are some hyperbolic trajectories through a point:</p>
+
+<figure>
+  <img alt="A series of hyperbolic trajectories through a point with the same direction there but different speeds. The hyperbola with eccentricity 1.0002 curves greatly, almost a parabola. The hyperbola with eccentricity 10 is barely distinct from a straight line." src="{{ site.url }}/img/embed/2016-08-01-how-to-fly-a-rocket-in-space/img-05.png">
+</figure>
+
+<p>The eccentricity can go as high as you like. The higher it goes, the closer it gets to a straight line. This corresponds to going very quickly past something very light that barely affects your course.</p>
+
+<h2>Energy &amp; angular momentum: the unchanging numbers</h2>
+
+<p>Here’s a more mathematical bit.</p>
+
+<p>So one important thing about orbits round a single thing like this is that there a two special things you can calculate at any point on your orbit, and you will get the same answer every time. These are the <em>orbital energy</em> and the <em>angular momentum</em>. Physicists will call these numbers <em>conserved quantities</em>.</p>
+
+<p>These unchanging numbers have to do with the symmetry of the situation, which is something I will talk about in another post on Noether’s theorem at some point, eventually (if I keep promising to write this post, maybe it willl happen!)</p>
+
+<p>Here’s the orbital energy $$E=-\frac{GMm}{r}+\frac{1}{2}mv^2$$where \(M\) is the mass of the thing you’re orbiting (keep calling it a planet), \(m\) is the mass of your rocket, \(r\) is your distance from the planet at a given moment, and \(v\) is your velocity at the same moment.</p>
+
+<p>The first term is called the <em>potential energy</em>, and it gets more and more negative as you get closer to the planet. The second term is the <em>kinetic energy</em> and it gets bigger as you go faster. So as you go closer to the planet, your potential energy gets more negative, but your speed goes up by an amount that exactly counters that change so overall the total energy stays the same.</p>
+
+<p>Divide out the mass of your rocket and you have the <em>specific orbital energy</em> (there’s that word <em>specific</em> meaning ‘per unit mass’ again). So the specific orbital energy is $$e=-\frac{GM}{r}+\frac{1}{2}v^2$$This is a handy quantity because it’s the same for anything on a given orbit, no matter how heavy the orbiting object.</p>
+
+<p>The specific orbital energy is important because you can relate it to the size of the orbit, according to $$e=-\frac{GM}{2a}$$ for an ellipse, and $$e=\frac{GM}{2a}$$ for a hyperbola, where \(a\) is the semi-major axis in both cases. (This means an elliptical orbit has negative specific orbital energy, and a hyperbolic orbit has positive specific orbital energy). So an orbit with a lower specific orbital energy is smaller than one with a higher specific orbital energy.</p>
+
+<p>The orbital <em>angular momentum</em> is $$L=\frac{1}{2}mr\dot{\phi}^2$$ where \(\dot{\phi}\) is the rate of change of the angular coordinate, basically a measure of how quickly you’re going <em>around</em> the planet without regard for how much you’re going towards or away from the planet. So as you get closer to the planet, you don’t just need to be going faster in general, you need to be going faster <em>around</em> the planet. But we won’t talk about this one so much in this post.</p>
+
+<p>The point of this is: these numbers are unchanging over a given orbit. So you can think of rocketry maneuvers and other things that affect the speed of your rocket <em>changing</em> these numbers, and therefore changing the orbit you’re on.</p>
+
+<p>If you reduce your orbital energy, you will generally be put on a tighter orbit that goes closer to the planet.</p>
+
+<p>For example: if you are flying through a thin atmosphere, you will lose orbital energy. This will put you onto a smaller, tighter orbit with a lower orbital energy. You might quickly regain the speed you lost as you move down to a lower orbit, but you’ve lost orbital energy. Since the orbital energy is unchanging under most circumstances, it’s easier to talk about that than your speed, which is constantly going up and down.</p>
+
+<h2>Six directions</h2>
+
+<p>Right, here are the things your rocket might do.</p>
+
+<p>First of all we’re going to have to name some directions! The “mathematical” names are the terms used in the <a href="https://en.wikipedia.org/wiki/Frenet%E2%80%93Serret_formulas">Frenet-Serret formulas</a>. The other names are the ones used in Kerbal Space Program.</p>
+
+<p><strong>Prograde</strong> (mathematically, <strong>tangential</strong>) is the direction your rocket is going in in its orbit.</p>
+
+<p><strong>Retrograde</strong> (mathematically <strong>anti-tangential</strong> I guess) is opposite the direction your rocket is going in.</p>
+
+<p><strong>Radial</strong> and <strong>anti-radial</strong>, or <strong>radial-in</strong> and <strong>radial-out</strong> (mathemtatically, <strong>normal</strong> and <strong>anti-normal</strong>), are perpendicular to the direction of your orbit, in the plane of the orbit. It’s a matter of convention whether “radial” is inwards (roughly towards the planet) or outwards (roughly away from the planet). Kerbal Space Program uses the convention that “radial” is inwards. For clarity, I’m going to stick to “radial-in” and “radial-out”.</p>
+
+<p><strong>Normal</strong> and <strong>anti-normal</strong> (mathematically <strong>binormal</strong> and <strong>anti-binormal</strong>) are perpendicular to the plane of the orbit.</p>
+
+<p>And yes, the makers of KSP decided to use a different meaning of the word “normal” to the Frenet-Serret thing.</p>
+
+<figure>
+  <img alt="A 3D render of the important directions in an orbit. The direction of flight is prograde, opposite it is retrograde. Perpendicular in the plane of the orbit are radial-in and radial-out. Perpendicular to the plane of the orbit are normal and anti-normal." src="{{ site.url }}/img/embed/2016-08-01-how-to-fly-a-rocket-in-space/img-06.png">
+</figure>
+
+<p>These are independent of which way your rocket is pointing - they depend only on where you are, where the centre of the planet is, and which way you’re going.</p>
+
+<p>Your rocket can in fact point in any direction. It does not have to fly “forwards” because there is no atmosphere to worry about streamlining. This is quite different from aircraft on Earth - an aircraft can fly in a way that’s not pointing straight forward, but it’s not usually a good situation to be in. A rocket, on the other hand, needs to point whichever direction is appropriate for the next maneuver, or to expose its solar panels to the sun, or spin to provide a sensation of “gravity” to the astronauts inside - all sorts of possibilities.</p>
+
+<p>Since it can point in any direction, it can burn in any direction. But any burn can be broken into ‘components’ along these six directions. So we can talk about each of them individually.</p>
+
+<h2>The next post</h2>
+
+<p>We’re going to go into detail about the different directions you might want to burn in, and what they do to your orbit. And we’ll use that to talk about important maneuvers like circularisation burns, Hohmann transfer orbits, and how you go about making a rendezvous with another spaceship!</p>
+
+<p>(And if you’re going to the Nine Worlds convention in London this year, I’m running a panel on rockets and rocket design with <a href="https://tmblr.co/m-pnS7_2ldSaHDYYcD5seTw">@darmokontheocean</a> and <a href="https://tmblr.co/mTTKlB8oyvCYRPtZJOMqZ7Q">@clockworkpipedreams</a> covering basically the same ground as this post.)</p>

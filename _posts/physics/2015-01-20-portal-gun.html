@@ -1,0 +1,82 @@
+---
+title: What would I do with a portal gun?
+excerpt: A program of experiments. Hopefully won't destroy the fabric of spacetime.
+layout: article
+categories: physics
+origin: https://canmom.tumblr.com/post/108613009877/what-could-you-do-with-a-portal-gun-or-fenestrated
+---
+<p><a class="tumblr_blog" href="http://tormentedthrenodist.tumblr.com/">tormentedthrenodist</a> asked:</p>
+
+<blockquote class="ask">
+  What could you do with a portal gun or fenestrated pane/plane? Any really neat physics tricks that come to mind?
+</blockquote>
+
+<p>Ooh, interesting question! I’m going to focus on Portal because my memories of fenestrated planes in <em>Homestuck</em> are pretty vague.</p>
+
+<p>Actually I wonder a fair bit about how portals work! So my first inclination would be to test them out and find out.</p>
+
+<p>For example, portals disappear if their substrate moves, but of course motion is frame-dependent. My inclination is to say acceleration is bad (since the distinction between accelerated and inertial frames makes sense when you don’t try to have gravity), especially since there’s a setpiece in <em>Portal 2</em> with constant-speed moving portals which is the only exception to the ‘no moving portals’ rule.</p>
+
+<p>But in general relativity, we are in a sense all being accelerated by the ground, which is why we are not following spacetime geodesics! Though really it would be better to say that there’s no fundamental distinction between ‘accelerated’ and ‘inertial’ frames in GR, because gravity and acceleration basically amount to the same thing.</p>
+
+<p>Anyway, I’d try and investigate what causes the portals to disappear, for one thing. Perhaps that can’t be made to make sense, and it should be written off as a limitation of the game engine!</p>
+
+<p>Next question: portals and fluids! Imagine you put one portal at the top of a column of water, another at the bottom. Across the portals, both pressure and gravitational potential are going to be discontinuous! (At least, initially - and the gravitational potential discontinuity won’t go anywhere.) What kind of flow does that imply?</p>
+
+<p><a class="tumblelog" href="http://tmblr.co/myp7gB6WjGSf5Flm42Q16nQ">arborine</a> has shared with me a conversation some of her friends have had on this topic:</p>
+
+<blockquote>
+  <p><strong>P:</strong> if you’ve got one portal on the ceiling, and the other on the floor below it, and you release a helium-filled balloon (the ordinary kid balloon size that’ll easily fit through a portal) up towards the ceiling portal… how will it behave?</p>
+
+  <p><strong>A:</strong> actually, if the upper portal was significantly higher than the lower one, there actually would be a strong downward wind from the air pressure differential…</p>
+
+  <p><strong>B:</strong> If they’re on the ceiling and floor of a normal sized room, there’d still be several kilograms of air between them, and the only thing stopping it from freefalling is the surrounding air via viscosity. There’ll be a downdraft, surrounded by a <a href="https://en.wikipedia.org/wiki/Vortex_ring">ring vortex</a>. If the air ends up going down faster that the balloon can rise through it, the balloon will go down.</p>
+</blockquote>
+
+<p>From that I’m thinking: with an incompressible fluid like water in the column, there will be no change in energy if water were to flow down into the portal. But if the fluid is compressible, like air, the denser air at the bottom portal would change the potential energy by being moved to the top of the column. Presumably the net effect would be to equalise density. Initially the discontinuous pressure and density would cause a shock front to propagate, but I don’t know what kind of stable configuration you’d be left with.</p>
+
+<p>(Has anything like a portal ever been considered in fluids literature? Or, someone used to handling discontinuities in mechanics, what’s the standard way to treat them?)</p>
+
+<p>[Portal 2 spoilers]A situation like that is portrayed in the game, <a href="http://www.youtube.com/watch?v=6LOd8o1nhPw&amp;t=5m40s">at the end of <em>Portal 2</em></a>, where one portal is placed on the moon and the other on Earth. This causes air (and Wheatley and the Space Sphere) to be rapidly sucked out to the moon portal until the portals are closed. But then the moon is not connected to Earth by an air column so it’s not an entirely analogous situation.[end spoilers]</p>
+
+<p>OK, then, another question is… if you <em>can</em> move portals, what happens if you put one connected portal into another portal? i.e. do this:</p>
+
+<figure>
+  <img alt="A diagram of a proposed experiment with portals. A block with a portal on it is passed through the connected portal, so that the portal will come out of itself." src="{{ site.url }}/img/embed/2015-01-20-portal-gun/img-00.png">
+</figure>
+
+<p>Because the geometry of that would get <em>really</em> weird, and I’m not sure if it could be consistent!</p>
+
+<p>Based on how you can’t shoot the portal gun through a portal, I’m guessing that the portals would not pass through each other. Maybe you could do this, but it would get stuck on itself and you wouldn’t be able to push the portal in very far.</p>
+
+<p>As for what you could <em>do</em> with portals… well, based on the tricks you use in the game, you could extract arbitrary amounts of energy out of gravity. e.g. put portals at each end of a coil of wire, drop a magnet in the coil. The falling magnet would produce an electric current in the coil and you can take as much energy as you want. (Of course, this is assuming a portal takes no energy to maintain!)</p>
+
+<p>In <em>Portal</em>, objects that enter one portal emerge from the other as quickly as your computer can update their position. But then, the speed-of-light delay for information to travel from one portal to another required by special relativity wouldn’t show up on the scale of the game!</p>
+
+<p>[<em>Portal 2</em> ending spoilers] <a href="http://www.youtube.com/watch?v=6LOd8o1nhPw&amp;t=5m40s">The scene where you shoot the moon</a> presents more of a problem. In the developer commentary, they say that the time between the player firing a portal at the moon and the results of the moon portal being opened (air being sucked out the room, etc.) are based on the time it takes light to reach the moon.</p>
+
+<p>However, to establish the pressure differential across the portals, information from the moon portal would have to travel back to the Earth portal, also at the speed of light. So (at least if I’m remembering what the devs said correctly) it should be twice the time before you see anything happen.[/spoilers]</p>
+
+<p>Mind you, if there is a lightspeed delay between portals, that implies that widely separated portals are going to be displaying a situation some time behind the other portal. You could step into a portal seeing one thing on the other side, only to find the situation completely changed when you arrive after the lightspeed delay. Worse, the destination portal could disappear before you arrive! Where do you go then? Perhaps you are destroyed too.</p>
+
+<p>So a question I’d want to investigate would be whether portals can be used to send objects faster than the speed of light. Because if they can, you can <a href="https://en.wikipedia.org/wiki/Tachyonic_antitelephone">violate</a> <a href="http://www.theculture.org/rich/sharpblue/archives/000089.html">causality</a> and indeed time travel physically as you please! Admittedly requiring a relativistic spaceship to do so on any helpful sort of scale.</p>
+
+<p>But that reminds me of another question! Objects travelling through a portal maintain their momentum, except with the direction changed to match the new portal. Which necessarily violates global conservation of momentum. Could that be compensated for by conferring appropriate changes of momentum to the portals themselves? (This would of course break any ‘portals can’t be accelerated’ rule!)</p>
+
+<p>If that is the case, you could use a portal as a propulsion system. Put a portal on the back of your spaceship, and a pressurised fluid behind the other portal, and you are constantly conferring momentum to your spaceship. Even if you can’t confer momentum this way, you can get around the Tsiolkovsky rocket equation by putting your fuel tanks on the other side of a portal. This makes space travel <em>vastly</em> easier, since the mass ratio of your spaceship is no longer exponential in the delta-v!</p>
+
+<p>And of course, carry a portal on your rocket, and when you reach your destination you have a speed-oflight shortcut and there’s no need to send another rocket unless you need to send something too large to be carried in pieces through the portal. (though of course it would be much easier to deploy people and robots to make use of what’s on the planet!)</p>
+
+<p>Of course, the 'shoot a portal at the moon’ scenario implies another means of space travel: if you can target your portal gun accurately enough, and there’s a suitable surface, you can place a portal on another celestial body and jump straight there, travelling at the speed of light with no observed travel time on your part.</p>
+
+<p>Portals would of course allow a transportation network to be created on Earth. This would be an enormous change to the world’s economies, since transportation is almost no longer an issue for anything small enough to be transported through a portal. Instead of food being distributed by vast fleets of trucks and container ships, it could be passed through a portal directly from the point of manufacture. This makes me suspect portals would be very tightly controlled by people already powerful within capitalism.</p>
+
+<p>And of course, portals would have wartime uses. Soldiers and bombs could be transported anywhere a portal could be placed along lines of sight, and supplies could be distributed with no possibility of interception. This is pretty scary to think about: imperialist countries with powerful armies would find it vastly cheaper to launch an invasion. If there was a nuclear war, it would be much easier for a portal gun to reach opposing cities than a nuclear warhead. Worse still if you can target a portal gun from orbit!</p>
+
+<p>Presumably all airports would have Aperture Science Material Emancipation Grids to stop you setting up illicit portals. But that’s not very scalable! Portals would completely destroy borders, allowing much free-er undocumented travel.</p>
+
+<p>Though per Portal 2 canon, you need to use moon dust to create aportalable surface, so you couldn’t place the portals just everywhere. (As people who’ve opened <em>Half-Life 2</em>’s maps in Portal know, as far as the game engine is concerned any concrete is just fine. But I don’t think that’s intended!) This would limit many of the uses of portals to people who could get moon dust. Of course, people would immediately use portals to set up lunar mining operations! And probably it wouldn’t take too long for people to figure out the necessary properties of moon dust to support portals.</p>
+
+<p>GLaDOS wasn’t kidding when she talked about how valuable the portal gun was in the first game. Nothing would be the same with portals.</p>
+
+<p>Anyway, unlimited free energy, much easier space travel, and complete reconstruction of the world’s economies is a pretty good start, I think. I would also of course use it to visit friends and partners for a gay old time.</p>

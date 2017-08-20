@@ -1,0 +1,214 @@
+---
+title: What are the planets up to?
+excerpt: An introduction to the motion of planets in our solar system, and how that connects to the way they move in the sky.
+layout: article
+categories: physics
+tags:
+ - space
+ - orbital mechanics
+origin: https://canmom.tumblr.com/post/120005935322/what-are-the-planets-up-to
+---
+<p>Astrologically-minded people have been talking a bit about Mercury going into ‘retrograde’ recently.</p>
+
+<p>I’m sure if you look you can pretty easily find an explanation of what that means in astronomical terms (I won’t try to speak to the astrological significance of it in whatever tradition you might subscribe to), but regardless I thought it would be nice to do a big long post about how the planets move around in the sky, how we know in advance what they’re going to do, etc.</p>
+
+<p>This won’t be a post about the historical development of these ideas. I already did one of those. And I’m gonna include some maths, but also lots of words, so hopefully if you’d rather, you can just ignore all the equations!</p>
+
+<figure>
+  <img alt="Perspective view of the orbits of the main bodies in the solar system, viewed as a cylindrical volume of space, with the orbits tracing thin lines. Some dwarf planets, such as Makemake, Eris and Pluto are included, and their orbits are noticeably outside the ecliptic plane." src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-00.png">
+  <figcaption>Perspective view of the orbits of the main bodies in the solar system <em>- image by <a href="http://en.wikipedia.org/wiki/User:Azcolvin429">Andrew Z. Colvin</a> on <a href="http://commons.wikimedia.org/wiki/File:2_Solar_System_%28ELitU%29.png">Wikimedia commons</a></em></figcaption>
+</figure>
+
+<p></p>
+
+<h2>OK, so what’s going on up there then?</h2>
+
+<p>So in general when you want to work out the answer to some question like “what are the planets up to”, physicists want to be able to start with the where the planets are at one point in time (this is called the “initial state”) and get a description which tells them exactly where the planets are at every particular time before and after.</p>
+
+<p>That’s the ideal.</p>
+
+<p>The general problem of a bunch of objects (three or more) moving around and interacting through gravity is “chaotic”. That means that our prediction of where the objects go next can change a huge amount when the initial conditions change. Because of this, you can’t in general get a nice straightforward set of equations that tell you what‘s going to happen.</p>
+
+<p>So you have to make some approximations in your description of the system, and use a computer to predict approximately what will happen. If you’re lucky, your approximations won’t lose anything important.</p>
+
+<p>The lucky thing about the solar system is that the sun is <em>much much much</em> bigger than everything else. So while each planet is attracted not just to the sun but every other planet in the solar system, the effect of the sun is vastly bigger than that of every other planet.</p>
+
+<p>A very good approximation, then, starts by assuming the sun is the only thing that matters, and just ignoring all the other planets. That’s really the only way you can go if you don’t have a computer simulation handy.</p>
+
+<h2>Kepler’s model, which is what happens if the planets all ignore each other</h2>
+
+<p>(<a href="http://tmblr.co/mW0XHQHlqKzdJRYXDHuFJ2g">hamiltonianflow</a> has done a very good series on this subject, which you can read <a href="http://hamiltonianflow.tumblr.com/tagged/orbital-mechanics/chrono/">here</a>. So if you want a bit more mathematical detail than I go into, try her series!)</p>
+
+<p>Here’s an example of the kind of shape called an <strong>ellipse</strong>.</p>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-01.png">
+</figure>
+
+<p>When you only have two bodies involved - for example, a planet and the sun - each body orbits along an ellipse. (Or some other kind of <em>conic section</em> - but if it’s not orbiting along an ellipse, the planet will fly off somewhere very far away, so let’s not worry about that.)</p>
+
+<p>Each pink cross is a <strong>focus</strong> (plural <strong>foci</strong>) of the ellipse. One definition of an ellipse is that if you take any point along the ellipse and add up the distances to the two foci, the total will be the same.</p>
+
+<p>What’s important is that, for the ellipses that the objects two objects are moving along, each has one focus at a point called <strong>centre of mass</strong>.</p>
+
+<p>The centre of mass is a point that’s nearer the more massive (heavier) of the two bodies (and bang in the middle of the gap if they’re the same mass). Now, the sun’s mass is \(1.99\times10^{30}\unit{kg}\). The mass of the heaviest planet, Jupiter, is \(1.90\times10^{27}\unit{kg}\). That means that the sun is a thousand times heavier than Jupiter; the difference between the sun and the other planets is even bigger. So the centre of mass is pretty much right in the centre of the sun, for every planet.</p>
+
+<p>This means you can pretty accurately say <strong>each planet orbits along an ellipse, with its focus at the centre of the sun</strong>. (That’s called Kepler’s First Law, because Kepler came up with this model first.)</p>
+
+<p>An ellipse tells you where the planet might be, but we want to know where the planet is at a particular time. Kepler had a complicated description that comes in terms of ‘areas swept out’ by a line between the planet and the sun. Nowadays, we treat it with various equations, though finding a simple equation to get the orbital state vectors as a function of time is surprisingly difficult!</p>
+
+<p>But the important detail is basically that <strong>planets travel faster when they’re near the sun, and slower when they’re far away from the sun</strong>.</p>
+
+<p>That particular relation - speed vs. distance from the sun - is expressed by quite a simple equation called the&nbsp;‘vis-viva equation’,$$v^2=GM_\odot \left(\frac{2}{r} - \frac{1}{a}\right)$$In this equation, \(v\) is the speed of the planet, \(r\) is its distance from the sun, \(a\) is the <em>semi-major axis</em> which is a measure of how big the orbit is, \(M\) is the mass of the sun, and \(G\) is a constant that tells you how strong gravity is.</p>
+
+<p>The third thing Kepler said is that the total time \(T\) that a planet takes to complete an orbit of the sun - its ‘year’ in other words - grows in a particular way depending on how far away the planet is orbiting:$$T^2=4\pi^2\frac{a^3}{GM}$$or the square of the period (year) is proportional to the cube of the semimajor axis.</p>
+
+<p>So <strong>the length of the planet’s year depends how far away the planet orbits from the sun.</strong></p>
+
+<p>Those three rules are enough information to tell you <em>exactly</em> where the planets are going to be at any point in the future, assuming the sun is the only thing that matters.</p>
+
+<h2>So what about our planets specifically</h2>
+
+<p>Our sun formed from a giant disk of gas and dust that slowly shrank under its own gravity around a dense core. Because of a principle called ‘conservation of angular momentum’, as the disk shrank, the tiny motions of the gas within the disk are increased to form a large, flat, rotating disk.</p>
+
+<p>A lot of that disk is picked up by the growing sun in the centre, but the leftovers form small lumps which grow into bigger lumps as they collide with each other. These eventually form the planets and the asteroids.</p>
+
+<p>The result of this process is that the planets all rotate in the same direction around the sun, and they all orbit in almost exactly the same plane. This plane is called the <strong>ecliptic</strong>.</p>
+
+<p>The orbits of the planets in our solar system are not very <em>eccentric</em> at all either. The <strong>eccentricity</strong> of an orbit is basically a measure of where the ellipse falls on a continuum from ‘circle’ to ‘straight line’, so a more eccentric orbit is one that’s more stretched out. So in other words, the orbits of the planets are, despite being ellipses, very near circular. This is part of why models of the solar system featuring circular orbits were very effective.</p>
+
+<p>As for <em>why</em> the eccentricities are so low, there are <a href="http://physics.stackexchange.com/questions/2501/why-are-the-orbits-of-planets-in-the-solar-system-nearly-circular">a few possible answers</a> - interactions with the other planets, interactions with dust in the protoplanetary disc, tidal interactions with the sun - but it’s still <a href="http://arxiv.org/abs/0905.3750">an area of active research</a>.</p>
+
+<figure data-orig-height="251" data-orig-width="248">
+  <img alt="An animation showing the orbits of the planets, greatly sped up, over a radial grid." src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-02.gif">
+  <figcaption>A gif showing the above-described orbits from <a href="http://weelookang.blogspot.co.uk/2011/06/ejs-open-source-kepler-3rd-law-system.html">here</a>, via Wikipedia</figcaption>
+</figure>
+
+<h2>The sun is <em>not</em> the only thing that matters</h2>
+
+<p>You can get away with ignoring the influence of the other planets over a few centuries, but eventually the effects of their small gravitational pulls starts to add up. Which leads to surprisingly large consequences for things like the climate of the Earth!</p>
+
+<p>Because the sun is still the most important thing in the picture by far, we usually look at these <strong>orbital peturbations</strong> as modifications to the picture we just described.</p>
+
+<p>These can come from a few things:</p>
+<ul>
+  <li>the other planets (the big one!)</li>
+
+  <li>things not being spherically symmetrical</li>
+
+  <li>things getting caught up in atmospheres</li>
+
+  <li>General Relativity</li>
+</ul>
+
+<p>Because a lot of the causes of these peturbations (i.e. other planets coming near) are periodic - they happen regularly with the same time between them - the peturbations are also periodic. (The planet Neptune was discovered as a results of the small periodic peturbations it was causing to the orbit of the planet Uranus).</p>
+
+<p>For planets’ moons - particularly the Earth’s Moon - things get flipped round: the Earth is the main thing in the picture, but the sun causes the biggest peturbations and changes the Moon’s orbit quite significantly over time.</p>
+
+<p>It is also the case, in theory, that these peturbations can add up and throw a massive spanner in the nice neat orbits we’ve been talking about so far, leading to planets colliding with each other.</p>
+
+<p>We can ask if, over millions and millions of years, the behaviour of planets in the solar system <a href="http://en.wikipedia.org/wiki/Stability_of_the_Solar_System">is stable</a> (i.e. the only changes are the small peturbations, but everything remains much as described above). The answer is: we know pretty much exactly everything that’s going to happen over the next few million years, and we don’t have to worry about colliding with a planet.</p>
+
+<p>For the next few <em>billions</em> of years, things are probably going to be ok, <em>but</em> <a href="http://www.nature.com/nature/journal/v459/n7248/full/nature08096.html">if we give it five billion years</a>, there’s a tiny chance that Mercury’s orbit will go wildly unstable, either plunging it into the sun, colliding it with Venus, or disturbing Jupiter in a way that fucks up the orbits of all the inner planets so we could collide with just about any of them. Fun. In any case, after that 5 billion year point, the sun will run out of hydrogen to effectively fuse in its core, and grow into a red giant star, swallowing up the innermost planets and destroying any remaining life on Earth.</p>
+
+<p>(For comparison: life on Earth has existed for about four billion years, and we humans have been around for 50k-100k years, which is to say, 0.0025% of that. It is near certain that all humans will be billions of years dead by the time Mercury and the sun get around to doing any of those things. And if by some impossibility we have not, I would expect us to exist on other planets apart from Earth. So don’t worry too much :3)</p>
+
+<p>One thing on that list, general relativity, only gets really important when you get near the sun. The <em>very brief</em> explanation is that Newtonian gravity is actually only an approximation itself to a much more mathematically complicated theory. On the scale of the solar system, that mostly doesn’t matter, but it does have a small but noticeable effect on the orbit of Mercury! That effect is one of the lines of evidence that formed some of the earliest experimental tests of the theory, so I thought it was worth a mention.</p>
+
+<p>As for the climate thing - well, the peturbations to the Earth’s orbit and the way in which its spinning are generally periodic, repeating over thousands of years. Examining long-term historical climate data revealed these incredibly slow changes (exaggerated by feedback effects) lead to similar periodic changes called <a href="https://en.wikipedia.org/wiki/Milankovitch_cycles">Milankovitch cycles</a> in the Earth’s average temperature. Probably. This science is perhaps a <em>bit</em> less settled than some of the rest of this post.</p>
+
+<h2>What do we see of all this from the ground?</h2>
+
+<p>Since most of the people reading this post are probably on the surface of the Earth (any astronauts and/or extraterrestrial lifeforms reading, please say hi!), if we want to observe the planets, we look up at the night sky for little bright dots that look very much like stars. (If we are lucky enough to have a good telescope, we can resolve these dots into flat disks with some surface variation.)</p>
+
+<p>Most of the things in the sky, as watched by human eyes from Earth, don’t do much, day to day and month to month. They sit in a fixed pattern in relation to the other stars. Now we have telescopes, we can notice that isn’t quite true - some of the more nearby stars move a bit over the course of the year due to ‘stellar parallax’ which lets us work out how far away they are, and some stars are moving through space quickly enough to notice in a telescope (particularly the stars orbiting the black hole Sagittarius A* at the centre of our galaxy!).</p>
+
+<p>The planets are not like these ‘fixed stars’. They don’t stay in a set position compared to the fixed stars. The English word “planet” is derived from a Greek word meaning “wanderer” for this reason.</p>
+
+<p>When something is odd and moving about, a natural thing to do for people across the world was to keep track of where it is each night. And if you do this, you can see the planets slowly make their way from place to place in the sky, reflecting their motion in space. Planets close to the sun, like Mercury, generally move much faster than planets far away from the sun, like Saturn. (Uranus and Neptune are harder to see without a telescope.)</p>
+
+<p>We can imagine the fixed night sky as being an enormous sphere centred on the Earth, with all the “fixed” stars as little dots attached to it. This is helpful for describing how the planets move in the night sky. (The sphere is basically a map of the angular direction of each star from the centre of the Earth.)</p>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-03.png">
+</figure>
+
+<p>So in this picture, the Earth is sitting in the middle of the frame, with the celestial sphere centered on it. I’ve drawn two planets, and two lines through those planets to the celestial sphere, to show how the positions of planets in the celestial sphere is determined by the relative positions of these planets.</p>
+
+<p>How do the planets move? Here’s a picture where I’ve drawn this diagram for two different days, one over the top of the other…</p>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-04.png">
+</figure>
+
+<p>The positions of the planets on the first day and its celestial sphere is faded out slightly. I’ve also drawn the day-1 positions of the planets on the day-2 celestial sphere, again faded out. I’ve made Venus move further than Earth move further than Jupiter, but I’m not doing this at all exactly.</p>
+
+<p>Now all three planets have moved around the sun, both Jupiter and Venus have moved to slightly different places on the celestial sphere.</p>
+
+<p>That’s the general principle of how planets appear to ‘wander’. You can see it’s pretty complicated.</p>
+
+<p>Now, a very large part of the motion, especially for the inner planets, comes from the Earth’s own orbit. Because of the Earth’s orbit, these planets appear to travel all the way round the night sky over the course of a year, even though their movement in space is much smaller than that of the Earth. This is why it made a lot of sense to people, at first, to say the planets travelled round the Earth.</p>
+
+<p>Because the planets’ orbits are largely confined to a plane (the Ecliptic mentioned above), they all pass through roughly the same areas of the night sky. As a result of the Earth’s motion, so does the sun. (Based on this property, the predominant Western astrological system divides the night sky into 12 equal-sized regions, into which the planets pass over the course of a year. Patterns of stars in each of these regions (as seen from Earth) give each one its symbolism).</p>
+
+<h2>And retrograde motion?</h2>
+
+<p>One of the interesting aspects of living in a heliocentric solar system like this is that, on occasion, the planets seem to temporarily change the direction of their motion relative to the fixed stars in the night sky. They can follow a pattern such as this over the fixed stars:</p>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-05.png">
+</figure>
+
+<p>(this squiggle shows the motion of Mars in 2009-2010, <a href="https://commons.wikimedia.org/wiki/File:Retrogradation1.svg">via Wikimedia commons</a>)</p>
+
+<p>This <a href="http://canonicalmomentum.tumblr.com/post/113281902907/figuring-out-the-solar-system">presented a big headache</a> to people trying to work out a <em>geocentric</em> model of the solar system (one in which everything rotated around the Earth) according to Aristotle’s principle . In a <em>heliocentric</em> solar system, such as Kepler’s one described above, there is a straightforward explanation, though the situation looks slightly different for planets orbiting inside the Earth and planets orbiting inside.</p>
+
+<p>For outer planets such as Jupiter, the situation is this: Jupiter is sedately carrying on its orbit, and the Earth zooms past on the inside.</p>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-06.png">
+</figure>
+
+<p>This image (by <a href="https://commons.wikimedia.org/wiki/User:Rursus">Rursus</a> on <a href="https://commons.wikimedia.org/wiki/File:Retrogradation.svg">Wikimedia commons</a>) shows the positions of two planets, the Earth (the ‘T’ planet) and another planet (’P’) as well as the other planet’s position on the celestial sphere, at each of five points in time over the coures of half an Earth year. Unlike my diagrams, Rursus has centred the celestial sphere on the sun, and not the Earth. The difference stops being important as you make the celestial sphere bigger, and it does make it a lot easier to show everything on one diagram.</p>
+
+<p>Anyway, as the inner planet moves up towards the outer planet, they are moving at quite different angles, so the outer planet appears to move a large distance on the celestial sphere. As the inner planet catches up, being faster, the outer planet appears to move ‘backwards’, until eventually the inner planet is moving more or less directly away from the outer planet and it appears to move forwards again.</p>
+
+<p>To show that this still happens if we use a properly Earth-centered celestial sphere, I did a series of images :)</p>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-07.png">
+</figure>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-08.png">
+</figure>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-09.png">
+</figure>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-10.png">
+</figure>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-11.png">
+</figure>
+
+<p>…which, however rough they are, hopefully show the general principle.</p>
+
+<p>For a very slowly moving outer planet, this happens nearly every Earth year. For a more quickly moving planet such as Mars, it will happen slightly less than once a year.</p>
+
+<p>For the planets closer to the sun than Earth (Mercury and Venus), you can essentially draw the reverse of this diagram, fixing the outer planet in the frame as your ‘Earth’ and drawing lines through the inner planet. That said, to see retrograde motion when I tried this, I had to tune the speeds a little bit - but with the rigt speed, it can be quite pronounced. (I’m not going to post the whole series, but this image was constructed the same way as the last set!) The red squiggle is a rough trace of the positions visited in order, in order to make the retrograde motion clearer.</p>
+
+<figure>
+  <img alt="ALT TEXT NEEDED!" src="{{ site.url }}/img/embed/2015-05-27-what-are-the-planets-up-to/img-12.png">
+</figure>
+
+<h2>Anything else I should know about those planets?</h2>
+
+<p>While I was talking, Neptune stole your wallet. Sorry.</p>
+
+<p>More seriously, there’s a lot more mathematical detail to be had if you want to learn more about the planets. I represented stuff as 2D circles and the celestial sphere as a circle, but of course we live in 3D space (3+1D spacetime if you want to get all relativistic on me), and the sky forms a 2D plane, so you have to invoke a lot more parameters to describe the motion of the planets of the sky in all its precise grisly detail. To fully describe an elliptical orbit, you need <a href="https://en.wikipedia.org/wiki/Orbital_elements">six numbers</a>. To precisely state the position of objects in the sky (in terms of “point your telescope here”), there are <a href="https://en.wikipedia.org/wiki/Celestial_coordinate_system">many coordinate systems</a>. Like, really a lot.</p>
+
+<p>Also I guess… I have no wish to be the ‘no fun allowed’ person, but if you’re genuinely worried about Mercury going into retrograde (I can never tell quite how serious people are about that, but… I know what it’s like to have anxiety :/), astronomically there’s nothing more going on at present than an interesting visual effect that becomes apparent if you very carefully keep track of the position of Mercury in the sky over a long period of time. There’s no special reason why things are more likely to go wrong while Mercury and the Earth are in these particular parts of their orbits.</p>
