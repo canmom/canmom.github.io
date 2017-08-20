@@ -83,8 +83,12 @@ article h3 {
     margin: 0 0 20px 20px;
 }
 
-article p, article ul {
+article p, article ul, article ol {
     margin: 0 0 20px 25px;
+}
+
+article li {
+    margin-top: 5px;
 }
 
 article blockquote {
