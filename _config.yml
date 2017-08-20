@@ -2,3 +2,17 @@ name: bryn::portfolio
 markdown: kramdown
 repository: canmom/canmom.github.io
 permalink: /:categories/:title
+gems:
+  - jekyll-seo-tag
+description: Programming portfolio and physics writing archive.
+lang: en_GB
+logo: /android-chrome-512x512.png
+twitter:
+  username: CanonicMomentum
+social:
+  name: Bryn Dickinson
+  links:
+    - https://twitter.com/CanonicMomentum
+    - https://github.com/canmom
+    - https://witches.town/@canmom
+    - https://canmom.tumblr.com
