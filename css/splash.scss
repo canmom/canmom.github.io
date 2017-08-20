@@ -74,7 +74,7 @@ li h3 {
 
 li p {
 	margin: 0 0 5px;
-	font-style: italic;
+	/*font-style: italic;*/
 }
 
 .titledate {
@@ -115,6 +115,10 @@ ul a:hover ul.tags li.tag {
 	li ul.tags {
 		margin-left: 1em;
 	}
+
+	nav .articles {
+		margin-right: 30px;
+	}
 }
 
 @media only screen and (max-width: 1249px) {
@@ -137,5 +141,13 @@ ul a:hover ul.tags li.tag {
 	section {
 		max-width: 1500px;
 		margin: 0 auto;
+	}
+
+	nav {
+		justify-content: flex-start;
+	}
+
+	nav .articles {
+		margin-right: 50px;
 	}
 }
