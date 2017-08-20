@@ -1,0 +1,158 @@
+---
+title: What IS the canonical momentum?
+layout: article
+excerpt: An introduction to the concepts of Lagrangian mechanics, with pictures instead of lots of maths.
+categories: physics
+origin: https://canmom.tumblr.com/post/115458304532/what-is-the-canonical-momentum
+---
+<p>This post is going to try and explain the concepts of Lagrangian mechanics, with minimal derivations and mathematical notation. By the end of it, hopefully you will know what my URL is all about. [note: when this post was written, I was going by 'canonicalmomentum'; it has since been shortened.]</p>
+
+<h2>Some mechanicses which happened in the past</h2>
+
+<p>In 1687, Isaac Newton became the famousest scientist jerk in Europe by writing a book called <em><a href="http://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica" title="Philosophiæ Naturalis Principia Mathematica">Philosophiæ Naturalis Principia Mathematica</a></em>. The book gave a framework of describing motion of objects that worked just as well for stuff in space as objects on the ground. Physicists spent the next couple of hundred years figuring out all the different things it could be applied to.</p>
+
+<p>(Newton’s mechanics eventually got downgraded to ‘merely a very good approximation’ when quantum mechanics and relativity came along to complicate things in the 1900s.)</p>
+
+<p>In 1788, Joseph-Louise Lagrange found a different way to put Newton’s mechanics together, using some mathematical machinery called Calculus of Variations. This turned out to be a very useful way to look at mechanics, almost always much easier to operate, and also, like, the basis for all theoretical physics today.</p>
+
+<p>We call this <strong>Lagrangian mechanics</strong>.</p>
+
+<h2>What’s the point of a mechanics?</h2>
+
+<p>The way we think of it these days is, whatever we’re trying to describe is a <strong>physical system</strong>. For example, this cool double pendulum.</p>
+
+<figure>
+  <img alt="An illustration of a double pendulum as an example of a physical system. The details are not hugely important, but the lengths of the two pendulums, masses, and angles are labelled." src="{{ site.url }}/img/embed/2015-04-04-what-is-the-canonical-momentum/img-00.png">
+</figure>
+
+<p>The physical system has a <strong>state</strong> - “the pieces of the system are arranged this way”. We can describe the state with a list of numbers. The double pendulum might use the angles of the two pendulums. The name for these numbers, in Lagrangian mechanics, is <strong>generalised coordinates</strong>.</p>
+
+<p>(Why are they “generalised”? When Newton did his mechanics to begin with, everything was thought of as ‘particles’ with a position in 3D space. The <em>coordinates</em> are each particle’s \(x\), \(y\) and \(z\) position. Lagrangian mechanics, on the other hand is cool with <em>any</em> list of numbers can be used to distinguish the different states of the system, so its coordinates are “generalised”.)</p>
+
+<p>Now, we want to know what the system does as time advances. This amounts to knowing the state of the system for every single point in time.</p>
+
+<p>There are lots of possibilities for what a system might do. The double pendulum might swing up and hold itself horizontal forever, for example, or spin wildly. We call each one a <strong>path</strong>.</p>
+
+<p>Because the generalised coordinates tell apart all the different states of the system, a path amounts to a value of each generalised coordinate at every point in time.</p>
+
+<figure>
+  <img alt="Three example 'paths', as plots of a coordinate q as a function of time t. The first example is a squiggly line, the second q stays the same except for a sudden jump up and down, and the last it smoothly varies." src="{{ site.url }}/img/embed/2015-04-04-what-is-the-canonical-momentum/img-01.png">
+</figure>
+
+<p>OK. The point of mechanics is to find out <em>which</em> of the many <em>imaginable</em> paths the system/each coordinate <em>actually</em> takes.</p>
+
+<h2>The&nbsp; Action</h2>
+
+<p>To achieve this, Lagrangian mechanics says the system has a mathematical object associated with it called the <strong>action</strong>. It’s almost always written as \(S\).</p>
+
+<p>OK, so here’s what you do with the action: you take one of the paths that the system might take, and feed it in; the action then spits out a number. (It’s an object called a functional, to mathematicans: a function from functions to numbers).</p>
+
+<figure>
+  <img alt="A machine labelled 'the action', S, has large jaws with which a capsule labelled 'a path' enters. On the other side of the machine, grey blobs with 'a number' pop out with various numbers written on them." src="{{ site.url }}/img/embed/2015-04-04-what-is-the-canonical-momentum/img-02.png">
+</figure>
+
+<p>So every path the system takes gets a number associated with it by the action.</p>
+
+<p>The actual numbers associated with each path are not actually that useful. Rather, we want to compare ‘nearby’ paths.</p>
+
+<p>We’re looking for a path with a special property: <strong>if you add any tiny little extra wiggle to the path, and feed the new path through the action, you get the same number out</strong>. We say that the path with this special property is the one the system actually takes.</p>
+
+<p>This is called the <strong>principle of stationary action</strong>. (It’s sometimes called the “principle of least action”, but since the path we’re interested in is not necessarily the path for which the action is lowest, you shouldn’t call it that.)</p>
+
+<h2>But why does it do that</h2>
+
+<p>The answer is sort of, because we pick out an action which produces a stationary path corresponding to our system. Which might sound rather circular and pointless.</p>
+
+<p>If you study quantum field theory, you find out the principle of stationary action falls out rather neatly from a calculation called the Path Integral. So you could say that’s “why”, but then you have the question of “why quantum field theory”.</p>
+
+<p>A clearer question is why is it <em>useful</em> to invent an object called the action that does this thing. A couple of reasons:</p>
+<ul>
+  <li>the general properties actions frequently make it possible to work out the action of a system just by looking at it, and it’s easier to calculate things this way than the Newtonian way.</li>
+
+  <li>the action gives us a mathematical object that can be thought of as a ‘complete description of the behaviour of the system’, and conclusions you draw about this object - to do with things like symmetries and conserved quantities, say - are applicable to the system as well.</li>
+</ul>
+
+<h2>The Lagrangian</h2>
+
+<p>So, OK, let’s crack the action open and look at how it’s made up.</p>
+
+<p>So “inside the action” there’s another object called the Lagrangian, usually written \(L\). (As far as I know it got called that by Hamilton, who was a big fan of Lagrange.) The Lagrangian takes a state of the system and a measure of how quickly its changing, and gives you back a number.</p>
+
+<p>The action crawls along the path of the system, applying the Lagrangian at every point in time, and adding up all the numbers.</p>
+
+<figure>
+  <img alt="An illustration of the action as a machine. The path sits at the bottom of the machine, and an object called the Lagrangian runs along a rail labelled time at the top, measuring the values on the path at different points. This pushes some grey material onto a blob labelled 'number'. The implication is that the blob's size depends on how the Lagrangian processes the values of the path at various points, and then the blob is ejected." src="{{ site.url }}/img/embed/2015-04-04-what-is-the-canonical-momentum/img-03.png">
+</figure>
+
+<p>Mathematically, the action is the integral of the Lagrangian with respect to time. We write that like $$S[q]=\int_{q(t)} L(q,\dot{q},t)\dif t$$</p>
+
+<h2>What can you do with a Lagrangian?</h2>
+
+<p>Lots and lots of things.</p>
+
+<p>The main thing is that you use the Lagrangian to figure out what the stationary path is.</p>
+
+<p>Using a field of maths called <em>calculus of variations</em>, you can show that the path that stationaryises the action can be found from the Lagrangian by solving a set of differential equations called the <a href="http://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation">Euler-Langrange equations</a>. If you’re curious, they look like $$\frac{\dif}{\dif t}\left(\frac{\partial L}{\partial \dot{q}_i}\right) = \frac{\partial L}{\partial q_i}$$but we won’t go into the details of how they’re derived in this post.</p>
+
+<p>The Euler-Lagrange equations give you the <strong>equations of motion</strong> of the system. (Newtonian mechanics would also give you the same equations of motion, eventually. From that point on - <em>solving</em> the equations of motion - everything is the same in all your mechanicses).</p>
+
+<p>The Lagrangian has some useful properties. Constraints can be handled easily using the <a href="https://en.wikipedia.org/wiki/Lagrange_multiplier">method of Lagrange multipliers</a>, and you can add Lagrangians for components together to get the Lagrangian of a system with multiple parts.</p>
+
+<p>These properties (and probably some others that I’m forgetting) tell us what a Lagrangian made of multiple Newtonian particles looks like, if we know the Lagrangian for a single particle.</p>
+
+<h2>Particles and Potentials (the new RPG!)</h2>
+
+<p>In the old, Newtonian mechanics, the world is made up of <em>particles</em>, which have a position in space, a number called a mass, and not much else. To determine the particles’ motion, we apply things called <em>forces</em>, which we add up and divide by the mass to give the acceleration of the particle.</p>
+
+<p>Forces have a direction (they’re objects called <em>vectors</em>), and can depend on any number of things, but very commonly they depend on the particle’s position in space. You can have a <em>field</em> which associates a force (number and direction) with every single point in space.</p>
+
+<p>Sometimes, forces have a special property of being <em>conservative</em>. A conservative force has the special property that</p>
+<ul>
+  <li>depends on where the particle is, but not how fast its going</li>
+
+  <li>if you move the particle in a loop, and add up the force times the distance moved at every point around the loop, you get zero</li>
+</ul>
+
+<p>This is great, because now your force can be found from a <strong>potential</strong>. Instead of associating a <em>vector</em> with every point, the potential is a <em>scalar field</em> which just has a <em>number</em> (no direction) at each point.</p>
+
+<p>This is great for lots of reasons (you can’t get very far in orbital mechanics or electromagnetism without potentials) but for our purposes, it’s handy because we might be able to use it in the Lagrangian.</p>
+
+<h2>How Lagrangians are made</h2>
+
+<p>So, suppose our particle can travel along a line. The state of the system can be described with only one generalised coordinate - let’s call it \(q(t)\). It’s being acted on by a conservative force, with a potential defined along the line which gives the force on the particle.</p>
+
+<p>With this super simple system, the Lagrangian splits into two parts. One of them is $$T=\frac{1}{2}m\dot{q}^2$$which is a quantity which Newtonian mechanics calls the kinetic energy (but we’ll get to energy in a bit!), and the other is just the potential \(V(q)\). With these, the Lagrangian looks like $$L=T-V$$and the equations of motion you get are $$m\ddot{q}=-\frac{\dif V}{\dif q}$$exactly the same as Newtonian mechanics.</p>
+
+<p>As it turns out, you can use that idea really generally. When things get relativistic (such as in electromagnetism), it gets squirlier, but if you’re just dealing with rigid bodies acting under gravity and similar situations? \(L=T-V\) is all you need.</p>
+
+<p>This is useful because it’s usually a lot easier to work out the kinetic and potential energy of the objects in a situation, then do some differentiation, than to work out the forces on each one. Plus, constraints.</p>
+
+<h2>The Canonical Momentum</h2>
+
+<p>The canonical momentum in of itself isn’t all that interesting, actually! Though you use it to make Hamiltonian mechanics, and it hints towards Noether’s theorem, so let’s talk about it.</p>
+
+<p>So the Lagrangian depends on the state of the system, and how quickly its changing. To be more specific, for each generalised coordinate \(q_i\), you have a&nbsp;‘generalised velocity’ \(\dot{q}_i\) measuring how quickly it is changing in time at this instant. So for example at one particular instant in the double pendulum, one of the angles might be 30 degrees, and the corresponding velocity might be 10 radians per second.</p>
+
+<p>The <strong>canonical momenta</strong> \(p_i\) can be thought of as a measure of how responsive the Lagrangian is to changes in the generalised velocity. Mathematically, it’s the partial differential (keeping time and all the other generalised coordinates and momenta stationary): $$p_i=\frac{\partial L}{\partial \dot{q}_i}$$They’re called momenta by analogy with the quantities <em>linear momentum</em> and <em>angular momentum</em> in Newtonian mechanics. For the example of the particle travelling in a conservative force, the canonical momentum is exactly the same as the linear momentum: \(p=m\dot{q}\). And for a rotating body, the canonical momentum is the same as the angular momentum. For a system of particles, the canonical momentum is the sum of the linear momenta.</p>
+
+<p>But be careful! In situations like motion in a magnetic field, the canonical momentum and the linear momentum are different. Which has apparently led to no end of confusion for Actual Physicists with a problem involving a lattice and an electron and somethingorother I can no long remember…</p>
+
+<p>OK a little maths; let’s grab the Euler-Lagrange equations again: $$\frac{\dif}{\dif t} \left(\frac{\partial L}{\partial \dot{q}}\right) = \frac{\partial L}{\partial q_i}$$Hold on. That’s the canonical momentum on the left. So we can write this as $$\frac{\dif p_i}{\dif t} = \frac{\partial L}{\partial q_i}$$Which has an interesting implication: suppose \(L\) does not depend on a coordinate directly, but only its velocity. In that case, the equation becomes $$\frac{\dif p_i}{\dif t}=0$$so the canonical momentum corresponding to this coordinate does not change ever, no matter what.</p>
+
+<p>Which is known in Newtonian mechanics as <em>conservation of momentum</em>. So Lagrangian mechanics shows that momentum being conserved is equivalent to the Lagrangian not depending on the absolute positions of the particles…</p>
+
+<p>That’s a special case of a <strong>very very important theorem</strong> invented by Emmy Noether.</p>
+
+<p>The canonical momenta (or in general, the <em>canonical coordinates</em>) are central to a closely related form of mechanics called <strong>Hamiltonian mechanics</strong>. Hamiltonian mechanics is interesting because it treats the ‘position’ coordinates and ‘momentum’ coordinates almost exactly the same, and because it has features like the ‘Poisson bracket’ which work almost exactly like quantum mechanics. But that can wait for another post.</p>
+
+<figure>
+  <img alt="A greyscale photo of mathematician Emmy Noether. She is wearing a puffy pinstriped shirt, a long grey skirt, and a bow tie." src="{{ site.url }}/img/embed/2015-04-04-what-is-the-canonical-momentum/img-04.jpg">
+</figure>
+
+<h2>Coming up next: Noether’s theorem</h2>
+
+<p>Lagrangian mechanics may be a useful calculation tool, but the reason it’s <em>important</em> is mainly down to something that <a href="http://en.wikipedia.org/wiki/Emmy_Noether">Emmy Noether</a> figured out in 1915. This is what I’m talking about when I refer to Lagrangian mechanics forming the basis for all the modern theoretical physics.</p>
+
+<p>[OK, I am a total Noether fangirl. I think I have that it common with most vaguely theoretical physicists (the fan part, not the girl one, sadly). To mathematicians, she’s known for her work in abstract algebra on things like “rings”, but to physicists, it’s all about Noether’s Theorem.]</p>
+
+<p>Noether’s theorem shows that there is a very fundamental relationship between <strong>conserved quantities</strong> and <strong>symmetries</strong> of a physical system. I’ll explain what that means in lots more detail in the next post I do, but for the time being, you can read <a href="http://canonicalmomentum.tumblr.com/post/114501760317/quasi-normalcy-the-news-articles-about-todays">this summary</a> by <a href="http://tmblr.co/mR4KJKBBMnsBzNXqbGPNgjQ">quasi-normalcy</a>.</p>
