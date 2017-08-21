@@ -7,7 +7,7 @@ img {
 	max-width: 20%;
 }
 
-section {
+article {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
@@ -138,7 +138,7 @@ ul a:hover ul.tags li.tag {
 		max-width: 45%;
 	}
 
-	section {
+	article {
 		max-width: 1500px;
 		margin: 0 auto;
 	}
