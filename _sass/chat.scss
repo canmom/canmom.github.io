@@ -1,0 +1,41 @@
+$person1-colour: rgb(0, 127, 74);
+$person2-colour: rgb(163, 11, 46);
+
+ul.chat {
+	padding-left: 0;
+}
+
+ul.chat li {
+	list-style-type: none;
+	margin-bottom: 15px;
+	margin-top: 0;
+	padding-left: 5px;
+}
+
+ul.chat li p {
+	margin-top: 0;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+
+ul.chat li p:first-child {
+	margin-left: 0;
+}
+
+ul.chat li.person1 {
+	border-left: 2px solid $person1-colour;
+	background: linear-gradient(to right, rgba($person1-colour,0.05),rgba($person1-colour,0));
+}
+
+ul.chat li.person1 strong.name {
+	color: $person1-colour;
+}
+
+ul.chat li.person2 {
+	background: linear-gradient(to right, rgba($person2-colour,0.05),rgba($person2-colour,0));
+	border-left: 2px solid $person2-colour;
+}
+
+ul.chat li.person2 strong.name {
+	color: $person2-colour;
+}

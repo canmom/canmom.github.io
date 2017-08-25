@@ -20,8 +20,9 @@
                 </header>
                 <nav>
                     {% for category in site.categories %}
-                    <section class="articles">
                         {% capture category_name %}{{category | first}}{% endcapture %}
+                        {% if "physics" contains category_name %}
+                    <section class="articles">
                         <h2>{{category_name}}</h2>
                         <ul>
                             {% for post in site.categories[category_name] %}
@@ -29,6 +30,7 @@
                             {% endfor %}
                         </ul>
                     </section>
+                        {% endif %}
                     {% endfor %}
                     <section class="articles" id="projects">
                         <h2>projects</h2>

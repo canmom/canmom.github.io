@@ -182,6 +182,14 @@ article a:hover {
     background-color: rgba($accent-colour, 0.05);
 }
 
+article hr {
+    width: 60%;
+    margin: 20px auto;
+    border-top: 2px solid $border-colour;
+}
+
+@import "chat";
+
 /* ===============
     ALL: IE Fixes
    =============== */
