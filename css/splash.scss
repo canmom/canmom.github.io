@@ -45,81 +45,11 @@ nav .articles h2 {
 	margin-bottom: 15px;
 }
 
-ul {
-	padding-left: 0;
-	margin-top: 0;
-	margin-left: 6px;
-	margin-bottom: 0;
+nav .articles h2 a {
+	display: inline;
 }
 
-ul a {
-	border-left: 4px solid $border-colour;
-	padding-left: 6px;
-}
-
-ul a:hover {
-	border-left: 4px solid $accent-colour;
-	background-color: rgba($accent-colour, 0.05);
-}
-
-li {
-	list-style-type: none;
-	padding-left: 0;
-	margin-top: 10px;
-}
-
-li h3 {
-	margin: 0 0 5px;
-}
-
-li p {
-	margin: 0 0 5px;
-	/*font-style: italic;*/
-}
-
-.titledate {
-	display: flex;
-	justify-content: space-between;
-	align-items: baseline;
-}
-
-ul.tags {
-	margin-top: 0;
-	font-size: 80%;
-	display: flex;
-	flex-wrap: wrap;
-}
-
-ul.tags li.tag {
-	background-color: rgba(black, 0.1);
-	padding: 2px 4px;
-	margin-top: 2px;
-	margin-right: 4px;
-}
-
-.date {
-	font-size: 80%;
-	margin-left: 20px;
-}
-
-ul a:hover ul.tags li.tag {
-	background-color: rgba($accent-colour, 0.2);
-}
-
-@media only screen and (min-width: 1000px) {
-
-	li p {
-		margin-left: 1em;
-	}
-
-	li ul.tags {
-		margin-left: 1em;
-	}
-
-	nav .articles {
-		margin-right: 30px;
-	}
-}
+@import "listing";
 
 @media only screen and (max-width: 1249px) {
 	#container {

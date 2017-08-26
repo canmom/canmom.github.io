@@ -1,0 +1,15 @@
+---
+layout: page
+css: "/article/category.css"
+---
+<article>
+    <nav>
+        <section class="articles">
+            <ul class="listing">
+                {% for post in site.categories[page.cat] %}
+                    {% include listing.html post=post %}
+                {% endfor %}
+            </ul>
+        </section>
+    </nav>
+</article>

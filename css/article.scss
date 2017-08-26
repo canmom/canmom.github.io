@@ -3,6 +3,8 @@
 
 @import "base";
 
+@import "listing";
+
 .column {
     width: 90%;
     margin: 0 5%;
@@ -29,7 +31,6 @@ h1.title {
 header nav {
     display: flex;
     align-items: baseline;
-    justify-content: space-between;
     width: 225px;
     flex-direction: row-reverse;
 }
@@ -42,6 +43,7 @@ header nav a {
     font-weight: bold;
 
     margin-right: 8px;
+    margin-left: 2px;
     width: max-content;
 
     border-bottom: 4px solid $border-colour;
@@ -115,7 +117,7 @@ nav.tags {
     margin-left: 25px;
 }
 
-.tag {
+.tagnav {
     margin: 10px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -125,26 +127,26 @@ nav.tags {
     background-color: rgba($border-colour,0.4);
 }
 
-.tag .previous {
+.tagnav .previous {
     grid-column: 1;
 }
 
-.tag .tagname {
+.tagnav .tagname {
     padding-top: 5px;
     padding-bottom: 5px;
     grid-column: 2;
 }
 
-.tag .next {
+.tagnav .next {
     grid-column: 3;
 }
 
-.tag .next, .tag .tagname, .tag .previous {
+.tagnav .next, .tagnav .tagname, .tagnav .previous {
     grid-row: 0;
     text-align: center;
 }
 
-.tag a {
+.tagnav a {
     padding-top: 5px;
     padding-bottom: 5px;
     display: block;

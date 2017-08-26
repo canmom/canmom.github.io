@@ -23,8 +23,8 @@
                         {% capture category_name %}{{category | first}}{% endcapture %}
                         {% if "physics" contains category_name %}
                     <section class="articles">
-                        <h2>{{category_name}}</h2>
-                        <ul>
+                        <h2><a href="/{{category_name}}/">{{category_name}}</a></h2>
+                        <ul class="listing">
                             {% for post in site.categories[category_name] %}
                                 {% include listing.html post=post %}
                             {% endfor %}
@@ -34,7 +34,7 @@
                     {% endfor %}
                     <section class="articles" id="projects">
                         <h2>projects</h2>
-                        <ul>
+                        <ul class="listing">
                             {% for repo in site.github.public_repositories reversed%}
                             {% unless page.project_excludes contains repo.name %}
                             <li>

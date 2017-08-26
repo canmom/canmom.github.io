@@ -1,0 +1,80 @@
+ul.listing {
+	padding-left: 0;
+	margin-top: 0;
+	margin-left: 6px;
+	margin-bottom: 0;
+}
+
+ul.listing a {
+	border-left: 4px solid $border-colour;
+	padding-left: 6px;
+	display: block;
+	color: $text-colour;
+}
+
+ul.listing a:hover {
+	border-left: 4px solid $accent-colour;
+	background-color: rgba($accent-colour, 0.05);
+	color: $accent-colour;
+}
+
+ul.listing li {
+	list-style-type: none;
+	padding-left: 0;
+	margin-top: 10px;
+}
+
+ul.listing li h3 {
+	margin: 0 0 5px;
+	opacity: 1;
+	font-size: 20px;
+}
+
+ul.listing li p {
+	margin: 0 0 5px;
+	/*font-style: italic;*/
+}
+
+.titledate {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+}
+
+ul.listing li ul.tags {
+	margin-top: 0;
+	font-size: 80%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+ul.listing li ul.tags li.tag {
+	background-color: rgba(black, 0.1);
+	padding: 2px 4px;
+	margin-top: 2px;
+	margin-right: 4px;
+}
+
+ul.listing .date {
+	font-size: 80%;
+	margin-left: 20px;
+}
+
+ul.listing a:hover ul.tags li.tag {
+	background-color: rgba($accent-colour, 0.2);
+}
+
+@media only screen and (min-width: 1000px) {
+
+	ul.listing li p {
+		margin-left: 1em;
+	}
+
+	ul.listing li ul.tags {
+		margin-left: 1em;
+	}
+
+	nav .articles {
+		margin-right: 30px;
+	}
+}

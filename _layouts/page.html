@@ -14,6 +14,9 @@
     <h1 class="title">{{ page.title }}</h1>
     <nav>
       <a href="{{ site.url }}">home</a>
+      {% for cat in page.categories %}
+        <a href="{{ site.url }}/{{ cat }}">{{ cat }}</a>
+      {% endfor %}
     </nav>
   </header>
 
