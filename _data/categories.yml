@@ -1,0 +1,12 @@
+physics:
+  path: /physics
+  display: physics
+livereads:
+  path: /livereads
+  display: livereads
+animorphs:
+  path: /livereads/animorphs
+  display: animorphs
+uj:
+  path: /livereads/uj
+  display: unicorn jelly
