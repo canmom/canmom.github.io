@@ -41,3 +41,12 @@ ul.chat li.person2 {
 ul.chat li.person2 strong.name {
 	color: $person2-colour;
 }
+
+ul.chat li ol {
+	margin-left: 0;
+}
+
+ul.chat li ol li {
+	list-style-type: lower-alpha;
+	margin-bottom: 0;
+}
