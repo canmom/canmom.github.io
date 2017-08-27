@@ -1,10 +1,9 @@
 ---
 layout: page
 css: "/article/category.css"
-description: site.data.categories[page.cat].description
 ---
 <article class="articles">
-  <p>{{ site.data.categories[page.cat].description }}</p>
+  <p>{{ page.description }}</p>
   <ul class="listing">
     {% for post in site.categories[page.cat] reversed %}
         {% include listing.html post=post %}
