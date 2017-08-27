@@ -2,10 +2,17 @@
 layout: page
 css: "/article/category.css"
 ---
-<article  class="articles">
-    <ul class="listing">
-        {% for post in site.categories[page.cat] reversed %}
-            {% include listing.html post=post %}
-        {% endfor %}
-    </ul>
+<article class="articles">
+  {% if page.categories contains "livereads" %}
+    {% for story in site.data.livereads %}
+      {% if story.path == page.cat %}
+  <p>{{ story.description }}</p>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  <ul class="listing">
+    {% for post in site.categories[page.cat] reversed %}
+        {% include listing.html post=post %}
+    {% endfor %}
+  </ul>
 </article>

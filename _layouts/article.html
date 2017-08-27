@@ -9,7 +9,7 @@ layout: page
       {% endfor %}
     </nav>
     {% if page.origin %}
-    <p id="origin">originally posted at <a href="{{ page.origin }}">{{ page.origin | truncate: 40 }}</a></p>
+    {% include origin.html url=page.origin %}
     {% endif %}
   </footer>
   {{ content }}

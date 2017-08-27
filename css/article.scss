@@ -30,6 +30,7 @@ h1.title {
 
 header nav {
     display: flex;
+    flex-shrink: 0;
     align-items: baseline;
     flex-direction: row-reverse;
 }
@@ -152,7 +153,7 @@ nav.tags {
     width: 100%;
 }
 
-#origin {
+.origin {
     font-size: 80%;
     font-style: italic;
     margin-bottom:10px;
@@ -161,7 +162,6 @@ nav.tags {
 
 #license {
     font-size: 80%;
-    font-style: italic;
     display: grid;
     grid-template-columns: 88 auto;
     margin-left: 25px;
@@ -207,7 +207,7 @@ article a:hover {
 article hr {
     width: 60%;
     margin: 20px auto;
-    border-top: 2px solid $border-colour;
+    border-top: 3px solid $border-colour;
 }
 
 @import "chat";
