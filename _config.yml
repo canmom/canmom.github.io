@@ -4,6 +4,7 @@ repository: canmom/canmom.github.io
 permalink: /:categories/:title
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
 description: Programming portfolio and physics writing archive.
 lang: en_GB
 logo: /android-chrome-512x512.png
