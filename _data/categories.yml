@@ -10,3 +10,6 @@ animorphs:
 uj:
   path: /livereads/uj
   display: unicorn jelly
+egs:
+  path: /livereads/egs
+  display: el goonish shive
