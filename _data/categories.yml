@@ -1,15 +1,20 @@
 physics:
   path: /physics
   display: physics
+  description: Answering the most unlikely question in physics on the one hand, and introducing various concepts on the other. Learn what it would take to write your name on the moon, or get a clear introduction to rocket flight and Lagrangian mechanics.
 livereads:
   path: /livereads
   display: livereads
+  description: Read along with my reactions to (for the most part) semi-obscure, cultish internet media. I care especially about trans womens' writing, and stories that had a lot of bearing on trans womens' online childhoods.
 animorphs:
   path: /livereads/animorphs
   display: animorphs
+  description: A paired liveread of KA Applegate's series of YA novels about war, PTSD and furries. Featuring @drcable as co-commentator and cute gf.
 uj:
   path: /livereads/uj
   display: unicorn jelly
+  description: Jennifer Diane Reitz's flawed but intensely fascinating universe-spanning transhuman epic, with one of the most inventive settings I've ever encountered. Despite my criticisms, I came to love it unabashedly, as much for its quirks as despite them.
 egs:
   path: /livereads/egs
   display: el goonish shive
+  description: A mainstay of many trans womens' online childhoods, El Goonish Shive developed from a rocky start to an intensely personal exploration of gender with likable, complex characters.

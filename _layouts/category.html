@@ -1,15 +1,10 @@
 ---
 layout: page
 css: "/article/category.css"
+description: site.data.categories[page.cat].description
 ---
 <article class="articles">
-  {% if page.categories contains "livereads" %}
-    {% for story in site.data.livereads %}
-      {% if story.path == page.cat %}
-  <p>{{ story.description }}</p>
-      {% endif %}
-    {% endfor %}
-  {% endif %}
+  <p>{{ site.data.categories[page.cat].description }}</p>
   <ul class="listing">
     {% for post in site.categories[page.cat] reversed %}
         {% include listing.html post=post %}
