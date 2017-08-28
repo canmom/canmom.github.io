@@ -16,3 +16,6 @@ egs:
 computer-love:
   path: /livereads/computer-love
   display: computer love
+ohs:
+  path: /livereads/ohs
+  display: o human star
