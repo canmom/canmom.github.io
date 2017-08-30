@@ -19,3 +19,9 @@ computer-love:
 ohs:
   path: /livereads/ohs
   display: o human star
+umineko:
+  path: /livereads/umineko
+  display: umineko
+ep1:
+  path: /livereads/umineko/ep1
+  display: ep. 1

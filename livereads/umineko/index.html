@@ -1,0 +1,24 @@
+---
+layout: page
+title: Umineko
+description: "Umineko: When They Cry is a dojin soft (indie) visual novel that develops from a murder mystery into a sprawling work of metafiction dealing with themes of epistemology, the lasting effects of abuse and trauma, family relations, captalism and the occult. It is one of the few works whose scope is comparable to Homestuck."
+categories: livereads
+---
+<article class="articles">
+  <p>{{ page.description }}</p>
+  <ul class="listing">
+    <li>
+      <a href='ep1'>
+        {% for sitepage in site.pages %}{% if sitepage.url == "/livereads/umineko/ep1/" %}
+        <h3>{{ sitepage.title }}</h3>
+        <p>{{ sitepage.description }}</p>{% endif %}{% endfor %}
+      </a>
+    </li>
+    <!-- <li>
+      <a href='ep1'>
+        <h3>Episode 2: Turn of the Golden Witch</h3>
+        <p>todo</p>
+      </a>
+    </li> -->
+  </ul>
+</article>
