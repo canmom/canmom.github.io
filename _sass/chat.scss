@@ -1,5 +1,4 @@
-$person1-colour: rgb(0, 127, 74);
-$person2-colour: rgb(198, 9, 50);
+$person-colours: ("person1": rgb(0, 127, 74), "person2": rgb(198, 9, 50), "person3": rgb(193, 0, 167));
 
 ul.chat {
 	padding-left: 0;
@@ -24,22 +23,15 @@ ul.chat li p:first-child {
 	text-indent: -10px;
 }
 
-ul.chat li.person1 {
-	border-left: 2px solid $person1-colour;
-	background: linear-gradient(to right, rgba($person1-colour,0.05),rgba($person1-colour,0));
-}
+@each $person, $colour in $person-colours {
+	ul.chat li.#{$person} {
+		border-left: 2px solid $colour;
+		background: linear-gradient(to right, rgba($colour,0.05),rgba($colour,0));
+	}
 
-ul.chat li.person1 strong.name {
-	color: $person1-colour;
-}
-
-ul.chat li.person2 {
-	background: linear-gradient(to right, rgba($person2-colour,0.05),rgba($person2-colour,0));
-	border-left: 2px solid $person2-colour;
-}
-
-ul.chat li.person2 strong.name {
-	color: $person2-colour;
+	ul.chat li.#{$person} strong.name {
+		color: $colour;
+	}
 }
 
 ul.chat li ol {
