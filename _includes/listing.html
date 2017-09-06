@@ -10,7 +10,9 @@
         <p>{{ post.excerpt }}</p>
         <ul class="tags">
             {% for tag in post.tags %}
+                {% unless include.excludetags contains tag %}
                 <li class="tag">{{tag}}</li>
+                {% endunless %}
             {% endfor %}
         </ul>
     </a>
