@@ -25,3 +25,9 @@ umineko:
 ep1:
   path: /livereads/umineko/ep1
   display: ep. 1
+econ:
+  path: /econ
+  display: economics
+capital:
+  path: /econ/capital
+  display: capital
