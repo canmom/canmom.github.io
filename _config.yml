@@ -1,10 +1,11 @@
 name: bryn::portfolio
-markdown: kramdown
+markdown: rdiscount
 repository: canmom/canmom.github.io
 permalink: /:categories/:title
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - rdiscount
 description: Programming portfolio and physics writing archive.
 lang: en_GB
 logo: /android-chrome-512x512.png
@@ -17,3 +18,5 @@ social:
     - https://github.com/canmom
     - https://witches.town/@canmom
     - https://canmom.tumblr.com
+rdiscount:
+  extensions: [smart]
