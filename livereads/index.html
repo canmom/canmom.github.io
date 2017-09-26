@@ -1,19 +1,6 @@
 ---
-layout: page
+layout: supercategory
+cat: livereads
 title: Livereads
 description: Read along with my reactions to (for the most part) semi-obscure, cultish internet media. I care especially about trans womens' writing, and stories that had a lot of bearing on trans womens' online childhoods.
 ---
-<article class="articles">
-  <p>{{ page.description }}</p>
-  <ul class="listing">
-    {% for story in site.data.livereads %}
-      <li>
-        {% capture fullpath %}{{ story.path | prepend: "/livereads/" | append: "/" }}{% endcapture %}
-        <a href='{{ story.path }}'>
-          <h3>{{ story.title }}</h3>
-          {% for sitepage in site.pages %}{% if sitepage.url == fullpath %}<p>{{ sitepage.description }}</p>{% endif %}{% endfor %}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</article>

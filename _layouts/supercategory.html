@@ -1,0 +1,18 @@
+---
+layout: page
+---
+<article class="articles">
+  <p>{{ page.description }}</p>
+  <ul class="listing">
+    {% assign subcats = site.data[page.cat] %}
+    {% for story in subcats %}
+      <li>
+        {% capture fullpath %}/{{ page.cat }}/{{ story.path }}/{% endcapture %}
+        <a href='{{ story.path }}'>
+          <h3>{{ story.title }}</h3>
+          {% for sitepage in site.pages %}{% if sitepage.url == fullpath %}<p>{{ sitepage.description }}</p>{% endif %}{% endfor %}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</article>
