@@ -39,13 +39,17 @@ Exchange-values, Marx says, are [transitive](https://en.wikipedia.org/wiki/Trans
 
 > In short, it is exchanged for other commodities in the most diverse proportions. Therefore the wheat has many exchange values instead of one. But x boot-polish, y silk or z gold, etc., each represent the exchange-value of one quarter of wheat. Therefore x boot-polish, y silk, z gold, etc., must, as exchange-values, be mutually replaceable or of identical magnitude. It follows from this that, firstly, the valid exchange-values of a particular commodity express something equal, and secondly, exchange-value cannot be anything other than the mode of expression, the ‘form of appearance’, of a content distinguishable from it.
 
-Of course, this argument depends on exchanging things being transitive. So I'm led to ask, what if they weren't transitive? e.g., if you could exchange 1 quarter wheat for \\(x\\) boot-polish and \\(y\\) silk, but exchange \\(x\\) boot-polish for y' silk where \\(y'\\ne y\\). In that case, if you start with some wheat, and assuming 'can be exchanged for' is reflexive, and \\(y'>y\\) you could obtain arbitrary amounts of wheat by trading 1 quarter wheat for \\(x\\) boot-polish for \\(y'\\) silk for \\(\frac{y'}{y}\\) wheat. So if the system of exchange is to work at all, exchange has to be transitive?
+Marx says that 'exchange is transitive' implies 'there must be a common underlying quantity determining exchange values'. If you accept the former, you should accept the latter. (Later, I believe he will show how the common underlying quantity leads to exchange values that are transitive.)
+
+Of course, this argument depends on the reader accepting that exchanging things is transitive. So I'm led to ask, what if they weren't transitive? e.g., if you could exchange 1 quarter wheat for \(x\) boot-polish and \(y\) silk, but exchange \(x\) boot-polish for y' silk where \(y'\ne y\). In that case, if you start with some wheat, and assuming 'can be exchanged for' is reflexive, and \(y'>y\) you could obtain arbitrary amounts of wheat by trading 1 quarter wheat for \(x\) boot-polish for \(y'\) silk for \(\frac{y'}{y}\) wheat. So if the system of exchange is to work at all, exchange has to be transitive?
+
+After a discussion with edwad and a reminder about what David Harvey said, the answer is apparently that at this stage in the text, Marx isn't trying to *prove* his assertions, so much as lay out the overall logic of his theory to be fleshed out later. I kind of wish he'd state that more clearly, something like 'we will demonstrate that exchange is transitive later'.
 
 Marx says that whatever this underlying thing is, it has to be totally abstracted from any 'natural property' of commodities.
 
 > But clearly, the exchange relation of commodities is characterized precisely by its abstraction from their use-values. Within the exchange relation, one use-value is worth just as much as another, provided only that it is present in the appropriate quantity.
 
-To put it in vaguely matehmatical language, because transitivity, symmetry and reflexivity apply, an equivalence relation applies, and we under the view of exchange value, all things in the same equivalence class are the same; qualitive use values are irrelevant.
+To put it in vaguely mathematical language, because transitivity, symmetry and reflexivity apply, an equivalence relation applies. As far as this equivalence relation is concerned, use value is totally irrelevant.
 
 Marx then declares that, having abstracted away all physical qualities, all that we have is that a commodity is 'the product of labour'. But not just labour...
 
