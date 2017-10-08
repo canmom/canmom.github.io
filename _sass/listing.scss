@@ -7,7 +7,7 @@ ul.listing {
 
 ul.listing a {
 	border-left: 4px solid $border-colour;
-	padding-left: 6px;
+	padding-left: 8px;
 	display: block;
 	color: $text-colour;
 }
@@ -68,11 +68,11 @@ ul.listing a:hover ul.tags li.tag {
 @media only screen and (min-width: 1000px) {
 
 	ul.listing li p {
-		margin-left: 1em;
+		margin-left: 0.1em;
 	}
 
 	ul.listing li ul.tags {
-		margin-left: 1em;
+		margin-left: 0;
 	}
 
 	nav .articles {
