@@ -128,4 +128,4 @@ Marx then addresses the 'externalities' so often brushed aside by other kinds of
 
 > If we subtract the total amount of useful labour of different kinds which is contained in the coat, the linen, etc., a material substratum is always left. This substratum is furnished by nature without human intervention. When man engages in production, he can only proceed as nature does herself, i.e. he can only change the form of the materials.13 Furthermore, even in this work of modification he is constantly helped by natural forces. Labour is therefore not the only source of material wealth, i.e. of the use-values it produces. As William Petty says, labour is the father of material wealth, the earth is its mother.
 
-I'm getting very tired now, so next time: some very very long paragraphs.
+I'm going to be interested to see how much Marx, who's famously incisive in his analysis of labour, takes into account the environment.
