@@ -31,6 +31,6 @@ econ:
 capital:
   path: /econ/capital
   display: capital
-reviews:
-  path: /reviews
-  display: reviews
+crit:
+  path: /crit
+  display: criticism
