@@ -69,20 +69,20 @@ article {
 }
 
 article h1 {
-    margin: 0 0 20px 0;
+    margin: 20px 0 20px 0;
     font-size: 32px;
     line-height: 33px;
 }
 
 article h2 {
     font-size: 20px;
-    margin: 0 0 20px 10px;
+    margin: 20px 0 20px 10px;
 }
 
 article h3 {
     font-size: 18px;
     opacity:.8;
-    margin: 0 0 20px 20px;
+    margin: 20px 0 20px 20px;
 }
 
 article p, article ul, article ol {
@@ -91,6 +91,10 @@ article p, article ul, article ol {
 
 article li {
     margin-top: 5px;
+}
+
+article ul.listing {
+    margin-left: 25px;
 }
 
 article blockquote {
