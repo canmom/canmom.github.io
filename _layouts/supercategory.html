@@ -8,7 +8,7 @@ layout: page
     {% assign subcats = site.data[page.cat] %}
     {% for story in subcats %}
       <li>
-        {% capture fullpath %}/{{ page.cat }}/{{ story.path }}/{% endcapture %}
+        {% capture fullpath %}{% if page.categories %}/{{ page.categories | join: "/" }}{% endif %}/{{ page.cat }}/{{ story.path }}/{% endcapture %}
         <a href='{{ story.path }}'>
           <h3>{{ story.title }}</h3>
           {% for sitepage in site.pages %}{% if sitepage.url == fullpath %}<p>{{ sitepage.description }}</p>{% endif %}{% endfor %}
