@@ -1,5 +1,6 @@
 ---
 layout: page
+css: "/article/category.css"
 ---
 <article class="articles">
   <p>{{ page.description }}</p>
@@ -23,7 +24,7 @@ layout: page
   {% endfor %}
   {% assign catposts = site.categories[page.cat] | reverse | where_exp: "post", "post.categories[-1] == page.cat" %}
   {% if catposts.size > 0 %}
-  <h2>Articles</h2>
+  <h2>Posts</h2>
   <ul class="listing">
     {% for post in catposts %}
       {% include listing.html post=post excludetags=excludeArr %}

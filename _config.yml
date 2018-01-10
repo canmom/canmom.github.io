@@ -2,7 +2,7 @@ name: bryn::portfolio
 markdown: kramdown
 repository: canmom/canmom.github.io
 permalink: /:categories/:title
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 description: Programming portfolio and physics writing archive.
