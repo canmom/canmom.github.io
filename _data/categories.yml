@@ -37,3 +37,9 @@ capital:
 crit:
   path: /crit
   display: criticism
+streams:
+  path: /streams
+  display: streams
+nier-automata:
+  path: /streams/nier-automata
+  display: "nier: automata"
