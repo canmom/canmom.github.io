@@ -43,3 +43,6 @@ streams:
 nier-automata:
   path: /streams/nier-automata
   display: "nier: automata"
+kingdom-hearts:
+  path: /livereads/kingdom-hearts
+  display: "kingdom hearts"
