@@ -201,6 +201,10 @@ article figure figcaption {
     font-size: 90%;
 }
 
+article figure pre {
+    max-width: 100%;
+}
+
 article a {
     color: $accent-colour;
 }

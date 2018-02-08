@@ -1,5 +1,6 @@
 name: bryn::portfolio
 markdown: kramdown
+highlighter: rouge
 repository: canmom/canmom.github.io
 permalink: /:categories/:title
 plugins:
