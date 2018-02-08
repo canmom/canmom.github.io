@@ -1,0 +1,212 @@
+---
+title: "Building my own rasteriser: part 15 - smooooooooth"
+layout: article
+origin: https://canmom.tumblr.com/post/159840449917/building-my-own-rasteriser-part-15-smooooooooth
+date: 2017-04-21 22:21:32 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: I attempt to interpolate normals to produce smooth shading. Unfortunately, it will later turn out I made some errors in the algebra.
+custom_css: highlighting
+---
+<h2>Animated output</h2>
+
+<p>I found a program to record my screen to gifs easily, so here’s what I couldn’t show you last time:</p>
+
+<figure>
+  <img alt="Animated gif showing the camera rotating around Suzanne, who is lit by the three-point setup. The framerate fluctuates around about six frames per second." src="{{ site.url }}/img/embed/rasteriser/2017-04-21-building-my-own-rasteriser-part-15-smooooooooth/img-00.gif">
+</figure>
+
+<h2>General perspective-correct interpolation</h2>
+
+<p>There’s <a href="https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/perspective-correct-interpolation-vertex-attributes">one important part of the Scratchapixel tutorial</a> that I haven’t covered, and that’s <em>perspective-correct interpolation</em> of quantities defined at the vertices over a triangle. (We’ve covered perspective-correct interpolation of depth, but not developed that to the general case).</p>
+
+<p>Like before, I’m going to rederive the result derived on Scratchapixel, because if nothing else I find I learn things better when I work them out for myself.</p>
+
+<p>So, say we have a scalar quantity \(c\) and depth \(z\), defined on vertices \(0\) and \(1\), which vary along a <em>projected</em> line with a parameter \(q\), and on the line in 3D space with parameter \(t\) so $$c=c_0 + t(c_1-c_0)$$ and $$z=z_0+t(z_1-z_0)$$Previously in <a href="http://canonicalmomentum.tumblr.com/post/159235500787/building-my-own-rasteriser-part-7-mmmmm-latex">part 7</a>, we showed depth interpolates along the projected line as $$\frac{1}{z}=\frac{1-q}{z_0}+\frac{q}{z_1}$$</p>
+
+<p>Scratchapixel procedes by writing $$\frac{c-c_0}{c_1-c_0}=\frac{z-z_0}{z_1-z_0}$$ then substituting for \(z\) and doing a ton of algebraic manipulation. I prefer not to just write huge blocks of algebra.</p>
+
+<p>Instead, let’s notice that in the course of deriving the formula for interpolation of \(z\), we found that \(t=\frac{zq}{z_1}\). We can substitute <em>this</em> into the equation for \(c\), <em>then</em> the above equation for \(z\), to obtain \begin{align*}\frac{c}{z}&amp;=\frac{c_0}{z} + \frac{q}{z_1}(c_1-c_0)\\ &amp;=\frac{c_0}{z_0}(1-q)+\frac{c_0}{z_1}q + \frac{c_1}{z_1}q -\frac{c_0}{z_1}q\\ &amp;= \frac{c_0}{z_0}(1-q)+\frac{c_1}{z_1}q\end{align*}</p>
+
+<p>At some point I should properly work out the general case in <a href="https://en.wikipedia.org/wiki/Barycentric_coordinate_system">barycentric coordinates</a>, but I think we can reasonably predict from this what form it will take, i.e. $$\frac{c}{z}=\sum_i \frac{c_i}{z_i}\lambda_i(\mathbf{v})$$where \(\lambda_i\) are the barycentric coordinates.</p>
+
+<p>But hold on a minute… we don’t exactly have such a function, rather, we have the output of our perspective matrix transforming to NDCs, which is to say, $$z_\text{ndc}=\frac{f+n}{f-n}+\frac{2fn}{f-n} \frac{1}{z}$$To be fair, since then we have made the world value of \(z\) also available, so we could use that, but divisions are relatively expensive and we’re going to have to do this for every pixel, potentially more than once depending on the order that triangles are rendered. What happens if we try to use \(z_\text{ndc}\) in place of \(\frac{1}{z}\)? Let’s say \(z_\text{ndc}=A+\frac{B}{z}\). We get $$\sum_i c_i \lambda_i z_{\text{ndc} i}=A \sum_i c_i \lambda_i + B \sum_i \frac{c_i}{z_i} \lambda_i= \frac{z}{c} + A \sum_i c_i \lambda_i$$</p>
+
+<p>That last term is a problem. If we want to avoid divisions, we can calculate it as the screen-space linear interpolation of \(c\), and we’d have to pass \(A\) as well and subtract it. I was curious as to how OpenGL handles this issue, and the answer seems to be… perspective-correct interpolation is <a href="https://www.khronos.org/opengl/wiki/Type_Qualifier_(GLSL)#Interpolation_qualifiers">entirely handled by OpenGL itself</a> between rasterisation (OpenGL-handled generation of fragments) and invocation of the fragment shader, so when you write a fragment shader, you need not worry about how to interpolate stuff. Sensible, and probably optimised to be much faster, but not ideal for learning.</p>
+
+<p>I’m honestly not sure which of these methods would be faster. I could write it both ways and see how it goes I guess? But this isn’t exactly a fast renderer in any case, and I’m unlikely to need to worry about this once I’m writing real graphics code for OpenGL, so I’ll just figure out which one is most convenient.</p>
+
+<h2>Putting it in code</h2>
+
+<p>The first step is to write a general function for perspective-correct interpolation of colours, normals, texture coordinates, etc. etc. Then we can use that to create smooth shading, vertex colours, and indeed textures.</p>
+
+<p>In fact we are already most of the way to such a function. In drawing.cpp, we have</p>
+
+{% highlight cpp %}template <typename T>
+inline T interpolate(T v0, T v1, T v2, const vec3& bary) {
+    //linearly interpolate or extrapolate a quantity v defined on three vertices in screen space
+    //bary should contain barycentric coordinates with respect to the three vertices
+    return bary.x * v0 + bary.y * v1 + bary.z * v2;
+}{% endhighlight %}
+
+<p>So we can write another function:</p>
+
+{% highlight cpp %}template <typename T>
+inline T perspective_interpolate(T v0, T v1, T v2, float depth, const vec3& vert_depth, float offset, const vec3& bary) {
+    //perspective-correct linearly interpolate or extrapolate a quantity v defined on three vertices in screen space
+    //depth is the NDC depth of the target point
+    //vert_depth should contain the NDC depths of the three vertices
+    //offset should contain a correction equal to M_33 where M is the perspective projection matrix
+    //bary should contain barycentric coordinates with respect to the three vertices
+    return depth * (bary.x*vert_depth.x*v0 + bary.y*vert_depth.y*v1 + bary.z*vert_depth.z*v2 - offset * interpolate(v0,v1,v2,bary));
+}{% endhighlight %}
+
+<p>We also need to grab the value of offset and pass it down to this function when it is called.</p>
+
+<h2>What do we do with this?</h2>
+
+<p>The most immediate thing to interpolate is vertex normals. By linearly interpolating vertex normals over a triangle at each pixel instead of using a single face normal, we allow light values to smoothly vary across the model instead of sharply changing at triangle boundaries. The effect is of course limited, because fundamentally the geometry is still big flat triangles, but it gives a pretty good approximation of a smooth surface without requiring us to use triangles smaller than a pixel.</p>
+
+<p>This took several days to pull off, so I’m not going to summarise all the complications and mistakes and so forth. Essentially, what I needed to do is change my representation of a face - 3 vertex indices won’t cut it when vertex coordinates don’t necessarily correspond to vertex indices. So I had to rewrite everything to use a new header file defining a Triangle class…</p>
+
+{% highlight cpp %}#ifndef RASTERISER_FACE_H
+#define RASTERISER_FACE_H
+
+#include <array>
+
+struct Triangle {
+  //indices into vectors of coordinates, vertex normals, and uv texture coordinates for each vertex
+  std::array<int,3> vertices;
+  std::array<int,3> normals;
+  std::array<int,3> uvs;
+  Triangle(std::array<int,3> v, std::array<int,3> n, std::array<int,3> uv) : vertices(v), normals(n), uvs(uv) {};
+};
+
+#endif{% endhighlight %}
+
+<p>Here I’m using the std::array container, which is a fixed-length container that’s rather less bare-bones than old-school C arrays (which were just pointers). I find it easier to think about passing an array object by reference than passing a pointer to the first value of an array.</p>
+
+<p>I also needed to modify my file loading function to store the vertex normals it pulled out of a .obj file.</p>
+
+{% highlight cpp %}//convert the vertex normals into our format
+for(size_t vert = 0; vert < attrib.normals.size(); vert+=3) {
+    vertnormals.push_back(
+        vec3(attrib.normals[vert],
+            attrib.normals[vert+1],
+            attrib.normals[vert+2]
+        ));
+}{% endhighlight %}
+
+<p>And more significantly, store all the indices associated with a face, not just the vertex positions…</p>
+
+{% highlight cpp %}//convert the faces into our format
+//faces should all be triangles due to triangulate=true
+for(size_t shape = 0; shape < shapes.size(); shape++) {
+    vector<tinyobj::index_t> indices = shapes[shape].mesh.indices;
+    for(size_t face = 0; face < indices.size()-2; face+=3) {
+        triangles.push_back(
+            Triangle(
+                {indices[face].vertex_index, indices[face+1].vertex_index, indices[face+2].vertex_index},
+                {indices[face].normal_index, indices[face+1].normal_index, indices[face+2].normal_index},
+                {indices[face].texcoord_index, indices[face+1].texcoord_index, indices[face+2].texcoord_index}
+                ));
+    }
+}{% endhighlight %}
+
+<p>I’m not sure what the name for a list in curly braces is, but it’s basically a literal for container types as far as I can tell.</p>
+
+<p>So now we have vertex normals and indices into them. What next?</p>
+
+<h2>Smooths as sharks, aka sea puppies</h2>
+
+<p>So now we have vertex normals to interpolate, how do we do it? The key bit is this function in update_pixel…</p>
+
+{% highlight cpp %}//if smooth shading is enabled, update normal according to position in triangle
+if(not flat) {
+    normal = glm::normalize(perspective_interpolate(vertnormals[0],vertnormals[1],vertnormals[2],
+        depth,vec3(raster_vertices[0].z,raster_vertices[1].z,raster_vertices[2].z),
+        z_offset,bary));
+    if (wind_clockwise) {normal = -normal;}
+}{% endhighlight %}
+
+<p>Of course that required a fair bit more code to get all the needed data down to the update_pixel function. If you want to, you can see all the details in <a href="https://github.com/canmom/rasteriser/commit/068f2c9e4d78d44dbfad84cafd1baa042f9ea2d2">the commit diff</a>.</p>
+
+<p>Anyway, I was literally jumping up and down when I finally got it working on Suzanne.</p>
+
+<figure>
+  <img alt="Suzanne under the same lighting setup, but with smoothed normals, creating a less sharply angular appearance." src="{{ site.url }}/img/embed/rasteriser/2017-04-21-building-my-own-rasteriser-part-15-smooooooooth/img-01.png">
+</figure>
+
+<h2>The feared & fabled Stanford Bunny</h2>
+
+<p>There’s <a href="https://en.wikipedia.org/wiki/List_of_common_3D_test_models">a certain set of old ‘test models’</a> commonly used by graphics programmers when they want to try out a new program. The Stanford Teapot is probably the most famous, but it’s defined in a way that my program won’t understand. Another very common one is the <a href="https://en.wikipedia.org/wiki/Stanford_bunny">Stanford Bunny</a>. I thought it would be a good test of my program to see if I could render it, especially to see how quickly the program would render it.</p>
+
+<p>I found a <a href="http://www.cc.gatech.edu/projects/large_models/bunny.html">.ply version of the full Bunny</a> (the original distribution was broken up into pieces), and <a href="http://www.greentoken.de/onlineconv/">an online converter</a> that could turn it into the familiar Wavefront .obj. Unfortunately, there were some issues.</p>
+
+<p>The immediate thing I noticed was that the model was <em>tiny</em> compared to the scales I’d been using before, like a tenth the side. Rather than hard code a scale factor, I decided to add another command line argument. The bunny was also above the origin, so I needed to move it down.</p>
+
+<p>The other strange thing was that the model appeared to be rotated slightly compared to a lower-poly version of the Bunny. (Actually, something more interesting was going on…)</p>
+
+<p>The first thing I did was change the model matrix to include a scale parameter. Only, that didn’t seem to be doing anything, except for some strange effects with clipping planes…</p>
+
+<p>I realised that for some reason, the scaling matrix was being applied after the camera transformation. The culprit turned out to be the GLM transformation matrix functions, which are passed a matrix; I assumed they would left multiply the matrix by whatever new transformation you’re applying, allowing you to create a matrix for a succession of transformations. In fact, they right-multiply it - so if you call glm::rotate(somematrix,angle,vector) it creates a matrix where you apply the rotation, and then somematrix. This completely screwed up my intuition, and I decided to just pass the identity matrix to all these GLM functions, and handle the multiplications explicitly. It would hardly be a program bottleneck in comparison to the time-consuming drawing functions.</p>
+
+<p>Initially, I only permitted rotations about the y axis, and was somewhat confused as to whether I was rotating the camera or the model. I decided I wanted full 3D rotations, and had to work out which of the numerous representations of 3D angles (<a href="https://en.wikipedia.org/wiki/Euler_angles">Euler angles</a>, [Tait-Bryan angles](<a href="https://en.wikipedia.org/wiki/Euler_angles#Tait.E2.80.93Bryan_angles">https://en.wikipedia.org/wiki/Euler_angles#Tait.E2.80.93Bryan_angles</a>), quaternions…) to use. Blender uses Tait-Bryan angles, but calls them Euler angles, which led to some puzzlement. I decided to go for YXZ Tait-Muller angles - this means rotating around the fixed z axis, then x axis, then y axis. I wanted the y axis last because I still wanted to spin objects round the y axis.</p>
+
+<p>I ended up creating a relatively general function for a transformation matrix:</p>
+
+{% highlight cpp %}mat4 transformation_matrix(float factor, const vec3 & displacement, const vec3 & tait_bryan) {
+    //create a matrix for scaling an object by factor relative to origin, rotating it by YXZ Tait-Bryan angles tait_bryan, and displacing it by displacement
+    return glm::translate(mat4(1.f),displacement) * glm::rotate(mat4(1.f),tait_bryan.y,vec3(0.f,1.f,0.f)) * glm::rotate(mat4(1.f),tait_bryan.x,vec3(1.f,0.f,0.f)) * glm::rotate(mat4(1.f),tait_bryan.z,vec3(0.f,0.f,1.f)) * glm::scale(mat4(1.f),vec3(factor));
+}{% endhighlight %}
+
+<p>The transformations are applied in the order scale, then rotate, then translate. This function was sufficient to generate any model or view matrix I needed.</p>
+
+<p>I decided to seperate the transformation of lights to the transformation of the model. Now lights are only transformed by the view matrix, not the model-view matrix, so when the model rotates, the lights stay fixed to the camera.</p>
+
+<figure>
+  <img alt="Render of the Stanford bunny lit by pink lights, with a bizarre shading pattern caused by the normals being the wrong way round allowing us to see the inside faces of the bunny instead of the outside. Because the bunny is fairly symmetrical, it is not immediately obvious that this is what's happening." src="{{ site.url }}/img/embed/rasteriser/2017-04-21-building-my-own-rasteriser-part-15-smooooooooth/img-02.png">
+</figure>
+
+<p>Something very weird was still happening. The lighting seemed off, and when animated, the rotating object seemed to make no physical sense at all (while the monkey was just fine). Eventually I realised that actually, I was viewing the <em>inside</em> of the model, that the normals on this model were somehow coming out opposite what I expected, so instead of backface culling, I was getting frontface culling…</p>
+
+<p>The culprit was the winding angle! Essentially, you can define triangles in one of two ways, with the vertices going anticlockwise round the normal, or clockwise. Because it fits my intuition about the cross product better, until now I’d been using anticlockwise winding angles, but this bunny was using clockwise ones! So I had to add some extra code to give a command line option to reverse the normals. Once I reversed the normals, backface culling and lighting worked correctly, and I finally saw a beautiful bunny.</p>
+
+<figure>
+  <img alt="A smooth Stanford bunny, lit by pink and yellow light." src="{{ site.url }}/img/embed/rasteriser/2017-04-21-building-my-own-rasteriser-part-15-smooooooooth/img-03.png">
+</figure>
+
+<p>So ultimately my arguments list grew like so:</p>
+
+{% highlight cpp %}TCLAP::SwitchArg flatArg("f","flat","Ignore vertex normals and use flat shading",cmd);
+TCLAP::SwitchArg windingArg("","wind-clockwise","Assume clockwise rather than anticlockwise winding angle to determine backfaces",cmd);
+
+//model transformations
+TCLAP::ValueArg<float> rotxArg("","rx","Rotate by angle around x axis (composed as YXZ Tait-Bryan angles).",false,0.f,"radians",cmd);
+TCLAP::ValueArg<float> rotyArg("","ry","Rotate by angle around y axis (composed as YXZ Tait-Bryan angles).",false,0.f,"radians",cmd);
+TCLAP::ValueArg<float> rotzArg("","rz","Rotate by angle around z axis (composed as YXZ Tait-Bryan angles).",false,0.f,"radians",cmd);
+TCLAP::ValueArg<float> scaleArg("m","scale","Scale the model by given factor",false,1.f,"factor",cmd);
+TCLAP::ValueArg<float> dispxArg("","dx","Displace model in x direction",false,0.f,"distance",cmd);
+TCLAP::ValueArg<float> dispyArg("","dy","Displace model in y direction",false,0.f,"distance",cmd);
+TCLAP::ValueArg<float> dispzArg("","dz","Displace model in z direction",false,0.f,"distance",cmd);{% endhighlight %}
+
+<p>And the drawing function changed as well:</p>
+
+{% highlight cpp %}//calculate model-view matrix
+mat4 model = transformation_matrix(arguments.scale,arguments.displacement,arguments.tait_bryan_angles);
+
+mat4 view = transformation_matrix(1.f,vec3(0.f,0.f,-3.f),vec3(0.f));
+
+mat4 modelview = view * model;{% endhighlight %}
+
+<p>And now I can put things wherever I want.</p>
+
+<figure>
+  <img alt="The bunny positioned at the edge of the scene. There are odd black dots around some parts." src="{{ site.url }}/img/embed/rasteriser/2017-04-21-building-my-own-rasteriser-part-15-smooooooooth/img-04.png">
+</figure>
+
+<p>(I’m not sure what’s up with those black spots at the edges. It could be a precision thing, like z-fighting? a backface culling error? the same spots are white in the z-buffer. maybe it’s do do with very narrow faces and precision with the edge function?)</p>

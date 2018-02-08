@@ -1,0 +1,167 @@
+---
+title: "Building my own rasteriser: part 14 - it moves! it moves!"
+layout: article
+origin: https://canmom.tumblr.com/post/159691934642/building-my-own-rasteriser-part-14-it-moves-it
+date: 2017-04-17 21:52:49 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: Animated output! Hell yeah.
+custom_css: highlighting
+---
+<p>I decided it would be a very nice feature if, instead of only rendering one frame, I could have an animation loop. Handily, CImg provides a way to display a window and update its contents.</p>
+
+<p>The first step was to split more pieces out of the main renderer.cpp file. I defined a struct [class] to contain the command line arguments with the command line parser as its constructor.</p>
+
+{% highlight cpp %}//arguments.h
+#ifndef RASTERISER_ARGUMENTS_H
+#define RASTERISER_ARGUMENTS_H
+
+#include <string>
+
+struct Args {
+    unsigned int image_width;
+    unsigned int image_height;
+    float aspect_ratio;
+    float angle;
+    bool spin;
+    std::string obj_file;
+    std::string lights_file;
+    Args(int argc, char** argv);
+};
+
+#endif{% endhighlight %}
+
+{% highlight cpp %}//arguments.cpp
+#include <string>
+#include <tclap/CmdLine.h>
+
+#include "arguments.h"
+
+using std::string;
+
+Args::Args(int argc, char** argv) {
+    try {
+        TCLAP::CmdLine cmd("Render a model by rasterisation.", ' ');
+
+        TCLAP::ValueArg<float> angleArg("a","camphi","Camera azimuthal view angle",false,0.f,"radians",cmd);
+        TCLAP::ValueArg<unsigned int> widthArg("x","width","Width of output in pixels",false,540u,"pixels",cmd);
+        TCLAP::ValueArg<unsigned int> heightArg("y","height","Height of output in pixels",false,304u,"pixels",cmd);
+        TCLAP::ValueArg<std::string> objArg("o","obj","Wavefront .obj file to load",false,"null","model.obj",cmd);
+        TCLAP::ValueArg<std::string> lightsArg("l","lights","CSV file containing directional lights in format direction_x,dir_y,dir_z,intensity,red,green,blue",true,"","lights.csv",cmd);
+        TCLAP::SwitchArg spinArg("s","spin","Display an animation of the model rotating",cmd);
+        
+        cmd.parse(argc,argv);
+
+        image_width = widthArg.getValue();
+        image_height = heightArg.getValue();
+        aspect_ratio = (float)image_width/(float)image_height;
+        angle = angleArg.getValue();
+        lights_file = lightsArg.getValue();
+        obj_file = objArg.getValue();
+        spin = spinArg.getValue();
+    } catch (TCLAP::ArgException &e)  // catch any exceptions
+    { std::cerr >> "Error: " >> e.error() >> " for arg " >> e.argId() >> std::endl; exit(1);}
+}{% endhighlight %}
+
+<p>The second was to split out most of the geometry commands in the main function into a drawing function in drawing.cpp.</p>
+
+{% highlight cpp %}void draw_frame(const vector<vec3>& model_vertices, const vector<uvec3>& faces, vector<Light>& lights, const Args& arguments,
+    CImg<unsigned char>* frame_buffer, CImg<float>* depth_buffer) {
+    //transform the model vertices and draw a frame to the frame buffer
+
+    //define storage for vertices in various coordinate systems
+    unsigned int num_vertices = model_vertices.size();
+    vector<vec4> camera_vertices_homo(num_vertices);
+    vector<vec3> camera_vertices(num_vertices);
+    vector<vec4> clip_vertices(num_vertices);
+    vector<vec3> ndc_vertices(num_vertices);
+    vector<vec3> raster_vertices(num_vertices);
+
+    //calculate model-view matrix
+    mat4 model(1.0f); //later include per-model model matrix
+
+    mat4 modelview = modelview_matrix(model,arguments.angle);
+
+    //add perspective projection to model-view matrix
+    mat4 camera = camera_matrix(modelview,arguments.aspect_ratio);
+
+    //transform vertices into camera space using model-view matrix for later use in shading
+    transform_vertices(modelview, model_vertices, camera_vertices_homo);
+    z_divide_all(camera_vertices_homo,camera_vertices);
+
+    transform_lights(modelview,lights);
+
+    //transform vertices into clip space using camera matrix
+    transform_vertices(camera, model_vertices, clip_vertices);
+
+    //transform vertices into Normalised Device Coordinates
+    z_divide_all(clip_vertices, ndc_vertices);
+
+    //transform Normalised Device Coordinates to raster coordinates given our image
+    ndc_to_raster_all(arguments.image_width,arguments.image_height,ndc_vertices,raster_vertices);
+
+    //for each face in faces, draw it to the frame and depth buffers
+    for (auto face = faces.begin(); face < faces.end(); ++face) {
+        draw_triangle(*face,raster_vertices,camera_vertices,lights,frame_buffer,depth_buffer,arguments.image_width,arguments.image_height);
+    }
+}{% endhighlight %}
+
+<p>This is barely different to the version of these commands in int main.</p>
+
+<p>Finally, this let me write a simple animation loop.</p>
+
+{% highlight cpp %}if (not arguments.spin) {
+    draw_frame(model_vertices, faces, lights, arguments, &frame_buffer, &depth_buffer);
+
+    //output frame and depth buffers
+    frame_buffer.save("frame.png");
+    depth_buffer.normalize(0,255).save("depth.png");
+} else {
+    cimg_library::CImgDisplay window(frame_buffer,"Render");
+
+    //initialise values for drawing time step
+    auto last_time = std::chrono::steady_clock::now();
+    std::string frame_rate;
+    std::chrono::duration<float> time_step;
+    unsigned char white[3] = {255,255,255};
+    unsigned char black[3] = {0,0,0};
+
+    //drawing loop
+    while(!window.is_closed()) {
+        //clear the frame
+        frame_buffer.fill(0);
+        depth_buffer.fill(1.f);
+
+        //render
+        draw_frame(model_vertices, faces, lights, arguments, &frame_buffer, &depth_buffer);
+
+        //display the frame rate
+        frame_buffer.draw_text(5,5,frame_rate.c_str(),white,black);
+        window.display(frame_buffer);
+
+        //calculate the time elapsed drawing
+        auto next_time = std::chrono::steady_clock::now();
+        time_step = next_time-last_time;
+        frame_rate = std::to_string(1.f/time_step.count());
+        last_time = next_time;
+
+        //rotate proportional to time elapsed
+        arguments.angle += time_step.count();
+    }
+}{% endhighlight %}
+
+<p>This uses the standard library &lt;chrono&gt; header to get a very precise clock, and thus frames will be drawn correct to the actual frame rate for a spin rate of 1 radian per second.</p>
+
+<p>Sadly I can’t easily show the result of this, unless of course you download the code and compile it for yourself :)</p>
+
+<p>The framerate depends, naturally, on your computer and the complexity of the scene. On my fairly old laptop, I only get around 4fps on Suzanne, and fluctuations in the range 20-120fps on the square depending of course on how much of the screen it took up.</p>
+
+<p>I made a small optimisation by adding backface culling to the algorithm: a triangle will only be drawn if the z component of its normal is positive. This gave me a couple more FPS on Suzanne; the framerate soared to 400fps or so when the square was turned away from the camera.</p>
+
+<p>I’d have to do more coding to make animated file output, so I can’t really show off the results except to say “download and compile it and run it for yourself”.</p>
+
+<p>Next up: depending on what I feel like doing, either shadow maps or smooth shading and texture coordinates.</p>

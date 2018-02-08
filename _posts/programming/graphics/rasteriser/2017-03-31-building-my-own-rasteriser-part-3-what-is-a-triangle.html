@@ -1,0 +1,73 @@
+---
+title: "Building my own rasteriser: part 3 - what is a triangle?"
+layout: article
+origin: https://canmom.tumblr.com/post/159053098922/building-my-own-rasteriser-part-3-what-is-a
+date: 2017-03-31 23:11:02 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: Some basic geometry, with a view to how we represent vectors and triangles.
+custom_css: highlighting
+---
+<p>I spoke to my dad about test-driven development, and he advised me not to spend too much time in TDD on this purely self-learning project, but to think of this along the lines of a ‘spike’ in agile software development. So I won’t worry about the ins and outs Google Test.</p>
+
+<h2>Triangles and vertices</h2>
+
+<p>What is a triangle? Three vertices, each of which has a location in 3D space (coordinate system not specified) and maybe some other data associated with it (a colour, a normal, etc.). There’s two obvious ways to handle this: either we have a triangle as an object containing three vertex objects, or we have a list of vertices, and triangles have indices into the list of vertices. (That’s not getting into things like triangle strips and fans.)</p>
+
+<p>The latter means that, even if multiple triangles share a vertex (true on most 3D models), we only need to transform each vertex once. So while I was at first leaning towards the former representation, let’s go with the latter. This is also the approach used in major file formats <a href="https://en.wikipedia.org/wiki/Wavefront_.obj_file">such as Wavefront’s .obj</a>.</p>
+
+<p>A vertex is represented by a three-vector in 3D space, or four-vector in <a href="https://en.wikipedia.org/wiki/Homogeneous_coordinates">homogeneous coordinates</a>. However, we can mostly discard the w-coordinate since it is always 1, <em>except</em> when we transform by the perspective matrix (and then only before we normalise with the z-divide).</p>
+
+<p>Out of familiarity, for now I’ll store the vertices in a std::vector of glm::vec3f objects. (I anticipate the fact that “vector” refers to both a collection type (std::vector) and a geometric object (glm::vec3f) is going to prove confusing, so I’ll try to be specific and use the programming terms.) Later, I’ll probably use a library like <a href="https://github.com/syoyo/tinyobjloader">tinyobjloader</a> to load geometry from files.</p>
+
+<p>There’s still a question of normals. For flat shading, we want face normals (which can be calculated automatically for a triangle), for smooth shading, vertex normals that we can interpolate. An OBJ file has a list of normals, and each vertex in a face can have indices into them (in addition to texture UV coordinates). I think I won’t include vertex normals for now, but maybe refactor to include them later.</p>
+
+<h2>Adding a square</h2>
+
+<p>To begin with, I’m going to write something incredibly simple: create a vertices vector and faces vector, and add two triangles comprising a unit square centred on the origin normal to the z axis.</p>
+
+{% highlight cpp %}#include <vector>;
+
+#include <glm/vec3.hpp>;
+#include <glm/vec4.hpp>;
+#include <glm/mat4x4.hpp>;
+
+#include <glm/gtc/matrix_transform.hpp>;
+
+void add_square(std::vector<glm::vec3> &vertices, std::vector<glm::uvec3> &faces) {
+        vertices.push_back(glm::vec3(-0.5f,-0.5f,0.0f));
+        vertices.push_back(glm::vec3(0.5f,-0.5f,0.0f));
+        vertices.push_back(glm::vec3(-0.5f,0.5f,0.0f));
+        vertices.push_back(glm::vec3(0.5f,0.5f,0.0f));
+
+        faces.push_back(glm::uvec3(0,1,2));
+        faces.push_back(glm::uvec3(1,2,3));
+}
+
+int main() {
+        std::vector<glm::vec3> vertices;
+        std::vector<glm::uvec3> faces;
+
+        add_square(vertices,faces);
+
+        return 0;
+}{% endhighlight %}
+
+<p>This code compiles (yay!) and runs without crashing (yay!). Of course, it doesn’t actually return anything to the console so there’s no way to tell if it’s doing the right thing. It’s not exactly an impressive feat of coding yet, but it’s taking me a while to relearn how to work in a language as finicky as C++.</p>
+
+<h2>And then what?</h2>
+
+<p>The next stage in the renderer algorithm is to transform the vertices by the model-view-perspective matrix, resulting in a new set of vertices in <em>clip space</em>. The model-view-perspective matrix is a 4x4 matrix that acts on a vector in homogeneous coordinates, so it’s necessary to add the w coordinate before we do the matrix multiplication.</p>
+
+<p>Before we worry about that, though, lets consider the model-view-perspective matrix. As the name implies, the model-view-perspective martrix is composed of three matrices:</p>
+<ul>
+  <li>the <em>model</em> matrix, which transforms the vertices from model space (coordinates relative to the model origin) to world space (different for each model in the scene)</li>
+
+  <li>the <em>view</em> matrix, which manages the effects of moving the camera by the equivalent operation of moving the entire world in the opposite direction</li>
+
+  <li>the <em>perspective</em> matrix, which transforms the world coordinates into clip coordinates; this is the only one that actually changes the w coordinate. The precise perspective matrix must be generated based on distances from the camera to the near and far clipping planes and the coordinates of the corners of the near clipping plane. Fortunately, GLM has a function that does this for us.</li>
+</ul>

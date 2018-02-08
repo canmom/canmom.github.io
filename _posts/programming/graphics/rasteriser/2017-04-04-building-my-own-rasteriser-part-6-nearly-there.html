@@ -1,0 +1,80 @@
+---
+title: "Building my own rasteriser: part 6 - nearly there"
+layout: article
+origin: https://canmom.tumblr.com/post/159173660112/building-my-own-rasteriser-part-6-nearly-there
+date: 2017-04-04 02:13:58 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: Working out whether a pixel is inside a triangle, and if so, what its barycentric coordinates are.
+custom_css: highlighting
+---
+<p>We have a bunch of vertices transformed into Normalised Device Coordinates, some triangles which each index three of these vertices, and now we want to draw them to the screen. How?</p>
+
+<p>The <a href="https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/rasterization-stage">tutorial I’m loosely following</a> on Scratchapixel describes it like this:</p>
+
+<blockquote>
+  <p>Keep in mind that drawing a triangle (since triangle is primitive we will use in this case), is a two steps problem:</p>
+  <ul>
+    <li>We first need to find which pixels overlap the triangle.</li>
+
+    <li>We then need to define which colors should the pixels overlapping the triangle be set to, a process that is called <em>shading</em></li>
+  </ul>
+
+  <p>The rasterization stage deals essentially with the first step. The reason we say essentially rather than exclusively is because at the rasterisation stage, we will also compute something called <em>barycentric coordinates</em> which to some extent, are used in the second step.</p>
+</blockquote>
+
+<p>How is this done? We define an edge function for each of the three edges of the triangle, that divides the world into a ‘positive’ and ‘negative’ half. The intersection of the three positive parts is the inside of the triangle. At the same time we can calculate barycentric coordinates, which are important for interpolation.</p>
+
+<p>I’m not going to try to summarise the Scratchapixel article, because honestly I’ll just do a worse job. Instead, let’s head on towards implementation. Apparently this whole thing can be sped up a lot by parallelisation, but for now I just want to get it working correctly.</p>
+
+<p>The edge function for each edge can be defined equivalently as a matrix determinant or in terms of the <a href="https://en.wikipedia.org/wiki/Exterior_algebra">exterior product</a> of two 2D vectors, as the signed area of a parallelogram created by the two vectors, or just in terms of components. (Scratchapixel talks about the cross product, but the cross product is only defined for 3D vectors. The edge function is a scalar not an object in an exterior algebra, but if you take the exterior product of two vectors, the result is proportional to the edge function.)</p>
+
+<p>For a point \(\mathbf{p}\) and two vertices \(\mathbf{v}_1\) and \(\mathbf{v}_2\), defined such that the <em>winding direction</em> (‘direction’ of edges around the ‘front’ face of the triangle) is counter-clockwise (the default setting in OpenGL), the edge function is given by $$E_{12}(\mathbf{p}) = (v_{2x} - v_{1x})(p_y - v_{1y})-(v_{2y} - v_{1y})(p_x - v_{1x})$$ or in terms of an exterior product, $$E_{12}(\mathbf{p})\mathbf{e}_x \wedge \mathbf{e}_y = (\mathbf{v}_2-\mathbf{v}_1)\wedge(\mathbf{p}-\mathbf{v}_1)$$ (nb as far as I can tell, the statement on Scratchapixel about the CCW edge function is incorrect, and equivalent to the one they’ve given for the CW edge function! But this one ought to be correct).</p>
+
+<p>GLM doesn’t have library functions to calculate the exterior product, so we’ll need to input this componentwise. Easy enough (I’m using the vertices as vec3 so that I don’t need to enable swizzle operators):</p>
+
+{% highlight cpp %}float edge(const vec2& point, const vec3& vert1, const vec3& vert2) {
+    return (vert2.x-vert1.x)*(point.y-vert1.y) - (vert2.y - vert1.y) * (point.x - vert1.x);
+}{% endhighlight %}
+
+<p>This would in principle be enough to fill in pixels on our rasteriser wherever the triangle is, but since the tutorial says this is also the place to calculate barycentric coordinates, let’s do that thing too.</p>
+
+<p>The intuitive explanation (if not formal derivation) is outlined in the Scratchapixel article, so I’ll just say that the barycentric coordinates \(\lambda_i\) add up 1, and measure proximity to each of the vertices of the triangle (1 being the same point, 0 being on the opposite edge). They are given by dividing the edge functions by the edge function of the third point from the first two. They can be used to linearly interpolate values defined at the vertices to any point on the triangle, or even to extrapolate them outside of the triangle.</p>
+
+<p>So let’s make a function to get barycentric coordinates (and, since I still don’t want to enable swizzle operators due to the dire warnings about how it will take longer to compile and bloat my executable, write a quick swizzle function for xy)…</p>
+
+<p>This also allows us to check whether a point is inside the triangle (without backface culling), since if any of the barycentric coordinates are negative, the point is outside the triangle.</p>
+
+{% highlight cpp %}vec2 xy(const vec3& v) {
+    return vec2(v.x,v.y);
+}
+
+vec3 barycentric(const vec2& point, const vec3& vert0, const vec3& vert1, const vec3& vert2) {
+    float area = edge(xy(vert2), vert0, vert1);
+    vec3 bary(0.0f);
+
+    bary.x = edge(point,vert1,vert2)/area;
+    bary.y = edge(point,vert2,vert0)/area;
+    bary.z = edge(point,vert0,vert1)/area;
+
+    return bary;
+}{% endhighlight %}
+
+<p>Let’s test it does the thing it’s supposed to. I picked a sample point (0.1,0.1) in NDCs which should be inside the first triangle, and calculated its barycentric coordinates. The results were 0.356308, 0.191798, 0.451894, which adds up to 1 as it should! :) I don’t know for sure if that’s the correct barycentric coordinates, but it looks plausible.</p>
+
+<h2>Interpolation</h2>
+
+<p>Following the tutorial, we can now write a function to interpolate some values over the triangle using the barycentric coordinates.</p>
+
+<p>With C++ as such a strongly typed language, we could end up writing a ton of different functions for like, interpolating a single value, interpolating a vec3, etc. Fortunately we can take a leaf out of GLM’s book and use <a href="https://en.wikipedia.org/wiki/Template_(C%2B%2B)">templates</a>. Template code reminds me of Python’s duck typing, though they seem a bit more complicated (I’m not fully sure I understand the inline keyword).</p>
+
+{% highlight cpp %}template <typename T>
+inline T interpolate(T v0, T v1, T v2, const vec3& bary) {
+    return bary.x * v0 + bary.y * v1 + bary.z * v2;
+}{% endhighlight %}
+
+<p>Anyway, it’s too late at night to construct a test case for this and see if I’ve used the template syntax correctly, so let’s leave that to tomorrow.</p>

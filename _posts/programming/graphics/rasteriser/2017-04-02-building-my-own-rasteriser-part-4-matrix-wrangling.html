@@ -1,0 +1,156 @@
+---
+title: "Building my own rasteriser: part 4 - matrix wrangling"
+layout: article
+origin: https://canmom.tumblr.com/post/159097272072/building-my-own-rasteriser-part-4-matrix
+date: 2017-04-02 03:19:45 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: Building up the model-view-perspective matrix.
+custom_css: highlighting
+---
+<h2>Our camera matrix</h2>
+
+<p>As discussed at the end of the last one, the vertices of a model must be transformed by the model-view-perspective, or camera, matrix to place them in <em>clip space</em>.</p>
+
+<p>What information do we need to generate the camera matrix?</p>
+<ul>
+  <li>the rotation of the model</li>
+
+  <li>the displacement of the model from the origin</li>
+
+  <li>the rotation of the camera</li>
+
+  <li>the displacement of the camera from the origin</li>
+
+  <li>parameters to define the perspective matrix, which with GLM, consist of:</li>
+
+  <li>
+    <ul>
+      <li>the vertical field of view in radians</li>
+
+      <li>the aspect ratio</li>
+
+      <li>the distance to the near clipping plane</li>
+
+      <li>the distance to the far clipping plane</li>
+    </ul>
+  </li>
+</ul>
+
+<p>As it happens the example code for GLM involves calculating a camera matrix. So let’s have a look at how they do it.</p>
+
+{% highlight cpp %}#include <glm/vec3.hpp> // glm::vec3
+#include <glm/vec4.hpp> // glm::vec4
+#include <glm/mat4x4.hpp> // glm::mat4
+#include <glm/gtc/matrix_transform.hpp> // glm::translate, glm::rotate, glm::scale, glm::perspective
+
+glm::mat4 camera(float Translate, glm::vec2 const & Rotate)
+{
+    glm::mat4 Projection = glm::perspective(glm::radians(45.0f), 4.0f / 3.0f, 0.1f, 100.f);
+    glm::mat4 View = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, -Translate));
+    View = glm::rotate(View, Rotate.y, glm::vec3(-1.0f, 0.0f, 0.0f));
+    View = glm::rotate(View, Rotate.x, glm::vec3(0.0f, 1.0f, 0.0f));
+    glm::mat4 Model = glm::scale(glm::mat4(1.0f), glm::vec3(0.5f));
+    return Projection * View * Model;
+}{% endhighlight %}
+
+<p>This doesn’t allow an arbitrary camera direction, but rather requires that it’s pointed at the origin.</p>
+
+<p>The function effectively takes three float parameters: the distance the camera is moved from the origin, and two angles to determine the direction from the origin.</p>
+
+<p>First, it generates a perspective projection matrix with a 45 degree vertical FOV, a 4:3 aspect ratio, a near clipping plane at distance 0.1, and a far clipping plane at distance 100.</p>
+
+<p>Then it generates a translation matrix to move everything in the -z direction by the amount Translate, equivalent to moving the camera by Translate in the +z direction. The openGL perspective projection matrix assumes the camera is pointing in the -z direction, which is exactly what we want. Note that the GLM functions don’t simply generate a matrix, but apply the translation to an existing matrix - in this case, the identity matrix.</p>
+
+<p>Next, it rotates this matrix around the x axis, and then the y axis. Since this rotation is applied after the translation, this in effect moves the camera around the origin as well as changing which way it is pointing.</p>
+
+<p>Finally, a model matrix is generated. In this example, it simply downscales the model to half the size.</p>
+
+<p>For the return value, the three matrices are multiplied together in an order such that the model matrix is applied, then the view matrix, then the perspective projection matrix.</p>
+
+<p>What about my rasteriser? To be fully general, I would need to rotate the model and camera arbitrarily, translate them in an arbitrary direction, and take arbitrary parameters for the perspective matrix. That’s probably overkill - we can write a more general algorithm later. Instead, let’s have the camera orbit the geometry at a fixed distance, and we’ll just use hardcoded numbers for the parameters. So all we need is the angle.</p>
+
+<p>The function will follow basically the same lines as the example, but we don’t need a model matrix, nor am I going to rotate the camera around the y axis. For clarity, I’m initialising the view matrix as an identity matrix, and the compiler will handle optimising this.</p>
+
+{% highlight cpp %}glm::mat4 camera_matrix(float angle) {
+    glm::mat4 perspective = glm::perspective(glm::radians(45.0f),16.0f/9.0f,0.1f,3.f);
+    glm::mat4 view(1.0f);
+    view = glm::translate(view, glm::vec3(0.0f,0.0f,-1.5f));
+    view = glm::rotate(view,angle,glm::vec3(0.0f,1.0f,0.0f));
+    return perspective * view;
+}{% endhighlight %}
+
+<h2>Let’s check it works</h2>
+
+<p>I’ll add a simple function to print out the values of a mat4, so we can make sure we’re getting the kind of matrix we expect.</p>
+
+<p>GLM matrices are indexed first by selecting a column, then a row, as in the OpenGL Shader Language. This is, confusingly, opposite the order we index matrices in mathematical writing. In other words, matrix[j][i] in code refers to matrix component \(M_ij\).</p>
+
+<p>So a simple function to print a matrix to the standard output (I tried to do it to an arbitrary output stream but apparently passing cout as an ostream reference isn’t the right way to do it):</p>
+
+{% highlight cpp %}void print_mat4(glm::mat4 matrix) {
+    for (int i = 0; i < 4; ++i) {
+        for (int j = 0; j < 4; ++j) {
+            std::cout << matrix[j][i];
+            if (j != 3) {
+                std::cout << ",";
+            }
+        }
+        std::cout << '\n';
+    }
+}{% endhighlight %}
+
+<p>Then I inserted it in a bunch of points in the matrix calculation.</p>
+
+{% highlight cpp %}glm::mat4 camera_matrix(float angle) {
+    glm::mat4 perspective = glm::perspective(glm::radians(45.0f),16.0f/9.0f,0.1f,3.f);
+    print_mat4(perspective);
+    std::cout << '\n';
+
+    glm::mat4 view(1.0f);
+    view = glm::translate(view, glm::vec3(0.0f,0.0f,-1.5f));
+    print_mat4(view);
+    std::cout << '\n';
+
+    view = glm::rotate(view,angle,glm::vec3(0.0f,1.0f,0.0f));
+    print_mat4(view);
+    std::cout << '\n';
+
+    return perspective * view;
+}{% endhighlight %}
+
+<p>Result for one radian rotation:</p>
+
+<figure><pre>1.358,0,0,0
+0,2.41421,0,0
+0,0,-1.06897,-0.206897
+0,0,-1,0
+
+1,0,0,0
+0,1,0,0
+0,0,1,-1.5
+0,0,0,1
+
+0.540302,0,0.841471,0
+0,1,0,0
+-0.841471,0,0.540302,-1.5
+0,0,0,1</pre></figure>
+
+<p>The first of these is recognisably a perspective matrix - the last row being 0,0,-1,0 is a dead giveaway since that puts a vertex’s z coordinate into its w coordinate. The other parameters all look plausible.</p>
+
+<p>The second is clearly a translation matrix, just as ordered. And the third is the product of a translation matrix with a rotation matrix. (I can’t tell if the matrix is correct for one radian of rotation just by looking, but it looks plausible). Perfect :)</p>
+
+<p>For completeness, when we multiply those matrices together, we get this matrix:</p>
+
+<figure><pre>0.733728,0,1.14271,0
+0,2.41421,0,0
+0.899503,0,-0.577564,1.39
+0.841471,0,-0.540302,1.5</pre></figure>
+
+<p>The next step is to transform the coordinates into clip space. This can be done by multiplying each point by the camera matrix.</p>
+
+<p>(Though this isn’t really a lot of progress today, I got pretty distracted, and I kind of need to stop now. Tomorrow, though, I hope I can write the actual shading code.)</p>

@@ -1,0 +1,56 @@
+---
+title: "Building my own rasteriser: part 1 - setting up"
+layout: article
+origin: https://canmom.tumblr.com/post/159004079722/building-my-own-rasteriser-part-1-setting-up
+date: 2017-03-30 15:56:54 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: "I'm going to learn how rasterisation works! First: what tools and libraries should I use, and how do I set it all up?"
+---
+<p>For various reasons, I’ve been trying to teach myself about 3D computer graphics lately.</p>
+
+<p>Reading theory is all well and good, but you aren’t going to learn a thing if you don’t actually program anything. Graphics code, which has to be very fast, is often written in C or C++, so it’s time to dust off those C++ skills from uni. After several years coding in much easier languages like Javascript and Python, they’re very dusty skills.</p>
+
+<h2>The plan</h2>
+
+<p>My first objective is to handle none of the shading side, just the bare bones mathematical aspects of transforming triangles into normalised device coordinates and displaying a 2D image of the points. This doesn’t necessarily need to involve graphics card APIs yet. I will be following <a href="https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm">this well-explained tutorial</a> from Scratchapixel.</p>
+
+<p>The next goal will be to learn how to send data to OpenGL (or Vulkan!), write simple shaders, and get results out along the lines of less theory-heavy OpenGL tutorials. A reasonable objective here is to have a nice revolving <a href="https://en.wikipedia.org/wiki/Blender_(software)#Suzanne">Suzanne</a> or <a href="https://en.wikipedia.org/wiki/Utah_teapot">Utah Teapot</a> with a nice-ish shader on it.</p>
+
+<p>From there I can start learning how various graphics algorithms work. I’m not planning to make my own game engine, just understand how they work a bit better.</p>
+
+<h2>C++ is a royal pain innit</h2>
+
+<p>I’m developing on my Windows desktop machine with the fancy graphics card and all that.</p>
+
+<p>First problem was to get a compiler. I don’t really like Visual Studio because it’s a huge ponderous program and I learned C++ on Linux, where you just invoke the compiler on the command line. It turns out there is a port of the Gnu C Compiler to Windows called MinGW… but I may not end up actually using that because of other tools I ended up using.</p>
+
+<p>The first question I had was, am I supposed to implement my own linear algebra library? While this entire project is reinventing the wheel to some degree, linear algebra isn’t a particular wheel I care to reinvent. It turns out that once I figured out what to actually search for (even with a qualifier like ‘Euclidean’, ‘vector’ is not a good search term for C++, but ‘matrix’ is, and in fact what I should have been searching is ‘linear algebra’) <a href="http://stackoverflow.com/questions/1380371/what-are-the-most-widely-used-c-vector-matrix-math-linear-algebra-libraries-a">it turns out there are actually loads of them</a>.</p>
+
+<p>So I hesitantly settled on <a href="http://ggt.sourceforge.net/">GMTL</a>.</p>
+
+<p>The next problem I had was, how the heck do you manage packages and dependencies in C++? Other languages have a nice convenient package manager which lets you list the dependencies of your project in your source code repository, and when someone else downloads your git repo, they can just call some command to automatically download and install the packages you need.</p>
+
+<p>C++, by virtue of being much older than the trend towards every language having its own package manager, is a much messier situation. On Linux, most distros provide various C++ libraries in their package manager, but there’s no such luck on Windows, and in any case either way there’s <a href="https://www.reddit.com/r/cpp/comments/3d1vjq/is_there_a_c_package_manager_if_not_how_do_you/">no easy way to specify dependencies</a>.</p>
+
+<p>So should I just dump all the code of the library in my project’s folder, which sounds pretty bloated? <a href="http://stackoverflow.com/questions/49196/storing-third-party-libraries-in-source-control">This seems to be what people actually do</a>. Should I upload the library code to github along with my project? I really didn’t want to do that.</p>
+
+<p>One possible solution is to use a git feature called <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules">submodules</a>. That lets me mark part of my module as a ‘submodule’ based on another git repository, and if I push the module to github, the submodule contents wouldn’t be included but can be installed with a console command. That’s exactly what I want… <em>if</em> the library I want has a git repository associated with it. GMTL doesn’t.</p>
+
+<p>There <em>is</em> a relatively recent attempt to make a C++ package manager/dependency system, called <a href="https://www.conan.io/">Conan</a>. There’s also another, no-longer-maintained one called <a href="https://github.com/iauns/cpm">CPM</a>. Conan is very flexible and proved easy to set up, albeit defaulting to the Visual Studio compiler through CMake. Well, as long as I can run it from the command line, I don’t really mind whether it’s VS or MinGW. But… GMTL wasn’t on their list.</p>
+
+<p>On the other hand, <a href="http://glm.g-truc.net/0.9.8/index.html">GLM</a>, another graphics-targeted library with linear algebra code <a href="https://www.conan.io/source/glm/0.9.7.6/dlarudgus20/stable"><em>was</em> present</a>. It has a lot of downloads. However, this one didn’t come highly recommended on the above Stack Overflow thread on linear algebra libraries. Someone called GameDeveloper <a href="http://stackoverflow.com/questions/1380371/what-are-the-most-widely-used-c-vector-matrix-math-linear-algebra-libraries-a#comment47036652_26489565">said</a>:</p>
+
+<blockquote>
+  <p>well, it provide graphics programming vector and matrices. it introduces nice amount of overhead to keep compliant on GLSL (if you can do it in GLSL, most times doing it in GLSL is better especially with GL 4.x), and miss many graphics programming primitives (frustum, AABB, BB, ellipsoid). Its swizzle interface it’s obese. Much better alternative would be if it had “.xyzz()” functions generated with some code generation. It is perfect when you have to prototype opengl applications and starts showing its negative sides on bigger projects. never code a math library.</p>
+</blockquote>
+
+<p>That said, since making a rasterisation program is essentially “prototyping an openGL application", maybe that isn’t so bad. And it will make it easier to learn GLSL later. (AABB is Axis-Aligned Bounding Box, BB is therefore most likely Bounding Box, frustums are of course important in the perspective transform; I’m not sure I’ll need ellipsoids).</p>
+
+<p>Another option for a much more generic linear algebra library <a href="https://www.conan.io/source/Eigen3/3.2.8/bilke/stable">also available on Conan</a> is Eigen. That may be overkill for what I want to do, thoguh, which is probably covered in GLM. I’m going to stick with GLM for now.</p>
+
+<p>Next post, some info on rasterisation, and hopefully the details of an actual attempt to implement this thing with code.</p>

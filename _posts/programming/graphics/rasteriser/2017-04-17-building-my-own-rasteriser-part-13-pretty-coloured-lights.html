@@ -1,0 +1,126 @@
+---
+title: "Building my own rasteriser: part 13 - pretty coloured lights!"
+layout: article
+origin: https://canmom.tumblr.com/post/159659521862/building-my-own-rasteriser-part-13-pretty
+date: 2017-04-17 01:21:40 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: Coloured lights and surfaces are enabled. Things no longer have to be red.
+custom_css: highlighting
+---
+<p>I spent several hours splitting the code into multiple files and headers that could be linked together.</p>
+
+<p>The next step was to correct my program’s handling of colour. This meant rewriting the shading function to return a 3-vector of colour values instead of a single value, to use a 3-vector for the albedo, and to use the already-defined 3-vector for light colour.</p>
+
+{% highlight cpp %}vec3 light_contribution(const vec3& normal, const vec3& albedo, const Light& light) {
+    return light.intensity * light.colour * albedo * glm::max(0.f,glm::dot(normal,-light.trans_dir)) * glm::one_over_pi<float>();
+}
+
+uvec3 shade(const vec3& normal, const vec3& albedo, const vector<Light> lights) {
+    //determine colour of pixel given barycentric coordinates
+
+    vector<vec3> light_contributions(lights.size());
+    auto lc = std::bind(light_contribution,normal,albedo,_1);
+    std::transform(lights.begin(),lights.end(),light_contributions.begin(), lc);
+    
+    vec3 result = glm::min(std::accumulate(light_contributions.begin(),light_contributions.end(),vec3(0.f)),vec3(255.f));
+
+    return (uvec3)result;
+}
+
+void update_pixel(unsigned int raster_x, unsigned int raster_y,
+    const vec3& vert0, const vec3& vert1, const vec3& vert2, const vec3& normal, const vector& lights,
+    CImg& frame_buffer, CImg& depth_buffer) {
+    //take pixel at point raster_x,raster_y in image plane
+    //determine if it is inside traingle defined by vert0, vert1 and vert2
+    //if so, determine if it is nearer than the current depth buffer
+    //if so, update depth buffer and shade pixel
+
+    vec3 bary = barycentric(vec2(raster_x,raster_y),vert0,vert1,vert2);
+    float depth = interpolate(vert0.z,vert1.z,vert2.z,bary);
+
+    //Is this pixel inside the triangle?
+    if (glm::all(glm::greaterThanEqual(bary,vec3(0.f)))) {
+        //Is this pixel nearer than the current value in the depth buffer?
+        if(depth < depth_buffer(raster_x,raster_y)) {
+            depth_buffer(raster_x,raster_y,0,0) = depth;
+            uvec3 pixel = shade(normal,vec3(1.f),lights);
+            frame_buffer(raster_x,raster_y,0,0) = (unsigned char)pixel.r;
+            frame_buffer(raster_x,raster_y,0,1) = (unsigned char)pixel.g;
+            frame_buffer(raster_x,raster_y,0,2) = (unsigned char)pixel.b;
+        }
+    }
+}{% endhighlight %}
+
+<p>I wanted to return a 3-vector of unsigned chars, but for some reason GLM removed that type a few version ago. So we have the kludgy solution of two casts to different types when really there should only be one.</p>
+
+<p>Currently changing the colours requires recompiling the code, but the results are pretty sweet.</p>
+
+<p>First, white light on white Suzanne:</p>
+
+<figure>
+  <img alt="A white model of Suzanne lit by a light from slightly above." src="{{ site.url }}/img/embed/rasteriser/2017-04-17-building-my-own-rasteriser-part-13-pretty-coloured-lights/img-00.png">
+</figure>
+
+<p>Second, a white Suzanne with a red light and a green light on different sides, showing the colours mixing (both pointing down-ish).</p>
+
+<figure>
+  <img alt="Suzanne lit by red on the left and green on the right, mixing to yellow on the centre faces." src="{{ site.url }}/img/embed/rasteriser/2017-04-17-building-my-own-rasteriser-part-13-pretty-coloured-lights/img-01.png">
+</figure>
+
+<p>Like holy shit??? that’s so cool</p>
+
+<p>Naturally shining a red light on a green Suzanne results in a black frame.</p>
+
+<h2>I need a lights file</h2>
+
+<p>Anyway I need more robust ways to specify lighting setups instead of hardcoding it and recompiling every time I want to change the lighting setup. Wavefront .obj does not have a format for lights.</p>
+
+<p>The easiest way seems to be to use an existing format, in this case CSV. So we’re going to add another header-only parser library.</p>
+
+<p>First I’m splitting the obj loader into a new ‘fileloader’ file, then I’ll write the CSV parser in there.</p>
+
+<p>…that <a href="https://github.com/canmom/rasteriser/commit/99f16f56b3ed513c353a879bc4ebbfe055dce848">proved easy enough</a>.</p>
+
+<p>Now, a CSV parser library. At first I was considering <a href="https://github.com/ben-strasser/fast-cpp-csv-parser">this one</a>, but I found another one <a href="https://www.conan.io/source/text-csv/latest/signal9/stable">on Conan</a>.</p>
+
+<p>The parser is very easy to write:</p>
+
+{% highlight cpp %}void load_lights(std::string file, vector<Light> &lights) {
+    std::ifstream file_stream(file);
+    csv_istream csv_stream(file_stream);
+
+    float dx, dy, dz, i, r, g, b;
+
+    while(csv_stream) {
+        csv_stream >> dx >> dy >> dz >> i >> r >> g >> b;
+        lights.push_back(Light(vec3(dx,dy,dz),i,vec3(r,g,b)));
+    }
+}{% endhighlight %}
+
+<p>I added a command line option to parse a CSV file, and created a simple three-point lighting setup in a CSV file, and the results are satisfying:</p>
+
+<figure>
+  <img alt="Suzanne lit by a simple three-point lighting setup." src="{{ site.url }}/img/embed/rasteriser/2017-04-17-building-my-own-rasteriser-part-13-pretty-coloured-lights/img-02.png">
+</figure>
+
+<p>mmmm that sure is a bland studio lighting setup!</p>
+
+<p>the apparent shadows round the eyes are an illusion: those triangles are simply not facing any lights. implementing shadows would be an interesting challenge, and I’d have to learn about shadow buffers to do it. possible in principle, but it will take some reading…</p>
+
+<p>so the features I’m considering adding before I call this project “done”:</p>
+<ul>
+  <li>diffuse maps (texture coordinate interpolation)</li>
+
+  <li>smooth shading (vertex normal interpolation)</li>
+
+  <li>shadow buffers</li>
+
+  <li>specularity (phong? or learn more modern PBR BRDFs?)</li>
+</ul>
+
+<p>but at some point soon though I need to call this a complete project and move on to a real graphics API like OpenGL and Vulkan.</p>

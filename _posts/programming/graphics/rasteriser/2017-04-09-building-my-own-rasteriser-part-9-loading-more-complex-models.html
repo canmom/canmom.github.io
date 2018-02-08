@@ -1,0 +1,128 @@
+---
+title: "Building my own rasteriser: part 9 - loading more complex models"
+layout: article
+origin: https://canmom.tumblr.com/post/159392934577/building-my-own-rasteriser-part-9-loading-more
+date: 2017-04-09 23:33:55 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: The program gains command-line arguments, and the ability to load geometry from .obj files.
+custom_css: highlighting
+---
+<p>Well, we’ve rendered a square! More importantly, we’ve set up a rendering pipeline which can render an arbitrary number of triangles, as long as you don’t mind them being red.</p>
+
+<p>Squares are nice, but what if you want to render something that isn’t a square? What if you have a .obj file and you want to render whatever’s inside it?</p>
+
+<p>Fortunately, someone went and made a C++ library to do that thing called <a href="https://github.com/syoyo/tinyobjloader">TinyObjLoader</a>. It’s not on Conan, but it’s only one header file so it should be perfectly compatible with our buildchain, and we can just plop it in the vendor folder (the license is in the file).</p>
+
+<h2>Making a Monkey</h2>
+
+<p><a href="https://en.wikipedia.org/wiki/Wavefront_.obj_file">Wavefront .obj</a> is a simple and commonly-used format for storing 3D files in a text file. You can read about the specification on Wikipedia. The important thing here is that I can output an .obj file from <a href="https://www.blender.org/">Blender</a> (the lovely open source 3D graphics suite - teaching myself Blender while I was in school was probably where my interest in 3D graphics began), and it’s more comprehensible than Blender’s native .blend format.</p>
+
+<p>So I exported a .obj file containing <a href="https://en.wikipedia.org/wiki/Blender_(software)#Suzanne">Suzanne</a>, the Blender monkey. Opening it up in a text editor, I found it contains 1512 lines total of vertex positions, vertex normals, and faces (which in .obj consist of indices into the lists of vertices, texture coordinates and vertex normals, but we don’t have any texture coordinates exported because I didn’t try to UV map Suzanne). According to Blender, the model has 968 triangles. That’s going to be a more robust test than two triangles.</p>
+
+<p>What next? TinyObjLoader takes an obj file and produces an array of vertex coordinates, an array of indices into the vertex coordinates, and an array of the number of indices in the second array that correspond to a particular face (which might be all 3 if you use the ‘triangulate’ option).</p>
+
+<p>Very efficient, I guess, but that’s a bit awkward, actually - what we really want is to convert that into our existing representation of vertices, a std::vector of glm::vec3 objects. Or else rewrite the code we have so as to deal with these data structures. The former seems more palatable.</p>
+
+<h2>Command line arguments</h2>
+
+<p>It seems like it would be sensible for us to be able to pass in various aspects of what we want to render and how we want to render it.</p>
+
+<p>There are many, many libraries that claim to parse command line arguments. After checking a couple of stack overflow threads, I decided to reject Boost’s one (not header-only) and the GNU one (fiddly), and go with <a href="http://tclap.sourceforge.net/manual.html">TCLAP</a>. There’s a version of TCLAP available on Conan, so I added that to my conanfile. Whoever set it up didn’t quite set up their Conan package correctly, but calling the -build TCLAP option handles that just fine (there’s nothing to actually build since it’s header-only of course).</p>
+
+<p>Implementing this is pretty easy actually:</p>
+
+{% highlight cpp %}int main(int argc,char** argv) {
+    try {
+        TCLAP::CmdLine cmd("Render a model by rasterisation.", ' ', "0.1");
+
+        TCLAP::ValueArg<float> angleArg("a","angle","Camera view angle",false,0.f,"radians",cmd);
+        TCLAP::ValueArg<unsigned int> widthArg("x","width","Width of output in pixels",false,540u,"pixels",cmd);
+        TCLAP::ValueArg<unsigned int> heightArg("y","height","Height of output in pixels",false,304u,"pixels",cmd);
+        
+        cmd.parse(argc,argv);
+
+        //define output width and height
+        unsigned int image_width = widthArg.getValue();
+        unsigned int image_height = heightArg.getValue();
+        float aspect_ratio = (float)image_width/(float)image_height;
+        float angle = angleArg.getValue();
+        ...{% endhighlight %}
+
+<p>So we can now render at different angles and sizes freely from the command line. Neato. I’ll thrown in more command line arguments as I think of them, I guess.</p>
+
+<h2>Hop a computer</h2>
+
+<p>At this point I went to London. I was unable to bring my WIndows desktop, and switched to a laptop running Linux Mint. Time to test if my toolchain instructions really are as platform-independent as I hope!</p>
+
+<p>The installation mostly went without a hitch, once I’d installed Conan and CMake (which is trivial on a Linux distro with a package repository). I only had a problem at compile time - it seems that CImg needs a library called LibX11 to work on Linux (presumably to do with its display-image-in-a-window functions). I installed that, but then it had a different pile of errors all relating to CImg, and after some poking, I determined I needed to set the linker flabs -lX11 and -lpthread. I added those to my CMakeLists.txt, but I worry it is going to get upset when I go back to developing on Windows. I guess I’ll find out next week.</p>
+
+<h2>Back to the Obj loader</h2>
+
+<p>So, now we can input a model to load instead of hardcoding it.</p>
+
+<p>At some point I need to split this increasingly overbearing file into submodules, but for now, let’s just add a function to load an obj file, and a command line parameter to name a file.</p>
+
+<p>TinyObjLoader defines some types, of which three are currently relevant: attrib_t which contains std::vectors of vertex data, and shape_t which contain a mesh_t object, which contains std::vectors of indices into the arrays of attrib_t, and arrays of how many items an individual face corresponds to. There’s also a material_t, but we’re not concerned with that in this program.</p>
+
+<p>These are loaded by passing pointers to attrib_t, a vector of shape_t, and a vector of material_t to the function LoadObj, along with a string to contain any errors that crop up, and a string that’s the path to the file we’re loading. There’s also an optional argument that’s a pointer to the directory to look for the model file, and an optional argument that defaults to ‘true’ for whether to automatically triangulate the model. (Although it defaults to true, the example code doesn’t seem to assume the model is triangulated… but nevermind.)</p>
+
+<p>So here’s our loader function</p>
+
+{% highlight cpp %}void load_obj(std::string file, vector<vec3> &vertices, vector<uvec3> &faces) {
+    //load a Wavefront .obj file at 'file' and store vertex coordinates as vec3 and faces as uvec3 of indices
+
+    tinyobj::attrib_t attrib;
+    vector<tinyobj::shape_t> shapes;
+    vector<tinyobj::material_t> materials; //necessary for function call, but will be discarded
+    std::string err;
+
+    //load all data in Obj file
+    //'triangulate' option defaults to 'true' so all faces should be triangles
+    bool success = tinyobj::LoadObj(&attrib, &shapes, &materials, &err, file.c_str());
+
+    //boilerplate error handling
+    if (!err.empty()) {
+        std::cerr << err << std::endl;
+    }
+    if (!success) {
+        exit(1);
+    }
+
+    //convert the vertices into our format
+    for(size_t vert = 0; vert < attrib.vertices.size()-2; vert+=3) {
+        vertices.push_back(
+            vec3(attrib.vertices[vert],
+                attrib.vertices[vert+1],
+                attrib.vertices[vert+2]
+            ));
+    }
+
+    //convert the faces into our format
+    //faces should all be triangles due to triangulate=true
+    for(size_t shape = 0; shape < shapes.size(); shape++) {
+        vector<tinyobj::index_t> indices = shapes[shape].mesh.indices;
+        for(size_t face = 0; face < indices.size()-2; face+=3) {
+            faces.push_back(
+                uvec3(indices[face].vertex_index,
+                    indices[face+1].vertex_index,
+                    indices[face+2].vertex_index
+                ));
+        }
+    }
+}{% endhighlight %}
+
+<p>It compiles, which is good. Now let’s load the monkey (which I had to remake because I’m on a different computer…) I had to add a command line argument, and the camera distance needed some adjustment, but…</p>
+
+<figure>
+  <img alt="A depth buffer image of Suzanne, a stock model of a cartoon monkey's head available in Blender." src="{{ site.url }}/img/embed/rasteriser/2017-04-09-building-my-own-rasteriser-part-9-loading-more-complex-models/img-00.png">
+</figure>
+
+<p><em>HOLY SHIT IT ACTUALLY WORKS</em>
+</p>
+
+<p>(that’s the depth buffer, because the frame buffer isn’t much to look at yet. also getting Blender to display the same thing would be fiddly on a laptop, so no direct comparisons yet. still, that is very recognisably Suzanne the Blender monkey. status: chuffed.)</p>

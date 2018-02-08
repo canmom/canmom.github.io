@@ -1,0 +1,63 @@
+---
+title: "Building my own rasteriser: 15.6 - escaping from libpng hell"
+layout: article
+origin: https://canmom.tumblr.com/post/160067484967/building-my-own-rasteriser-156-escaping-from
+date: 2017-04-28 01:02:21 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: I want to deal with PNG files. Simple, right? Ha. Ha. Ha.
+custom_css: highlighting
+---
+<p><span class="activity"><a class="notification-tumblelog-link js-hover-trigger-TumblelogPopover" data-peepr='{"tumblelog":"bartlebyshop"}' href="https://bartlebyshop.tumblr.com/">bartlebyshop</a> replied to your post <a href="https://canmom.tumblr.com/post/160066637872/hahaha-it-turns-out-i-didnt-even-need-to-do-all"><span class="summary">“hahaha it turns out i didn’t even need to do all that crap with libpng…”</span></a></span>
+</p>
+
+<blockquote>
+  me, upon hearing canmom is using libpng: “free her”
+</blockquote>
+
+<p>the story:</p>
+<ul>
+  <li>I was using the CImg header-only library to manipulate images in my renderer</li>
+
+  <li>CImg does not natively handle PNG, but invokes an external call to ImageMagick or GraphicsMagick to convert between PNG and formats it can use</li>
+
+  <li>I was saving things to PNG just fine but…</li>
+
+  <li>I tried to make CImg open a PNG file to use as a texture in my renderer program. an error came out reporting some incorrect parameter involving a PNM file in my %LOCALAPPDATA%/Temp, and then segfaulted. I assumed that CImg was using GraphicsMagick to convert the PNG to a PNM file it could load and storing the result in %LOCALAPDDATA%/Temp, but there was a bug in CImg that was making this fail. That seemed like I’d have to modify CImg itself to fix…</li>
+
+  <li>I looked around and discovered if you link libpng and define a flag before the CImg header, it can handle PNG natively without invoking GraphicsMagick. “Easy enough”, thought I, in an especially foolish way</li>
+
+  <li>at first, I tried installing libpng using the Conan package manager. It wouldn’t build because there was a space in the path to my installation of MinGW.</li>
+
+  <li>“I shouldn’t have to build it, I’ll just use a binary” I resolved. After some reading, I worked out how to make CMake search for a library.</li>
+
+  <li>CMake discovered I had copies of libpng and zlib from my installation of the Anaconda scientific python distribution. “Perfect”, I thought, but the linker thought otherwise, and complained about not recognising the .lib file for libpng that had been picked out by CMake.</li>
+
+  <li>“It’s probably a problem with the version of libpng used in Anaconda” I thought, in a spirit of special naivete. I downloaded binaries of libpng and zlib from the <a href="http://gnuwin32.sourceforge.net/">GNU-Win32</a> project.</li>
+
+  <li>This time, the linker was able to recognise the files and the compiler was able to use its headers, but when it came to linking the files, it complained about just about every possible libpng file being an undefined reference.</li>
+
+  <li>At some ill-defined point in that mess, I tried going back to the Conan distribution of libpng, with MinGW’s GCC now moved to a nice safe space-free path. It compiled! Yay! But when it came to link it, the linker couldn’t make sense of the target that Conan or CMake or <em>something</em> had defined.</li>
+
+  <li>I switched over to my Linux laptop. I had to install libpng, which I did with a single console command from the distro’s package repo. I compiled my project! It linked without trouble! …but the segfaults were still happening.</li>
+
+  <li>With the help of my girlfriend <a class="tumblelog" href="https://tmblr.co/mruB-75HBvH2GI7vHWrrilQ">@whatnothuman</a>, I used the GNU debugger to work out what was causing the segfaults, and fixed it. My program worked, except that I was calculating the texture coordinates wrong, but that was a far more solvable problem.</li>
+
+  <li>But I didn’t want a program that would only work on Linux. So I went back to try and solve the issues with Windows. The binaries distributed by GNUwin32 seemed to be the closest I’d got. Maybe, I thought, the problem is that I am running a 64-bit compiler and trying to link a 32-bit library. I <em>could</em> tell the compile to build 32bit, but then I’d have to redownload all my Conan files. Well, I thought, I’ll just download the libpng source code directly from the project home page, and compile it with my 64-bit compiler, and have a nice 64-bit linkable version of libPNG.</li>
+
+  <li>I ran CMake with default options, and tried to compile libPng. The linker had a problem. Of course, it would need a 64-bit version of ZLib as well. I downloaded the ZLib source, and compiled it. It actually compiled without any problems! I put the compiled result on my path, and ran cmake again.</li>
+
+  <li>This time, the compiler got further… and then hit a bunch of <em>compiler</em> warnings and errors trying to build one of the libpng files. Nobody else seemed to be having these exact errors.</li>
+
+  <li>Then I thought, wait a minute, now I know the segfault wasn’t associated with GhostScript, and the fact it got far enough to segfault suggests the error wasn’t fatal. So what if I removed all the libpng stuff from my project and built it again?</li>
+
+  <li>I did that. The same error message about the PNM file came up… but the program carried on executing, loaded the file it was supposed to, and rendered an image. So… libpng wasn’t needed <em>at all</em>.</li>
+</ul>
+
+<p>At least I learned something. (Mostly that libpng is a pain.)</p>
+
+<p>(The texture coordinates are still messed up. But that’s a much smaller problem than working out what’s wrong with libpng, and I have a plan in mind to correct my formula and make it closer to OpenGL.)</p>

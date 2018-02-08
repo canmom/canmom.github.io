@@ -1,0 +1,86 @@
+---
+title: "Building my own rasteriser - part 11: lights!"
+layout: article
+origin: https://canmom.tumblr.com/post/159474148237/building-my-own-rasteriser-part-11-lights
+date: 2017-04-12 02:09:13 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: Introducing Lambertian diffuse shading and directional ('sun') lights to our setup.
+custom_css: highlighting
+---
+<p>So yesterday we rederived the Lambertian reflectance case, and determined that the radiance depends on the angle between the incident light and the normal. But… what happens to that angle after the matrix transformation and renormalisation we do to push all the points into Normalised Device Coordinates? And the rescaling to raster space?</p>
+
+<p>One thing to note is that, <a href="https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry/transforming-normals">per Scratchapixel</a>, if a triangle is transformed by some matrix \(M\), its normal is transformed by the inverse transpose \(M^{-1T}\). Scratchapixel defaults to using row vectors, while I prefer column vectors, so I’m going to rewrite the proof quickly…</p>
+
+<p>Let \(\mathbf{v}\) be some vector in a triangle, and \(\mathbf{n}\) be the normal. We thus have $$\mathbf{n}\cdot\mathbf{v}=\mathbf{n}^T\mathbf{v}=0$$. Suppose we have some transformation expressed by \(\mathbf{v}’= \mathsf{M}\mathbf{v}\) with a matrix \(\mathsf{M}\). Then we can write $$0=\mathbf{n}^T\mathbf{v}=\mathbf{n}^T \mathsf{M}^{-1} \mathsf{M} \mathbf{v}=\left(\mathsf{M}^{-1T}\mathbf{n} \right)^T \mathbf{v}’=\mathbf{n}’\cdot\mathbf{v}’$$telling us that a vector \(\mathbf{n}’=\mathsf{M}^{-1T}\mathbf{n}\) is perpendicular to \(\mathbf{v}’\), i.e., the normal of the transformed triangle.</p>
+
+<p>That, I think, may solve our problem. Suppose we have some arbitrary vector \(mathbf{v}\) (no longer necessarily in the same plane) and we calculate the dot product with a normal i.e. \(\mathbf{n}\cdot\mathbf{v}\). Now we transform them as above, and we get $$\mathbf{n’}\cdot\mathbf{v’}=\left(\mathsf{M}^{-1T}\mathbf{n} \right)^T \mathsf{M}\mathbf{v}=\mathbf{n}\cdot\mathbf{v}$$which is to say, the dot product of a vector and a normal is preserved under arbitrary matrix transformations. So as long as we transform the normals correctly, we don’t need to worry! That’s convenient.</p>
+
+<h2>Wrangling normals</h2>
+
+<p>The first thing we’re going to do is flat shading, i.e. ignoring the vertex normal data we get from the .obj file in favour of flat shading.</p>
+
+<p>We have two choices: we could precompute the normals and then transform them with the inverse matrix, or else calculate them when we need them from the triangles. Either way it seems like we’ll have to renormalise them.</p>
+
+<p>I think for now I’ll just write code to calculate the normal at the time of the shading step. Later this can be adapted to a different means of calculating the normal if necessary. Calculation of the face normal is easy to express:</p>
+
+{% highlight cpp %}vec3 normal = glm::normalize(glm::cross(vert1-vert0,vert2-vert0));{% endhighlight %}
+
+<h2>Representing lights</h2>
+
+<p>The two simplest kinds of light are spherical lights and directional lights. Spherical lights are somewhat more complicated in rasterisation than they are in raytracing, but directional lights are easy enough.</p>
+
+<p>A directional light consists of a direction, an intensity, and a colour. A direction can be thought of as a homogeneous vector with \(w=0\), i.e. a point at infinity. However, I was confused by the fact that, when you multiply with the perspective matrix, \(w\) seems to inevitably stop being zero. That seems to mean that points at infinity seem to get mapped to non-infinity points by the perspective transformation. Is that a problem? I’m not sure.</p>
+
+<p>It does seem like the basic OpenGL perspective projection matrix (without multiplication with the view and model matrices) will always give a value in the z-coordinate proportional to the original z coordinate, which is to say, after the perspective divide, the z-value will be a constant. I have no idea what the significance of this observation is.</p>
+
+<p>Anyway let’s blithely assume that everything is OK. So let’s define a light as a class:</p>
+
+{% highlight cpp %}struct Light {
+    vec3 direction;
+    float intensity;
+    vec3 colour;
+    vec3 trans_dir;
+    Light(vec3 d, float i, vec3 c) : direction(d), intensity(i), colour(c) { }
+    void transform(const mat4& transformation);
+};{% endhighlight %}
+
+<p>Later in the program we can define this function transform properly:</p>
+
+{% highlight cpp %}void Light::transform(const mat4& transformation) {
+    trans_dir = glm::normalize(z_divide(transform_direction(transformation,direction)));
+}{% endhighlight %}
+
+<p>We also need to make some modifications to our drawing functions, to pass the data up and down, but I’ll wait to paste these until we’ve written the shading function.</p>
+
+<h2>The moment of truth?</h2>
+
+<p>So what is the much-anticipated shading function going to be? Well, let’s start with the arguments:</p>
+
+{% highlight cpp %}unsigned char shade(const vec3& normal,float albedo, const vector<Light> lights) { {% endhighlight %}
+
+<p>The function will need to loop over the lights, adding up contributions from each one, and return (for now) a number in [0,255]. Each light’s contribution is the dot product of the normal with the light direction - except actually I believe it’s opposite the light direction - multiplied by its intensity and the albedo. (We’ll ignore colour for now.)</p>
+
+{% highlight cpp %}float light_contribution(const vec3& normal, float albedo, const Light& light) {
+    return light.intensity * albedo * glm::max(0.f,glm::dot(normal,-light.trans_dir));
+}
+
+unsigned char shade(const vec3& normal,float albedo, const vector<Light> lights) {
+    //determine colour of pixel given barycentric coordinates
+
+    vector<float> light_contributions(lights.size());
+    auto lc = std::bind(light_contribution,normal,albedo,_1);
+    std::transform(lights.begin(),lights.end(),light_contributions.begin(), lc);
+    
+    float result = glm::min(255*std::accumulate(light_contributions.begin(),light_contributions.end(),0.f),255.f);
+
+    return (unsigned char)result;
+}{% endhighlight %}
+
+<p>As expected, with no lights defined, this produces a black frame.</p>
+
+<p>OK, let’s define a light and see if anything happens. But I need to make sure the lights are getting transformed firs,t and it’s like 3AM now so I’ll leave that to tomorrow.</p>

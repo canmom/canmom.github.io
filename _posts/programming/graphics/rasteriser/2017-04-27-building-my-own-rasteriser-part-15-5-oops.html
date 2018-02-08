@@ -1,0 +1,21 @@
+---
+title: "Building my own rasteriser: part 15.5 - oops"
+layout: article
+origin: https://canmom.tumblr.com/post/160036269707/building-my-own-rasteriser-part-155-oops
+date: 2017-04-27 03:26:32 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: I realise a mistake in my calculation of normal interpolation.
+custom_css: highlighting
+---
+<p>I’m going to fix the post tomorrow, but in <a href="https://canmom.tumblr.com/tagged/building-my-own-rasteriser/">the post on implementing perspective-correct z-interpolation</a>, I took $$\frac{c}{z}=\sum_i \frac{c_i}{z_i}\lambda_i(\mathbf{v})$$ and $$z_\text{ndc}=A+\frac{B}{z}$$ and claimed to demonstrate $$\sum_i c_i \lambda_i z_{\text{ndc} i}=A \sum_i c_i \lambda_i + B \sum_i \frac{c_i}{z_i} \lambda_i= \frac{z}{c} + A \sum_i c_i \lambda_i$$</p>
+
+<p>This is kind of <em>embarassingly wrong</em> in at least two ways. And somehow I didn’t realise how wrong it was despite going to the effort of implementing it. It was only when my texture coordinates were doing all kinds of weird things that I realised what I’d done.</p>
+
+<p>A correct derivation would have gone: \begin{align*}\sum_i c_i \lambda_i z_{\text{ndc} i}&amp;=A \sum_i c_i \lambda_i + B \sum_i \frac{c_i}{z_i} \lambda_i\\&amp;= \frac{cB}{z} + A \sum_i c_i \lambda_i\\&amp;= c(z_\text{ndc}-A)+A\sum_i c_i \lambda_i\end{align*}which means $$c=\frac{1}{z_\text{ndc}-A}\sum_i c_i \lambda_i (z_{\text{ndc} i}-A)$$but actually this could have been obtained much easier by observing $$\frac{1}{z}=\frac{z_\text{ndc}-A}{B}$$</p>
+
+<p>I am increasingly confused as to why the openGL frustum matrix was designed to have the term I’m calling \(A\), that is matrix element 3,3. Sure, it guarantees that \(z\) will be mapped to the range [-1,1] but I don’t really see the point of that, and it’d be much more convenient if it was 0 and \(z_\text{ndc}\) was proportional to \(\frac{1}{z}\)</p>

@@ -1,0 +1,134 @@
+---
+title: "Building my own rasteriser: part 8 - pixels! on! the! screen!"
+layout: article
+origin: https://canmom.tumblr.com/post/159269023112/building-my-own-rasteriser-part-8-pixels-on
+date: 2017-04-06 16:38:33 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: I get the first image out of my program and get very excited.
+custom_css: highlighting
+---
+<p>The first thing to do seems to be to write a function that is basically akin to an OpenGL fragment shader, taking a single pixel’s coordinates, testing whether they’re overlapping a triangle, if they’re not covered by an earlier triangle, and then drawing them to the screen.</p>
+
+<p>The fastest access operator for CImg does no bounds checking. That’s fine, we can ‘just’ add some code to clamp the bounding box to the image boundary (it took several hours to debug an order-of-operations related problem but whatevs):</p>
+
+{% highlight cpp %}void bounding_box(uvec2& top_left, uvec2& bottom_right,
+    const vec3& vert0, const vec3& vert1, const vec3& vert2,
+    unsigned int image_width, unsigned int image_height) {
+
+    top_left.x = (unsigned int)glm::clamp(std::min({vert0.x,vert1.x,vert2.x}),0.f,image_width - 1.f);
+    top_left.y = (unsigned int)glm::clamp(std::min({vert0.y,vert1.y,vert2.y}),0.f,image_height - 1.f);
+
+    bottom_right.x = (unsigned int)glm::clamp(std::max({vert0.x,vert1.x,vert2.x}),0.f,image_width - 1.f);
+    bottom_right.y = (unsigned int)glm::clamp(std::max({vert0.y,vert1.y,vert2.y}),0.f,image_height - 1.f);
+}{% endhighlight %}
+
+<p>But actually GLM has its own max and min functions that work with vector types if you import the header &lt;glm/gtx/extented_min_max.hpp&gt; header (nb that’s how it’s spelled, no typo), so we can make this a little bit simpler:</p>
+
+{% highlight cpp %}void bounding_box(uvec2& top_left, uvec2& bottom_right,
+    const vec3& vert0, const vec3& vert1, const vec3& vert2,
+    unsigned int image_width, unsigned int image_height) {
+
+    vec2 image_bottom_right(image_width - 1, image_height -1);
+
+    top_left = (uvec2)glm::clamp(
+        glm::min(xy(vert0),xy(vert1),xy(vert2)),
+        vec2(0.f),image_bottom_right);
+
+    bottom_right = (uvec2)glm::clamp(
+        glm::ceil(glm::max(xy(vert0),xy(vert1),xy(vert2))),
+        vec2(0.f),image_bottom_right);
+}{% endhighlight %}
+
+<p>Maybe this could stand to be optimised some, but it probably won’t be the major bottleneck so let’s not worry.</p>
+
+<p>I wasn’t sure if GLM had a function to test whether all the values in a vector were greater than a constant (in this case 0), and unfortunately the GLM website went down yesterday so I can’t check the documentation, and it’s not available on archive.org. Lacking GLM docs seems likely to be a problem again, so I decided to install Doxygen and build my own version of the docs. This meant installing doxygen (a Windows binary was available), cloning GLM from <a href="https://github.com/g-truc/glm">its git repository</a> (the Conan version doesn’t have a doxygen file), switching to the 'docs’ directory, and running 'doxygen man.doxy’. Now I have a local copy of the GLM docs, yay.</p>
+
+<p>With that in mind, I was able to find that there are vector comparison operators in GLM, so after that lengthy excursion I can write slightly simpler code. (My code is a mess so it’s not really helping much lol).</p>
+
+<p>So here’s a function to test a pixel and apply the z-buffer algorithm.</p>
+
+{% highlight cpp %}void update_pixel(unsigned int raster_x, unsigned int raster_y,
+    const vec3& vert0, const vec3& vert1, const vec3& vert2,
+    CImg<unsigned char>& frame_buffer, CImg<float>& depth_buffer) {
+    
+    vec3 bary = barycentric(vec2(raster_x,raster_y),vert0,vert1,vert2);
+    float depth = interpolate(vert0.z,vert1.z,vert2.z,bary);
+
+    //Is this pixel inside the triangle?
+    if (glm::all(glm::greaterThanEqual(bary,vec3(0.f)))) {
+        //Is this pixel nearer than the current value in the depth buffer?
+        if(depth < depth_buffer(raster_x,raster_y)) {
+            depth_buffer(raster_x,raster_y) = depth;
+            frame_buffer(raster_x,raster_y) = shade(bary/* some other vertex data*/);
+        }
+    }
+}{% endhighlight %}
+
+<p>But what is our shade function going to be? The details of shading are a whole other tutorial. For now, let’s just say we’ll fill in the triangles with a single colour, and we’ll write another shading function later. So shade() just returns 255.</p>
+
+<p>Now we can finally write a program to shade a triangle! Hopefully.</p>
+
+{% highlight cpp %}void draw_triangle(const uvec3& face, const vector<vec3>& raster_vertices,
+    CImg<unsigned char>* frame_buffer, CImg<float>* depth_buffer,
+    unsigned int image_width, unsigned int image_height) {
+
+    vec3 vert0 = raster_vertices[face.x];
+    vec3 vert1 = raster_vertices[face.y];
+    vec3 vert2 = raster_vertices[face.z];
+
+    uvec2 top_left;
+    uvec2 bottom_right;
+
+    bounding_box(top_left,bottom_right,vert0,vert1,vert2,image_width,image_height);
+
+    cout << "Bounding box: (" << top_left.x << ", " << top_left.y << ") to (" << bottom_right.x << ", " << bottom_right.y << ")\n";
+
+    for(unsigned int raster_y = top_left.y; raster_y <= bottom_right.y; raster_y++) {
+        for(unsigned int raster_x = top_left.x; raster_x <= bottom_right.x; raster_x++) {
+            update_pixel(raster_x,raster_y, vert0,vert1,vert2, *frame_buffer,*depth_buffer);
+
+        }
+    }
+}{% endhighlight %}
+
+<p>So I just need to instantiate my frame and depth buffers and call this for every triangle, probably. Of course, just as I go to get the docs for CImg, the website goes down. Thankfully, archive.org has archived the docs this time, and after a night’s sleep, the site’s back up anyway.</p>
+
+<p>“Calling this for every triangle” proved rather harder than it sounded. I eventually figured out that using std::bind to partially apply draw_triangle, and then using it in a std::for_each loop, somehow broke its link with the depth and frame buffers so I was writing to some kind of copy of them instead, even though I was passing them by reference in the function definition. Maybe if I passed the buffers by pointer instead of by reference? Honestly I don’t really understand how bind works…</p>
+
+<p>Using a pointer turns out to work! And we finally get an output frame :D</p>
+
+<figure>
+  <img alt="A red trapezium on a black background, identically positioned to the images a couple of articles ago." src="{{ site.url }}/img/embed/rasteriser/2017-04-06-building-my-own-rasteriser-part-8-pixels-on-the-screen/img-00.png">
+</figure>
+
+<p>aaaaaaa :D</p>
+
+<p>aaaaaaaaa :D</p>
+
+<p>OK, it doesn’t look like much, but I rendered that! That was me! My program! (…with a bunch of help from the GLM and CImg libraries but still).</p>
+
+<p>I also tried to output the depth buffer, but saving a CImg of floats in the range [-1,1] as a PNG is a bit harder. Not hugely harder, though: there is a function to normalise the image in CImg.</p>
+
+<figure>
+  <img alt="The same trapezium, with a gradient along it representing the depth from the camera. Near to the camera, the trapezium is dark, and as we move further away it gets lighter. The background is white." src="{{ site.url }}/img/embed/rasteriser/2017-04-06-building-my-own-rasteriser-part-8-pixels-on-the-screen/img-01.png">
+</figure>
+
+<p>Note that the values here are not strictly speaking the depth, but linearly related to the inverse depth. White is the maximum possible distance from the camera (the far clipping plane), and black is the closest point in the image (not necessarily as close as the near clipping plane, but no closer than that). So we have confirmation it really is generating a depth buffer!</p>
+
+<p>That is <em>incredibly satisfying</em>, but I don’t feel like I’m done yet. There are some more things I’d like to do with this before I go to the world of OpenGL:</p>
+<ul>
+  <li>import an obj loader and set it to render files from disc</li>
+
+  <li>shade faces based on normals and lighting direction</li>
+
+  <li>interpolate texture coordinates</li>
+
+  <li>clean up the code and let it take input from the command line</li>
+
+  <li>animation</li>
+</ul>

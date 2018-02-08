@@ -1,0 +1,45 @@
+---
+title: "Building my own rasteriser: part 10 - today you learn what a BRDF is"
+layout: article
+origin: https://canmom.tumblr.com/post/159435145847/building-my-own-rasteriser-part-10-today-you
+date: 2017-04-11 01:25:37 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: Unsatisfied with the derivation on Scratchapixel, I work through the maths of a Bidirectional Reflectance Distribution Function.
+custom_css: highlighting
+---
+<p>Of course, given that a fair few people reading this already know quite a bit about graphics, you probably already know what a BRDF is. Like, if you’ve ever used a recent version of Blender, you’ve probably seen it while setting up a node-based material for Cycles. Also, we’re only going to be using the diffuse BRDF for now, and that’s just a constant. Nevertheless.</p>
+
+<h2>A not entirely quick overview of shading theory and the Lambertian case</h2>
+
+<p>More detail is covered on Scratchapixel, <a href="https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading">here</a> and <a href="https://www.scratchapixel.com/lessons/3d-basic-rendering/phong-shader-BRDF">here</a>. Or alternatively, <a href="https://pdfs.semanticscholar.org/023a/5c184b8cb9e9c5f2ac61fa679fedc1a478f8.pdf">this paper</a>. But I found the derivation given on Scratchapixel somewhat unsatisfying and wanted to do it my way. With apologes to mathematicians, I’m going to be using physicist-style looseness of notation here, though hopefully not as bad as Scratchapixel…</p>
+
+<p>The BRDF (Bidirectional Reflectance Distribution Function) relates the differential radiance (“power per unit solid-angle-in-the-direction-of-a-ray per unit projected-area-perpendicular-to-the-ray”, basically what your eyes see) of reflected light leaving a small piece of a surface in a particular direction \(\hat{\omega}_r\), denoted \(L_r(\hat{\omega}_r)\), to the differential irradiance \(E_i(\hat{\omega}_i)\) (power per unit surface area) from a particular direction \(\hat{\omega}_i\). Wikipedia writes it as $$f(\hat{\omega}_i,\hat{\omega}_o)=\frac{\dif L_r(\hat{\omega}_r)}{\dif E_i(\hat{\omega}_i)}$$</p>
+
+<p>A simple geometric argument says that a beam of light of radiance \(L_i\) incident on a surface at an angle \(\theta_i\) from the normal is spread out over an area increased by a factor of \(\frac{1}{\cos \theta}_i\). The total power coming from a particular direction is \(L_i \dif \omega_i\) where \(\dif \omega_i = \sin \theta_i \dif \theta_i \dif \phi_i\) is the differential solid angle. This means we can say the differential contribution of incident light from the direction \( \dif E_i = L_i(\hat{\omega}_i) \cos \theta_i \dif \omega_i\). So we can rewrite the BRDF as $$f(\hat{\omega}_i,\hat{\omega}_o)=\frac{\dif L_r(\hat{\omega}_r)}{L_i(\hat{\omega}_i) \cos \theta_i \dif \omega_i}$$</p>
+
+<p>That \(\cos\theta_i\) term can be given by a dot product, i.e. \(\cos \theta_i = \hat{\omega}_i \cdot \hat{\mathbf{n}}\) where \(\hat{\mathbf{n}}\) is the surface normal at the point of reflection.</p>
+
+<p>We can rewrite this into a differential form more suitable for thinking about rendering: $$\dif L_o=f(\hat{\omega}_i,\hat{\omega}_o)L_i(\hat{\omega}_i)\hat{\omega}_i \cdot \hat{\mathbf{n}} \dif \omega_i$$If we integrate this over the incident angle, we get a simplified form of the <a href="https://en.wikipedia.org/wiki/Rendering_equation">rendering equation</a> $$L_o(\hat{\omega}_o)=\int_{\Omega_i} \dif L_o=\int_{\Omega_i} f(\hat{\omega}_i,\hat{\omega}_o)L_i(\hat{\omega}_i)\hat{\omega}_i \cdot \hat{\mathbf{n}} \dif \omega_i$$This says the total energy leaving the surface in a particular direction per unit solid angle is the integral of the BRDF multiplied by the dot product of the incident light direction and the normal multiplied by the differential solid angle over all directions.</p>
+
+<p>Now let’s consider the case of a BRDF set to a constant, which we’ll call \(k\) for now. This is called <em>diffuse</em> or <em>Lambertian</em> reflection and corresponds to a case where, due to chaotic subsurface scattering interactions, reflected light leaves the surface in a completely random direction, so the <em>radiance</em> is constant regardless of direction. Let’s also define the diffuse <a href="https://en.wikipedia.org/wiki/Reflectance">reflectance</a> \(\rho_d\) of a surface (also sometimes called albedo), which determines what proportion of incident energy is absorbed, and what proportion is reflected. We can use this to fix the constant value of our BRDF.</p>
+
+<p>First let’s relate the total exiting radiant flux to the total incident rdiant flux, i.e. integrate the radiant intensity which is the radiance times the cosine of the angle between the direction and the normal (the projected area). This means $$\int_{\Omega_o} L_o(\hat{\omega}_o) \hat{\omega}_o \cdot \hat{\mathbf{n}} \dif \omega_o =\rho_d \int_{\Omega_i} L_i(\hat{\omega}_i) \hat{\omega}_i \cdot \hat{\mathbf{n}} \dif \omega_i$$Then we can substitute in the above deterination of \(L_o\) in terms of the BRDF: $$\int_{\Omega_o} \hat{\omega}_o \cdot \hat{\mathbf{n}} \int_{\Omega_i} f(\hat{\omega}_i,\hat{\omega}_o)L_i(\hat{\omega}_i)\hat{\omega}_i \cdot \hat{\mathbf{n}} \dif \omega_i \dif \omega_o =\rho_d \int_{\Omega_i} L_i(\hat{\omega}_i) \hat{\omega}_i \cdot \hat{\mathbf{n}} \dif \omega_i$$Now, we’re working with a constant BRDF, which allows us to factor the first integral as $$\int_{\Omega_o} k \hat{\omega}_o \cdot \hat{\mathbf{n}} \dif \omega_o \int_{\Omega_i} L_i(\hat{\omega}_i)\hat{\omega}_i \cdot \hat{\mathbf{n}} \dif \omega_i =\rho_d \int_{\Omega_i} L_i(\hat{\omega}_i) \hat{\omega}_i \cdot \hat{\mathbf{n}} \dif \omega_i$$which simplifies nicely to $$\int_\Omega k \hat{\omega}_o \cdot \hat{\mathbf{n}} \dif \omega = \rho_d$$</p>
+
+<p>So let’s solve this integral. Integrating over the hemisphere and replacing the differential solid angle with the equivalent expression in spherical polar coordinates, we have $$k\int_{\phi=0}^{2\pi}\int_{\theta=0}^\frac{\pi}{2} \cos \theta \sin \theta \dif \theta \dif \phi = \rho_d$$which can be solved as $$\rho_d=2\pi k \int_0^\frac{\pi}{2} \frac{1}{2}\sin 2 \theta \dif \theta = \frac{\pi k}{2} \big[- \cos 2 \theta \big]^\frac{\pi}{2}_0=\pi k$$ so $$k=\frac{\rho_d}{\pi}$$</p>
+
+<p>Great, we’ve rederived the Lambertian BRDF in a way that’s maybe slightly more rigorous than scratchapixel?</p>
+
+<p>Anyway, a Lambertian BRDF is plausible as long as \(\rho_d\le 1\).</p>
+
+<h2>Coding a shading function</h2>
+
+<p>The brightness of a pixel on the screen is proportional to the radiance. Somehow, we need to map that into the range [0,255].</p>
+
+<p>First, we need to actually calculate the radiance. And that means handling how to deal with directions in NDCs or even raster space. I’m not sure if a calculation made with the transformed points and normals would still give the same radiance, since it seems like all the angles will be different. Scratchapixel’s article focuses almost entirely on raytracing - understandably, since it’s simpler.</p>
+
+<p>It’s too late at night now to figure out what changes (if anything). So I’ll leave this post as a huge pile of algebra for you all to chew on, and think about that (and write the actual shading function!) tomorrow.</p>

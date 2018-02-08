@@ -1,0 +1,107 @@
+---
+title: "Building my own rasteriser: part 2 - getting the toolchain to like, do anything"
+layout: article
+origin: https://canmom.tumblr.com/post/159018692502/building-my-own-rasteriser-part-2-getting-the
+date: 2017-03-31 00:09:49 GMT
+categories:
+ - programming
+ - graphics
+ - rasteriser
+tags:
+ - building my own rasteriser
+excerpt: I get used to compiling code using minGW, and plan out the steps of the algorithm
+---
+<h2>Does any of this actually work?</h2>
+
+<p>That’s… quite important. I’ve gotten a “hello world” algorithm working in plain C++ with MinGW, but haven’t yet tested Conan’s CMake file, or the GLM library. Also I would like to figure out how to do basic operations like, multiplying a thing by a matrix.</p>
+
+<p>I wrote a simple program that’s supposed to instantiate a vector and a matrix, rotate one by the other, and print the result to the console.</p>
+
+<p>Then I got stuck because I didn’t understand how CMake works.</p>
+
+<p>After a bit of poking, I found out that I need to write the CMakeLists.txt file myself. I guess that makes sense.</p>
+
+<p>Then there was a whole mess of making it use the right compiler and so on. Eventually I figured out I needed to use CMake’s -D flag to tell it to use GCC, but first delete the incorrect CMake cache. So last I had… a makefile.</p>
+
+<p>So, now to use mingw32-make to <em>actually compile the thing</em> and see if my code is wrong.</p>
+
+<p>Then I got a huge list of error messages because it seems this vector format doesn’t play nice with the stream operator &lt;&lt;. Fair enough, that was just a guess.</p>
+
+<p>So I quickly rewrote that bit to use the components directly. That’s fine.</p>
+
+<p>Next I had a problem with the code for generating a rotation matrix. Checking the docs… oh crap I forgot the angle lol. Uh, call it one radian.</p>
+
+<p>So here’s the code I ended up with:</p>
+
+<pre>#include &lt;iostream&gt;
+
+#include &lt;glm/vec3.hpp&gt;
+#include &lt;glm/vec4.hpp&gt;
+#include &lt;glm/mat4x4.hpp&gt;
+
+#include &lt;glm/gtc/matrix_transform.hpp&gt;
+
+int main() {
+    glm::mat4 rot = glm::rotate(glm::mat4(1.0f),1.0f,glm::vec3(0.0f,0.0f,1.0f));
+    glm::vec4 vec(1.0f,0.0f,0.0f,0.0f);
+    
+    glm::vec4 rotatedVec = rot * vec;
+    
+    std::cout &lt;&lt; rotatedVec[0] &lt;&lt; "," &lt;&lt; rotatedVec[1] &lt;&lt; "," &lt;&lt; rotatedVec[2] &lt;&lt; "," &lt;&lt; rotatedVec[3]; return 0;
+}</pre>
+
+<p>The result was 0.540302,0.841471,0,0. Plug those numbers into the Euclidean norm calculation (square each one, add together, take square root) and you get 0.999999695045 which is almost exactly 1, exactly as you’d expect from multiplying a unit vector by a rotation matrix. So I’m in business: software is compiling and doing what I expect.</p>
+
+<h2>The algorithm</h2>
+
+<p>As I understand it, a simple rasterisation algorithm goes like this:</p>
+
+<ol>
+  <li>Load a list of models consisting of triangles consisting of points</li>
+
+  <li>Apply the model transformation matrix, view matrix and perspective transformation matrix (multiplied together as the camera matrix) to each point to transform the triangles into clip space</li>
+
+  <li>normalise the vectors with the perspective divide to go into normalised device coordinates</li>
+
+  <li>initialise a frame buffer and z-buffer</li>
+
+  <li>For each triangle:
+
+    <ol>
+      <li>Calculate the bounding box in the xy plane</li>
+
+      <li>For each pixel in the frame buffer that’s in the bounding box:
+
+        <ol>
+          <li>Test if the pixel is contained in the triangle</li>
+
+          <li>If it is, find the z-value of the triangle under this pixel</li>
+
+          <li>If it’s closer to the camera than the current value of the z-buffer for this pixel, replace the colour pixel with the triangle’s colour</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+
+  <li>view/export the frame buffer as an image</li>
+</ol>
+
+<h2>Representing triangles</h2>
+
+<p>Triangles are the basic primitive, so the most obvious first thing to do to me seems to be to implement a triangle class.</p>
+
+<p>What does my triangle have to do? Internally, it will store the three points of the triangle in 3D space, either as 3-vectors or 4D vectors in homogeneous coordinates (with the fourth coordinate always 1). From that I need to be able to project the triangle’s points into clip space and then to NDCs - this could be a function that takes a triangle and returns a new object, or a method on the triangle class. The object-oriented programmer in me says there should be only one representation of the underlying data and the transformations of the triangle should be returned by methods, but from what I understand of the openGL pipeline, I won’t be able to do that kind of thing when I’m writing shaders. Could be wrong about that.</p>
+
+<p>I guess like, a simple approach would be to have a triangle class, and a method ‘multiply by matrix’ that multiplies the vertices of the triangle all by the same matrix and returns a new triangle with those vertices? And this will mean we won’t have to recalculate the transformed triangle every time.</p>
+
+<p>What else should a triangle be able to do? Well, we need to be able to test whether a point in the xy plane is inside or outside the triangle. We need to be able to compute bounding boxes of triangles in the xy plane too. And we need to linearly interpolate quantities defined at the vertices over the whole triangle. At a minimum, that’s the z-value.</p>
+
+<p>Part of this project is learning how to use C++ better, so lets use header files and put our triangle class in its own file to get compiled and linked later. I should probably also adopt a test-driven approach if we’re going to do things Properly Properly.</p>
+
+<h2>Unit tests: oh wait</h2>
+
+<p>My dad is a programmer and the main thing he encourages me to do is to write tests. This project, I’m going to try to actually take that to heart.</p>
+
+<p>Like everything else, C++ couldn’t be content with just one unit testing framework. <a href="http://gamesfromwithin.com/exploring-the-c-unit-testing-framework-jungle">Oh, no.</a> But <a href="https://github.com/google/googletest">Google’s one</a> seems to be pretty popular, so rather than put a lot of effort into looking, I’ll just go with that. It’s <a href="https://www.conan.io/source/googletest/1.8.0/astrohawk/stable">available on Conan</a> too.</p>
+
+<p>Anyway, despite accomplishing almost nothing tangible, I think I need to wrap up my post now and go to bed. Tomorrow: I write some tests, and then a triangle that passes them? Something like that.</p>

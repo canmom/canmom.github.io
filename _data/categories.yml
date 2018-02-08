@@ -46,3 +46,12 @@ nier-automata:
 kingdom-hearts:
   path: /livereads/kingdom-hearts
   display: "kingdom hearts"
+programming:
+  path: /programming
+  display: programming
+graphics:
+  path: /programming/graphics
+  display: graphics
+rasteriser:
+  path: /programming/graphics/rasteriser
+  display: rasteriser
