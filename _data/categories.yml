@@ -55,3 +55,6 @@ graphics:
 rasteriser:
   path: /programming/graphics/rasteriser
   display: rasteriser
+maths:
+  path: /maths
+  display: maths
