@@ -58,3 +58,6 @@ rasteriser:
 maths:
   path: /maths
   display: maths
+nier:
+  path: /nier
+  display: NieR

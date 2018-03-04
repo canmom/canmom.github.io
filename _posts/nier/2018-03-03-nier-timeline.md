@@ -1,0 +1,189 @@
+---
+title: "NieR series: the full story, part 1"
+excerpt: "A tour through the storyline leaning up to the beginning of NieR, and the many surprises along the way."
+layout: article
+categories: nier
+tags:
+- nier
+---
+
+This project is an attempt to stitch *Grimoire NieR*, *NieR*, the *NieR Audio CD*, and later on, *YoRHa*, *YoRHa Boys* and *NieR: Automata*, among other sources, into one full, cohesive story. Contains major spoilers for _Drakengard_, _NieR_ and _NieR: Automata_ as well as supplemental material.
+
+This is *not* a complete timeline, though I've attempted to include dates where they're listed, because Yoko Taro's work is a fractal rabbit hole and I've yet to explore every corner. For a really thorough timeline, including the events of the other games in the *Drakengard* series, Rekka Alexiel has done an incredible job [here](http://nier2.com/timeline.html). I'm trying to go for a more narrative presentation, including links to the various stories and translations so you can read them with some context.
+
+The vast majority of _NieR_ content has never been officially translated, which is unfortunate because the games leave out a _lot_. However, fans have done an incredible job making up for the lack, and there are only a few significant gaps.
+
+## _Drakengard_/_Drag-on Dragoon_, 2003
+
+[nb- the events of _Drakengard 3_ take place earlier, but I haven't read about them to avoid spoiling myself on that game! _Drakengard 2_ on the other hand is an a separate timeline and irrelevant to the _NieR_ series.]
+
+In a grimdark fantasy world, a very very violent man called Caim and his dragon partner, Angelus, fight a grueling war against an enemy nation simply called the Empire. The Empire inevitably turns out to be controlled by an apocalyptic cult armed with magic flying fortresses and so forth, worshipping mysterious beings called the ‘Watchers’. Basically, the deal is: the Gods think humanity is a failure and want to kill us off (per *Drag-on Dragoon Perfect Guide*, translated [here](http://nier2.com/2015/04/04/dod-encyclopedia/)).
+
+The Cult, though it was originally created to protect the world from the Watchers, has been subverted to help them destroy the world. The armies of the Empire, and later one or two of the main characters, are infected by a 'Red Eye Disease', which is characterised by glowing red eyes and violent behaviour - a recurring theme, as we'll see.
+
+At the start of the game, Caim forms a 'pact' with Angelus. Pacts are the central element of the *Drakengard* setting. A person and a magical creature such as a dragon can make a pact, which gives both of them a load of magical power, allowing them (in general) to wreck armies and kill loads of people. However, this comes at an unpredictable cost for the human, such as loss of voice or eyesight. Throughout the Drakengard series, most of the major characters have entered pacts like this with various beings.
+    
+The outcome of the war depends on which of the game’s five endings you’re playing. Ending A, the closest thing to resembling a 'good ending', leads to *Drakengard 2*; endings B-E are all various flavours of apocalypse. In endings D and E, the Watchers arrive in the form of giant flying magic cannibal babies trying to destroy the world, most of Caim’s friends die in various terrible ways, and a building-sized white woman (variously called the Giant and the Queen Beast) manifests.
+
+In _Drakengard_’s ending E, the most difficult to access ending, Yoko Taro begins his long career of trolling the shit out of everyone: Caim and Angelus attempt to destroy the Giant, and as a result all three are transported to real-world Tokyo in the year 2003. The player must complete an extremely difficult rhythm game to destroy the giant... but in the final cutscene of the game, fighter planes from the [JSDF](https://en.wikipedia.org/wiki/Japan_Self-Defense_Forces) abruptly shoot Caim and Angelus out of the sky, leaving Angelus impaled on Tokyo Tower.
+
+It is this ending that leads to *NieR*.
+
+## _Grimoire Nier_ timeline, 2010 ([fan translation](https://docs.google.com/document/d/1vEP2iZ52P-DWhQBQ2Is6R8Wjao99AGi0YuWShTvA-tA/preview#heading=h.b7542aa6c0b7))
+
+Some of this is revealed in *NieR*, but it's brought together and a lot of missing details filled in with a companion book called *Grimoire Nier*.
+
+Later that year, people start being afflicted by a deadly illness that does one of two things: turns them into salt (fatally!), or makes them go berserk. It is later dubbed White Chlorination Syndrome. The infections are most common in the [Shinjuku region](https://en.wikipedia.org/wiki/Shinjuku) of Tokyo.
+
+(Per Yoko Taro's interview in *Grimoire Nier*, what's *really* happening is that the magic particle released by the dragon forces people into pacts with the gods. If they refuse: turn into salt. If they accept: become a monster, bound 'destroy the world according to its will'. Thanks, gods.)
+
+Attacks by infected people escalate in Shinjuku, and in October 2004, an enormous wall named after the [Wall of Jericho](https://en.wikipedia.org/wiki/Wall_of_Jericho) is constructed to seal off Shinjuku. The Japanese government continues to violently suppress the ‘berserkers’. Soon, all contact from inside Shinjuku is lost.
+
+In 2008, the wall of Jericho is broken from inside by white monsters that get called the Legion, with magical effects very similar to the shit that went down when Caim and Angelus arrived on Earth (this event is mentioned briefly in one of the loading screens in *NieR*). Led by a being called 'Red Eyes', the Legion overwhelms the JSDF and spreads White Chlorination across Japan...
+
+(In various places in *NieR Automata*, such as the abandoned factory, we read snippets about the war against the Legion. Apparently they created humanoid weapon systems to fight the Legion, and worked the factory workers 'like machines'. This is therefore the origin of the robotic weapons in the military base in *NieR*.)
+
+In 2009, the Japanese government forms an alliance with the USA. Not long after, they decide to try to destroy the Legion by carpet bombing it... and when that doesn’t work, they nuke it on the anniversary of the Hiroshima bombing. (Yoko Taro is sometimes... not subtle.) This is followed up by a series of further nuclear attacks, leaving Japan a ‘scorched earth’. But hey, at least the Legion’s gone!
+
+Naturally, the Legion _isn’t_ gone. White Chlorination Syndrome, and Legion attacks, spread across the world, starting in China.
+
+In 2010, scientists figure out the ‘Dragon’ and ‘Giant’ are from a parallel world, and they brought with them magic in the form of the ‘maso’ particle, which is the cause of WCS [story: [Investigation Report](https://docs.google.com/document/d/1vEP2iZ52P-DWhQBQ2Is6R8Wjao99AGi0YuWShTvA-tA/preview#heading=h.3795762a4583)]. And by nuking Japan, they just spread maso everywhere. _Whoops._
+
+Fortunately, having Maso lets them do cool science! Yay! Unfortunately, someone steals the dragon. (This plot thread doesn’t ever seem to be followed up on...)
+
+In March 2014, Project Gestalt begins (_NieR: Automata_: [Project Gestalt Report 1](https://nierautomata.wiki.fextralife.com/Project+Gestalt+Report+1)). Using the newly discovered magic, they figure out a way to separate souls from bodies, and put them back again. It *does not catch on*. Like, really does not catch on. Apparently, despite the apocalyptic war taking place, people still have time to protest Project Gestalt (_NieR Automata_: [Project Gestalt Report 2](https://nierautomata.wiki.fextralife.com/Project+Gestalt+Report+2)).
+
+A medicine called Luciferase (in reality, an enzyme that produces bioluminescence) is also discovered that's somewhat effective against WCS - most effective in children. With Luciferase, a special unit called the First Crusade (gotta throw in all the allusions!) forms to fight the Legion, but they're ultimately defeated. Still, something called the Hamelin Organisation is founded to turn children into soldiers to fight the Legion. (There's a bit of a weird inconsistency, in that according to the *NieR Drama CD*, the Hamelin organisation apparently already existed when they carpet-bombed Shinjuku. But the timeline marks its founding here.)
+
+In one of the stories (*And Then There Are None*, linked later), we learn Luciferase - though presented as a cure - only delays the disease, so most of these kids die or turn on their comrades (a theme that will recur, much later, with the ‘logic virus’ and androids).
+
+In 2018, wary of the Hamelin Organisation, the Japanese government founds the National Weapons Laboratory to create magic weapons based on people. This will eventually be used to create Experiments No. 6 and 7 from two kids: Halua and her brother Emil. Prior to Halua, a number of other kids die due to magic experimentation.
+
+In 2025, they figure out the other half of Project Gestalt: creating ‘Replicants’ from the vacated bodies, empty vessels to deposit the Gestalt (soul) into after it’s separated from a body. (_NieR Automata_: [Project Gestalt Report 3](https://nierautomata.wiki.fextralife.com/Project+Gestalt+Report+3)). Replicants are created from the Gestalt, but because the soul is separate, that somehow means they're not susceptable to WCS (_NieR_: [Project Gestalt Report 0923](http://nier.wikia.com/wiki/Project_Gestalt?file=Project_Gestalt_Report_0923.jpg)).
+
+They also invent *androids* - most famously, Devola and Popola - and set them to oversee the Replicant System. Apparently there’s a 'Celebrant Android' whose job it is to like, get the Replicants to gather up maso and send it into another universe? That never comes up in the games though.
+
+Basically, the plan is this: extract everyone’s souls from their bodies, put the souls to sleep, wait for WCS and the Legion to be destroyed by the Replicants and androids, and then put the souls back into their Replicants and carry on as once-again normal humans.
+
+Meanwhile, in 2026, Halua - immediately after been turned into a huge skeletal monster with a giant spherical head and incredible magic powers - panics and destroys the National Weapons Lab, killing most of the scientists. As a response, Emil is hurriedly also enchanced, and given the power to turn people into stone with his eyesight. He is able to contain her. The lab is mostly shut down. [story: [_The Stone Flower_](http://nier.wikia.com/wiki/The_Stone_Flower)] \[*Nier Automata:* [Project Gestalt Report 4](https://nierautomata.wiki.fextralife.com/Project+Gestalt+Report+4)]
+
+In 2030, 'Red Eye' is finally defeated by the 13th Crusade, members of the Hamelin organisation. The battle takes place in Jerusalem, and afterwards, the city is placed off-limits. Kainé's grandmother, Kaali, is Vice-Captain of the squad that defeats Red Eye, and since the original captain died in the battle, she is treated as a hero. Although Red-Eye is finally defeated and the Legion is no longer an organised threat, WCS continues to spread. [Kaali's role is discussed in the *NieR Drama CD*; she becomes a major backer of the National Weapons Laboratory by 2050.]
+
+Using the genes of Kaali, her unnamed husband, and a 'combined analysis of the Legion's attack patterns', a 'program baby' called Kainé was created. Since the Legion has been defeated, Kaali, guilty for what she's done, 'seals' Kainé's 'offensive form', and raises Kainé as a granddaughter.
+
+In 2033, the Project Gestalt people figure out a way to bind Gestalts into books and use them to do powerful magic - in particular, to use Grimoire Noir and Grimoire Weiss together to force loads of Gestalts into their Replicants at once. So the plan now is: wait for the Replicants to deal with the whole WCS thing and ‘purify’ the world of Maso, and then force everyone’s souls back into their bodies using the Grimoires. To make the Grimoires, they harvest a bunch of kids in the Hamelin Organisation [story: [_And Then There Were None_](http://nier.wikia.com/wiki/And_Then_There_Were_None)]. [*NieR: Automata:* [Project Gestalt Report 5](https://nierautomata.wiki.fextralife.com/Project+Gestalt+Report+5)]
+
+(Later, in *NieR*, we encounter Grimoires Noir, Weiss and Rubrum, though the latter doesn't speak.)
+
+## *NieR Replicant Drama CD* disc 1 ([track summaries](https://docs.google.com/document/d/1YLw2-OT7ios3ik5CdRN34dJCL5XviWSyQMnzFTiI_BU/edit?hl=en_US#))
+You can listen to the Drama CD [here on Youtube](https://www.youtube.com/playlist?list=PL6qLzIEXCzmpap-dtq6vHZ2S3CYH4U1Ny), but there are no subtitles available.
+
+Around this time, we introduce Nier, the protagonist of *NieR*. Depending on which version of the game you play, he's either a dad ('Father Nier') looking after his daughter, or a brother ('Brother Nier') looking after his sister. (The devs figured a father would play better in the west, and a brother better in Japan. The dad version was released on the XBox in Japan as *NieR: Gestalt*, and the brother version on the PS3 as *NieR: RepliCant*. The English translation was the dad version on both consoles. The differences between the two versions are minor, mostly concerning relationships between Nier and the rest of the party.)
+
+For some reason, the timeline is slightly different depending on which version of the game you play. The *NieR Drama CD* portrays Brother Nier.
+
+In 2050, Brother Nier and Yonah are burying their mother, who died of WCS. At this point, it is common for salt to rain from the sky like snow - the remnants of those who died of WCS.
+
+Around the same time, the National Weapons Laboratory (which turned Emil and Halua into weapons) is transporting something called Specimen B, which turns out to be a giant Red Eye. Naturally, it breaks free, and starts terrorising the people as a new Legion forms. Nier and Yonah are at this point separated during the evacuation.
+
+Not long after, a soldier called Masayoshi Yura seizes control of the National Weapons Laboratory in a violent coup. In the next track, it appears that this coup was orchestrated by Kaali. Kaali orders Yura, on pain of loss of funding, to guard her house; furious, Yura takes out his anger on the lab staff, and when Emil tries to stop him, reveals he has a weapon designed by the Hamelin Organisation that's selectively effective on people affected with maso - such as Emil. (An accompanying note points out - why is the Hamelin Organisation developing weapons against maso if the Legions are gone? The weapon, called the 'Bible (SS22)', is 'a 40cm octagon with a coil that has maso floating within'). After threatening everyone, Yura heads to Kaali's mansion.
+
+At Kaali's mansion, Yura sets up a weapon called the P-22. (The P-22, a 'mobile weapons platform', is also mentioned in *NieR: Automata*: [Abandoned Factory Memo](https://nierautomata.wiki.fextralife.com/Abandoned+Factory+Memo). It is a precursor to the P-33 humanoid robot boss in the military base in *NieR*.) When the Red-Eye and Legion attacks, he gets his soldiers to lure it to the mansion, and sets the P-22 on it. During the battle, Nier and Yonah encounter Kainé briefly.
+
+The Red-Eye grows extra arms and overpowers P-22, and Kainé's grandfather jumps in front of an attack to save Kaali. Yura brings out Emil and tears off his blindfold, causing him to petrify the soldiers fighting the Red-Eye. Emil, horrified by the collateral damage, tries to stop, so Yura drugs him, causing him to go out of control and wipe out the Legion and soldiers. Yura flees as soldiers arrive to suppress his coup organisation. (A note reveals he evades custody long enough to become Tyrann in *NieR*.)
+
+Kainé's 'offensive form' is triggered by the events of the attack, and when Red-Eye absorbs her mother, she singlehandedly tears it open and then starts attacking everyone nearby. But Nier, still on the scene, is able to talk both Kainé and Emil down...
+
+The events of the Drama CD are alluded to in *NieR: Automata* in [Project Gestalt Report 7](https://nierautomata.wiki.fextralife.com/Project+Gestalt+Report+7).
+
+## *Grimoire Nier* timeline/backstory revealed in *NieR*
+
+Of course, shit starts going wrong: after a while, the Gestalts start losing their self-awareness and going berserk - this is what “relapse” means (*NieR*: [Project Gestalt Report 9182](http://nier.wikia.com/wiki/Project_Gestalt?file=Project_Gestalt_Report_9182.jpg)). Somehow they figure out that if they can make a “stable” Gestalt who doesn’t relapse, they can extract special “solid” maso that will keep all the other Gestalts from relapsing.
+
+In *NieR*, the ‘shades’ that form the main enemies in the game are precisely these ‘relapsed’ Gestalts. However, not every Shade you encounter is relapsed. Gestalts who have not relapsed appear to be able to hold their human form, but let go of it in stressful situations, such as when you barge into their room and start killing them.
+
+To try to produce such a stable Gestalt, the World Purification Organisation - part of Hamelin, I think, though it may be the other way round - makes a bunch of clones of Grimoire Noir and hand them out to random poor people to Gestaltise themselves with, in the hopes that one of them will be suitable to stabilise the Replicant System. This is accomplished by announcing a 'Salvation Support Plan' in Japan, that will give people food and water.
+
+## _NieR_ (2010), in Japan released as _NieR: Gestalt_ and _NieR: Replicant_
+
+The game begins in 2049 (Father Nier) or 2053 (Brother Nier). Either way, Nier is one of the people given a clone of Grimoire Noir by the so-called Salvation Support Plan. At the start of the game, he ran away from the Gestalt project, and he and Yonah are starving and homeless, but he's seen people turned into 'black monsters' by copies of Grimoire Nier [*Grimoire Nier*: [the abyss of [Project NieR], vol. 1](https://docs.google.com/document/d/1vEP2iZ52P-DWhQBQ2Is6R8Wjao99AGi0YuWShTvA-tA/preview#heading=h.8c07dafd1183)]  [*NieR*: [Iron Pipe weapon story](http://nier.wikia.com/wiki/Iron_Pipe)].
+
+But, in the game's prologue, he's attacked by Shades (relapsed Gestalts), and, unable to defend himself with the iron pipe, finally resorts to opening Grimoire Noir - in the process forming a pact with it, with the cost being that he's immediately Gestaltised. With the power of the book, he easily destroys the Shades... only to discover that Yonah has also opened her copy of the book, and is now afflicted by the 'black scrawl', causing shifting black characters in the Celestial Alphabet to appear on her skin.
+
+This 'black scrawl' afflicts a Replicant when their Gestalt relapses. While Nier is, uniquely, a 'stable' Gestalt, Yonah relapses almost immediately. (It's not immediately clear to me whether, when Nier uses the book, you are playing as a Replicant or Gestalt - I have the impression that Replicants are created in a separate process some time after the Gestaltisation, but then I don't understand why Yonah would show symptoms of the Black Scrawl, which afflicts Replicants not Gestalts.)
+
+Regardless, the World Purification Organisation steps in, and offers to place Yonah in 'stasis', preventing the relapse from progressing further, in return for Nier providing them with the maso they need to stabilise the Gestalts and ultimately return them all to their Replicants. (This is alluded to in *NieR Automata* in [Project Gestalt Report 9](https://nierautomata.wiki.fextralife.com/Project+Gestalt+Report+9)).
+
+In the game, there is then a 1300-1400 year time skip; the game resumes in 3361 for Father Nier, and 3465 for Brother Nier. The intervening period is covered in the *Grimoire Nier* timeline...
+
+## _Grimoire Nier_
+In 2764, the Replicants - supposed to be empty vessels awaiting a soul - start to develop sentience on their own. This is mentioned in *NieR: Automata* in [Project Gestalt Report 10](https://nierautomata.wiki.fextralife.com/Project+Gestalt+Report+10). The Replicants form their own, new civilisations, such as the towns of Façade, Seafront and the Aerie.
+
+The Replicants continue to clear the world of the White Chlorination Syndrome and Maso particle. Things are going well enough until, in 3276, a young Replicant enters Jerusalem, where the 13th Crusade defeated the original Red Eyes and ended the Legion. He makes a wish for his dead lover to return... and she does, sort of, but only in the form of a new Red Eye, who kills him and begins a new Legion.
+
+However, in 3287 this Legion is defeated by an android and four Replicants, and its maso expelled to another world (this single-sentence summary sounds like it should have a more complete story somewhere, but I'm not sure where to look). At last, the world is 'purified' of WCS. It's time for the Gestalts to start coming back to their Replicants, and this process begins the next year.
+
+Unfortunately, the Replicants, now with independent minds, are freaked the fuck out by having their bodies taken over by mysterious forces. Apparently in some areas the androids are able to persuade the Replicants to accept the Gestalts, but in most areas, a war kicks off between the Replicants and the 'Shades'. Despite the stabilising maso from Nier, some Gestalts begin to relapse, triggering the Black Scrawl in their corresponding Replicants.
+
+The Gestalts figure their best shot is to use Grimoire Noir and Weiss together as planned, to cast all of them back into their corresponding Replicants at once.
+
+Around this point, Gestalt Nier decides that a thousand years of providing maso is enough, the Hamelin Organisation was probably lying about helping Yonah, and he's going to put her into her Replicant all by himself. Devola and Popola see an opportunity: they'll help him acquire Grimoire Noir, and meanwhile get his Replicant to acquire Grimoire Weiss, and since Weiss is missing several crucial 'sealed verses', guide him to acquire them. Then, they'll bring the two Grimoires together and bring all the Gestalts back to their Replicants.
+
+### Nier and Yonah's backstory
+
+When _NieR_ picks up, we are playing as a Replicant based on Nier. Nier is living in a small town overseen by Devola and Popola, where he works odd jobs for the townsfolk to care for Yonah, mostly out of sympathy. Nobody knows that Devola and Popola are androids, and they come across as sympathetic, giving Nier helpful advice and support; Popola works in the library, and Devola sings at a fountain. As the game starts, Yonah is sickly, and afflicted with the Black Scrawl (inevitably, since her Gestalt is permanently in half-relapsed stasis), and Nier looks for medicine to try and help her condition.
+
+According to the *Grimoire Nier* story **[content warning: child sexual abuse, underage sex work]** [_The Red and the Black_](http://nier.wikia.com/wiki/The_Red_and_the_Black), Brother Nier and Yonah were once raised by a mother and distant father, although their biological mother probably did not undergo the Gestalt Process so I suspect it's someone put in place as a surrogate mother by the Hamelin Organisation. Anyway, she died abruptly when they were ten - it turns out, of the Black Scrawl. In *Gestalt*, Father Nier lost his wife instead of his mother.
+
+In the *World of the Recycled Vessel* DLC for *NieR*, we can read a [cryptic diary](http://nier.wikia.com/wiki/Nier%27s_Wife%27s_Diary) by Nier's mother or wife, loosely alluding to various events in the timeline.
+
+By this point, the Black Scrawl is well known as an inexplicable but inevitably fatal disease; the connection between a Gestalt relapsing and the Black Scrawl is not known.
+
+**[content warning: child sexual abuse, underage sex work]** Per the above story, when Yonah developed the Black Scrawl, Brother Nier was unable to afford her pain medicine, and resorted to sex work in order to afford it. This lasted until he was able to find work killing Shades.
+
+### Fira's backstory
+
+Fira (Vier in the Japanese version) is a character you meet in the town of Façade in *NieR*. In the story [*A Little Princess*](http://nier.wikia.com/wiki/A_Little_Princess) we learn a little more about her life before we meet her.
+
+She was born to some snobby merchants outside of Façade, who coldly rejected her due to keloids on her face and kicked her out at age 8. She ended up travelling to Façade. As we learn in *NieR*, Façade is a city with thousands of rules, where all the citizens wear masks. The Prince of Façade takes a liking to her, and arranges for her to get a job as a fruit seller. Until she marries and gains citizenship, she is not allowed to speak. Nevertheless, the Prince helps her out of various scrapes. When she learns of his identity, she becomes convinced that the prince has just been toying with her, but he apologises and they make up.
+
+At some point prior to the game, Kainé rescues Fira from some situation, earning the gratitude of the people of Façade.
+
+### Backstory of Jakob (EN)/Jiminy (JP) and Gideon, the kids at the junk heap
+
+A woman named Blue raises two children neglectfully and abusively near the ruins of a military base, scavenging inside for materials. Shortly before the start of the game, she runs away with a man named Carlo, but they're both killed by the base's defense system.
+
+The story **[content warning: parental abuse]** [*The Magic Mountain*](http://nier.wikia.com/wiki/The_Magic_Mountain) describes what Jakob and Gideon go through after their mother abandons them. They run out of materials to sell; Gideon tries to go to the mountain, and Jakob tries to protect him and make him stop. Both of them act out trauma in various ways. The story ends when Nier and Grimoire Weiss arrive at the shop, unknowingly saving the kids from starvation.
+
+## _NieR_
+
+### Kainé's backstory
+After reaching ending A, a bunch of extra backstory information unlocks on subsequent playthroughs.
+
+[The first part](https://www.youtube.com/watch?v=gqfjfAyTjaU) reveals the backstory of Kainé as a replicant. Unlike her original, the Replicant of Kainé is intersex; this is shown much more explicitly in the Japanese version. (Some of the translated _Grimoire Nier_ material talks about Kainé in uncomfortable ways, using the h-slur and referring to her 'male' and 'female' sides. I am not sure to what extent this is ignorance on the creators' part, mistranslation, or cultural differences for trans and intersex people in Japan.)
+
+As a child, Kainé is bullied brutally for being intersex by children in the Aerie, with tacit support of the adults. Her only support comes from her grandmother, the Replicant version of Kaali. Although often quick-tempered, Kaali cares for Kainé as nobody else will, and Kainé loves her fiercely. The two live in a metal shack on the outskirts of the Aerie (a town made of bridges and hanging buildings inside a giant ravine). However, as Kaali gets older, she starts to fall ill, and Kainé takes over more of the household tasks, risking going out into the world again.
+
+It ends tragically. A giant, powerful Shade (named Hook in *Grimoire Nier*), an aggregation of multiple Gestalts with a sadistic streak, attacks Kainé's hut and tortures, then kills Kaali in front of Kainé; Kainé severely injures herself trying to drive it away, and is left dismembered with most of her bones broken, bleeding to death and hallucinating.
+
+At that point, she's approached by Tyrann, the assumed name of Masayoshi Yura, who has spent the years since we saw him borrowing Replicants here and there after his own was destroyed by the Hamelin Organisation (per notes of *NieR Drama CD*.) Tyrann taunts her, and asks to have her body - in order to go on a bloody rampage. In making this offer, he restores parts of her body, and Kainé finds the determination to live on, if only to get revenge on the Shade that killed her grandmother...
+
+Tyrann enters a symbiotic relationship, taking the place of her left arm and feeding on her emotions - particularly, hate and anger - but in return granting Kainé a lot of deadly magic. I'm not exactly sure if this is a 'pact' in the *Drakengard* sense, but it's a similar deal. There's also a danger: if Kainé doesn't give Tyrann the hateful emotions he wants, he threatens to take over her body entirely.
+
+I don't think we get a precise timeline for how long it is between Kainé's possession and her first encounter with Nier and Grimoire Weiss. In the meantime, she gets a reputation in the Aerie as a monster who gets off on killing Shades. In the story **[content warning: anti-intersex bigotry/transmisogyny, genitals]** [*Witches' Sabbath*](http://nier.wikia.com/wiki/Witches%27_Sabbath), we get a first-person account of a creepy and hypocritical priest who lectures others on love and tolerance, and manages to accept that Kainé is possessed by a Shade, but just cannot handle the fact she has a dick (and does, in fact, get off on killing Shades - lol I love Kainé so much...).
+
+### Emil
+
+After the various events described above, Emil remains in a mansion built up top of the defunct National Weapons Laboratory, protected by a very stiff butler called Sebastian (who is apparently not human and does not age, not that we know much else about him). There are numerous Shades in the mansion, as well as Grimoire Rubrum, who is guarding a library with information on various kinds of magic. Halua remains locked in a large cylindrical room in the depths of the National Weapons Laboratory. The mansion is heavily based on the _Resident Evil_ series.
+
+### Nier and Grimoire Weiss
+
+Early on in *NieR*, Replicant!Nier is continuing to look after Yonah by doing odd jobs - particularly, those involving violence - for the townsfolk. One night, Nier tells Yonah the story of a flower called the Lunar Tear that can grant wishes and cure her disease. Yonah gets the idea to ask Popola where this flower may be found, and learning that it's in an old shrine (in fact, a large temple complex), goes to find one. Nier rushes after her. Knowing what we do about Popola, we can probably conclude that she was deliberately leading Nier to the temple so that he could find Grimoire Weiss.
+
+Nier makes his way through the shrine and discovers Grimoire Weiss, guarded by a pair of heavily armoured shades (called Hansel & Gretel in *Grimoire Nier*). Replicant Nier activates Grimoire Weiss, and with his support, kills Hansel and disables Gretel before escaping with Yonah.
+
+Grimoire Weiss, it turns out, has lost a great many of his awe-inspiring magical powers - something that rather vexes him. Back in the village, Popola informs Nier that the Black Scrawl is caused by an evil counterpart to Grimoire Weiss called Grimoire Noir, and in order to defeat Noir and end the illness, he must gather eight Sealed Verses from various locations (each one game-mechanically granting a new spell to the player). Nier totally buys it. In truth, gathering these Sealed Verses will complete Weiss so that he can be used along with Grimoire Noir to return all the Gestalts to their corresponding Replicants.
+
+## Next time...
+
+The rest of _NieR_, covering the collapse of Project Gestalt, and the subsequent alien invasion that sets the stage for _YoRHa_ and _NieR: Automata_.
