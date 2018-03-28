@@ -164,6 +164,10 @@ nav.tags {
     margin-top: 10px;
 }
 
+article .citation {
+    font-size: 90%;
+}
+
 #license {
     font-size: 80%;
     display: grid;
@@ -217,6 +221,24 @@ article hr {
     width: 60%;
     margin: 20px auto;
     border-top: 3px solid $border-colour;
+}
+
+.hiddenheader {
+    background-color: rgba($border-colour,0.4);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-right: 20px;
+}
+
+.hiddencontent {
+    padding-top: 20px;
+    display: none;
+    background-color: rgba($border-colour,0.2);
+}
+
+.hiddencontent :first-child {
+    margin-top: 0;
 }
 
 @import "chat";

@@ -1,0 +1,7 @@
+<div class="hiddenheader">
+  <h3>{{ include.title }}</h3>
+  <button class="revealbutton" id="{{ include.id }}button" onclick="reveal('{{ include.id }}')">reveal</button>
+</div>
+<div id="{{ include.id }}" class="hiddencontent">
+{{ include.content | markdownify }}
+</div>
