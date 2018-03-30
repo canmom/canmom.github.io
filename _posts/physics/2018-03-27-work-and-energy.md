@@ -1,12 +1,14 @@
 ---
 title: Work and Energy
-excerpt: What is energy? A course of questions to answer this enigmatic question.
+excerpt: What is energy? A course of questions to answer this enigmatic question. WORK IN PROGRESS
 layout: article
 categories: physics
 ---
+**please note that this course is a work in progress**
+
 'Energy', in the various forms it takes, is a concept extremely close to the centre of physics.
 
-We use it in many different contexts: in classical mechanics as a means to solve certain problems, in quantum mechanics in the notion of the Hamiltonian operator and transitions between states, in special relativity we find even particles at rest have it, in general relativity it is the basis for gravity. Thermodynamics is all about the energy of complicated systems, and how it changes.
+We use it in many different contexts in every area of physics: classical mechanics, quantum mechanics, relativity. One field, thermodynamics is all about the energy of complicated systems, and how it changes.
 
 But what is this 'energy', and where does it come from?
 

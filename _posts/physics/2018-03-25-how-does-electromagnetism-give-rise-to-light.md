@@ -1,10 +1,12 @@
 ---
 title: How does electromagnetism give rise to light?
-excerpt: A course of leading questions
+excerpt: A course of leading questions (WORK IN PROGRESS)
 layout: article
 categories: physics
 ---
-# Introduction
+**please note that this course is a work in progress**
+
+## Introduction
 
 You are reading this page with light\*: *electromagnetic waves* produced by your computer monitor passing through the lens in your eyeball and interacting with your retina.
 
@@ -14,7 +16,7 @@ From this we can build up a unified understanding of phenomena ranging from radi
 
 \*Unless you are reading this page with a screen reader! In that case, light is probably still being used to transmit the web page data to you via optical fibers, and the physics of transmission lines is closely related to the wave solutions we're studying here.
 
-# Course 1: wave equations
+*This course assumes familiarity with vector calculus, and knowing Maxwell's equations are a thing that exist.*
 
 ## What is a wave solution?
 
@@ -55,23 +57,19 @@ The other solutions represent possible mistakes:
 
 {% include hidden.html content=solution1 id="solution1" title="Solution" %}
 
-## Differential equations with wave solutions
+## Differential equations
 
 When we describe the universe, we try to do so in a way that is *local*, dealing with the values of a quantity and its differentials only at a particular point at a time. This naturally connects to an area of maths called differential equations.
 
-A natural question, then, is what kind of differential equations have wave solutions.
+A natural question, then, is what kind of differential equations have wave solutions?
 
-You may be familiar with first-order ordinary differential equations of one variable such as
+For simple systems, with only a couple of variables, we can describe their behaviour with an ordinary differential equation such as the simple harmonic oscillator equation
 
-$$\df{f}{t}=\lambda f$$
+$$\df{^2f}{t^2}=-\omega^2 t$$
 
-which lead to exponentially growing or decaying solutions. Similarly second-order ordinary differential equations of one variable such as 
+However, because we're now dealing with functions of two or more variables, we are going to need a partial differential equation instead.
 
-$$\frac{\dif^2 f}{\dif t^2} = - \omega^2 f$$
-
-give rise to sinusoidal solutions (or equivalently, complex exponentials).
-
-Because we're now dealing with functions of two or more variables, we are going to need a partial differential equation instead.
+## The wave equation
 
 The [simplest wave equation](https://brilliant.org/wiki/wave-equation/) - generally just called 'the wave equation' - looks like this:
 
@@ -129,6 +127,8 @@ $$f(x,t)=g(\xi(x,t))+h(\eta(x,t))=g(x-ct)+h(x+ct)$$
 {% include hidden.html content=dAlembert id='dalembert' title="d'Alembert's solution to the wave equation" %}
 
 ## Maxwell's equations
+
+
 
 ## Plane wave solutions to Maxwell's equations
 
