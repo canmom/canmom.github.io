@@ -1,6 +1,6 @@
 ---
-title: "Let's build maths: part 1"
-excerpt: "When we learn basic maths in school, 'rules' are often presented by fiat, that we're just expected to memorise - but this can seem incredibly unsatisfying and arbitrary. Let's rebuild the number system step by step, see the reasons we need negative numbers, fractions, powers, complex numbers etc. and find the repeating pattern underlying the whole thing. Why this, and not something else?"
+title: "Let's build maths"
+excerpt: "When we learn basic maths in school, it can seem like a bunch of arbitrary rules that make no sense. Why this, and not something else? But there is actually an underlying pattern - and we can see it, by rebuilding the number system, step by step."
 layout: article
 categories: maths
 tags:
@@ -13,6 +13,12 @@ There are some good reasons for that, and bad ones. You don't need to think abou
 So this post is an attempt to try and find a suitable bridge between the hardcore stuff you'd get in a uni-level maths textbook, which would start with the Peano axioms or set theory or something and work out every consequence in a fully rigorous way, and the presentation you get in school which just goes 'this works like this, now do it a bunch'.
 
 We're going to be pretty light on the actual calculations here. I'm not trying to explain *how* to calculate sums, but *where it all comes from* - how you build up the basic rules, and why you want them.
+
+# Contents
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
 
 ## Doctors hate her! Area woman builds entire number system with *one weird trick*
 
@@ -55,7 +61,7 @@ In either case, the really important rule with equations is that you can get a n
 
 The other trick we have, is that if $$a=b$$ and we have some true equation that contains $$a$$, we can swap out $$a$$ for $$b$$ and the equation will still be true. So for example if we had $$2+a=5$$ and $$a=b$$, we'd also have $$2+b=5$$.
 
-There's a few other properties: $$a=a$$ for any $$a$$ (that one's *reflexivity*), if $$a=b$$ and $$b=c$$ then $$a=c$$ (that one's *transitivity*) and if $$a=b$$ then $$b=a$$ (that's *reflexivity*).
+There's a few other properties: $$a=a$$ for any $$a$$ (that one's *reflexivity*), if $$a=b$$ and $$b=c$$ then $$a=c$$ (that one's *transitivity*) and if $$a=b$$ then $$b=a$$ (that's *symmetry*).
 
 Algebraic manipulation means starting with some equations that, for our purposes, we consider to be true, and working out what other equations might also be true by using the above rules.
 
@@ -356,7 +362,7 @@ So, we invented multiplication by starting in a simple case: when you multiply b
 
 $$x\times y = \underbrace{x + x + \ldots + x + x}_\text{$y$ times}$$
 
-What about if we wanted to multiply by a number $$x$$ certain number of times? Something like this...
+What about if we wanted to multiply a number $$x$$ by itself a certain number of times? Something like this...
 
 $$\underbrace{x \times x \times \ldots \times x \times x}_\text{$y$ times}$$
 
@@ -476,7 +482,7 @@ We are most of the way to the *real numbers*. But first, we need to come back to
 
 # Sum and product notation
 
-So suppose we have some expression, which we can use to take a number $$i$$ and get a new number $$f(i)$$. So, for example, $$f(0)$$, $f(2)$$, $$f\left(\frac{1}{3}\right)$$, $$f(\sqrt{2})$$. For example, we might have $$f(i)=i^3 + 2i$$; then $$f(0)=0$$, $$f(2)=12$$, $$f\left(\frac{1}{3}\right)=\frac{1}{27}+\frac{2}{3}=\frac{19}{27}$$, $$f(\sqrt{2})=2^\frac{3}{2}+2^\frac{3}{2}=2^\frac{5}{2}=4\sqrt{2}$$.
+So suppose we have some expression, which we can use to take a number $$i$$ and get a new number $$f(i)$$. So, for example, $$f(0)$$, $$f(2)$$, $$f\left(\frac{1}{3}\right)$$, $$f(\sqrt{2})$$. For example, we might have $$f(i)=i^3 + 2i$$; then $$f(0)=0$$, $$f(2)=12$$, $$f\left(\frac{1}{3}\right)=\frac{1}{27}+\frac{2}{3}=\frac{19}{27}$$, $$f(\sqrt{2})=2^\frac{3}{2}+2^\frac{3}{2}=2^\frac{5}{2}=4\sqrt{2}$$.
 
 Suppose you want to evaluate this expression at a variety of different integer values of $$i$$ (called terms of the sum), and add up the result. Mathematicians have a special notation for this. When $$n>m$$, and both are integers...
 
@@ -500,9 +506,15 @@ $$\left(\sum_{i=m}^n f(i)\right)\times\left(\sum_{j=p}^q g(j)\right)=\sum_{i=m}^
 
 which is also saying that some double sums are separable into a product of two sums.
 
-# Decimals/positional notation
+# Step 4: Decimals/positional notation
 
-OK, here's the ingredients: a nonzero natural number $$b$$ that's called the *base* of our system, and a list of natural numbers called *digits*, identified by subscripts called *indices* (each one is an *index*): $$d_0, d_1, d_{-1}$$ and so on; in general, $$d_i$$. Suppose the smallest subscript is $$m$$ and the largest is $$n$$.
+So far, we haven't talked a lot about how we actually *write numbers down*.
+
+It would be possible to write the natural numbers by drawing a corresponding number of things on the page. For example, you might write them $$0$$, $$0^+$$, $$0^{++}$$ or something like that. However, that would be impossibly unwieldy for large numbers, not to mention impossible to read. We could also have a distinct symbol for every single number, but that would require us to memorise infinitely many symbols, and that would also suck.
+
+So instead, we have positional notation, which lets us get away with a small list of symbols to write numbers as big as we like, in considerably less space.
+
+Here's the ingredients: a nonzero natural number $$b$$ that's called the *base* of our system, and a list of natural numbers called *digits*, identified by subscripts called *indices* (each one is an *index*): $$d_0, d_1, d_{-1}$$ and so on; in general, $$d_i$$. Suppose the smallest subscript is $$m$$ and the largest is $$n$$. Each digit must be between $$0$$ and $$b-1$$ (inclusive). So we need only $$b$$ symbols (and the decimal point).
 
 Then, we can calculate a number corresponding to these digits like so:
 
@@ -528,7 +540,7 @@ So we have here $$n=2$$ and $$m=-3$$, and $$d_2=9, d_1=0, d_0=7, d_{-1}=4$$ etc.
 
 May be worth noting, we're still using positional notation in this 'expanded' example here, every time we write 'ten' as $$10$$. That's because our culture doesn't *need* a special symbol for 'ten' if we're always using decimal.
 
-Here's another example: the binary number $$110110.01_2$$ (the little subscript 2 means 'base 2'). Let's expand it out, and then convert it into decimal.
+Here's another example: the binary number $$110110.01_2$$ (the little subscript 2 means 'base 2'; programmers might instead write `0b110110.01`). Let's expand it out, and then convert it into decimal.
 
 $$\begin{gather}1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 1 \times 2^1 + 0 \times 2^0 + 0 \times 2^{-1} + 1 \times 2^{-2} \\
 = 32 + 16 + 4 + 2 + 0.25 \\
@@ -566,5 +578,45 @@ $$x \times y = \left(\sum_{i=m}^n x_i b^i\right) \left(\sum_{j=p}^q y_j b^j\righ
 
 so often when you work out a long multiplication, you pair up the digits and multiply them, shift them by appropriate powers of 10, and add them up.
 
+## Infinitely long positional notations
+
+This brings us perilously close to the discussion of the next step up, *real numbers*, but for now, we'll say that some rational numbers and all irrational numbers 'go on forever', that is, we can write a sequence
+
+$$d_n d_{n-1} \dots d_{2} d_1 d_0 . d_{-1} d_{-2} \dots$$
+
+but there's no $$d_m$$ where we can stop, we just keep writing $$d_i$$ for more and more negative $$i$$.
+
+Exactly which numbers 'go on forever' like this depends on the base. However, regardless of the base, there's a difference between rational and irrational numbers: rational numbers will either terminate, or have a 'recurring' sequence that repeats over and over again, and irrational numbers will never produce an endlessly repeating pattern like this. We'll talk more about irrational numbers in a bit.
+
+When you have a *recurring* sequence like this, we can represent it in a shorthand by drawing a bar over the numbers that repeat. For example, the decimal expansion of $$\frac{1}{7}$$ goes $$0.142857142857142857142857\dots$$, which we can write $$0.\overline{142857}$$. There are other notations, such as dots ($$0.\dot{1}4285\dot{7}$$) or parentheses ($$0.(142857)$$), and which one is most common depends where you live, but we'll use the overbar ('vinculum') here.
+
+What does it *mean* to have an infinitely long decimal expansion? To really get into that we'd need to get into *limits*, which are part of an area of maths called *real analysis*, and that's too complicated to discuss in detail here. But roughly speaking, if you cut off an infinitely long decimal expansion of a number $$x$$ at any point, you'll get a rational number that's as close as it can be to $$x$$; the more digits you include, the closer to $$x$$ you get.
+
+For example, $$\frac{1}{9}$$ has a decimal expansion $$0.\overline{1}$$. Cutting off the decimal expansion at various points gives you $$0.1$$, $0.11$$, $$0.111$$ and so on - none of these are exactly equal to $$\frac{1}{9}$$, but each one gets closer.
+
+So an infinitely long decimal expansion gives you a sequence of rational numbers that get closer and closer to some number; whatever number it gets closer and closer to (the 'limit' of the sequence) is considered to be the number represented by the full sequence.
+
+Now, you might ask: if we find decimal expansions of the algebraic numbers, do we get every possible infinitely long digit sequence? In other words, are there sequences of digits that don't pick out a rational number or a root of some rational number? It turns out there nearly all infinitely long sequences do not point to an algebraic number, and that will lead us on to the next bigger set of numbers, but we'll come back to that in a bit.
+
 ## How do you find the positional notation for any old number?
+
+Say you have a fraction, such as $$\frac{1}{4}$$. What do you do?
+
+Let's look at the idea of positional notation again. We know that, whatever the positional notation is for some rational number $$\frac{x}{y}$$, it satisfies...
+
+$$\frac{x}{y}=d_n b^n + d_{n-1}b^{n-1} + \dots$$
+
+and multiplying both sides by $$y$$ we have
+
+$$x = y d_n b^n + y d_{n-1}b^{n-1}+ \dots$$
+
+So, what can we do with this to find the $$d_n$$ and $$n$$?
+
+Suppose we are able to work out $$d_n$$ and subtract it off. That gives us a 'partial remainder',
+
+$$R_n = y d_{n-1}b^{n-1}+y d_{n-1}b^{n-1} \dots$$
+
+That puts us in an almost identical situation, and we can repeat whatever procedure we used to find $$d_n$$ to get $$d_{n-1}$$, working iteratively.
+
+So how do we work out $$d_n$$ in the first place?
 
