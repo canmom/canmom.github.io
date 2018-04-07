@@ -3,6 +3,9 @@ title: Tsiolkovsky's rocket equation
 excerpt: Derive and use the most important equation in rocket science through a series of bite-sized questions.
 layout: article
 categories: physics
+tags:
+ - space
+ - rockets
 ---
 {% include captionedfigure.html alt='Image of a car in space, launched as part of a publicity stunt earlier this year. The car, with a dummy astronaut sitting at the wheel, sits in the foreground, while the Earth hangs in the background.' contentsrc='public domain image by SpaceX, via [Wikimedia Commons]("https://commons.wikimedia.org/wiki/File:Elon_Musk%27s_Tesla_Roadster_(40110297852).jpg").' img='embed/physics/rocketequation/spacecar.png' %}
 
@@ -14,15 +17,26 @@ Space is a very different environment to Earth. On Earth, there is always someth
 
 In the vacuum of space, a spacecraft need not worry about friction, and it can fly on forever at the same speed without any work. However, when it wants to *change* its speed or direction, it has no convenient ground to push on. It has to do something else.
 
-### Assumed knowledge
+### What is this?
+
+This is a course of questions designed to teach you about the rocket equation through [active learning](https://en.wikipedia.org/wiki/Active_learning), inspired by [brilliant.org](https://brilliant.org/). (Full disclosure: I'm writing this to apply for a job there.)
 
 I'm assuming you know:
  - how to solve a mechanics problem by conserving momentum and transforming between reference frames
- - how to differentiate and partially differentiate a simple function
+ - how to differentiate and [partially differentiate](https://en.wikipedia.org/wiki/Partial_derivative) simple functions
  - how to solve an integral of the form $$\int\frac{1}{x}\dif x$$.
 
 In the process of this course, we'll see
- - how to express conservation laws with the differential of a function.
+ - how to express conservation laws with the differential of a function
+ - how to derive the Tsiolkovsky rocket equation using differentials
+ - the meaning of delta-v, specific impulse and the mass ratio
+ - how to use the Tsiolkovsky rocket equation using values from real spacecraft
+
+If you're especially keen, open the 'aside' boxes for extra details and extensions, such as:
+ - the nature of differentials
+ - deriving the relativistic rocket equation using rapidity coordinates (make sure you're comfortable with [hyperbolic functions](https://en.wikipedia.org/wiki/Hyperbolic_function))
+
+[nb these extra boxes could be expanded into their own courses of questions later, but I think it's useful to put them next to the relevant bits of the course. Consider them optional extras.]
 
 ## Question 1: How to move in a vacuum
 
@@ -193,15 +207,30 @@ In the relativistic case, transforming velocities between frames is more complic
 
 The rule for a Lorentz transformation of a velocity $$v$$ by a velocity $$V$$ (in the same direction!) is that the velocity in the new frame, $$v'$$, is given by
 
-$$v' = \frac{v+V}{1+vV}$$
+$$v' = \frac{v+V}{1+\frac{vV}{c^2}}$$
 
 In our case, that turns into
 
-$$u = \frac{v_\text{e}-v}{1-vv_\text{e}}$$
+$$u = \frac{v_\text{e}-v}{1-\frac{vv_\text{e}}{c^2}}$$
 
+In a previous article, I've described how to derive the relativistic rocket equation using velocities like this. But the equation turns out to be somewhat clearer if we use [rapidities]() instead of velocities directly.
+
+A rapidity $$w$$ is defined by an equation like $$\tanh w = \frac{v}{c}$$. Let's define two rapidities: $$\tanh w = \frac{v}{c}$$ and also $$\tanh r = \frac{u}{c}$$. We also have the exhaust rapidity $$\tanh w_\text{e}=\frac{v_\text{e}}{c}$$.
+
+With rapidities, the velocity addition formula is greatly simplified. The formula for adding arguments of the hyperbolic tangent is
+
+$$\tanh(x+y)=\frac{\tanh x + \tanh y}{1+ \tanh x \tanh y}$$
+
+which has the exact same form as the velocity addition formula. The result is that we can add rapidities together like velocities in Newtonian mechanics. Boosting by a rapidity $$W$$ we get...
+
+$$w'= w + W$$
+
+and in this case...
+
+$$r = w_\text{e}- w$$
 {% endcapture %}
 
-{% include hidden.html content=relativistic1 id="relativistic1" title="The relativistic case: Lorentz transforms" %}
+{% include hidden.html content=relativistic1 id="relativistic1" title="Aside: Lorentz transforms and rapidity coordinates" %}
 
 ## Information: Differential of a function
 
@@ -241,7 +270,7 @@ In this approach, the notion of the derivative of a function is fundamental, and
 More complicated treatments of differentials link it to other areas of mathematics, such as [differential forms](https://en.wikipedia.org/wiki/Differential_form) in differential geometry. You can read about them on Wikipedia's article [Differential (infinitesmial)](https://en.wikipedia.org/wiki/Differential_(infinitesimal)).
 {% endcapture %}
 
-{% include hidden.html content=whatisadifferential id="whatisadifferential" title="Technical aside: what is a differential?" %}
+{% include hidden.html content=whatisadifferential id="whatisadifferential" title="Aside: what <em>is</em> a differential?" %}
 
 ## Questin 4: Computing a differential
 
@@ -298,18 +327,33 @@ However, potential energy in the rocket (e.g. chemical potential energy) is bein
 {% include hidden.html content=solution5 id="solution5" title="Solution" %}
 
 {% capture relativistic2 %}
-In the relativistic case, there's an interesting wrinkle: mass and energy are the same thing and the potential energy stored in the rocket fuel is part of the mass of the rocket! That means the total mass is *not* conserved, since some of that mass turns into kinetic energy for the rocket and propellant.
+In the relativistic case, there's an interesting wrinkle: mass and energy are the same thing, and the potential energy stored in the rocket fuel is part of the mass of the rocket! That means the total mass is *not* conserved, since some of that mass turns into kinetic energy for the rocket and propellant.
 
 Instead, we must conserve relativistic energy $$E=\gamma_v Mc^2 + \gamma_u mc^2$$, where we're introducing the gamma factor
 
 $$\gamma_v=\frac{1}{1-\sqrt{\frac{v^2}{c^2}}}$$
 
-The relativistic momentum, $$p=\gamma_v Mv - \gamma_u mu$$, is also conserved, but the expression is different from Newtonian momentum.
+The relativistic momentum, $$p=\gamma_v Mv - \gamma_u mu$$, is also conserved.
+
+We'll find it convenient to transform into rapidity coordinates now, since it will save us a bunch of algebra later. Let's look at what happens if we place $$\tanh w = \frac{v}{c}$$ in the relativistic $$\gamma$$. We find:
+
+$$\gamma_v = \frac{1}{\sqrt{1-\tanh^2 w}}=\frac{1}{\sqrt{\sech^2 w}}=\cosh w$$
+
+and
+
+$$\frac{v}{c} \gamma_v = \tanh w \cosh w = \sinh w$$
+
+This means we can re-express the energy and momentum as:
+
+$$\begin{align*}
+E &= Mc^2 \cosh w + mc^2 \cosh r \\
+p &= Mc \sinh w + mc \sinh r
+\end{align*}$$
 
 Why are these conservation laws different? It is because in special relativity, the _symmetry_ of space and time is different: we have [Minkowski spacetime](https://en.wikipedia.org/wiki/Minkowski_space) whose symmetry is the *Poincaré group*, instead of the more familiar *Galilean group*. This connection is due to a very fundamental principle called [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem). In a later course, I hope to explain what that means.
 {% endcapture %}
 
-{% include hidden.html content=relativistic2 id="relativistic2" title="The relativistic case: conservation laws" %}
+{% include hidden.html content=relativistic2 id="relativistic2" title="Aside: relativistic conservation laws" %}
 
 ## Question 6: conservation laws as differentials
 
@@ -321,12 +365,13 @@ Conserving the total momentum gives us:
 
 $$\dif p = v \dif M + M \dif v - m \dif u - u \dif m = 0$$
 
-We are considering this as increasing the mass of propellant travelling at velocity $$-u$$, rather than changing the velocity of the existing propellant. So we say in the system we're considering, $$\dif u=0$$.
+We are considering this as increasing the mass of propellant travelling at velocity $$-u$$, rather than changing the velocity of the existing propellant. So we say in the system we're considering, $$u$$ is a constant, i.e. $$\dif u=0$$.
 
 Combining these various results, what do we get?
 
  - $$(v+u) \dif M + M \dif v=0$$
- - (think of some wrong answers!)
+ - $$(v-u) \dif M + M \dif v=0$$
+ - $$v \dif M + (M+u) \dif v = 0$$
 
 {% capture solution6 %}
 Substituting $$\dif u = 0$$ we find:
@@ -336,6 +381,10 @@ $$v \dif M + M \dif v - u \dif m = 0$$
 Then, substituting $$\dif M = - \dif m$$ we find:
 
 $$v \dif M + u \dif M + M \dif v = 0$$
+
+Grouping like terms:
+
+$$(v+u) \dif M + M \dif v = 0 $$
 {% endcapture %}
 {% include hidden.html content=solution6 id="solution6" title="Solution" %}
 
@@ -343,15 +392,58 @@ $$v \dif M + u \dif M + M \dif v = 0$$
 
 As noted above, in the relativistic case, we can no longer rely on conservation of mass. Instead we set the differential of the total energy equal to zero:
 
-$$\dif E = \dif (\gamma_v Mc^2) + \dif (\gamma_u m c^2) = 0$$
+$$\dif E = \dif (Mc^2 \cosh w) + \dif (m c^2 \cosh r) = 0$$
 
 And we set the differential of momentum equal to zero:
 
-$$\dif p = \dif(\gamma_v Mv) - \dif (\gamma_u m u) =0 $$
+$$\dif p = \dif(Mc \sinh w) - \dif (m c \sinh r) =0 $$
 
+The differentials come out as...
+
+$$\begin{align*}
+\dif E &= Mc^2 \sinh w \dif w + c^2 \cosh w \dif M + mc^2 \sinh r \dif r + c^2 \cosh r \dif m &= 0 \\
+\dif p &= Mc \cosh w \dif w + c \sinh w \dif M - mc \cosh r \dif r - c \sinh r \dif m &= 0
+\end{align*}$$
+
+As in the Newtonian case, we're going to say we're only interested in changes with $$\dif r = 0$$.
+
+$$\begin{align*}
+M \sinh w \dif w + \cosh w \dif M + \cosh r \dif m &= 0 \\
+M \cosh w \dif w - \sinh w \dif M + \sinh r \dif m &= 0
+\end{align*}$$
+
+We would like to remove $$m$$ from consideration, so let's rearrange and divide (assuming $$r\ne 0$$:
+
+$$\begin{align*}
+\dif m &= -\sech r (M \sinh w \dif w + \cosh w \dif M) \\
+&= \cosech r (M \cosh w \dif w + \sinh w \dif M)
+\end{align*}$$
+
+Which means, in turn...
+
+$$-\sinh r (M \sinh w \dif w + \cosh w \dif M) = \cosh r (M \cosh w \dif w + \sinh w \dif M)$$
+
+Bringing terms together...
+
+$$M (\cosh r \cosh w + \sinh r \sinh w) \dif w + (\cosh r \sinh w + \sinh r \cosh w)\dif M$$
+
+We can now use some identities of hyperbolic functions:
+
+$$\begin{align*}
+\cosh(x+y)&=\cosh x \cosh y + \sinh x \sinh y \\
+\sinh(x+y)&=\sinh x \cosh y + \cosh x \sinh y
+\end{align*}$$
+
+So at last we get...
+
+$$M \cosh (w+r) \dif w + \sinh(w+r)\dif M=0$$
+
+Amazingly, we can put this in a form almost exactly like the Newtonian case...
+
+$$M\tanh(w+r)\dif M + \dif w = 0$$
 {% endcapture %}
 
-{% include hidden.html content=relativistic3 id="relativistic3" title="The relativistic case: differentials" %}
+{% include hidden.html content=relativistic3 id="relativistic3" title="Aside: differentials and relativity" %}
 
 ## Question 7: Obtaining the rocket equation
 
@@ -412,7 +504,32 @@ It would be a pain and more confusing than clear to write all that out every tim
 To make these ideas more rigorous, we could look to the idea of [differential 1-forms](https://en.wikipedia.org/wiki/Differential_form) in differential geometry, but that's way too heavy-duty for the problems we're dealing with here.
 {% endcapture %}
 
-{% include hidden.html content=integration id="integration" title="Technical aside: can you integrate a differential?" %}
+{% include hidden.html content=integration id="integration" title="Aside: can you integrate a differential?" %}
+
+{% capture relativistic4 %}
+
+We just found
+
+$$\tanh(w+r)\dif M + M \dif w =0$$
+
+And we found earlier that, expressed in rapidity terms, the Lorentz transform says
+
+$$r = w_\text{e}- w$$
+
+Which means $$\tanh(w+r)=\tanh(w_\text{e})=\frac{v_\text{e}}{c}$$ and we get an identical equation to the Newtonian case, except expressed in terms of $$w$$ instead of $$v$$!
+
+$$M\dif w=-\frac{v_\text{e}}{c}\frac{1}{M}\dif M$$
+
+This is the same differential equation, so it has the same solution:
+
+$$w_\text{final} - w_\text{init} = \frac{v_\text{e}}{c}\log \frac{M_\text{final}}{M_\text{init}}$$
+
+In the case that the rocket starts at zero speed, so $$v_\text{init}=w_\text{init}=0$$, we can get a simple expression for $$v_\text{final}$$:
+
+$$v_\text{final} = c \tanh w_\text{final} = c \tanh \left(\frac{v_\text{e}}{c}\log \frac{M_\text{final}}{M_\text{init}}\right)$$
+{% endcapture %}
+
+{% include hidden.html content=relativistic4 id="relativistic4" title="Aside: obtaining the relativistic rocket equation" %}
 
 ## Information: a little terminology...
 
@@ -422,11 +539,9 @@ $$\Delta v = v_\text{e} \log \frac{M_\text{init}}{M_\text{final}}$$
 
 Here, the difference of velocities $$v_\text{final}-v_\text{init}$$ is written $$\Delta v$$, pronounced 'delta-vee'.
 
-Mission planners think of it this way: a rocket has a 'total budget' of delta-v when it launches, and each time it turns on its engines and performs a maneuver to change its velocity in some way, it uses up some of its delta-v.
+Mission planners think of it this way: a rocket has a 'total budget' of delta-v when it launches, and each time it turns on its engines and performs a maneuver to change its velocity in some way, it uses up some of its delta-v. To get to any particular place in the solar system (or beyond), there's a minimum delta-v 'cost'. So a mission must balance its delta-v 'budget' against the 'cost' of getting where it needs to go.
 
-To get to any particular place in the solar system (or beyond), there's a minimum delta-v 'cost'. We'll go into how to calculate these in another course.
-
-The exhaust velocity $$v_\text{e}$$ is also commonly called the *specific impulse*, $$I_\text{sp}$$. This is because you can calculate the effective exhaust velocity of a rocket by dividing the thrust by the rate that mass leaves the engine. 'Specific' is commonly used as a word meaning 'per unit mass', so specific impulse is also a measure of 'force per unit mass propellant'.
+The exhaust velocity $$v_\text{e}$$ is also commonly called the *specific impulse*, $$I_\text{sp}$$. This is because you can calculate the effective exhaust velocity of a rocket by dividing the thrust by the rate that mass leaves the engine. 'Specific' is commonly used as a word meaning 'per unit mass', so specific impulse is also a measure of 'force per unit mass propellant per second'.
 
 {% capture ispinseconds %}
 There's a confusing wrinkle here, because there's another, related measure that's *also* called the specific impulse that's measured as a time instead of a force. The specific impulse as a time is obtained by dividing the specific impulse as a speed by the standard gravity $$g_0=9.81\unit{ms^{-2}}$$.
@@ -438,7 +553,7 @@ Specific impulses are, unfortunately, often still reported in seconds because it
 
 {% include hidden.html content=ispinseconds id="ispinseconds" title="A wrinkle: specific impulse in seconds" %}
 
-The ratio $$\frac{M_\text{init}}{M_\text{final}}$$ is called the rocket's *mass ratio*.
+The ratio $$\frac{M_\text{init}}{M_\text{final}}$$ is called the rocket's *mass ratio*. (Some authors, such as Sutton and Biblarz in *Rocket Propulsion Elements*, use the term 'mass ratio' for the inverse of this, $$\frac{M_\text{final}}{M_\text{init}})$$.)
 
 The rocket equation tells us there are only two ways to get more delta-v: increase the mass ratio (i.e. carry a greater proportion of the rocket's mass as propellant) or use an engine with a higher specific impulse.
 
@@ -450,7 +565,7 @@ We mentioned another measure to describe a rocket engine: the thrust, which is t
 
 Suppose two rockets launch, with zero velocity, at the same time. Each rocket has the same mass and amount of propellant. The rockets each have a hundred engines, but on one of the two rockets, there is a malfunction and only one of the engines starts. Both rockets burn through all of their propellant.
 
-Do the rockets reach the same velocity?
+Do the rockets reach the same velocity? (Ignore any effects of torque from off-centre thrust.)
 
 - Yes
 - No
@@ -461,15 +576,55 @@ Both rockets have the same initial mass, and same final mass. So they will reach
 
 {% include hidden.html content=solution8 id="solution8" title="Solution" %}
 
-## Question 9: using the rocket equation
+## Question 9: using the rocket equation directly
 
-Suppose you're tasked with designing a space probe designed to orbit Mars and send back information.
+{% include captionedfigure.html alt="A photograph of the Apollo Command and Service module, a shiny metal cylinder with a conical nose, various instruments on the side including antennae and reaction control thrusters, and a long nozzle on the back." img="/embed/physics/rocketequation/Apollo_CSM.jpg" contentsrc="https://en.wikipedia.org/wiki/Apollo_Command/Service_Module#/media/File:Apollo_CSM_lunar_orbit.jpg" capt="Apollo 15 Command/Service Module, as seen from the Lunar Module." %}
 
-After an existing launch system releases you in Low Earth Orbit, you've worked out it will take $$4.3\unit{kms^{-1}}$$ to transfer to a Mars transfor orbit, $$0.9\unit{kms^{-1}}$$ to enter Mars capture orbit instead of flying by, and $$\unit{1.4\unit{kms^{-1}}}$$ to go from the wildly elliptical capture orbit to the desired low Mars orbit. Adding it all up, you work out that the mission requires a total $$\Delta v$$ of $$6.6\unit{kms^{-1}}$$.
+In December 1968, the Apollo 8 mission carried three people to orbit the Moon for the first time in history. The final stage of the mission was the [Command/Service Module](https://en.wikipedia.org/wiki/Apollo_Command/Service_Module). After the Saturn V's SIV-B stage put it on a translunar orbit, the Command/Service Module inserted the astronauts into lunar orbit, and then back out of orbit to return to Earth.
 
-The probe's instruments and structure have ended up massing $$560\unit{kg}$$. 
+The Command/Service Module had a launch mass of $$28\,800\unit{kg}$$, and a dry mass (i.e., mass when its propellant had all been expelled) of $$11\,900\unit{kg}$$. The Service Module's [AJ10-137](https://en.wikipedia.org/wiki/AJ10) engine had a specific impulse of $$3.13\unit{kms^{-1}}$$.
 
-## Information: types of propulsive technology
+What was the total $$\Delta v$$ available to the Command/Service Module?
+
+{% capture solution9 %}
+Applying the rocket equation, we find
+
+$$\Delta v = 3.13 \unit{kms^{-1}} \cdot \log \left(\frac{28\,800\unit{kg}}{11\,900\unit{kg}}\right)=2.77\unit{kms^{-1}}$$
+{% endcapture %}
+
+{% include hidden.html content=solution9 id="solution9" title="Solution" %}
+
+## Question 10: using the rocket equation in reverse
+
+{% include captionedfigure.html alt="A photograph of the Mariner 9 space probe against a black background. The probe has a cross of four solar panels, a large antenna dish and a white plastic sheet covering the main instruments." contentsrc="https://commons.wikimedia.org/wiki/File:Mariner09.jpg" capt="<a href='https://en.wikipedia.org/wiki/Mariner_9'>Mariner 9</a>, which in 1971 became the first spacecraft to orbit Mars." img="/embed/physics/rocketequation/mariner9.jpg" %}
+
+You're tasked with designing a space probe designed to orbit Mars and send back information.
+
+After the launch rocket releases your probe in Low Earth Orbit, you've [looked up](https://en.wikipedia.org/wiki/Delta-v_budget#Interplanetary) that it will take $$4.3\unit{kms^{-1}}$$ to transfer to a Mars transfer orbit, $$0.9\unit{kms^{-1}}$$ to enter Mars capture orbit instead of flying by, and $$\unit{1.4\unit{kms^{-1}}}$$ to go from the wildly elliptical capture orbit to the desired low Mars orbit.
+
+Adding it all up, the mission requires a total $$\Delta v$$ of $$6.6\unit{kms^{-1}}$$.
+
+The probe's instruments and structure have ended up massing $$500\unit{kg}$$. The probe has a chemical rocket with a specific impulse of $$3\unit{kms^{-1}}$$. What is the minimum mass of propellant the probe needs to complete its mission?
+
+Answer to the nearest $$100\unit{kg}$$.
+
+{% capture solution10 %}
+We know that the probe's final mass once it's burned its propellent is $$M_\text{final}=500\unit{kg}$$. The rest of the rocket's mass is propellant, so the propellant mass is $$M_\text{init}-M_\text{final}$$.
+
+We will rearrange the rocket equation to calculate $$M_\text{init}$$.
+
+$$M_\text{init}=M_\text{final}\exp \left(\frac{\Delta v}{v_\text{e}} \right)$$
+
+Substituting in our quantities, we find:
+
+$$M_\text{init}=500\unit{kg} \cdot \exp \left( \frac{6.6\unit{kms^{-1}}}{3\unit{kms^{-1}}}\right)=4500\unit{kg}$$
+
+From this we can subtract the $$500\unit{kg}$$ of the probe itself, so the propellant mass is $$4000\unit{kg}$$.
+{% endcapture %}
+
+{% include hidden.html content=solution10 id="solution10" title="Solution" %}
+
+<!-- ## Information: types of propulsive technology
 
 So we've seen how, in light of the rocket equation, the thrust doesn't affect the total change in velocity a rocket can make on its mission. Instead, having a high thrust instead means the rocket does not need to 'burn' (have its engine active) for as long to achieve the same changes.
 
@@ -481,8 +636,174 @@ More recently, spacecraft engineers have successfully built 'ion drives', which 
 
 As a result, while a chemical rocket will usually only fire for seconds or minutes, an ion drive must remain on (drawing electrical power) for the duration of the mission, and it can't perform sharp maneuvers that require an abrupt change of velocity at a particular point.
 
-There are speculative designs for rockets that achieve both high thrust *and* high specific impulse. 
+There are speculative designs for rockets that achieve both high thrust *and* high specific impulse.  -->
 
-## Implication: staging
+## Information: staging
 
-Often, a big part of the mass of the rocket is fuel tanks 
+Often, a big part of the mass of the rocket is fuel tanks, and the more fuel you have, the more tank you need. But while spent fuel is no longer slowing down the rocket, the empty tank remains.
+
+Moreover, rockets want to use different kinds of engines in different situations: an engine designed to work well at atmospheric pressure won't work nearly so well in space. But if you have two different engines, you'd have to carry the original atmospheric engine around for your entire mission.
+
+For this reason, rockets are often designed in *stages*. Instead of one big fuel tank, they have several fuel tanks, and several engines. Each stage will exhaust its fuel, and then discard the heavy tanks and engine. The spent stage uses explosives or small rockets to push it out the way safely, and then either flies away into space or burns up in the atmosphere.
+
+{% include captionedfigure.html alt="Four images of a staged rocket at different points in its flight. In the first image, the rocket is full of fuel. In the second image, the first stage is empty and the rocket's mass has reduced by a factor of M1. In the third image, the first stage has separated. In the fourth image, the second stage is empty and the stage has emptied by a factor M2." img="/embed/physics/rocketequation/rocket-stages-2.png" %}
+
+What is the effect of staging on the delta-v budget? Let's consider the simplest example.
+
+Suppose you have two stages. The ratio of the mass between the fully fueled rocket and the rocket when the first stage has burned is $$\mathcal{M}_1$$, and the ratio between the fully fueled second stage and after it has burned is $$\mathcal{M}_2$$. Both stages have the same exhaust velocity $$v_\text{e}$$. (Note that $$\mathcal{M}_1$$ includes the mass of the second stage on both sides of the fraction!)
+
+We calculate the total delta-v by adding together the delta-vs of each stage.
+
+$$\begin{align*}
+\Delta v &= v_\text{e} \log \mathcal{M}_1 + v_\text{e} \log \mathcal{M}_2\\
+&= v_\text{e} \log \mathcal{M}_1 \mathcal{M}_2
+\end{align*}$$
+
+So it's the same as if the rocket had one stage, whose mass ratio is the product of mass ratios of each stage! This applies if you have many stages too, as long as every stage has the same specific impulse. The result is that staging can win back a lot of delta-v.
+
+{% capture stagingindetail %}
+Above, we kind of glossed over that each stage includes all its future stages. Let's include that explicitly in the calculation and see where it gets us.
+
+{% include captionedfigure.html alt="An image of a staged rocket, first together and fully fueled with its fuel labelled M1p and M2p, and then split into two empty stages with masses M1f and M2f." img="/embed/physics/rocketequation/rocket-stages.png" %}
+
+Suppose there is a rocket that has two stages. The first stage has a dry mass of $$M_{1\text{f}}$$, and a mass of propellant $$M_{1\text{p}}$$. The second stage has a dry mass of $$M_{2\text{f}}$$, and a mass of propellant $$M_{2\text{p}}$$. Both stages have the same exhaust velocity $$v_\text{e}$$.
+
+Let's first consider the case where the two segments stay attached. The launch mass of the full rocket is
+
+$$M_{1\text{f}}+M_{1\text{p}}+M_{2\text{f}}+M_{2\text{p}}$$
+
+and the final mass is
+
+$$M_{1\text{f}}+M_{2\text{f}}$$
+
+so, with the rocket equation, the rocket's delta-v is
+
+$$\Delta v = v_\text{e} \log \left( \frac{M_{1\text{f}}+M_{1\text{p}}+M_{2\text{f}}+M_{2\text{p}}}{M_{1\text{f}}+M_{2\text{f}}}\right)$$
+
+Now, suppose that after the first stage has finished burning, it is jettisoned.
+
+The first stage now produces a $$\Delta v$$ of
+
+$$\Delta v_1 = v_\text{e} \log \left( \frac{M_{1\text{f}}+M_{1\text{p}}+M_{2\text{f}}+M_{2\text{p}}}{M_{1\text{f}}+M_{2\text{f}}+M_{2\text{p}}}\right)$$
+
+The second stage produces a $$\Delta v$$ of
+
+$$\Delta v_2 = v_\text{e} \log \left( \frac{M_{2\text{f}}+M_{2\text{p}}}{M_{2\text{f}}}\right)$$
+
+So the total $$\Delta v$$ is...
+
+$$\begin{align*}
+\Delta v_\text{tot} &= \Delta v_1 + \Delta v_2 \\
+&= v_\text{e} \left(\log \left( \frac{M_{1\text{f}}+M_{1\text{p}}+M_{2\text{f}}+M_{2\text{p}}}{M_{1\text{f}}+M_{2\text{f}}+M_{2\text{p}}}\right)+\log \left( \frac{M_{2\text{f}}+M_{2\text{p}}}{M_{2\text{f}}}\right)\right)\\
+&= v_\text{e} \log \left(\frac{M_{1\text{f}}+M_{1\text{p}}+M_{2\text{f}}+M_{2\text{p}}}{M_{1\text{f}}+M_{2\text{f}}+M_{2\text{p}}}\cdot\frac{M_{2\text{f}}+M_{2\text{p}}}{M_{2\text{f}}}\right)
+\end{align*}$$
+
+Phew, that's ugly! But now we can ask: how much *more* delta-v do we get by using a staged rocket?
+
+Unfortunately, with a complicated polynomial fraction in four different variables, we can't get very far.
+
+To simplify things, let's assume we're dealing with a particular rocket where each stage has $$f$$ times as much propellant as structural mass, i.e.
+
+$$\begin{align*}
+M_{1\text{p}}&=fM_{1\text{f}}\\
+M_{2\text{p}}&=fM_{2\text{f}}
+\end{align*}$$
+
+In other words, each stage on its own has a mass ratio $$(1+f)$$; this is also the mass ratio of the unstaged version.
+
+Now, the $$\Delta v$$ becomes...
+
+$$\begin{align*}
+\Delta v &= v_\text{e} \log \left(\frac{(1+f)^2(M_{1\text{f}}+M_{2\text{f}})}{M_{1\text{f}}+(1+f)M_{2\text{f}}} \right)\\
+&=v_\text{e}\log(1+f) + v_\text{e}\log\left(\frac{(1+f)(M_{1\text{f}}+M_{2\text{f}})}{M_{1\text{f}}+(1+f)M_{2\text{f}}} \right)\\
+&=v_\text{e}\log(1+f) + v_\text{e}\log\left(1+\frac{f}{1+(1+f)\frac{M_{2\text{f}}}{M_{1\text{f}}}} \right)
+\end{align*}$$
+
+That's still not pretty, but we can at least see that we are definitely going to get more delta-v. Also, we can see that - at least in this case - it helps to have the first stage be larger than the second.
+
+You could play around with this kind of equation in all kinds of ways, but we'll leave that to revisit at another time perhaps...
+{% endcapture %}
+
+{% include hidden.html content=stagingindetail id="stagingindetail" title="Aside: Staging in detail" %}
+
+## Challenge question: the Saturn V
+
+{% include captionedfigure.html alt="A photograph of the Apollo 11 Saturn V rocket at the moment of launch. The rocket is producing an enormous bright plume and has risen slightly off the launch platform." img="/embed/physics/rocketequation/saturn-v.jpg" contentsrc="https://commons.wikimedia.org/wiki/File:Apollo_11_Saturn_V_lifting_off_on_July_16,_1969.jpg" capt="<em>Apollo 11</em> setting off for the Moon in a Saturn V rocket." %}
+
+We've covered a lot of ground to get this far. For a final, challenge question, let's see if we can deal with one of the most famous rockets in spaceflight history: the Saturn V rocket that took humans to the Moon. Can we work out its total delta-v?
+
+The Saturn V stack consists of the following components:
+
+ - first stage: S-IC. Masses $$130\,000\unit{kg}$$ empty, and $$2\,290\,000\unit{kg}$$ full. Exhaust velocity: $$2.58\unit{kms^{-1}}$$ (at sea level).
+ - second stage: S-II. Masses $$40\,100\unit{kg}$$ empty (including the S-II/S-IVB interchange), and $$496\,200\unit{kg}$$ full. Exhaust velocity: $$4.13\unit{kms^{-1}}$$ (in vacuum).
+ - third stage: S-IVB. Masses $$13,500\unit{kg}$$ empty (including the instrument unit), and $$123\,000\unit{kg}$$ full. Exhaust velocity: $$4.13\unit{kms^{-1}}$$ (in vacuum).
+ - Command and Service Module: masses $$11\,900\unit{kg}$$ empty, and $$28\,800\unit{kg}$$ full. Exhaust velocity: $$3.13\unit{kms^{-1}}$$.
+ - Lunar Module: masses $$15\,200\unit{kg}$$ at launch.
+
+After the third stage has emptied, the Lunar Module docks with the Command and Service Module, and the Command and Service Module is used to enter lunar orbit. After the astronauts return from the Moon, the Lunar Module is released, and the Command and Service Module completes the rest of the mission alone.
+
+Because it is difficult to work out exactly how much delta-v is spent before the Lunar Module is jettisoned, we analyse the Apollo 8 mission, which did not carry a Lunar Module. Instead, Apollo 8 carried a Lunar Test Article, massing $$9\,000\unit{kg}$$, which was jetisoned along with the third stage.
+
+What is the total delta-v available to Apollo 8?
+
+{% capture solution11 %}
+We proceed as follows:
+ - calculate the mass of the Apollo stack at various points in the mission
+ - use this to calculate the delta-v of each stage
+ - add these delta-vs together.
+
+The points we will consider are:
+ - the rocket at launch
+ - when the first stage is empty, just before separation
+ - after first stage separation
+ - when the second stage is empty, just before separation
+ - after second stage separation
+ - when the third stage is empty, just before separation (this is where transposition and docking would occur on a full mission)
+ - the Command and Service module, full
+ - the Command and Service module, empty
+
+We can work backwards through this list:
+
+ - CSM (empty): $$11\,900\unit{kg}$$
+ - CSM (full): $$28\,800\unit{kg}$$
+ - S-IVB (empty) + LTA + CSM (full): $$51\,300\unit{kg}$$
+ - S-IVB (full) + LTA + CSM (full): $$160\,800\unit{kg}$$
+ - S-II (empty) + S-IVB (full) + LTA + CSM (full): $$200\,900\unit{kg}$$
+ - S-II (full) + S-IVB (full) + LTA + CSM (full): $$657\,000\unit{kg}$$
+ - S-IC (empty) + S-II (full) + S-IVB (full) + LTA + CSM (full): $$797\,000\unit{kg}$$
+ - full Apollo 8 rocket: $$2\,947\,000\unit{kg}$$
+
+With these, we can calculate the delta-v produced in each set of burns:
+
+ - S-IC: $$\Delta v = 2.58\unit{kms^{-1}} \cdot \log \frac{2\,947\,000}{797\,000}=3.37\unit{kms^{-1}}$$
+ - S-II: $$\Delta v = 4.13\unit{kms^{-1}} \cdot \log \frac{657\,000}{200\,900}=4.89\unit{kms^{-1}}$$
+ - S-IVB: $$\Delta v = 4.13\unit{kms^{-1}} \cdot \log \frac{160\,800}{51\,300}=4.71\unit{kms^{-1}}$$
+ - CSM: $$\Delta v = 3.13\unit{kms^{-1}} \cdot \log \frac{28\,800}{11\,900}=2.76\unit{kms^{-1}}$$
+
+Now, we add them all up to get a total delta-v of $$15.73\unit{kms^{-1}}$$
+
+Unfortunately, it is difficult to find a place where NASA has calculated the same figure. however, we can estimate whether it's in the right sort of scale. According to Wikipedia's delta-v table, to get from Earth to Low Earth Orbit, we need about $$10\unit{kms^{-1}}$$, and from there to get to a low Lunar orbit we need another $$4.04\unit{kms^{-1}}$$. To return to a low Earth orbit from there takes a final $$1.31\unit{kms^{-1}}$$. So we are extremely close!
+
+The real mission of course differed from this calculation for a few reasons...
+
+ - NASA engineers include some extra fuel for course corrections and dealing with emergencies. In the case of the Apollo 13 mission, this proved crucial for returning the astronauts alive.
+ - orbital maneuvers can exploit something called the Oberth effect to get more delta-v than the rocket equation says when orbiting something like the Earth. We've ignored this.
+ - the performance of the Saturn V engines varied as the rocket travelled through the atmosphere. The first and second stages were designed to work best in an atmosphere, while the third stage and the CSM were designed to work best in a vacuum. The rockets' specific impulse changed as the Saturn V gained altitude.
+ - while flying through the atmosphere, the Saturn V was subject to atmospheric drag which drained away some of its speed.
+{% endcapture %}
+
+{% include hidden.html content=solution11 id="solution11" title="Solution" %}
+
+## Conclusions
+
+We have learned:
+
+ - how to calculate the differential of a function
+ - how to express laws like conservation of momentum using a differential
+ - how to use this differential formulation to derive the Rocket Equation
+ - how to use the Rocket Equation to plan space missions
+ - how to understand parameters of a rocket like specific impulse and mass ratio
+
+To get a really good, intuitive feel for these principles, nothing beats playing with a rocket simulator.
+ - the game [*Kerbal Space Program*](https://www.kerbalspaceprogram.com/en/) simplifies the physics enough to make it managable if you're not already an expert, and allows you to build an enormous variety of spacecraft from components with a flexible builder system. And if that gets too easy, try mods such as [Realism Overhaul](https://github.com/KSP-RO/RealismOverhaul/wiki)...
+ - the simulator [*Orbiter*](http://orbit.medphys.ucl.ac.uk/) is much more realism-orientated, and free (though not open source). It can be extended using community add-ons for a similar variety of spacecraft.
