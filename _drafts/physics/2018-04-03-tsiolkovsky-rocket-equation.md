@@ -12,13 +12,19 @@ A car, of course, cannot drive in space, so to get to its eventual destination o
 
 Space is a very different environment to Earth. On Earth, there is always something around you: the ground, water, air. This gives you something to push off, so acceleration is easy. But friction and air resistance will always slow you down as you move around, so without constant work to maintain your speed, you will slow back down to a stop.
 
-In the vacuum of space, a spacecraft need not worry about friction, and it fly on forever at the same speed. However, when it wants to *change* its speed or direction, it has no convenient ground to push on. It has to do something else.
+In the vacuum of space, a spacecraft need not worry about friction, and it can fly on forever at the same speed without any work. However, when it wants to *change* its speed or direction, it has no convenient ground to push on. It has to do something else.
 
-**Assumed knowledge:** You need to know how to solve a mechanics problem by conserving momentum and transforming between reference frames, how to differentiate and partially differentiate a function, and how to solve an integral of the form $$\int\frac{1}{x}\dif x$$.
+### Assumed knowledge
 
-In the process of this course, we'll see how to express conservation laws with the differential of a function.
+I'm assuming you know:
+ - how to solve a mechanics problem by conserving momentum and transforming between reference frames
+ - how to differentiate and partially differentiate a simple function
+ - how to solve an integral of the form $$\int\frac{1}{x}\dif x$$.
 
-## How to move in space
+In the process of this course, we'll see
+ - how to express conservation laws with the differential of a function.
+
+## Question 1: How to move in a vacuum
 
 {% include captionedfigure.html alt="Two images of an astronaut and a large ball. In the first, they appear stationary, and the astronaut is marked as having mass M and the ball mass m. In the second image, the ball is moving to the right with speed v and the astronaut to the left with speed V" img="embed/physics/rocketequation/astronaut-ball-1.png" %}
 
@@ -53,7 +59,7 @@ $$V=\frac{m}{M}v$$
 {% endcapture %}
 {% include hidden.html content=solution1 id="solution1" title="Solution" %}
 
-## Splitting the reaction mass
+## Question 2: Splitting the reaction mass
 
 Mae's bowling ball illustrates one way you can change your velocity in space: take a part of yourself, and push it away from the rest of you, making you accelerate in the opposite direction. The stuff you throw away is called **reaction mass**, because the *reaction* from pushing it away is what causes you to accelerate.
 
@@ -116,7 +122,7 @@ For that reason, Mae will end up travelling faster.
 {% endcapture %}
 {% include hidden.html content=solution2 id="solution2" title="Solution" %}
 
-## What is a rocket?
+## Information: What is a rocket?
 
 A rocket is not all that different to our astronauts and bowling balls: it's a machine that pushes reaction mass out in order to make itself accelerate in the other direction.
 
@@ -147,11 +153,11 @@ $$\Delta w=\frac{v_\text{e}}{c}\log \frac{M_\text{init}}{M_\text{after}}$$
 
 which is almost exactly like the Tsiolkovsky equation.
 
-As we work out the rocket equation, these bonus boxes will illustrate how we'd do things differently for the relativistic rocket equation. If you haven't learned about relativity yet, don't worry!
+As we work out the rocket equation, these bonus boxes will illustrate how we'd do things differently for the relativistic rocket equation. If you haven't learned about relativity yet, don't worry - you can safely ignore them!
 {% endcapture %}
 {% include hidden.html content=relativistic id="relativistic" title="Aside: Relativistic rocket" %}
 
-## Step 1: set up the situation
+## Question 3: setting up the situation
 
 {% include captionedfigure.html alt="A labelled diagram of a rocket of mass M moving to the right at speed v. A quantity of exhaust with mass m is travelling to the left at speed u." img="/embed/physics/rocketequation/rocket-variables.png" %}
 
@@ -191,25 +197,53 @@ $$v' = \frac{v+V}{1+vV}$$
 
 In our case, that turns into
 
-$$u = \frac{v_\text{e}-v}{1-v\text{e}}$$
+$$u = \frac{v_\text{e}-v}{1-vv_\text{e}}$$
 
 {% endcapture %}
 
 {% include hidden.html content=relativistic1 id="relativistic1" title="The relativistic case: Lorentz transforms" %}
 
-## Differential of a function
+## Information: Differential of a function
 
 There are a number of ways to derive the rocket equation, but here we're going to do it in a way that can be easily paralleled by the relativistic case later, using the concept of a [differential of a function](https://en.wikipedia.org/wiki/Differential_of_a_function).
 
-The differential $$\dif f$$ of a function $$f$$ describes a very small change in the value of a (smooth) function arising from a similarly small change in its variables - so small any nonlinear variation disappears. It is defined by
+The differential $$\dif f$$ of a function $$f$$ is a tool for describing a very small change in the value of a (smooth) function arising from a similarly small change in its variables - so small any nonlinear variation disappears.
+
+We define the differential as
 
 $$\dif f = \df{f}{x} \dif x$$
 
 for a function $$f(x)$$ of a single variable, and 
 
-$$\dif f = \sum_{i=0}^n \pdf{f}{x_i}\dif x_i$$
+$$\dif f = \sum_{i=1}^n \pdf{f}{x_i}\dif x_i$$
 
-for a function $$f(x_0, \dots x_n)$$ of multiple variables. In other words, to get the differential, you add up the partial differentials of the function with respect to each of its variables, each multiplied by the differential of the corresponding variable.
+for a function $$f(x_1, \dots x_n)$$ of multiple variables.
+
+In other words, to get the differential, you add up the partial differentials of the function with respect to each of its variables, each multiplied by the differential of the corresponding variable.
+
+{% capture whatisadifferential %}
+We've defined a notation for differentials, but what exactly *is* it?
+
+The notion of a differential goes back to Leibniz, one of the founders of calculus, created the $$\df{y}{x}$$ and $$\int \dif x$$ notation. To Leibniz, $$\dif x$$ represented an *infinitesimal* quantity, smaller than any positive real number but greater than zero. A derivative such as $$\df{y}{x}$$ was literally the ratio of two infinitesimal quantities, not just a convenient notation.
+
+As mathematics developed, it became necessary to make calculus more rigorous. Although it was useful, it had been very unclear what, exactly, an infinitesimal quantity meant, so calculus was rebuilt in terms of a much more precise idea of a limit. This is the approach used in standard [*real analysis*](https://en.wikipedia.org/wiki/Real_analysis).
+
+This made the notion of a diffrential seem rather suspect, but we can rebuild it in a number of ways. One straightforward approach is to see a differential $$\dif f$$ as a function of two independent real variables $$x$$ and $$\Delta x$$, leading to expressions like:
+
+$$\dif f (x, \Delta x) = f'(x) \Delta x$$
+
+and then, noting that $$\dif x (x, \Delta x) = \Delta x$$ to recover the original
+
+$$\dif f = f'(x)\dif x$$
+
+In this approach, the notion of the derivative of a function is fundamental, and differentials are a convenient tool we build on top of that.
+
+More complicated treatments of differentials link it to other areas of mathematics, such as [differential forms](https://en.wikipedia.org/wiki/Differential_form) in differential geometry. You can read about them on Wikipedia's article [Differential (infinitesmial)](https://en.wikipedia.org/wiki/Differential_(infinitesimal)).
+{% endcapture %}
+
+{% include hidden.html content=whatisadifferential id="whatisadifferential" title="Technical aside: what is a differential?" %}
+
+## Questin 4: Computing a differential
 
 For a particular system of two particles whose masses can vary, the total momentum is given by
 
@@ -240,7 +274,7 @@ $$\dif p = m_1 \dif v_1 + v_1 \dif m_1 + m_2 \dif v_2 + v_2 \dif m_2$$
 
 {% include hidden.html content=solution4 id="solution4" title = "Solution" %}
 
-## Why is this useful?
+## Question 5: what does a rocket conserve?
 
 If we know a physical quantity such as momentum is *conserved*, it gives us a constraint: we can change the variables that determine momentum (such as masses and velocities) in some ways, but not others. When it changes in an acceptable way, the small, immediate changes in the momentum must cancel out to zero.
 
@@ -264,18 +298,20 @@ However, potential energy in the rocket (e.g. chemical potential energy) is bein
 {% include hidden.html content=solution5 id="solution5" title="Solution" %}
 
 {% capture relativistic2 %}
-In the relativistic case, there's an interesting wrinkle: the potential energy stored in the rocket fuel contributes to the rest mass of the rocket! That means the total mass is *not* conserved, since some of that mass turns into kinetic energy for the rocket and propellant.
+In the relativistic case, there's an interesting wrinkle: mass and energy are the same thing and the potential energy stored in the rocket fuel is part of the mass of the rocket! That means the total mass is *not* conserved, since some of that mass turns into kinetic energy for the rocket and propellant.
 
-Instead, we must conserve relativistic energy $$E=\gamma_v Mc^2 + \gamma_u mc^2$$ where $$\gamma_v=\frac{1}{1-\sqrt{\frac{v^2}{c^2}}}$$.
+Instead, we must conserve relativistic energy $$E=\gamma_v Mc^2 + \gamma_u mc^2$$, where we're introducing the gamma factor
+
+$$\gamma_v=\frac{1}{1-\sqrt{\frac{v^2}{c^2}}}$$
 
 The relativistic momentum, $$p=\gamma_v Mv - \gamma_u mu$$, is also conserved, but the expression is different from Newtonian momentum.
 
-Why are these conservation laws different? It is because in special relativity, the _symmetry_ of [Minkowski spacetime](https://en.wikipedia.org/wiki/Minkowski_space) is different: the *Poincaré group* instead of the *Galilean group*. This connection is due to a very fundamental principle called [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem). In a later course, I hope to explain what that means.
+Why are these conservation laws different? It is because in special relativity, the _symmetry_ of space and time is different: we have [Minkowski spacetime](https://en.wikipedia.org/wiki/Minkowski_space) whose symmetry is the *Poincaré group*, instead of the more familiar *Galilean group*. This connection is due to a very fundamental principle called [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem). In a later course, I hope to explain what that means.
 {% endcapture %}
 
 {% include hidden.html content=relativistic2 id="relativistic2" title="The relativistic case: conservation laws" %}
 
-## Step 2: conserve momentum and mass
+## Question 6: conservation laws as differentials
 
 Conserving the total mass gives us:
 
@@ -317,13 +353,13 @@ $$\dif p = \dif(\gamma_v Mv) - \dif (\gamma_u m u) =0 $$
 
 {% include hidden.html content=relativistic3 id="relativistic3" title="The relativistic case: differentials" %}
 
-## Step 3: Integration
+## Question 7: Obtaining the rocket equation
 
 We're almost there. We just need to use the result we obtained earlier, expressing $$u$$ in terms of the constant $$v_e$$. We found $$u=v_\text{e}-v$$, so that changes our expression to
 
 $$v_\text{e}\dif M + M \dif v = 0$$
 
-This expresses how acceptable variations in $$v$$ relate to acceptable variations in $$M$$, if we want to maintain conservation of momentum. Let's find a function $$v=v(M)$$ that satisfies this condition.
+This says, if we want to maintain conservation of momentum, any variations of $$v$$ and $$M$$ have to relate in this way. Let's find a function $$v=v(M)$$ that satisfies this condition.
 
 We have a differential equation in only two variables, $$M$$ and $$v$$. We can rearrange it to [separate variables](https://en.wikipedia.org/wiki/Separation_of_variables):
 
@@ -333,7 +369,7 @@ We'll integrate this with respect to $$M$$, between limits $$M_\text{init}$$ whe
 
 $$\int_{v_\text{init}}^{v_\text{final}} \dif v = -v_\text{e} \int_{M_\text{init}}^{M_\text{final}}\frac{1}{M}\dif M$$
 
-What is the solution to this integral?
+What is the solution to this integral? (You can scroll up, but take the chance to solve it yourself!)
 
  - $$v_\text{final}-v_\text{init} = v_\text{e} \log \frac{M_\text{final}}{M_\text{init}}$$
  - $$v_\text{final}-v_\text{init} = v_\text{e} \log \frac{M_\text{init}}{M_\text{final}}$$
@@ -357,19 +393,17 @@ where we have used the identities that $$\log A + \log B = \log AB$$ and $$-\log
 {% capture integration %}
 You may be wondering exactly how the notation for the differential of a function, e.g. $$\color{red}{\dif f}$$, relates to the symbol used when integrating, e.g. $$\int x^2 \color{blue}{\dif x}$$. Can we really just slap an integration sign on and call it a day?
 
-When Leibniz was inventing the notation we're using here for calculus, he regarded notation like $$\dif f$$ and $$\dif x$$ to represent infinitesimal quantities: smaller than any real number, but bigger than zero. Later mathematicians found this concept extremely difficult to make formally rigorous, and the idea of 'a differential' [has been formalised in a number of different ways](https://en.wikipedia.org/wiki/Differential_(infinitesimal)).
-
-Strictly speaking, the delimiter $$\color{blue}{\dif x}$$ used in integration has nothing inherently to do with the differential of a function that we defined above. However, nothing really goes wrong (at least in physics) if we treat it as the same as a differential, since when you deal with *integration by substitution* they behave the same way. Physicists play fast and loose with the technicalities of concepts like differentials, often much to the frustration of mathematicians who have to clean up afterwards.
+Strictly speaking, as we've defined it, the delimiter $$\color{blue}{\dif x}$$ used in integration has nothing inherently to do with the differential of a function that we defined above. However, nothing really goes wrong (at least in physics) if we treat it as the same as a differential, since when you deal with *integration by substitution* they behave the same way. Physicists play fast and loose with the technicalities of concepts like differentials, often much to the frustration of mathematicians who have to clean up afterwards.
 
 If we want to justify integrating the differential of a function, we can observe:
 
 $$\color{red}{\dif f} = \df{f}{x} \color{red}{\dif x}$$
 
-is a valid differential; additionally, thanks to the fundamental theorem of calculus, when we integrate the first derivative of a function
+is a valid differential; additionally, thanks to the fundamental theorem of calculus, when we integrate the first derivative of a (smooth, continuous) function
 
 $$\int_a^b \df{f}{x}\color{blue}{\dif x} = f(b) - f(a)$$
 
-and this turns out to be the same thing as
+it will give us the same thing as
 
 $$\int_{f(a)}^{f(b)} \color{blue}{\dif f}= f(b) - f(a)$$
 
@@ -380,29 +414,39 @@ To make these ideas more rigorous, we could look to the idea of [differential 1-
 
 {% include hidden.html content=integration id="integration" title="Technical aside: can you integrate a differential?" %}
 
-## The rocket equation
+## Information: a little terminology...
 
 Hooray, we've derived the rocket equation! Let's see it again::
 
 $$\Delta v = v_\text{e} \log \frac{M_\text{init}}{M_\text{final}}$$
 
-Normally, the difference of velocities $$v_\text{final}-v\text{init}$$ is compressed into one quantity, $$\Delta v$$, pronounced 'delta-vee'.
+Here, the difference of velocities $$v_\text{final}-v_\text{init}$$ is written $$\Delta v$$, pronounced 'delta-vee'.
 
-Mission planners think of it this way: a rocket has a 'total budget' of delta-v when it launches, and each time it turns on its engines and performs a maneuver to change its velocity in some way, it uses up some of its delta-v. By finding optimal missions (such as Hohmann transfer orbits, or gravitational slingshot maneuvers) we can work out the total delta-v 'cost' to reach a particular planet or orbit.
+Mission planners think of it this way: a rocket has a 'total budget' of delta-v when it launches, and each time it turns on its engines and performs a maneuver to change its velocity in some way, it uses up some of its delta-v.
 
-The exhaust velocity $$v_\text{e}$$ is also commonly called the *specific impulse*, $$I_\text{sp}$$. There's a confusing wrinkle here, because there's another, related measure that's *also* called the specific impulse that's measured as a time instead of a force. The specific impulse as a time is obtained by dividing the specific impulse as a speed by the standard gravity $$g=9.81\unit{ms^{-2}}$$.
+To get to any particular place in the solar system (or beyond), there's a minimum delta-v 'cost'. We'll go into how to calculate these in another course.
 
-For example, if we [look up the Saturn V rocket](https://en.wikipedia.org/wiki/Saturn_V), we find the specific impulse of its first stage is $$263\unit{s}$$. To actually use this in a calculation, we have to turn it back into a speed, which turns out to be $$263\unit{s}\times9.81\unit{ms^{-2}}=2.58\unit{kms^{-1}}$$.
+The exhaust velocity $$v_\text{e}$$ is also commonly called the *specific impulse*, $$I_\text{sp}$$. This is because you can calculate the effective exhaust velocity of a rocket by dividing the thrust by the rate that mass leaves the engine. 'Specific' is commonly used as a word meaning 'per unit mass', so specific impulse is also a measure of 'force per unit mass propellant'.
 
-The ratio $$\frac{M_\text{init}}{M_\text{final}}$$ is called the rocket's *mass ratio*. 
+{% capture ispinseconds %}
+There's a confusing wrinkle here, because there's another, related measure that's *also* called the specific impulse that's measured as a time instead of a force. The specific impulse as a time is obtained by dividing the specific impulse as a speed by the standard gravity $$g_0=9.81\unit{ms^{-2}}$$.
 
-The rocket equation tells us there are only two ways to get more delta-v: increase the mass ratio (i.e. carry a greater proportion of the rocket's mass as propellant) or use an engine with more specific impulse.
+Presented like this, writing the specific impulse in seconds seems completely ridiculous. The reason is that, historically, quantities of fuel would be measured by weight (at the surface of the Earth) instead of mass. So, scientists thought of the 'weight flow rate' instead of the 'mass flow rate'. When you divide the thrust by the rate that weight leaves the engine, you get a time, not a speed.
 
-## Implication: thrust
+Specific impulses are, unfortunately, often still reported in seconds because it's hard to break from tradition. For example, if we [look up the Saturn V rocket](https://en.wikipedia.org/wiki/Saturn_V), we find the specific impulse of its first stage is $$263\unit{s}$$. To actually use this in a calculation, we have to turn it back into a speed by multiplying this value by $$g_0$$, which turns out to be $$263\unit{s}\times9.81\unit{ms^{-2}}=2.58\unit{kms^{-1}}$$.
+{% endcapture %}
+
+{% include hidden.html content=ispinseconds id="ispinseconds" title="A wrinkle: specific impulse in seconds" %}
+
+The ratio $$\frac{M_\text{init}}{M_\text{final}}$$ is called the rocket's *mass ratio*.
+
+The rocket equation tells us there are only two ways to get more delta-v: increase the mass ratio (i.e. carry a greater proportion of the rocket's mass as propellant) or use an engine with a higher specific impulse.
+
+## Question 8: does thrust matter?
+
+We mentioned another measure to describe a rocket engine: the thrust, which is the force applied by the engine. The thrust and mass of the rocket together determine how quickly a rocket accelerates. But, curiously, it's nowhere to be seen in the rocket equation. Let's have a look at what that means.
 
 {% include captionedfigure.html alt="Two rockets, each with seven engines shown. One rocket has an exhaust plume coming out of all its engines, the other out of only one engine." img="/embed/physics/rocketequation/rocket-manyengines.png" %}
-
-An interesting aspect of the rocket equation is that the *thrust* (applied force) of the rocket never enters into it. Let's have a look at what that means.
 
 Suppose two rockets launch, with zero velocity, at the same time. Each rocket has the same mass and amount of propellant. The rockets each have a hundred engines, but on one of the two rockets, there is a malfunction and only one of the engines starts. Both rockets burn through all of their propellant.
 
@@ -416,6 +460,28 @@ Both rockets have the same initial mass, and same final mass. So they will reach
 {% endcapture %}
 
 {% include hidden.html content=solution8 id="solution8" title="Solution" %}
+
+## Question 9: using the rocket equation
+
+Suppose you're tasked with designing a space probe designed to orbit Mars and send back information.
+
+After an existing launch system releases you in Low Earth Orbit, you've worked out it will take $$4.3\unit{kms^{-1}}$$ to transfer to a Mars transfor orbit, $$0.9\unit{kms^{-1}}$$ to enter Mars capture orbit instead of flying by, and $$\unit{1.4\unit{kms^{-1}}}$$ to go from the wildly elliptical capture orbit to the desired low Mars orbit. Adding it all up, you work out that the mission requires a total $$\Delta v$$ of $$6.6\unit{kms^{-1}}$$.
+
+The probe's instruments and structure have ended up massing $$560\unit{kg}$$. 
+
+## Information: types of propulsive technology
+
+So we've seen how, in light of the rocket equation, the thrust doesn't affect the total change in velocity a rocket can make on its mission. Instead, having a high thrust instead means the rocket does not need to 'burn' (have its engine active) for as long to achieve the same changes.
+
+Most rockets, historically and presently, have been *chemical rockets*. These use a chemical reaction between fuel and oxidiser to create a very hot gas, and then speed that gas up to supersonic speeds by allowing it to exit through [a specially shaped nozzle](https://en.wikipedia.org/wiki/de_Laval_nozzle). The burned up fuel and oxidiser form the rocket's reaction mass. (Occasionally, rockets will use a 'monopropellant', where there is only one fuel which breaks down in the presence of a catalyst.)
+
+Depending on the exact reaction used, chemical rockets usually have an exhaust velocity of a few $$\unit{kms^{-1}}$$. They can produce extremely high thrusts, often on the order of tens of $$\unit{kN}$$, and can work within an atmosphere, so they're crucial for getting rockets up to orbital speeds in the first place.
+
+More recently, spacecraft engineers have successfully built 'ion drives', which use an electric or magnetic field to accelerate charged particles to high speeds. These can achieve a much higher exhaust velocity, on the order of tens or even hundreds of $$\unit{kms^{-1}}$$, so they can achieve the same changes in velocity with a much lower mass ratio. However, they tend to have very low thrust, usually less than a Newton.
+
+As a result, while a chemical rocket will usually only fire for seconds or minutes, an ion drive must remain on (drawing electrical power) for the duration of the mission, and it can't perform sharp maneuvers that require an abrupt change of velocity at a particular point.
+
+There are speculative designs for rockets that achieve both high thrust *and* high specific impulse. 
 
 ## Implication: staging
 
