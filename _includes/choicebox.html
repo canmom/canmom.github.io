@@ -1,7 +1,7 @@
 <div class="question" id="{{ include.id }}">
 	<script>
         document.addEventListener('DOMContentLoaded', function() {
-            setUpChoices("{{ include.id }}",{{ include.correct }})
+            setUpChoices("{{ include.id }}",{{ include.correct }}-1)
         }, false);
 	</script>
 	{{ include.options | markdownify }}
