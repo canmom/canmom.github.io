@@ -20,15 +20,11 @@ class Answers {
   }
 
   register (id, correctAnswer) {
-    this.correct.id = correctAnswer
+    this.correct[id] = correctAnswer
   }
 
   check (id, answer) {
-    return answer === this.correct.id
-  }
-
-  getCorrectAnswer (id) {
-    return correct.id
+    return answer === this.correct[id]
   }
 }
 
@@ -75,4 +71,12 @@ const setUpChoices = function (id, correctAnswer) {
       resolveChoice(id, currentIndex, optionsList)
     }
   })
+}
+
+const checkNumberAnswer = function (id, correctAnswer) {
+  const field = document.getElementById(id+"field")
+  const button = document.getElementById(id+"check")
+  field.classList.add(field.value === correctAnswer ? "correct" : "wrong")
+  field.disabled = true
+  button.disabled = true
 }

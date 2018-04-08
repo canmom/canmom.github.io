@@ -1,0 +1,5 @@
+<div class="question" id="{{ include.id }}">
+    <input type="text" id="{{ include.id }}field" pattern="[0-9]+\.?[0-9]*" autocomplete="off" size="6">
+    <span>{% if include.unit %}{{ include.unit | markdownify | remove: '<p>' | remove: '</p>'}}{% endif %}</span>
+    <button id="{{ include.id }}check" onclick="checkNumberAnswer('{{include.id}}','{{include.correct}}')" autocomplete="off">Check</button>
+</div>

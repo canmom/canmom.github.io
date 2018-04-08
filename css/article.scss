@@ -248,11 +248,15 @@ article hr {
     margin-left: 45px;
     margin-right: 20px;
     margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .question ul {
     padding: 0;
     margin: 0;
+    width: 100%;
 }
 
 .question li {
@@ -266,7 +270,7 @@ article hr {
     transition-property: background-color, border-left;
     transition-duration: 0.5s;
     transition-timing-function: ease;
-
+    min-height: 1.7em;
 }
 
 .question li:first-child {
@@ -322,6 +326,56 @@ article hr {
 
 .question li.greyedout {
     opacity: 0.5;
+}
+
+.question input {
+    border: 1px solid $border-colour;
+    background-color: white;
+    margin-right: 10px;
+    font-size: 150%;
+    transition-property: background-color, color, border;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    text-align: right;
+    margin-left: auto;
+    width: 100%;
+}
+
+.question input + span {
+    margin-right: 10px;
+    white-space: nowrap;
+}
+
+.question input + span::after {
+    content: "✓";
+    font-size: 150%;
+    opacity: 0;
+    transition-property: opacity, width;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+
+.question input.correct {
+    background-color: rgba($correct-colour, 0.2);
+    border: 1px solid $correct-colour;
+    color: $correct-colour;
+}
+
+.question input.correct + span::after {
+    opacity: 1;
+    color: $correct-colour;
+}
+
+.question input.wrong {
+    background-color: rgba($wrong-colour, 0.2);
+    border: 1px solid $wrong-colour;
+    color: $wrong-colour;
+}
+
+.question input.wrong + span::after {
+    content: "✗";
+    opacity: 1;
+    color: $wrong-colour;
 }
 
 @import "chat";
