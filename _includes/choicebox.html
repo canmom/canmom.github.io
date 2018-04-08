@@ -1,0 +1,8 @@
+<div class="question" id="{{ include.id }}">
+	<script>
+        document.addEventListener('DOMContentLoaded', function() {
+            setUpChoices("{{ include.id }}",{{ include.correct }})
+        }, false);
+	</script>
+	{{ include.options | markdownify }}
+</div>

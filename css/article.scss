@@ -241,6 +241,89 @@ article hr {
     margin-top: 0;
 }
 
+.question {
+    background-color: rgba($border-colour,0.2);
+    border: 1px solid $border-colour;
+    padding: 10px;
+    margin-left: 45px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.question ul {
+    padding: 0;
+    margin: 0;
+}
+
+.question li {
+    background-color: rgba($border-colour,0.6);
+    list-style: none;
+    border-left: 5px solid $border-colour;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    align-items: center;
+    transition-property: background-color, border-left;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+
+}
+
+.question li:first-child {
+    margin-top: 0;
+}
+
+.question li.selectable:hover {
+    background-color: rgba($accent-colour, 0.1);
+    border-left: 5px solid $accent-colour;
+}
+
+.question li.correct, .question li.correction {
+    background-color: rgba($correct-colour,0.1);
+    border-left: 5px solid $correct-colour;
+}
+
+.question li.wrong {
+    background-color: rgba($wrong-colour,0.1);
+    border-left: 5px solid $wrong-colour;
+}
+
+.question li::after {
+    transition-property: opacity;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+
+.question li.selectable::after {
+    opacity: 0;
+    content:"";
+}
+
+.question li.correct::after {
+    opacity: 1;
+    color: $correct-colour;
+    content: "✓";
+    font-size: 150%;
+}
+
+.question li.wrong::after {
+    opacity: 1;
+    color: $wrong-colour;
+    content: "✗";
+    font-size: 150%;
+}
+
+.question li.correction::after {
+    opacity: 1;
+    color: $correct-colour;
+    content: "⬅";
+    font-size: 150%;
+}
+
+.question li.greyedout {
+    opacity: 0.5;
+}
+
 @import "chat";
 
 /* ===============
