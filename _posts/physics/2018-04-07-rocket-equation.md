@@ -413,7 +413,7 @@ As in the Newtonian case, we're going to say we're only interested in changes wi
 
 $$\begin{align*}
 M \sinh w \dif w + \cosh w \dif M + \cosh r \dif m &= 0 \\
-M \cosh w \dif w - \sinh w \dif M + \sinh r \dif m &= 0
+M \cosh w \dif w + \sinh w \dif M - \sinh r \dif m &= 0
 \end{align*}$$
 
 We would like to remove $$m$$ from consideration, so let's rearrange and divide (assuming $$r\ne 0$$:
