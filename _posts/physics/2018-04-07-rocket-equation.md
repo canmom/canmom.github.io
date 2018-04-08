@@ -341,7 +341,7 @@ $$\dif p = m_1 \dif v_1 + v_1 \dif m_1 + m_2 \dif v_2 + v_2 \dif m_2$$
 
 ## Question 5: What does a rocket conserve?
 
-If we know a physical quantity such as momentum is *conserved*, it gives us a constraint: we can change the variables that determine momentum (such as masses and velocities) in some ways, but not others. When it changes in an acceptable way, the small, immediate changes in the momentum must cancel out to zero.
+If we know a physical quantity such as momentum is *conserved*, it gives us a constraint: we can change the variables that determine momentum (such as masses and velocities) in some ways, but not others. For the variables to change in a way that's physically possible, the small, immediate changes in the momentum must cancel out to zero.
 
 This means that conservation laws can be expressed by setting a differential to zero, such as
 
@@ -405,7 +405,7 @@ Conserving the total momentum gives us:
 
 $$\dif p = v \dif M + M \dif v - m \dif u - u \dif m = 0$$
 
-We are considering this as increasing the mass of propellant travelling at velocity $$-u$$, rather than changing the velocity of the existing propellant. So we say in the system we're considering, $$u$$ is a constant, i.e. $$\dif u=0$$.
+We are considering the rocket to be increasing the mass $$m$$ of propellant travelling at velocity $$-u$$, rather than changing the velocity of the propellant already travelling at that velocity. So we say in the system we're considering, $$u$$ is a constant, i.e. $$\dif u=0$$.
 
 Combining these various results, what do we get?
 
@@ -533,7 +533,7 @@ where we have used the identities that $$\log A + \log B = \log AB$$ and $$-\log
 {% capture integration %}
 You may be wondering exactly how the notation for the differential of a function, e.g. $$\color{red}{\dif f}$$, relates to the symbol used when integrating, e.g. $$\int x^2 \color{blue}{\dif x}$$. Can we really just slap an integration sign on and call it a day?
 
-Strictly speaking, as we've defined it, the delimiter $$\color{blue}{\dif x}$$ used in integration has nothing inherently to do with the differential of a function that we defined above. However, nothing really goes wrong (at least in physics) if we treat it as the same as a differential, since when you deal with *integration by substitution* they behave the same way. Physicists play fast and loose with the technicalities of concepts like differentials, often much to the frustration of mathematicians who have to clean up afterwards.
+Strictly speaking, as we've defined it, the delimiter $$\color{blue}{\dif x}$$ used in integration has nothing inherently to do with the differential $$\color{red}{\dif f}$$ of a function as we defined it above. However, nothing really goes wrong (at least in physics) if we treat it as the same as a differential, since when you deal with *integration by substitution* they behave the same way. Relying on intuition for the underlying maths, physicists often play fast and loose with the technicalities of concepts like differentials, often much to the frustration of mathematicians who have to clean up afterwards.
 
 If we want to justify integrating the differential of a function, we can observe:
 
