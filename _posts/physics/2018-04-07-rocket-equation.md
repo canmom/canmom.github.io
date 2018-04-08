@@ -331,7 +331,7 @@ In the relativistic case, there's an interesting wrinkle: mass and energy are th
 
 Instead, we must conserve relativistic energy $$E=\gamma_v Mc^2 + \gamma_u mc^2$$, where we're introducing the gamma factor
 
-$$\gamma_v=\frac{1}{1-\sqrt{\frac{v^2}{c^2}}}$$
+$$\gamma_v=\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}$$
 
 The relativistic momentum, $$p=\gamma_v Mv - \gamma_u mu$$, is also conserved.
 
