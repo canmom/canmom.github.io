@@ -18,8 +18,10 @@ Space is a very different environment to Earth. On Earth, there is always someth
 In the vacuum of space, a spacecraft need not worry about friction, and it can fly on forever at the same speed without any work. However, when it wants to *change* its speed or direction, it has no convenient ground to push on. It has to do something else.
 
 ### What is this?
-
+{:.no_toc}
 This is a course of questions designed to teach you about the rocket equation through [active learning](https://en.wikipedia.org/wiki/Active_learning), inspired by [brilliant.org](https://brilliant.org/). (Full disclosure: I'm writing this to apply for a job there.)
+
+{% capture assumedknowledge %}
 
 I'm assuming you know:
  - how to solve a mechanics problem by conserving momentum and transforming between reference frames
@@ -37,6 +39,16 @@ If you're especially keen, open the 'aside' boxes for extra details and extensio
  - deriving the relativistic rocket equation using rapidity coordinates (make sure you're comfortable with [hyperbolic functions](https://en.wikipedia.org/wiki/Hyperbolic_function))
 
 [nb these extra boxes could be expanded into their own courses of questions later, but I think it's useful to put them next to the relevant bits of the course. Consider them optional extras.]
+
+{% endcapture %}
+
+{% include hidden.html content=assumedknowledge id="assumedknowledge" title="Assumed knowledge & what you'll learn" %}
+
+## Contents
+{:.no_toc}
+
+1. toc
+{:toc}
 
 ## Question 1: How to move in a vacuum
 
@@ -175,7 +187,7 @@ As we work out the rocket equation, these bonus boxes will illustrate how we'd d
 {% endcapture %}
 {% include hidden.html content=relativistic id="relativistic" title="Aside: Relativistic rocket" %}
 
-## Question 3: setting up the situation
+## Question 3: Setting up the situation
 
 {% include captionedfigure.html alt="A labelled diagram of a rocket of mass M moving to the right at speed v. A quantity of exhaust with mass m is travelling to the left at speed u." img="/embed/physics/rocketequation/rocket-variables.png" %}
 
@@ -276,7 +288,7 @@ More complicated treatments of differentials link it to other areas of mathemati
 
 {% include hidden.html content=whatisadifferential id="whatisadifferential" title="Aside: what <em>is</em> a differential?" %}
 
-## Questin 4: Computing a differential
+## Question 4: Computing a differential
 
 For a particular system of two particles whose masses can vary, the total momentum is given by
 
@@ -307,7 +319,7 @@ $$\dif p = m_1 \dif v_1 + v_1 \dif m_1 + m_2 \dif v_2 + v_2 \dif m_2$$
 
 {% include hidden.html content=solution4 id="solution4" title = "Solution" %}
 
-## Question 5: what does a rocket conserve?
+## Question 5: What does a rocket conserve?
 
 If we know a physical quantity such as momentum is *conserved*, it gives us a constraint: we can change the variables that determine momentum (such as masses and velocities) in some ways, but not others. When it changes in an acceptable way, the small, immediate changes in the momentum must cancel out to zero.
 
@@ -359,7 +371,7 @@ Why are these conservation laws different? It is because in special relativity, 
 
 {% include hidden.html content=relativistic2 id="relativistic2" title="Aside: relativistic conservation laws" %}
 
-## Question 6: conservation laws as differentials
+## Question 6: Conservation laws as differentials
 
 Conserving the total mass gives us:
 
@@ -535,7 +547,7 @@ $$v_\text{final} = c \tanh w_\text{final} = c \tanh \left(\frac{v_\text{e}}{c}\l
 
 {% include hidden.html content=relativistic4 id="relativistic4" title="Aside: obtaining the relativistic rocket equation" %}
 
-## Information: a little terminology...
+## Information: A little terminology...
 
 Hooray, we've derived the rocket equation! Let's see it again::
 
@@ -557,11 +569,11 @@ Specific impulses are, unfortunately, often still reported in seconds because it
 
 {% include hidden.html content=ispinseconds id="ispinseconds" title="A wrinkle: specific impulse in seconds" %}
 
-The ratio $$\frac{M_\text{init}}{M_\text{final}}$$ is called the rocket's *mass ratio*. (Some authors, such as Sutton and Biblarz in *Rocket Propulsion Elements*, use the term 'mass ratio' for the inverse of this, $$\frac{M_\text{final}}{M_\text{init}})$$.)
+The ratio $$\frac{M_\text{init}}{M_\text{final}}$$ is called the rocket's *mass ratio*. (Some authors, such as Sutton and Biblarz in *Rocket Propulsion Elements*, use the term 'mass ratio' for the inverse of this, $$\frac{M_\text{final}}{M_\text{init}}$$.)
 
 The rocket equation tells us there are only two ways to get more delta-v: increase the mass ratio (i.e. carry a greater proportion of the rocket's mass as propellant) or use an engine with a higher specific impulse.
 
-## Question 8: does thrust matter?
+## Question 8: Does thrust matter?
 
 We mentioned another measure to describe a rocket engine: the thrust, which is the force applied by the engine. The thrust and mass of the rocket together determine how quickly a rocket accelerates. But, curiously, it's nowhere to be seen in the rocket equation. Let's have a look at what that means.
 
@@ -580,7 +592,7 @@ Both rockets have the same initial mass, and same final mass. So they will reach
 
 {% include hidden.html content=solution8 id="solution8" title="Solution" %}
 
-## Question 9: using the rocket equation directly
+## Question 9: Using the rocket equation directly
 
 {% include captionedfigure.html alt="A photograph of the Apollo Command and Service module, a shiny metal cylinder with a conical nose, various instruments on the side including antennae and reaction control thrusters, and a long nozzle on the back." img="/embed/physics/rocketequation/Apollo_CSM.jpg" contentsrc="https://en.wikipedia.org/wiki/Apollo_Command/Service_Module#/media/File:Apollo_CSM_lunar_orbit.jpg" capt="Apollo 15 Command/Service Module, as seen from the Lunar Module." %}
 
@@ -598,7 +610,7 @@ $$\Delta v = 3.13 \unit{kms^{-1}} \cdot \log \left(\frac{28\,800\unit{kg}}{11\,9
 
 {% include hidden.html content=solution9 id="solution9" title="Solution" %}
 
-## Question 10: using the rocket equation in reverse
+## Question 10: Using the rocket equation in reverse
 
 {% include captionedfigure.html alt="A photograph of the Mariner 9 space probe against a black background. The probe has a cross of four solar panels, a large antenna dish and a white plastic sheet covering the main instruments." contentsrc="https://commons.wikimedia.org/wiki/File:Mariner09.jpg" capt="<a href='https://en.wikipedia.org/wiki/Mariner_9'>Mariner 9</a>, which in 1971 became the first spacecraft to orbit Mars." img="/embed/physics/rocketequation/mariner9.jpg" %}
 
@@ -642,19 +654,15 @@ As a result, while a chemical rocket will usually only fire for seconds or minut
 
 There are speculative designs for rockets that achieve both high thrust *and* high specific impulse.  -->
 
-## Information: staging
+## Information: Staging
 
 Often, a big part of the mass of the rocket is fuel tanks, and the more fuel you have, the more tank you need. But while spent fuel is no longer slowing down the rocket, the empty tank remains.
 
-Moreover, rockets want to use different kinds of engines in different situations: an engine designed to work well at atmospheric pressure won't work nearly so well in space. But if you have two different engines, you'd have to carry the original atmospheric engine around for your entire mission.
-
-For this reason, rockets are often designed in *stages*. Instead of one big fuel tank, they have several fuel tanks, and several engines. Each stage will exhaust its fuel, and then discard the heavy tanks and engine. The spent stage uses explosives or small rockets to push it out the way safely, and then either flies away into space or burns up in the atmosphere.
+For this reason, rockets are often designed in *stages*. Instead of one big fuel tank, they have several fuel tanks, and several engines. Each stage will exhaust its fuel, and then discard the heavy tanks and engine.
 
 {% include captionedfigure.html alt="Four images of a staged rocket at different points in its flight. In the first image, the rocket is full of fuel. In the second image, the first stage is empty and the rocket's mass has reduced by a factor of M1. In the third image, the first stage has separated. In the fourth image, the second stage is empty and the stage has emptied by a factor M2." img="/embed/physics/rocketequation/rocket-stages-2.png" %}
 
-What is the effect of staging on the delta-v budget? Let's consider the simplest example.
-
-Suppose you have two stages. The ratio of the mass between the fully fueled rocket and the rocket when the first stage has burned is $$\mathcal{M}_1$$, and the ratio between the fully fueled second stage and after it has burned is $$\mathcal{M}_2$$. Both stages have the same exhaust velocity $$v_\text{e}$$. (Note that $$\mathcal{M}_1$$ includes the mass of the second stage on both sides of the fraction!)
+To see the effect of staging, suppose you have two stages. Their mass ratios are $$\mathcal{M}_1$$ and $$\mathcal{M}_2$$. Both stages have the same exhaust velocity $$v_\text{e}$$. (Note that $$\mathcal{M}_1$$ includes the mass of the second stage in both $$M_\text{init}$$ and $$M_\text{final}$$!)
 
 We calculate the total delta-v by adding together the delta-vs of each stage.
 
@@ -786,7 +794,7 @@ With these, we can calculate the delta-v produced in each set of burns:
 
 Now, we add them all up to get a total delta-v of $$15.73\unit{kms^{-1}}$$
 
-Unfortunately, it is difficult to find a place where NASA has calculated the same figure. however, we can estimate whether it's in the right sort of scale. According to Wikipedia's delta-v table, to get from Earth to Low Earth Orbit, we need about $$10\unit{kms^{-1}}$$, and from there to get to a low Lunar orbit we need another $$4.04\unit{kms^{-1}}$$. To return to a low Earth orbit from there takes a final $$1.31\unit{kms^{-1}}$$. So we are extremely close!
+Unfortunately, it is difficult to find a place where NASA has calculated the same figure. Instead, let's compare it to the delta-v requirements of a Moon mission. According to Wikipedia's delta-v table, to get from Earth's surface to low Earth orbit, we need about $$10\unit{kms^{-1}}$$, and from there to get to a low Lunar orbit we need another $$4.04\unit{kms^{-1}}$$. To return to a low Earth orbit from there takes a final $$1.31\unit{kms^{-1}}$$. (The remainder of our energy will be dumped into the atmosphere by aerobraking.) So we are extremely close!
 
 The real mission of course differed from this calculation for a few reasons...
 
