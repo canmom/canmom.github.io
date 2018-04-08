@@ -60,10 +60,14 @@ Mae would prefer not to be stranded in space, but she had the foresight to bring
 
 What is the relationship between $$V$$ and $$v$$?
 
+{% capture question1 %}
  - $$V=v$$
  - $$V=\frac{m}{M+m}v$$
  - $$V=\frac{m}{M}v$$
  - $$V=v\log\frac{m+M}{M}$$
+{% endcapture %}
+
+{% include choicebox.html options=question1 id="question1" correct="3" %}
 
 {% capture solution1 %}
 In this problem, momentum is conserved. (Kinetic energy is not conserved, because the throwing the ball introduces new kinetic energy, transformed from the chemical energy in Mae's arms.)
@@ -99,9 +103,13 @@ Mae once again has one large bowling ball, of mass $$m$$. Mae throws her bowling
 
 Which of the two astronauts will be travelling faster after all these bowling balls have been thrown?
 
+{% capture question2 %}
  - Mae
  - Valentina
  - They will move at the same speed
+{% endcapture %}
+
+{% include choicebox.html options=question2 id="question2" correct="1" %}
 
 (Hint: don't try to calculate it in detail! But if you want to see the full solution, check the 'extra details' box in the solution.)
 
@@ -195,9 +203,13 @@ We will start our analysis in a frame of reference where the rocket has a total 
 
 We're looking at this in a frame where the rocket's travelling at speed $$v$$. We know that in the rocket's *rest frame*, the exhaust will be exiting the rocket with velocity $$-v_\text{e}$$. What is the speed of the exhaust in this frame, $$u$$?
 
+{% capture question3 %}
  - $$u = v_\text{e} - v$$
  - $$u = v - v_\text{e}$$
  - $$u = v_\text{e} + v$$
+{% endcapture %}
+
+{% include choicebox.html options=question3 id="question3" correct="1" %}
 
 {% capture solution3 %}
 
@@ -296,9 +308,13 @@ $$p(m_1,v_1,m_2,v_2)=m_1 v_1 + m_2 v_2$$
 
 What is the differential, $$\dif p$$?
 
- - $$\dif p = m_1 \dif v_1 + v_1 \dif m_1 + m_2 \dif v_2 + v_2 \dif m_2$$
+{% capture question4 %}
  - $$\dif p = m_1 \dif v_1 + m_2 \dif v_2$$
  - $$\dif p = m_1 + v_1 + m_2 + v_2$$
+ - $$\dif p = m_1 \dif v_1 + v_1 \dif m_1 + m_2 \dif v_2 + v_2 \dif m_2$$
+{% endcapture %}
+
+{% include choicebox.html options=question4 id="question4" correct="3" %}
 
 {% capture solution4 %}
 Using the above formula, the differential of $$p$$ is written
@@ -329,9 +345,13 @@ $$\dif p=0$$
 
 Which of the following quantities is *not* conserved in this stystem?
 
+{% capture question5 %}
  - total mass $$\mathcal{M}=m+M$$
  - total momentum $$Mv - mu$$
  - total kinetic energy $$\frac{1}{2}Mv^2 + \frac{1}{2}mu^2$$
+{% endcapture %}
+
+{% include choicebox.html options=question5 id="question5" correct="3" %}
 
 {% capture solution5 %}
 No mass is entering or leaving the system, so the total mass $$\mathcal{M}=m+M$$ is conserved.
@@ -385,9 +405,13 @@ We are considering this as increasing the mass of propellant travelling at veloc
 
 Combining these various results, what do we get?
 
+{% capture question6 %}
  - $$(v+u) \dif M + M \dif v=0$$
  - $$(v-u) \dif M + M \dif v=0$$
  - $$v \dif M + (M+u) \dif v = 0$$
+{% endcapture %}
+
+{% include choicebox.html options=question6 id="question6" correct=1 %}
 
 {% capture solution6 %}
 Substituting $$\dif u = 0$$ we find:
@@ -479,9 +503,13 @@ $$\int_{v_\text{init}}^{v_\text{final}} \dif v = -v_\text{e} \int_{M_\text{init}
 
 What is the solution to this integral? (You can scroll up, but take the chance to solve it yourself!)
 
+{% capture question7 %}
  - $$v_\text{final}-v_\text{init} = v_\text{e} \log \frac{M_\text{final}}{M_\text{init}}$$
  - $$v_\text{final}-v_\text{init} = v_\text{e} \log \frac{M_\text{init}}{M_\text{final}}$$
  - $$v_\text{final}-v_\text{init} = v_\text{e} \left(\frac{1}{M_\text{init}^2}-\frac{1}{M_\text{final}^2}\right)$$
+{% endcapture %}
+
+{% include choicebox.html options=question7 id="question7" correct="2" %}
 
 {% capture solution7 %}
 We'll use [the standard result](https://en.wikipedia.org/wiki/Lists_of_integrals#Rational_functions) that the integral of $$\frac{1}{x}$$ over a domain with positive $$x$$ is the natural logarithm of $$x$$, i.e.
@@ -583,8 +611,12 @@ Suppose two rockets launch, with zero velocity, at the same time. Each rocket ha
 
 Do the rockets reach the same velocity? (Ignore any effects of torque from off-centre thrust.)
 
+{% capture question8 %}
 - Yes
 - No
+{% endcapture %}
+
+{% include choicebox.html options=question8 id="question8" correct="1" %}
 
 {% capture solution8 %}
 Both rockets have the same initial mass, and same final mass. So they will reach the same velocity. The fact that one rocket has a hundred times the thrust of the other doesn't matter at all! (Of course, the rocket with a hundred engines will reach its final speed much, much more quickly than the broken rocket.)
@@ -601,6 +633,8 @@ In December 1968, the Apollo 8 mission carried three people to orbit the Moon fo
 The Command/Service Module had a launch mass of $$28\,800\unit{kg}$$, and a dry mass (i.e., mass when its propellant had all been expelled) of $$11\,900\unit{kg}$$. The Service Module's [AJ10-137](https://en.wikipedia.org/wiki/AJ10) engine had a specific impulse of $$3.13\unit{kms^{-1}}$$.
 
 What was the total $$\Delta v$$ available to the Command/Service Module?
+
+{% include numberbox.html id="question9" correct="2.77" unit="\$$\unit{kms^{-1}}$$" %}
 
 {% capture solution9 %}
 Applying the rocket equation, we find
@@ -623,6 +657,8 @@ Adding it all up, the mission requires a total $$\Delta v$$ of $$6.6\unit{kms^{-
 The probe's instruments and structure have ended up massing $$500\unit{kg}$$. The probe has a chemical rocket with a specific impulse of $$3\unit{kms^{-1}}$$. What is the minimum mass of propellant the probe needs to complete its mission?
 
 Answer to the nearest $$100\unit{kg}$$.
+
+{% include numberbox.html id="question10" correct="4000" unit="\$$\unit{kg}$$" %}
 
 {% capture solution10 %}
 We know that the probe's final mass once it's burned its propellent is $$M_\text{final}=500\unit{kg}$$. The rest of the rocket's mass is propellant, so the propellant mass is $$M_\text{init}-M_\text{final}$$.
@@ -757,6 +793,8 @@ After the third stage has emptied, the Lunar Module docks with the Command and S
 Because it is difficult to work out exactly how much delta-v is spent before the Lunar Module is jettisoned, we analyse the Apollo 8 mission, which did not carry a Lunar Module. Instead, Apollo 8 carried a Lunar Test Article, massing $$9\,000\unit{kg}$$, which was jetisoned along with the third stage.
 
 What is the total delta-v available to Apollo 8?
+
+{% include numberbox.html id="question11" correct="15.73" unit="\$$\unit{kms^{-1}}$$" %}
 
 {% capture solution11 %}
 We proceed as follows:
