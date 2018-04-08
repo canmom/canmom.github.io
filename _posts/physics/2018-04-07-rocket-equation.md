@@ -91,6 +91,8 @@ Which of the two astronauts will be travelling faster after all these bowling ba
  - Valentina
  - They will move at the same speed
 
+(Hint: don't try to calculate it in detail! But if you want to see the full solution, check the 'extra details' box in the solution.)
+
 {% capture solution2extra %}
 We can work out exactly how fast Valentina is going. After she throws the first ball, we'll say she has speed $$V_1$$. We conserve momentum as before, but this time the ball thrown has mass $$\frac{m}{2}$$, while the mass of Valentina and the second ball together is $$M+\frac{m}{2}$$. This means we get
 
@@ -100,29 +102,31 @@ so after the first ball, Valentina has speed
 
 $$V_1=\frac{m}{2M+m}v=\frac{1}{1+\frac{m}{2M}}$$
 
-We can then transform to Valentina's rest frame, and do the same calculation we did for Mae. So we find, in this new frame, Valentina has speed
+We can then transform to Valentina's rest frame, and do the same calculation we did for Mae. So we find, in this new frame, which is moving with speed $$V_1$$ relative to the original, Valentina has speed
 
 $$V_2'=\frac{m}{2M}v$$
 
-and when we transform back into the original frame, we find her speed is
+Working out her total speed requires us to crunch a bunch of algebra. To simplify, let's define $$x=\frac{m}{2M}$$. Then, 
+
+$$\begin{align*}
+V_1&=\frac{1}{1+x}v \\
+V_2'&=xv
+\end{align*}$$
+
+Then, to find her total speed in the original frame, we transform back:
 
 $$\begin{align*}
 V_2&=V_2' + V_1 \\
-&= \left(\frac{1}{1+\frac{m}{2M}}+\frac{m}{2M}\right)v \\
-&= \frac{\frac{m}{2M} + \left(1+\frac{m}{2M}\right)\frac{m}{2M}}{1+\frac{m}{2M}}v \\
-&=\frac{2+\frac{m}{2M}}{1+\frac{m}{2M}}\frac{m}{2M}v
+&= \left(\frac{1}{1+x}+x\right)v \\
+&= \left(\frac{x+2}{x+1}\right)xv \\
+&= \frac{x+2}{x+1}\cdot\frac{V}{2}
 \end{align*}$$
 
-That's not *obviously* less than $$\frac{m}{M}v$$, is it? But let's check: first, to make our algebra clearer, let's let $$x=\frac{m}{2M}$$. Then, the difference between our two solutions is...
+where $$V=2xv$$ is the speed of Mae.
 
-$$\begin{align*}
-V_2-V&=\frac{2+x}{1+x}x - 2x\\
-&= x\left(\frac{2+x}{1+x}-2\right)\\
-&= x\left(\frac{2+x-2(1+x)}{1+x}\right)\\
-&= x\left(\frac{-x}{1+x}\right)
-\end{align*}$$
+The fraction $$\frac{x+2}{x+1}$$ is initially $$2$$, but then gets closer and closer to $$1$$ as $$x=\frac{m}{2M}$$ increases. This tells us that, as $$m$$ increases compared to $$M$$, Valentina's speed ends up growing parallel to half of Mae's speed.
 
-This is always negative because $$m$$ and $$M$$, and therefore $$x$$, are always positive. As we thought, $$V_2$$ (Valentina's speed) is always less than $$V$$ (Mae's speed).
+In the specific case where Mae's bowling ball is the same mass as her, $$M=m$$, we find Mae is going $$20\%$$ faster than Valentina.
 {% endcapture %}
 
 {% capture solution2 %}
