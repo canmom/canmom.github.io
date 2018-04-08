@@ -784,17 +784,16 @@ You could play around with this kind of equation in all kinds of ways, but we'll
 
 We've covered a lot of ground to get this far. For a final, challenge question, let's see if we can deal with one of the most famous rockets in spaceflight history: the Saturn V rocket that took humans to the Moon. Can we work out its total delta-v?
 
-The Saturn V stack consists of the following components:
+The Apollo Saturn V stack consists of the following components:
 
  - first stage: S-IC. Masses $$130\,000\unit{kg}$$ empty, and $$2\,290\,000\unit{kg}$$ full. Exhaust velocity: $$2.58\unit{kms^{-1}}$$ (at sea level).
  - second stage: S-II. Masses $$40\,100\unit{kg}$$ empty (including the S-II/S-IVB interchange), and $$496\,200\unit{kg}$$ full. Exhaust velocity: $$4.13\unit{kms^{-1}}$$ (in vacuum).
  - third stage: S-IVB. Masses $$13,500\unit{kg}$$ empty (including the instrument unit), and $$123\,000\unit{kg}$$ full. Exhaust velocity: $$4.13\unit{kms^{-1}}$$ (in vacuum).
  - Command and Service Module: masses $$11\,900\unit{kg}$$ empty, and $$28\,800\unit{kg}$$ full. Exhaust velocity: $$3.13\unit{kms^{-1}}$$.
- - Lunar Module: masses $$15\,200\unit{kg}$$ at launch.
 
-After the third stage has emptied, the Lunar Module docks with the Command and Service Module, and the Command and Service Module is used to enter lunar orbit. After the astronauts return from the Moon, the Lunar Module is released, and the Command and Service Module completes the rest of the mission alone.
+On all the missions after Apollo 8, there was also a Lunar Module, which flew with the Command and Service Module until the moon. However, because it is difficult to work out exactly how much delta-v is spent before the Lunar Module is jettisoned, let's analyse the Apollo 8 mission, which did not carry a Lunar Module. Instead, Apollo 8 carried...
 
-Because it is difficult to work out exactly how much delta-v is spent before the Lunar Module is jettisoned, we analyse the Apollo 8 mission, which did not carry a Lunar Module. Instead, Apollo 8 carried a Lunar Test Article, massing $$9\,000\unit{kg}$$, which was jetisoned along with the third stage.
+ - a Lunar Test Article, massing $$9\,000\unit{kg}$$, which was jettisoned along with the third stage.
 
 What is the total delta-v available to Apollo 8?
 
