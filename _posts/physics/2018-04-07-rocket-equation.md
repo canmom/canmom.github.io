@@ -241,9 +241,13 @@ In our case, that turns into
 
 $$u = \frac{v_\text{e}-v}{1-\frac{vv_\text{e}}{c^2}}$$
 
-In a previous article, I've described how to derive the relativistic rocket equation using velocities like this. But the equation turns out to be somewhat clearer if we use [rapidities]() instead of velocities directly.
+In a previous article, I've described how to derive the relativistic rocket equation using velocities like this. But the equation turns out to be somewhat clearer if we use [rapidities](https://en.wikipedia.org/wiki/Rapidity) instead of velocities directly.
 
-A rapidity $$w$$ is defined by an equation like $$\tanh w = \frac{v}{c}$$. Let's define two rapidities: $$\tanh w = \frac{v}{c}$$ and also $$\tanh r = \frac{u}{c}$$. We also have the exhaust rapidity $$\tanh w_\text{e}=\frac{v_\text{e}}{c}$$.
+In relativity, velocities of a massive object are always between $$-c$$ and $$c$$, but it can have unlimited amounts of kinetic energy or momentum. A small change in velocity near $$c$$ causes a much bigger change in an object's momentum and kinetic energy than when the velocity is near $$0$$. As a metaphor, we can imagine the velocities have been 'squashed up'.
+
+A rapidity $$w$$ is defined by an equation like $$\tanh w = \frac{v}{c}$$. By using rapidities, we can imagine 'stretching out' the velocity over the full range between $$-\infty$$ and $$+\infty$$, in a way that makes them able to be added and subtracted directly, just like velocities.
+
+Let's define two rapidities: $$\tanh w = \frac{v}{c}$$ and also $$\tanh r = \frac{u}{c}$$. We also have the exhaust rapidity $$\tanh w_\text{e}=\frac{v_\text{e}}{c}$$.
 
 With rapidities, the velocity addition formula is greatly simplified. The formula for adding arguments of the hyperbolic tangent is
 
