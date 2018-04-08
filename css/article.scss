@@ -224,17 +224,22 @@ article hr {
 }
 
 .hiddenheader {
+    margin-top: 5px;
     background-color: rgba($border-colour,0.4);
     display: flex;
     justify-content: space-between;
     align-items: baseline;
     padding-right: 20px;
+    border: 1px solid $border-colour;
 }
 
 .hiddencontent {
     padding-top: 20px;
     display: none;
     background-color: rgba($border-colour,0.2);
+    border: 1px solid $border-colour;
+    border-top: none;
+    padding-right: 20px;
 }
 
 .hiddencontent p:first-child {
@@ -264,7 +269,7 @@ article hr {
     list-style: none;
     border-left: 5px solid $border-colour;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     padding: 0 20px;
     align-items: center;
     transition-property: background-color, border-left;
@@ -273,8 +278,17 @@ article hr {
     min-height: 1.7em;
 }
 
+.question li .mjx-math {
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
 .question li:first-child {
     margin-top: 0;
+}
+
+.question li.selectable {
+    cursor: pointer;
 }
 
 .question li.selectable:hover {
@@ -296,6 +310,7 @@ article hr {
     transition-property: opacity;
     transition-duration: 0.5s;
     transition-timing-function: ease;
+    margin-left: auto;
 }
 
 .question li.selectable::after {
