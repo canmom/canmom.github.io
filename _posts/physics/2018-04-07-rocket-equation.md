@@ -164,7 +164,7 @@ For that reason, Mae will end up travelling faster.
 
 A rocket is not all that different to our astronauts and bowling balls: it's a machine that pushes reaction mass out in order to make itself accelerate in the other direction.
 
-Unlike the astronauts, the reaction mass comes out of a rocket in a steady stream rather than one or a few goes. Nevertheless, we can analyse a rocket in a similar way to the way we analysed the astronauts.
+Unlike the astronauts, the reaction mass comes out of a rocket in a steady stream rather than one or a few goes. Each tiny bit of reaction mass released must push all the reaction mass the rocket is still carrying. Nevertheless, we can analyse a rocket in a similar way to the way we analysed the astronauts.
 
 {% include captionedfigure.html alt="Greyscale photograph of Konstantin Tsiolkovsky, an old man with a white goatee wearing a pair of glasses and wearing a white button-up shirt." contentsrc="https://commons.wikimedia.org/wiki/File:Tsiolkovsky.jpg" img="/embed/physics/rocketequation/Tsiolkovsky.jpg" capt="Konstantin Tsiolkovsky, date unknown." %}
 
