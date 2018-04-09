@@ -842,7 +842,6 @@ The total requirements for the mission add up to $$15.35\unit{kms^{-1}}$$. So we
 The real mission of course differed from this calculation for a few reasons...
 
  - NASA engineers include some extra fuel for course corrections and dealing with emergencies. In the case of the Apollo 13 mission, this proved crucial for returning the astronauts alive.
- - orbital maneuvers can exploit something called the Oberth effect to get more delta-v when orbiting something massive like the Earth than the rocket could in deep space. We've ignored this.
  - the performance of the Saturn V engines varied as the rocket travelled through the atmosphere. The first and second stages were designed to work best in an atmosphere, while the third stage and the CSM were designed to work best in a vacuum. The rockets' specific impulse changed as the Saturn V gained altitude.
  - while flying through the atmosphere, the Saturn V was subject to atmospheric drag which drained away some of its speed.
 {% endcapture %}
