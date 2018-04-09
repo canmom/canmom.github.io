@@ -567,7 +567,7 @@ $$r = w_\text{e}- w$$
 
 Which means $$\tanh(w+r)=\tanh(w_\text{e})=\frac{v_\text{e}}{c}$$ and we get an identical equation to the Newtonian case, except expressed in terms of $$w$$ instead of $$v$$!
 
-$$M\dif w=-\frac{v_\text{e}}{c}\frac{1}{M}\dif M$$
+$$\dif w=-\frac{v_\text{e}}{c}\frac{1}{M}\dif M$$
 
 This is the same differential equation, so it has the same solution:
 
