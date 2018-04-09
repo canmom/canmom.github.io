@@ -3,6 +3,7 @@ title: Tsiolkovsky's rocket equation
 excerpt: Derive and use the most important equation in rocket science through a series of bite-sized questions.
 layout: article
 categories: physics
+image: /img/embed/physics/rocketequation/rocket-variables.png
 tags:
  - space
  - rockets
