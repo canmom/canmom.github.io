@@ -835,7 +835,9 @@ With these, we can calculate the delta-v produced in each set of burns:
 
 Now, we add them all up to get a total delta-v of $$15.73\unit{kms^{-1}}$$
 
-Unfortunately, it is difficult to find a place where NASA has calculated the same figure. Instead, let's compare it to the delta-v requirements of a Moon mission. According to Wikipedia's delta-v table, to get from Earth's surface to low Earth orbit, we need about $$10\unit{kms^{-1}}$$, and from there to get to a low Lunar orbit we need another $$4.04\unit{kms^{-1}}$$. To return to a low Earth orbit from there takes a final $$1.31\unit{kms^{-1}}$$. (The remainder of our energy will be dumped into the atmosphere by aerobraking.) So we are extremely close!
+Unfortunately, it is difficult to find a place where NASA has calculated the same figure. Instead, let's compare it to the delta-v requirements of a Moon mission. According to Wikipedia's delta-v table, to get from Earth's surface to low Earth orbit, we need about $$10\unit{kms^{-1}}$$, and from there to get to a low Lunar orbit we need another $$4.04\unit{kms^{-1}}$$. To return to a low Earth orbit from there takes a final $$1.31\unit{kms^{-1}}$$. (The remainder of our energy will be dumped into the atmosphere by aerobraking.)
+
+The total requirements for the mission add up to $$15.35\unit{kms^{-1}}$$. So we are extremely close!
 
 The real mission of course differed from this calculation for a few reasons...
 
