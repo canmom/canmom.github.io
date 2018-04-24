@@ -281,7 +281,7 @@ $$\dif f = \sum_{i=1}^n \pdf{f}{x_i}\dif x_i$$
 
 for a function $$f(x_1, \dots x_n)$$ of multiple variables.
 
-In other words, to get the differential, you add up the partial differentials of the function with respect to each of its variables, each multiplied by the differential of the corresponding variable.
+In other words, to get the differential, you add up the partial derivatives of the function with respect to each of its variables, each multiplied by the differential of the corresponding variable.
 
 {% capture whatisadifferential %}
 We've defined a notation for differentials, but what exactly *is* it?
@@ -290,7 +290,7 @@ The notion of a differential goes back to Leibniz, one of the founders of calcul
 
 As mathematics developed, it became necessary to make calculus more rigorous. Although it was useful, it had been very unclear what, exactly, an infinitesimal quantity meant, so calculus was rebuilt in terms of a much more precise idea of a limit. This is the approach used in standard [*real analysis*](https://en.wikipedia.org/wiki/Real_analysis).
 
-This made the notion of a diffrential seem rather suspect, but we can rebuild it in a number of ways. One straightforward approach is to see a differential $$\dif f$$ as a function of two independent real variables $$x$$ and $$\Delta x$$, leading to expressions like:
+This made the notion of a differential seem rather suspect, but we can rebuild it in a number of ways. One straightforward approach is to see a differential $$\dif f$$ as a function of two independent real variables $$x$$ and $$\Delta x$$, leading to expressions like:
 
 $$\dif f (x, \Delta x) = f'(x) \Delta x$$
 
@@ -326,7 +326,7 @@ Using the above formula, the differential of $$p$$ is written
 
 $$\dif p = \pdf{p}{v_1}\dif v_1 + \pdf{p}{m_1} \dif m_1 + \pdf{p}{v_2} \dif v_2 + \pdf{p}{m_2} \dif m_2$$
 
-We evaluate the partial differentials:
+We evaluate the partial derivatives:
 
 $$\begin{align*}
 \pdf{p}{v_1}&=m_1 &\qquad \pdf{p}{m_1}&=v_1 \\
@@ -457,7 +457,7 @@ M \sinh w \dif w + \cosh w \dif M + \cosh r \dif m &= 0 \\
 M \cosh w \dif w + \sinh w \dif M - \sinh r \dif m &= 0
 \end{align*}$$
 
-We would like to remove $$m$$ from consideration, so let's rearrange and divide (assuming $$r\ne 0$$:
+We would like to remove $$m$$ from consideration, so let's rearrange and divide (assuming $$r\ne 0$$):
 
 $$\begin{align*}
 \dif m &= -\sech r (M \sinh w \dif w + \cosh w \dif M) \\
@@ -571,11 +571,11 @@ $$\dif w=-\frac{v_\text{e}}{c}\frac{1}{M}\dif M$$
 
 This is the same differential equation, so it has the same solution:
 
-$$w_\text{final} - w_\text{init} = \frac{v_\text{e}}{c}\log \frac{M_\text{final}}{M_\text{init}}$$
+$$w_\text{final} - w_\text{init} = \frac{v_\text{e}}{c}\log \frac{M_\text{init}}{M_\text{final}}$$
 
 In the case that the rocket starts at zero speed, so $$v_\text{init}=w_\text{init}=0$$, we can get a simple expression for $$v_\text{final}$$:
 
-$$v_\text{final} = c \tanh w_\text{final} = c \tanh \left(\frac{v_\text{e}}{c}\log \frac{M_\text{final}}{M_\text{init}}\right)$$
+$$v_\text{final} = c \tanh w_\text{final} = c \tanh \left(\frac{v_\text{e}}{c}\log \frac{M_\text{init}}{M_\text{final}}\right)$$
 {% endcapture %}
 
 {% include hidden.html content=relativistic4 id="relativistic4" title="Aside: obtaining the relativistic rocket equation" %}
