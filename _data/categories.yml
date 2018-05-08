@@ -61,3 +61,6 @@ maths:
 nier:
   path: /nier
   display: NieR
+rpgs:
+  path: /rpgs
+  display: RPGs

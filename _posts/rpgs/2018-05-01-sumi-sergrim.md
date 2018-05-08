@@ -1,0 +1,128 @@
+---
+title: Sumi Sergrim
+excerpt: A D&D character for 'Sea of Storms'.
+layout: article
+categories:
+ - rpgs
+---
+
+**Orc Warlock 1**\\
+**Patron:** Leviathan's curse\\
+**Background:** Shrine Maiden\\
+**Str:** 14 (+2)\\
+**Dex:** 10 (+0)\\
+**Con:** 14 (+2)\\
+**Int:** 10 (0)\\
+**Wis:** 12 (+1)\\
+**Cha:** 16 (+3)
+
+## Combat stats
+**Armour class:** 11
+
+### Attacks
+**Quarterstaff:** melee +4, 1d8+2 dmg
+
+## Spellcasting
+**Spell slots:** 1 \\
+**Spell save DC:** 13 \\
+**Spell attack modifier:** +5 \\
+**Spellcasting ability:** Cha
+
+Can cast any known spell by spending one spell slot. Regain all spells after short or long rest.
+
+## Spells known
+### Cantrips
+
+{% capture minorillusion %}
+*Illusion cantrip* \\
+**Casting Time:** 1 action \\
+**Range:** 30 feet \\
+**Components:** S, M (a bit of fleece) \\
+**Duration:** 1 minute
+
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
+
+If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
+
+If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
+
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+{% endcapture %}
+{% include hidden.html content=minorillusion id="minorillusion" title="Minor Illusion" %}
+
+{% capture thunderclap %}
+*Evocation cantrip* \\
+**Casting Time:** 1 action \\
+**Range:** 5 feet \\
+**Components:** S \\
+**Duration:** Instantaneous
+
+You create a burst of thunderous sound that can be heard up to 100 feet away. Each creature within range, other than you, must make a Constitution saving throw or take 1d6 thunder damage.
+{% endcapture %}
+{% include hidden.html content=thunderclap id="thunderclap" title="Thunderclap" %}
+
+### 1st level spells
+{% capture dissonantwhispers %}
+*1st-level enchantment* \\
+**Casting Time:** 1 action \\
+**Range:** 60 feet \\
+**Components:** V \\
+**Duration:** Instantaneous
+
+You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.
+
+*At Higher Levels:* When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+{% endcapture %}
+
+{% include hidden.html content=dissonantwhispers id="dissonantwhispers" title="Dissonant Whispers" %}
+
+{% capture armsofhadar %}
+*1st-level conjuration*\\
+**Casting Time:** 1 action\\
+**Range:** Self (10-foot radius)\\
+**Components:** V, S\\
+**Duration:** Instantaneous
+
+You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can't take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
+
+*At Higher Levels:* When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+{% endcapture %}
+
+{% include hidden.html content=armsofhadar id="armsofhadar" title="Arms of Hadar" %}
+
+## Features
+### Class features
+*Call of the Deep*
+You can breathe underwater and you have a swimming speed of 20 feet. Additionally, when immersed in water, your warlock spells no longer require verbal components.
+
+### Orc features
+- *Athletic* Ignore the effects of difficult terrain while climbing and swimming.
+- *Brave* Advantage on saves vs frightened.
+- *Swapping Stories* When making Int (History) check about lives, deeds etc. of dead orcs, get double proficiency.
+- *Folly's Daughters* Can reroll a roll of 1 on attacks, ability checks or saves.
+
+## Languages
+ - Trade-tongue (spoken)
+ - Orcish (spoken, read, written, signed)
+ - Turathi (spoken, read, written)
+
+## Equipment
+ - Traveler's clothes
+ - A stone from my shrine
+ - Candle lantern
+ - 15 shards of silver
+ - Practical fighting clothes
+ - Quarterstaff
+
+## Proficiencies
+### Saves
+ - Wisdom
+ - Charisma
+
+### Skills
+ - Insight
+
+### Trades
+ - Musical instrument - Bodhrán & singing
+ - Beekeeping
+ - Herbalism
