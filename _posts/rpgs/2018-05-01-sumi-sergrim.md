@@ -16,8 +16,30 @@ categories:
 **Wis:** 12 (+1)\\
 **Cha:** 16 (+3)
 
+## Description
+### Brief background
+Sumi lived among a typical community of hardworking gay orcs in a clifftop village, dreaming of the Ancestors, flirting with other orc girls and dutifully attending to the small circle of stones. But after a spirit started causing trouble, she volunteered to deal with it - and a tense moment, discovered abilities she'd never imagined she'd had, and with them, manifested the Black Spot.
+
+Which was kind of alarming.
+
+Neither Sumi nor anyone else in the village had any idea what to make of these powers, but they recognised them as a curse. They pooled resources to send Sumi out to find out what had cursed her.
+
+### Ideal
+To live a bold, ingenious, romantic life, embodying wisdom, care, and devotion.
+
+### Bond
+TBD
+
+### Personality trait
+Sings constantly, and is quick to ask others to join her in dancing and music.
+
+### Flaw
+Naive, prone to acting without thinking.
+
 ## Combat stats
 **Armour class:** 11
+**Init:** +0
+**Passive perception:** 11
 
 ### Attacks
 **Quarterstaff:** melee +4, 1d8+2 dmg
@@ -121,6 +143,8 @@ You can breathe underwater and you have a swimming speed of 20 feet. Additionall
 
 ### Skills
  - Insight
+ - Intimidation
+ - Religion
 
 ### Trades
  - Musical instrument - Bodhrán & singing
