@@ -224,21 +224,173 @@ article hr {
 }
 
 .hiddenheader {
+    margin-top: 5px;
     background-color: rgba($border-colour,0.4);
     display: flex;
     justify-content: space-between;
     align-items: baseline;
     padding-right: 20px;
+    border: 1px solid $border-colour;
 }
 
 .hiddencontent {
     padding-top: 20px;
     display: none;
     background-color: rgba($border-colour,0.2);
+    border: 1px solid $border-colour;
+    border-top: none;
+    padding-right: 20px;
 }
 
 .hiddencontent p:first-child {
     margin-top: 0;
+}
+
+.question {
+    background-color: rgba($border-colour,0.2);
+    border: 1px solid $border-colour;
+    padding: 10px;
+    margin-left: 45px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.question ul {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.question li {
+    background-color: rgba($border-colour,0.6);
+    list-style: none;
+    border-left: 5px solid $border-colour;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 20px;
+    align-items: center;
+    transition-property: background-color, border-left;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    min-height: 1.7em;
+}
+
+.question li .mjx-math {
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.question li:first-child {
+    margin-top: 0;
+}
+
+.question li.selectable {
+    cursor: pointer;
+}
+
+.question li.selectable:hover {
+    background-color: rgba($accent-colour, 0.1);
+    border-left: 5px solid $accent-colour;
+}
+
+.question li.correct, .question li.correction {
+    background-color: rgba($correct-colour,0.1);
+    border-left: 5px solid $correct-colour;
+}
+
+.question li.wrong {
+    background-color: rgba($wrong-colour,0.1);
+    border-left: 5px solid $wrong-colour;
+}
+
+.question li::after {
+    transition-property: opacity;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    margin-left: auto;
+}
+
+.question li.selectable::after {
+    opacity: 0;
+    content:"";
+}
+
+.question li.correct::after {
+    opacity: 1;
+    color: $correct-colour;
+    content: "✓";
+    font-size: 150%;
+}
+
+.question li.wrong::after {
+    opacity: 1;
+    color: $wrong-colour;
+    content: "✗";
+    font-size: 150%;
+}
+
+.question li.correction::after {
+    opacity: 1;
+    color: $correct-colour;
+    content: "⬅";
+    font-size: 150%;
+}
+
+.question li.greyedout {
+    opacity: 0.5;
+}
+
+.question input {
+    border: 1px solid $border-colour;
+    background-color: white;
+    margin-right: 10px;
+    font-size: 150%;
+    transition-property: background-color, color, border;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    text-align: right;
+    margin-left: auto;
+    width: 100%;
+}
+
+.question input + span {
+    margin-right: 10px;
+    white-space: nowrap;
+}
+
+.question input + span::after {
+    content: "✓";
+    font-size: 150%;
+    opacity: 0;
+    transition-property: opacity, width;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+}
+
+.question input.correct {
+    background-color: rgba($correct-colour, 0.2);
+    border: 1px solid $correct-colour;
+    color: $correct-colour;
+}
+
+.question input.correct + span::after {
+    opacity: 1;
+    color: $correct-colour;
+}
+
+.question input.wrong {
+    background-color: rgba($wrong-colour, 0.2);
+    border: 1px solid $wrong-colour;
+    color: $wrong-colour;
+}
+
+.question input.wrong + span::after {
+    content: "✗";
+    opacity: 1;
+    color: $wrong-colour;
 }
 
 @import "chat";
