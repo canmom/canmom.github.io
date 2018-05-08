@@ -27,10 +27,13 @@ Neither Sumi nor anyone else in the village had any idea what to make of these p
 ### Ideal
 To live a bold, ingenious, romantic life like Grim, but also embody wisdom, care, and devotion like Seritha.
 
-### Bond
-TBD
+### Bonds
+ - **Ariel:**
+ - **Freya:** Freya was there when Sumi was born, and has known her all their lives. She was the first person Sumi went to about her curse.
+ - **Minerva:** Minerva lived near Sumi's village, and she and Sumi set out on their journey together.
+ - **Striven:**
 
-### Personality trait
+### Personality traits
 Sings constantly, and is quick to ask others to join her in dancing and music.
 
 ### Flaw
@@ -114,17 +117,16 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
 
 ## Features
 ### Class features
-*Call of the Deep*
-You can breathe underwater and you have a swimming speed of 20 feet. Additionally, when immersed in water, your warlock spells no longer require verbal components.
+ - **Call of the Deep** You can breathe underwater and you have a swimming speed of 20 feet. Additionally, when immersed in water, your warlock spells no longer require verbal components.
 
 ### Orc features
-- *Athletic* Ignore the effects of difficult terrain while climbing and swimming.
-- *Brave* Advantage on saves vs frightened.
-- *Swapping Stories* When making Int (History) check about lives, deeds etc. of dead orcs, get double proficiency.
-- *Folly's Daughters* Can reroll a roll of 1 on attacks, ability checks or saves.
+- **Athletic** Ignore the effects of difficult terrain while climbing and swimming.
+- **Brave** Advantage on saves vs frightened.
+- **Swapping Stories** When making Int (History) check about lives, deeds etc. of dead orcs, get double proficiency.
+- **Folly's Daughters** Can reroll a roll of 1 on attacks, ability checks or saves.
 
 ### Background features
-*Intermediary.* When you find yourself at a circle shrine, you can attempt to strike a deal with the Eternals. They will never ignore your calls to bargain, although you gain no special clemency on the price asked in exchange.  You may use this feature, at most, three times in your life.  You haven’t dared to do so before now. 
+ - **Intermediary** When you find yourself at a circle shrine, you can attempt to strike a deal with the Eternals. They will never ignore your calls to bargain, although you gain no special clemency on the price asked in exchange.  You may use this feature, at most, three times in your life.  You haven’t dared to do so before now. 
 
 ## Languages
  - Trade-tongue (spoken)
@@ -135,7 +137,8 @@ You can breathe underwater and you have a swimming speed of 20 feet. Additionall
  - Traveler's clothes
  - A stone from my shrine
  - Candle lantern
- - 15 shards of silver
+ - 15 shards of silver (15sp)
+ - 3 pieces of Terathi white gold (3gp)
  - Practical fighting clothes
  - Quarterstaff
 
