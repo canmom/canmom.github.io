@@ -25,7 +25,7 @@ Which was kind of alarming.
 Neither Sumi nor anyone else in the village had any idea what to make of these powers, but they recognised them as a curse. They pooled resources to send Sumi out to find out what had cursed her.
 
 ### Ideal
-To live a bold, ingenious, romantic life, embodying wisdom, care, and devotion.
+To live a bold, ingenious, romantic life like Grim, but also embody wisdom, care, and devotion like Seritha.
 
 ### Bond
 TBD
@@ -122,6 +122,9 @@ You can breathe underwater and you have a swimming speed of 20 feet. Additionall
 - *Brave* Advantage on saves vs frightened.
 - *Swapping Stories* When making Int (History) check about lives, deeds etc. of dead orcs, get double proficiency.
 - *Folly's Daughters* Can reroll a roll of 1 on attacks, ability checks or saves.
+
+### Background features
+*Intermediary.* When you find yourself at a circle shrine, you can attempt to strike a deal with the Eternals. They will never ignore your calls to bargain, although you gain no special clemency on the price asked in exchange.  You may use this feature, at most, three times in your life.  You haven’t dared to do so before now. 
 
 ## Languages
  - Trade-tongue (spoken)
