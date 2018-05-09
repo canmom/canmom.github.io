@@ -29,7 +29,7 @@ To live a bold, ingenious, romantic life like Grim, but also embody wisdom, care
 
 ### Bonds
  - **Ariel:**
- - **Freya:** Freya was there when Sumi was born, and has known her all their lives. She was the first person Sumi went to about her curse.
+ - **Freya:** Freya was there when Sumi was born, and has known her all her life. She was the first person Sumi went to after discovering her curse.
  - **Minerva:** Minerva lived near Sumi's village, and she and Sumi set out on their journey together.
  - **Striven:**
 
@@ -40,12 +40,15 @@ Sings constantly, and is quick to ask others to join her in dancing and music.
 Naive, prone to acting without thinking.
 
 ## Combat stats
-**Armour class:** 11
-**Init:** +0
+**Armour class:** 11\\
+**Initiative:** +0\\
 **Passive perception:** 11
 
 ### Attacks
-**Quarterstaff:** melee +4, 1d8+2 dmg
+**Quarterstaff:** melee +4, 1d8+2 dmg\\
+**Thunderclap:** everyone within 5ft must make Con save, DC 13, or take 1d6 dmg\\
+**Dissonant Whispers:** requires one spell slot. one creature within 60ft must make Wis save, DC 13, or take 3d6 damage and be forced to move away as far as possible. Successful save = half damage only.\\
+**Arms of Hadar:** requires one spell slot. everyone within 10ft must make Str save, DC 13, or take 2d6 damage and not be able to take reactions for a turn. Successful save = half damage only.
 
 ## Spellcasting
 **Spell slots:** 1 \\
@@ -141,6 +144,7 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
  - 3 pieces of Terathi white gold (3gp)
  - Practical fighting clothes
  - Quarterstaff
+ - A delicately braided ring of Turathi white gold
 
 ## Proficiencies
 ### Saves
