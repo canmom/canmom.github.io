@@ -129,23 +129,23 @@ $$V_2'=\frac{m}{2M}v$$
 
 Working out her total speed requires us to crunch a bunch of algebra. To simplify, let's define $$x=\frac{m}{2M}$$. Then, 
 
-$$\begin{align*}
+$$\begin{align}
 V_1&=\frac{1}{1+x}v \\
 V_2'&=xv
-\end{align*}$$
+\end{align}$$
 
 Then, to find her total speed in the original frame, we transform back:
 
-$$\begin{align*}
+$$\begin{align}
 V_2&=V_2' + V_1 \\
 &= \left(\frac{1}{1+x}+x\right)v \\
-&= \left(\frac{x+2}{x+1}\right)xv \\
-&= \frac{x+2}{x+1}\cdot\frac{V}{2}
-\end{align*}$$
+&= \left(\frac{1+x+x^2}{x}\right)v \\
+&= \left(\frac{1+x+x^2}{2x^2}\right)V
+\end{align}$$
 
 where $$V=2xv$$ is the speed of Mae.
 
-The fraction $$\frac{x+2}{x+1}$$ is initially $$2$$, but then gets closer and closer to $$1$$ as $$x=\frac{m}{2M}$$ increases. This tells us that, as $$m$$ increases compared to $$M$$, Valentina's speed ends up growing parallel to half of Mae's speed.
+The fraction $$\frac{1+x+x^2}{2x^2}$$ diverges as $$x$$ approaches zero, but gets closer and closer to $$\frac{1}{2}$$ as $$x=\frac{m}{2M}$$ increases. This tells us that, as $$m$$ increases compared to $$M$$, Valentina's speed ends up growing parallel to half of Mae's speed.
 
 In the specific case where Mae's bowling ball is the same mass as her, $$M=m$$, we find Mae is going $$20\%$$ faster than Valentina.
 {% endcapture %}
@@ -328,10 +328,10 @@ $$\dif p = \pdf{p}{v_1}\dif v_1 + \pdf{p}{m_1} \dif m_1 + \pdf{p}{v_2} \dif v_2 
 
 We evaluate the partial derivatives:
 
-$$\begin{align*}
+$$\begin{align}
 \pdf{p}{v_1}&=m_1 &\qquad \pdf{p}{m_1}&=v_1 \\
 \pdf{p}{v_2}&=m_2 & \pdf{p}{m_2}&=v_2
-\end{align*}$$
+\end{align}$$
 
 So we find 
 
@@ -386,10 +386,10 @@ $$\frac{v}{c} \gamma_v = \tanh w \cosh w = \sinh w$$
 
 This means we can re-express the energy and momentum as:
 
-$$\begin{align*}
+$$\begin{align}
 E &= Mc^2 \cosh w + mc^2 \cosh r \\
 p &= Mc \sinh w + mc \sinh r
-\end{align*}$$
+\end{align}$$
 
 Why are these conservation laws different? It is because in special relativity, the _symmetry_ of space and time is different: we have [Minkowski spacetime](https://en.wikipedia.org/wiki/Minkowski_space) whose symmetry is the *Poincaré group*, instead of the more familiar *Galilean group*. This connection is due to a very fundamental principle called [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem). In a later course, I hope to explain what that means.
 {% endcapture %}
@@ -445,24 +445,24 @@ $$\dif p = \dif(Mc \sinh w) - \dif (m c \sinh r) =0 $$
 
 The differentials come out as...
 
-$$\begin{align*}
+$$\begin{align}
 \dif E &= Mc^2 \sinh w \dif w + c^2 \cosh w \dif M + mc^2 \sinh r \dif r + c^2 \cosh r \dif m &= 0 \\
 \dif p &= Mc \cosh w \dif w + c \sinh w \dif M - mc \cosh r \dif r - c \sinh r \dif m &= 0
-\end{align*}$$
+\end{align}$$
 
 As in the Newtonian case, we're going to say we're only interested in changes with $$\dif r = 0$$.
 
-$$\begin{align*}
+$$\begin{align}
 M \sinh w \dif w + \cosh w \dif M + \cosh r \dif m &= 0 \\
 M \cosh w \dif w + \sinh w \dif M - \sinh r \dif m &= 0
-\end{align*}$$
+\end{align}$$
 
 We would like to remove $$m$$ from consideration, so let's rearrange and divide (assuming $$r\ne 0$$):
 
-$$\begin{align*}
+$$\begin{align}
 \dif m &= -\sech r (M \sinh w \dif w + \cosh w \dif M) \\
 &= \cosech r (M \cosh w \dif w + \sinh w \dif M)
-\end{align*}$$
+\end{align}$$
 
 Which means, in turn...
 
@@ -474,10 +474,10 @@ $$M (\cosh r \cosh w + \sinh r \sinh w) \dif w + (\cosh r \sinh w + \sinh r \cos
 
 We can now use some identities of hyperbolic functions:
 
-$$\begin{align*}
+$$\begin{align}
 \cosh(x+y)&=\cosh x \cosh y + \sinh x \sinh y \\
 \sinh(x+y)&=\sinh x \cosh y + \cosh x \sinh y
-\end{align*}$$
+\end{align}$$
 
 So at last we get...
 
@@ -523,8 +523,8 @@ $$\int_{x>0} \frac{1}{x} \dif x = \log x + c$$
 
 With that in mind, we find
 
-$$\begin{align*}-\int_{M_\text{init}}^{M_\text{final}} \frac{1}{M}\dif M &= -(\log M_\text{final} - \log M_\text{init})\\
-&=\log \frac{M_\text{init}}{M_\text{final}}\end{align*}$$
+$$\begin{align}-\int_{M_\text{init}}^{M_\text{final}} \frac{1}{M}\dif M &= -(\log M_\text{final} - \log M_\text{init})\\
+&=\log \frac{M_\text{init}}{M_\text{final}}\end{align}$$
 
 where we have used the identities that $$\log A + \log B = \log AB$$ and $$-\log A = \log A^{-1}$$ to simplify the result.
 {% endcapture %}
@@ -707,10 +707,10 @@ To see the effect of staging, suppose you have two stages. Their mass ratios are
 
 We calculate the total delta-v by adding together the delta-vs of each stage.
 
-$$\begin{align*}
+$$\begin{align}
 \Delta v &= v_\text{e} \log \mathcal{M}_1 + v_\text{e} \log \mathcal{M}_2\\
 &= v_\text{e} \log \mathcal{M}_1 \mathcal{M}_2
-\end{align*}$$
+\end{align}$$
 
 So it's the same as if the rocket had one stage, whose mass ratio is the product of mass ratios of each stage! This applies if you have many stages too, as long as every stage has the same specific impulse. The result is that staging can win back a lot of delta-v.
 
@@ -745,11 +745,11 @@ $$\Delta v_2 = v_\text{e} \log \left( \frac{M_{2\text{f}}+M_{2\text{p}}}{M_{2\te
 
 So the total $$\Delta v$$ is...
 
-$$\begin{align*}
+$$\begin{align}
 \Delta v_\text{tot} &= \Delta v_1 + \Delta v_2 \\
 &= v_\text{e} \left(\log \left( \frac{M_{1\text{f}}+M_{1\text{p}}+M_{2\text{f}}+M_{2\text{p}}}{M_{1\text{f}}+M_{2\text{f}}+M_{2\text{p}}}\right)+\log \left( \frac{M_{2\text{f}}+M_{2\text{p}}}{M_{2\text{f}}}\right)\right)\\
 &= v_\text{e} \log \left(\frac{M_{1\text{f}}+M_{1\text{p}}+M_{2\text{f}}+M_{2\text{p}}}{M_{1\text{f}}+M_{2\text{f}}+M_{2\text{p}}}\cdot\frac{M_{2\text{f}}+M_{2\text{p}}}{M_{2\text{f}}}\right)
-\end{align*}$$
+\end{align}$$
 
 Phew, that's ugly! But now we can ask: how much *more* delta-v do we get by using a staged rocket?
 
@@ -757,20 +757,20 @@ Unfortunately, with a complicated polynomial fraction in four different variable
 
 To simplify things, let's assume we're dealing with a particular rocket where each stage has $$f$$ times as much propellant as structural mass, i.e.
 
-$$\begin{align*}
+$$\begin{align}
 M_{1\text{p}}&=fM_{1\text{f}}\\
 M_{2\text{p}}&=fM_{2\text{f}}
-\end{align*}$$
+\end{align}$$
 
 In other words, each stage on its own has a mass ratio $$(1+f)$$; this is also the mass ratio of the unstaged version.
 
 Now, the $$\Delta v$$ becomes...
 
-$$\begin{align*}
+$$\begin{align}
 \Delta v &= v_\text{e} \log \left(\frac{(1+f)^2(M_{1\text{f}}+M_{2\text{f}})}{M_{1\text{f}}+(1+f)M_{2\text{f}}} \right)\\
 &=v_\text{e}\log(1+f) + v_\text{e}\log\left(\frac{(1+f)(M_{1\text{f}}+M_{2\text{f}})}{M_{1\text{f}}+(1+f)M_{2\text{f}}} \right)\\
 &=v_\text{e}\log(1+f) + v_\text{e}\log\left(1+\frac{f}{1+(1+f)\frac{M_{2\text{f}}}{M_{1\text{f}}}} \right)
-\end{align*}$$
+\end{align}$$
 
 That's still not pretty, but we can at least see that we are definitely going to get more delta-v. Also, we can see that - at least in this case - it helps to have the first stage be larger than the second.
 
