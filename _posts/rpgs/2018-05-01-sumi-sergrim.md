@@ -40,23 +40,47 @@ Sings constantly, and is quick to ask others to join her in dancing and music.
 Naive, prone to acting without thinking.
 
 ## Combat stats
-**Armour class:** 11\\
+**Max hit points:** 17 (22 when Armor of Agathys is active)
+**Armour class:** 11 (13 with Mage Armour)\\
 **Initiative:** +0\\
 **Passive perception:** 11
 
-### Attacks
+### Attacks and abilities
 **Quarterstaff:** melee +4, 1d8+2 dmg\\
 **Thunderclap:** everyone within 5ft must make Con save, DC 13, or take 1d6 dmg\\
+**Mage Armour:** increase AC to 13.\\
+**Gaze of Two Minds:** perceive through another creature's senses.\\
 **Dissonant Whispers:** requires one spell slot. one creature within 60ft must make Wis save, DC 13, or take 3d6 damage and be forced to move away as far as possible. Successful save = half damage only.\\
 **Arms of Hadar:** requires one spell slot. everyone within 10ft must make Str save, DC 13, or take 2d6 damage and not be able to take reactions for a turn. Successful save = half damage only.
+**Armour of Agathys:** requires one spell slot. gain 5×spell level temporary HP and any creature that hits me in melee takes 5×spell level cold damage.
 
 ## Spellcasting
-**Spell slots:** 1 \\
-**Spell save DC:** 13 \\
-**Spell attack modifier:** +5 \\
+**Spell slots:** 2\\
+**Spell level:** 1\\
+**Spell save DC:** 13\\
+**Spell attack modifier:** +5\\
 **Spellcasting ability:** Cha
 
 Can cast any known spell by spending one spell slot. Regain all spells after short or long rest.
+
+## Invocations
+### Armour of Shadows
+You can cast mage armour on yourself at will, without expending a spell slot or material components.
+
+{% capture magearmour %}
+*1st-level abjuration*
+**Casting Time:** 1 action
+**Range:** Touch
+**Components:** V, S
+**Duration:** 8 hours
+
+You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends it if the target dons armor or if you dismiss the spell as an action.
+{% endcapture %}
+
+{% include hidden.html content=magearmour id="magearmour" title="Mage Armour" %}
+
+### Gaze of Two Minds
+You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
 
 ## Spells known
 ### Cantrips
@@ -117,6 +141,20 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
 {% endcapture %}
 
 {% include hidden.html content=armsofhadar id="armsofhadar" title="Arms of Hadar" %}
+
+{% capture armorofagathys %}
+*1st-level abjuration*\\
+**Casting Time:** 1 action\\
+**Range:** Self\\
+**Components:** V, S, M (a cup of water)\\
+**Duration:** 1 hour
+
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+
+*At Higher Levels:* When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
+{% endcapture %}
+
+{% include hidden.html content=armorofagathys id="armorofagathys title="Armor of Agathys" %}
 
 ## Features
 ### Class features
