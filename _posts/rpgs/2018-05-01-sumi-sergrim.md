@@ -140,11 +140,13 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
  - Traveler's clothes
  - A stone from my shrine
  - Candle lantern
- - 15 shards of silver (15sp)
- - 3 pieces of Terathi white gold (3gp)
+ - 14 shards of silver (14sp)
  - Practical fighting clothes
  - Quarterstaff
  - A delicately braided ring of Turathi white gold
+
+### Dashing fighting clothes savings
+ - new dress and gloves worth 3gp
 
 ## Proficiencies
 ### Saves
