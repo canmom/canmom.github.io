@@ -44,6 +44,7 @@ Naive, prone to acting without thinking.
 **Armour class:** 11 (13 with Mage Armour)\\
 **Initiative:** +0\\
 **Passive perception:** 11
+**Passive insight:** 13
 
 ### Attacks and abilities
 **Quarterstaff:** melee +4, 1d8+2 dmg\\
