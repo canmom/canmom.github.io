@@ -28,10 +28,10 @@ Neither Sumi nor anyone else in the village had any idea what to make of these p
 To live a bold, ingenious, romantic life like Grim, but also embody wisdom, care, and devotion like Seritha.
 
 ### Bonds
- - **Ariel:**
+ - **Ariel:** Sumi is kind of in awe of Ariel's knowledge of the world and skill, and a little intimidated by her.
  - **Freya:** Freya was there when Sumi was born, and has known her all her life. She was the first person Sumi went to after discovering her curse.
  - **Minerva:** Minerva lived near Sumi's village, and she and Sumi set out on their journey together.
- - **Striven:**
+ - **Striven:** Sumi has been asking Striven for understanding of the Black Spot, and she's kind of attracted to her and her magic.
 
 ### Personality traits
 Sings constantly, and is quick to ask others to join her in dancing and music.
