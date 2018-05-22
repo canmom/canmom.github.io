@@ -40,7 +40,7 @@ Sings constantly, and is quick to ask others to join her in dancing and music.
 Naive, prone to acting without thinking.
 
 ## Combat stats
-**Max hit points:** 17 (22 when Armor of Agathys is active)
+**Max hit points:** 17 (22 when Armor of Agathys is active)\\
 **Armour class:** 11 (13 with Mage Armour)\\
 **Initiative:** +0\\
 **Passive perception:** 11
