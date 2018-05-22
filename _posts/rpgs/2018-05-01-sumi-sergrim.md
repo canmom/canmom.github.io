@@ -51,7 +51,7 @@ Naive, prone to acting without thinking.
 **Mage Armour:** increase AC to 13.\\
 **Gaze of Two Minds:** perceive through another creature's senses.\\
 **Dissonant Whispers:** requires one spell slot. one creature within 60ft must make Wis save, DC 13, or take 3d6 damage and be forced to move away as far as possible. Successful save = half damage only.\\
-**Arms of Hadar:** requires one spell slot. everyone within 10ft must make Str save, DC 13, or take 2d6 damage and not be able to take reactions for a turn. Successful save = half damage only.
+**Arms of Hadar:** requires one spell slot. everyone within 10ft must make Str save, DC 13, or take 2d6 damage and not be able to take reactions for a turn. Successful save = half damage only.\\
 **Armour of Agathys:** requires one spell slot. gain 5×spell level temporary HP and any creature that hits me in melee takes 5×spell level cold damage.
 
 ## Spellcasting
