@@ -139,13 +139,13 @@ Then, to find her total speed in the original frame, we transform back:
 $$\begin{align}
 V_2&=V_2' + V_1 \\
 &= \left(\frac{1}{1+x}+x\right)v \\
-&= \left(\frac{1+x+x^2}{x}\right)v \\
-&= \left(\frac{1+x+x^2}{2x^2}\right)V
+&= \left(\frac{1+x+x^2}{1+x}\right)v \\
+&= \left(\frac{1+x+x^2}{2x(1+x)}\right)V
 \end{align}$$
 
 where $$V=2xv$$ is the speed of Mae.
 
-The fraction $$\frac{1+x+x^2}{2x^2}$$ diverges as $$x$$ approaches zero, but gets closer and closer to $$\frac{1}{2}$$ as $$x=\frac{m}{2M}$$ increases. This tells us that, as $$m$$ increases compared to $$M$$, Valentina's speed ends up growing parallel to half of Mae's speed.
+The fraction $$\frac{1+x+x^2}{2x(1+x)}$$ diverges as $$x$$ approaches zero, but gets closer and closer to $$\frac{1}{2}$$ as $$x=\frac{m}{2M}$$ increases. This tells us that, as $$m$$ increases compared to $$M$$, Valentina's speed ends up growing parallel to half of Mae's speed.
 
 In the specific case where Mae's bowling ball is the same mass as her, $$M=m$$, we find Mae is going $$20\%$$ faster than Valentina.
 {% endcapture %}
