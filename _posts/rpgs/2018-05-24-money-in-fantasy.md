@@ -2,7 +2,8 @@
 title: Can we make RPG money more interesting?
 excerpt: How can we use the messy, complicated actual history of systems of trade and obligation to make interesting stories?
 layout: article
-categories: rpgs ---
+categories: rpgs
+---
 This post was inspired by a discussion of currency in _Dungeons and Dragons_ and similar fantasy roleplaying games.
 
 I'm sure we all know the idea of a universal system of Copper, Silver, Gold and Platinum (or some other scale) coins, each conveniently incremented in powers of 10, is broadly ahistorical. Its use is justified because it's convenient gameplay: players, used to decimal currency systems, would hardly find it entertaining to have to think about hapennies and shillings.
