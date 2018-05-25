@@ -1,4 +1,4 @@
-name: bryn::portfolio
+name: bryn::writing
 markdown: kramdown
 highlighter: rouge
 repository: canmom/canmom.github.io
@@ -6,7 +6,7 @@ permalink: /:categories/:title
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-description: Programming portfolio and physics writing archive.
+description: Playful physics, programming, livereads and lesbianism
 lang: en_GB
 logo: /android-chrome-512x512.png
 twitter:
@@ -16,5 +16,5 @@ social:
   links:
     - https://twitter.com/CanonicMomentum
     - https://github.com/canmom
-    - https://witches.town/@canmom
     - https://canmom.tumblr.com
+    - https://canmom.itch.io
