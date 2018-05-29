@@ -1,4 +1,4 @@
-name: bryn::writing
+title: bryn::writing
 markdown: kramdown
 highlighter: rouge
 repository: canmom/canmom.github.io
@@ -6,6 +6,7 @@ permalink: /:categories/:title
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 description: Playful physics, programming, livereads and lesbianism
 lang: en_GB
 logo: /android-chrome-512x512.png
