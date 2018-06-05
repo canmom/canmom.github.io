@@ -180,6 +180,7 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
  - A stone from my shrine
  - Candle lantern
  - 14 shards of silver (14sp)
+ - 10 pieces of Turathi white gold (10gp)
  - Practical fighting clothes
  - Quarterstaff
  - A delicately braided ring of Turathi white gold
