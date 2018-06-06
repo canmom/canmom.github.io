@@ -27,11 +27,18 @@ Neither Sumi nor anyone else in the village had any idea what to make of these p
 ### Ideal
 To live a bold, ingenious, romantic life like Grim, but also embody wisdom, care, and devotion like Seritha.
 
+Sumi believes the way she approaches her struggles reveals her heart to the world - and she wishes to show a bold and kind heart.
+
 ### Bonds
- - **Ariel:** Sumi is kind of in awe of Ariel's knowledge of the world and skill, and a little intimidated by her.
- - **Freya:** Freya was there when Sumi was born, and has known her all her life. She was the first person Sumi went to after discovering her curse.
- - **Minerva:** Minerva lived near Sumi's village, and she and Sumi set out on their journey together.
- - **Striven:** Sumi has been asking Striven for understanding of the Black Spot, and she's kind of attracted to her and her magic.
+ - **Ariel:** Sumi is kind of in awe of Ariel's knowledge of the world and skill, and a little intimidated by her. After Ariel revealed how worried she was about Sumi's curse, Sumi vowed to own her powers, be true in their expression, and never again let herself hide or lose control. Sumi does not want to hurt or scare her friends any more. Also Ariel shot Marat when he refused to listen to her; it was badass but Sumi is even more intimidated!
+ - **Freya:** Freya was there when Sumi was born, and has known her all her life. She was the first person Sumi went to after discovering her curse. Sumi and Freya fought back to back during the lighthouse siege, and Sumi has hella respect for her. She is eager to reunite Freya and Gorta, and wants to provide all the support she can to Freya in the meantime.
+ - **Minerva:** Minerva lived near Sumi's village, and she and Sumi set out on their journey together. Sumi has taken her out dancing, but Minerva was a bit of a wallflower. Sumi knows Minerva doesn't always like to talk, but she wishes she could understand her better.
+ - **Striven:** Sumi has been asking Striven for understanding of the Black Spot, and she's kind of attracted to her and thinks her magic is pretty fantastic. Sumi is trying to work out what would be a good tattoo to ask Striven to draw on her.
+ - **Leviathan:** Sumi has been afraid of Leviathan, but she's determined to face her fear, learn what Leviathan wants, and do the best she can with these circumstances. She was very surprised to find Leviathan so amiable when meeting face to face. She's still suspicious that Leviathan may be telling her what she wants to hear, but she wants to give her a fair shake, and if the 'Devil Down Below' really is the victim of a vast injustice, well, what an adventure it would be to save her!
+ - **Skamos:** Sumi likes Skamos as a kindly old man, and is determined not to let any more harm come to him from this whole affair. She's delighted to hear he plays the fiddle, and hopes he can come play at her village some time.
+ - **Alacrity:** Sumi thinks she's cute, but has little idea what the 'trade' entails. She respects what Skamos says Alacrity and Hexakhir are doing in trying to get the artefact out of devils' hands.
+ - **Marat:** Sumi is horrified by Marat's ruthless disregard for the lives of others, but still sees him as a tragic figure, and respects that he at least tried to offer terms. She holds on to hope that he might one day escape from his circumstances and redeem himself and tries to ignore the voice telling her that is naive.
+ - **Hexakhir:** Sumi knows her only by reputation so far, but her immediate impression is that this here is exactly what a very attractive sea captain looks like.
 
 ### Personality traits
 Sings constantly, and is quick to ask others to join her in dancing and music.
@@ -40,20 +47,23 @@ Sings constantly, and is quick to ask others to join her in dancing and music.
 Naive, prone to acting without thinking.
 
 ## Combat stats
-**Max hit points:** 17 (22 when Armor of Agathys is active)\\
+**Max hit points:** 24 (34 when Armour of Agathys is active)\\
 **Armour class:** 11 (13 with Mage Armour)\\
 **Initiative:** +0\\
-**Passive perception:** 11
+**Passive perception:** 11\\
 **Passive insight:** 13
 
 ### Attacks and abilities
-**Quarterstaff:** melee +4, 1d8+2 dmg\\
+**Pact Greatsword:** melee +5, 2d6+2 dmg\\
 **Thunderclap:** everyone within 5ft must make Con save, DC 13, or take 1d6 dmg\\
 **Mage Armour:** increase AC to 13.\\
+**Pact of the Blade:** summon a melee weapon as an action. Counts as a magical weapon.\\
 **Gaze of Two Minds:** perceive through another creature's senses.\\
-**Dissonant Whispers:** requires one spell slot. one creature within 60ft must make Wis save, DC 13, or take 3d6 damage and be forced to move away as far as possible. Successful save = half damage only.\\
-**Arms of Hadar:** requires one spell slot. everyone within 10ft must make Str save, DC 13, or take 2d6 damage and not be able to take reactions for a turn. Successful save = half damage only.\\
-**Armour of Agathys:** requires one spell slot. gain 5×spell level temporary HP and any creature that hits me in melee takes 5×spell level cold damage.
+**Dissonant Whispers:** requires one spell slot. one creature within 60ft must make Wis save, DC 13, or take 4d6 damage and be forced to move away as far as possible. successful save = half damage only.\\
+**Shatter:** requires one spell splot. everyone in a 10ft-radius sphere must make Con save, DC 13, or take 3d8 damage, doubled if they're inorganic. successful save = half damage. Also damages anything mundane object that nobody's carrying.\\
+**Armour of Agathys:** requires one spell slot. gain 10 temporary HP and any creature that hits me in melee takes 10 cold damage until I lose the temp HP.\\
+**Invisibility:** requires one spell slot. whoever I cast it on is invisible. ends when they attack or cast a spell, I lose concentration, or an hour passes.
+
 
 ## Spellcasting
 **Spell slots:** 2\\
@@ -129,6 +139,20 @@ You whisper a discordant melody that only one creature of your choice within ran
 
 {% include hidden.html content=dissonantwhispers id="dissonantwhispers" title="Dissonant Whispers" %}
 
+{% capture invisibility %}
+*2nd-level illusion*\\
+**Casting Time:** 1 action\\
+**Range:** Touch\\
+**Components:** V, S, M (an eyelash encased in gum arabic)\\
+**Duration:** Concentration, 1 hour
+
+A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
+
+*At Higher Levels:* When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+{% endcapture %}
+
+{% include hidden.html content=invisibility id="invisibility" title="Invisibility" %}
+
 {% capture armsofhadar %}
 *1st-level conjuration*\\
 **Casting Time:** 1 action\\
@@ -159,7 +183,21 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 
 ## Features
 ### Class features
- - **Call of the Deep** You can breathe underwater and you have a swimming speed of 20 feet. Additionally, when immersed in water, your warlock spells no longer require verbal components.
+{% capture callofthedeep %}
+You can breathe underwater and you have a swimming speed of 20 feet. Additionally, when immersed in water, your warlock spells no longer require verbal components.
+{% endcapture %}
+
+{% include hidden.html content=callofthedeep id="callofthedeep" title="Call of the Deep" %}
+
+**Pact of the Blade**
+{% capture pactoftheblade %}
+You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
+
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+{% endcapture %}
+{% include hidden.html content=pactoftheblade id="pactoftheblade" title="Pact of the Blade" %}
 
 ### Orc features
 - **Athletic** Ignore the effects of difficult terrain while climbing and swimming.
