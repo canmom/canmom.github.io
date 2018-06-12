@@ -190,7 +190,6 @@ You can breathe underwater and you have a swimming speed of 20 feet. Additionall
 
 {% include hidden.html content=callofthedeep id="callofthedeep" title="Call of the Deep" %}
 
-**Pact of the Blade**
 {% capture pactoftheblade %}
 You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
