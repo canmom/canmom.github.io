@@ -62,8 +62,7 @@ Naive, prone to acting without thinking.
 **Dissonant Whispers:** requires one spell slot. one creature within 60ft must make Wis save, DC 13, or take 4d6 damage and be forced to move away as far as possible. successful save = half damage only.\\
 **Shatter:** requires one spell splot. everyone in a 10ft-radius sphere must make Con save, DC 13, or take 3d8 damage, doubled if they're inorganic. successful save = half damage. Also damages anything mundane object that nobody's carrying.\\
 **Armour of Agathys:** requires one spell slot. gain 10 temporary HP and any creature that hits me in melee takes 10 cold damage until I lose the temp HP.\\
-**Invisibility:** requires one spell slot. whoever I cast it on is invisible. ends when they attack or cast a spell, I lose concentration, or an hour passes.
-
+**Spider Climb:** requires one spell slot. whoever I cast it on can walk on walls and ceilings. Lasts for an hour.
 
 ## Spellcasting
 **Spell slots:** 2\\
@@ -139,20 +138,6 @@ You whisper a discordant melody that only one creature of your choice within ran
 
 {% include hidden.html content=dissonantwhispers id="dissonantwhispers" title="Dissonant Whispers" %}
 
-{% capture invisibility %}
-*2nd-level illusion*\\
-**Casting Time:** 1 action\\
-**Range:** Touch\\
-**Components:** V, S, M (an eyelash encased in gum arabic)\\
-**Duration:** Concentration, 1 hour
-
-A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
-
-*At Higher Levels:* When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
-{% endcapture %}
-
-{% include hidden.html content=invisibility id="invisibility" title="Invisibility" %}
-
 {% capture armorofagathys %}
 *1st-level abjuration*\\
 **Casting Time:** 1 action\\
@@ -166,6 +151,36 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 {% endcapture %}
 
 {% include hidden.html content=armorofagathys id="armorofagathys" title="Armor of Agathys" %}
+
+### 2nd level spells
+{% capture spiderclimb %}
+*2nd-level transmutation*\\
+**Casting Time:** 1 action\\
+**Range:** Touch\\
+**Components:** V, S, M (a drop of bitumen and a spider)\\
+**Duration:** Concentration, 1 hour
+
+Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
+{% endcapture %}
+
+{% include hidden.html content=spiderclimb id="spiderclimb" title="Spider Climb" %}
+
+{% capture shatter %}
+*2nd-level evocation*\\
+**Casting Time:** 1 action\\
+**Range:** 60 feet\\
+**Components:** V, S, M (a chip of mica)\\
+**Duration:** Instantaneous\\
+
+A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
+
+A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
+At Higher Levels.
+
+When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+{% endcapture %}
+
+{% include hidden.html content=shatter id="shatter" title="Shatter" %}
 
 ## Features
 ### Class features
