@@ -38,7 +38,10 @@ Sumi believes the way she approaches her struggles reveals her heart to the worl
  - **Skamos:** Sumi likes Skamos as a kindly old man, and is determined not to let any more harm come to him from this whole affair. She's delighted to hear he plays the fiddle, and hopes he can come play at her village some time.
  - **Alacrity:** Sumi thinks she's cute, but has little idea what the 'trade' entails. She respects what Skamos says Alacrity and Hexakhir are doing in trying to get the artefact out of devils' hands.
  - **Marat:** Sumi is horrified by Marat's ruthless disregard for the lives of others, but still sees him as a tragic figure, and respects that he at least tried to offer terms. She holds on to hope that he might one day escape from his circumstances and redeem himself and tries to ignore the voice telling her that is naive.
- - **Hexakhir:** Sumi knows her only by reputation so far, but her immediate impression is that this here is exactly what a very attractive sea captain looks like.
+ - **Hexakhir:** Sumi's admiration for Hexakhir has only grown since learning Khir had a pact with the Leviathan. She's immensely curious to learn more of the dashing captain's adventures.
+ - **Idunn:** Sumi's concerned at the way Idunn prepared to attack her when she revealed the Black Spot, but she hopes to win her over.
+ - **Tarkus:** He seems OK?
+ - **Moti:** Young orc girl who's succeeded Sumi in caring for the shrine. Sumi is very fond of her and hopes she'll inspire her to adventure herself one day.
 
 ### Personality traits
 Sings constantly, and is quick to ask others to join her in dancing and music.
