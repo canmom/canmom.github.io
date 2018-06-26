@@ -6,7 +6,7 @@ categories:
  - rpgs
 ---
 
-**Orc Warlock 2**\\
+**Orc Warlock 3**\\
 **Patron:** Leviathan's curse\\
 **Background:** Shrine Maiden\\
 **Str:** 14 (+2)\\
