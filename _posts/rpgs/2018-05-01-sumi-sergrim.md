@@ -240,7 +240,9 @@ You can transform one magic weapon into your pact weapon by performing a special
 ### Skills
  - Insight
  - Intimidation
+ - Nature
  - Religion
+ - Arcana
 
 ### Trades
  - Musical instrument - Bodhrán & singing
