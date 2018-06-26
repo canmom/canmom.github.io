@@ -14,7 +14,8 @@ categories:
 **Con:** 14 (+2)\\
 **Int:** 10 (0)\\
 **Wis:** 12 (+1)\\
-**Cha:** 16 (+3)
+**Cha:** 16 (+3)\\
+**Proficiency bonus:** +2
 
 ## Description
 ### Brief background
