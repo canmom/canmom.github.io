@@ -42,6 +42,8 @@ Sumi believes the way she approaches her struggles reveals her heart to the worl
  - **Idunn:** Sumi's concerned at the way Idunn prepared to attack her when she revealed the Black Spot, but she hopes to win her over.
  - **Tarkus:** He seems OK?
  - **Moti:** Young orc girl who's succeeded Sumi in caring for the shrine. Sumi is very fond of her and hopes she'll inspire her to adventure herself one day.
+ - **Nyx:** _GOOD DOG. BEST FRIEND._
+ - **Yolotli:** Superb friend noodle.
 
 ### Personality traits
 Sings constantly, and is quick to ask others to join her in dancing and music.
@@ -220,8 +222,9 @@ You can transform one magic weapon into your pact weapon by performing a special
  - Traveler's clothes
  - A stone from my shrine
  - Candle lantern
- - 14 shards of silver (14sp)
- - 10 pieces of Turathi white gold (10gp)
+ - 12 shards of silver (12sp)
+ - 9 pieces of Turathi white gold (9gp)
+ - three ladyfingers (15gp)
  - Practical fighting clothes
  - Quarterstaff
  - A delicately braided ring of Turathi white gold
