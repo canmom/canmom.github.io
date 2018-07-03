@@ -115,7 +115,7 @@ You can use this feature a number of times equal to 1+ your Charisma modifier (m
 Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d6 at 5th level, a d8 at 9th level, a d10 at 13th level, and a d12 at 17th level.
 {% endcapture %}
 
-{% include hidden.html content=bardicinspiration id="bardicinspiration" title="bardicinspiration" %}
+{% include hidden.html content=bardicinspiration id="bardicinspiration" title="Bardic Inspiration" %}
 
 {% capture jillofalltrades %}
 You can add half your proficiency bonus, rounded down, to any ability check you make that doesn’t already include your proficiency bonus.
@@ -155,9 +155,9 @@ Starting at 3rd level, you can perform a song that bolsters the resolve and rais
 ## Languages
  - Trade-tongue (spoken)
  - Supernal (spoken)
- - Turathi (spoken, written, read)
- - Drakyran
- - two extra from background
+ - Turathi (spoken, written)
+ - Drakyran (spoken, written)
+ - Orcish (spoken)
 
 ## Equipment
  - Traveler's clothes
