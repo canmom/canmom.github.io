@@ -4,6 +4,8 @@ excerpt: A D&D character for the 'Sea of Storms' one-shot side adventure.
 layout: article
 categories:
  - rpgs
+tags:
+ - characters
 ---
 
 **Tiefling Bard 3**\\
@@ -75,10 +77,10 @@ When you cast this spell using a spell slot of 2nd level or higher, the healing 
 {% include hidden.html content=healingword id="healingword" title="Healing Word" %}
 
 {% capture disguiseself %}
-*1st-level illusion*
-**Casting Time:** 1 action
-**Range:** Self
-**Components:** V, S
+*1st-level illusion*\\
+**Casting Time:** 1 action\\
+**Range:** Self\\
+**Components:** V, S\\
 **Duration:** 1 hour
 
 You make yourself, including your clothing, armor, weapons, and other belongings on your person, look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
@@ -91,10 +93,10 @@ To discern that you are disguised, a creature can use its action to inspect your
 {% include hidden.html content=disguiseself id="disguiseself" title="Disguise Self" %}
 
 {% capture heroism %}
-*1st-level enchantment*
-**Casting Time:** 1 action
-**Range:** Touch
-**Components:** V, S
+*1st-level enchantment*\\
+**Casting Time:** 1 action\\
+**Range:** Touch\\
+**Components:** V, S\\
 **Duration:** Concentration, 1 minute
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
