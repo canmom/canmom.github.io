@@ -46,6 +46,10 @@ tbd.
  - **Rapier** +4 to hit melee, 1d8+2 damage.
  - **Bardic Inspiration** Once per turn, inspire someone rolling ability check, attack roll or saving throw to add 1d4 before the roll. 4 uses per short rest.
  - **Song of Rest** Roll Bardic Inspiration die to add to all allies' healing on short rest. On long rest, gain back one extra hit die.
+ - **Song of the Road** Grant advantage on Con checks/save until end of next turn.
+ - **Healing Word** Bonus action, costs one first-level spell slot. Heal a character for 1d4+3 hp.
+ - **Disguise Self** Change appearance for one hour.
+ - **Heroism** Cause someone to gain 3 temporary hitpoints every turn and be immune to fear, for a minute of concentration.
 
 ## Spellcasting
 **Spell slots:** 3 (1st-level)\\
