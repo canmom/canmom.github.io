@@ -37,12 +37,13 @@ tbd.
 
 ## Combat stats
 **max HP:** 21\\
-**Armour class:** 12\\
-**Initiative:** +0\\
-**Passive perception:** 11\\
+**Armour class:** 13\\
+**Initiative:** 12\\
+**Passive perception:** 13\\
 **Passive insight:** 13
 
 ### Attacks and abilities
+ - **Rapier** +4 to hit melee, 1d8+2 damage.
  - **Bardic Inspiration** Once per turn, inspire someone rolling ability check, attack roll or saving throw to add 1d4 before the roll. 4 uses per short rest.
  - **Song of Rest** Roll Bardic Inspiration die to add to all allies' healing on short rest. On long rest, gain back one extra hit die.
 
