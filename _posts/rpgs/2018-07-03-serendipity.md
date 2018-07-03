@@ -19,19 +19,21 @@ categories:
 
 ## Description
 ### Brief background
+Under her old name and gender, Serendipity was Nasim, the illegitimate "son" of a notable Drakyran House. She was treated as an object of shame by her family, for both her Tiefling heritage and her refusal to follow the gender norms of Drakyran society. Pushed to the sidelines of house affairs, she increasingly fell in with bohemian artists seeking noble patronage. So much is known.
 
+The exact circumstances that lead to her abrupt disappearance are still shrouded in mystery, and she prefers it that way.
 
 ### Ideal
-
+To turn the world on its head through speech and song.
 
 ### Bonds
-
+tbd.
 
 ### Personality traits
-
+tbd.
 
 ### Flaw
-
+tbd.
 
 ## Combat stats
 **max HP:** 21\\
@@ -143,35 +145,48 @@ Starting at 3rd level, you can perform a song that bolsters the resolve and rais
 - **Will of Kings** You have advantage on saving throws against being charmed.
 
 ### Background features
-
+**Secret Identity** You had an old life, perhaps even an old name, that you do not speak of. No one you meet who doesn’t already know this suspects it, nor do they have any means to discover the truth of your past. However, you have kept something from your old life that can prove your past is true, should you choose to reveal it.
 
 ## Languages
  - Trade-tongue (spoken)
  - Supernal (spoken)
  - Turathi (spoken, written, read)
- - one extra from class
+ - Drakyran
+ - two extra from background
 
 ## Equipment
  - Traveler's clothes
+ - Practical fighting clothes
  - Memento of past life
  - Something from new life
  - One piece of Drakyran gold (2gp)
  - Five silver pieces (5sp)
+ - Rapier
+ - Flute
 
 ## Proficiencies
 ### Saves
- - 
+ - Dexterity
+ - Charisma
 
 ### Skills
+ - Acrobatics
  - Deception
+ - Insight
  - Perception
- - (one from class)
+ - Performance
+ - Persuasion
 
 ### Trades
- - (two from background)
- - (one from class)
+ - Courtly Dancing
+ - Etiquette
+ - Flute
+ - Disguises
+ - Burglary
+ - Calligraphy
 
-### Weapons
+### Equipment
+ - Light armour
  - Simple weapons
  - Pistols
  - Rapiers
