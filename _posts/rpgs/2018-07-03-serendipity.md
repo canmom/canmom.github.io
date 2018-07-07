@@ -29,7 +29,8 @@ The exact circumstances that lead to her abrupt disappearance are still shrouded
 To turn the world on its head through speech and song.
 
 ### Bonds
-tbd.
+ - **Honesty**
+ - **Thedra**
 
 ### Personality traits
 tbd.
@@ -38,7 +39,7 @@ tbd.
 tbd.
 
 ## Combat stats
-**max HP:** 21\\
+**Max HP:** 21\\
 **Armour class:** 13\\
 **Initiative:** 12\\
 **Passive perception:** 13\\
