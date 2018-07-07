@@ -4,6 +4,8 @@ excerpt: A D&D character for 'Sea of Storms'.
 layout: article
 categories:
  - rpgs
+tags:
+ - characters
 ---
 
 **Orc Warlock 3**\\
@@ -60,7 +62,7 @@ Naive, prone to acting without thinking.
 **Passive insight:** 13
 
 ### Attacks and abilities
-**Pact Greatsword:** melee +5, 2d6+2 dmg\\
+**Pact Greatsword:** melee +4, 2d6+2 dmg\\
 **Thunderclap:** everyone within 5ft must make Con save, DC 13, or take 1d6 dmg\\
 **Mage Armour:** increase AC to 13.\\
 **Pact of the Blade:** summon a melee weapon as an action. Counts as a magical weapon.\\
