@@ -8,7 +8,7 @@ tags:
  - characters
 ---
 
-**Orc Warlock 3**\\
+**Orc Warlock 4**\\
 **Patron:** Leviathan's curse\\
 **Background:** Shrine Maiden\\
 **Str:** 14 (+2)\\
@@ -16,7 +16,7 @@ tags:
 **Con:** 14 (+2)\\
 **Int:** 10 (0)\\
 **Wis:** 12 (+1)\\
-**Cha:** 16 (+3)\\
+**Cha:** 18 (+4)\\
 **Proficiency bonus:** +2
 
 ## Description
@@ -47,6 +47,8 @@ Sumi believes the way she approaches her struggles reveals her heart to the worl
  - **Moti:** Young orc girl who's succeeded Sumi in caring for the shrine. Sumi is very fond of her and hopes she'll inspire her to adventure herself one day.
  - **Nyx:** _GOOD DOG. BEST FRIEND._
  - **Yolotli:** Superb friend noodle.
+ - **The Lindworm:** Sumi went out on a limb to get the Lindworm's side of the story, and was disgusted with its petty cruelty and selfishness. She's increasingly doubting her inclination to give people the benefit of the doubt, and seek diplomacy before fighting.
+ - **The Jarl:** Sumi is appalled that the Jarl would sell out his people to a dragon's selfish whims, and quietly hopes his subjects will see fit to overthrow him.
 
 ### Personality traits
 Sings constantly, and is quick to ask others to join her in dancing and music.
@@ -55,7 +57,7 @@ Sings constantly, and is quick to ask others to join her in dancing and music.
 Naive, prone to acting without thinking.
 
 ## Combat stats
-**Max hit points:** 24 (34 when Armour of Agathys is active)\\
+**Max hit points:** 31 (41 when Armour of Agathys is active)\\
 **Armour class:** 11 (13 with Mage Armour)\\
 **Initiative:** +0\\
 **Passive perception:** 11\\
@@ -63,20 +65,21 @@ Naive, prone to acting without thinking.
 
 ### Attacks and abilities
 **Pact Greatsword:** melee +4, 2d6+2 dmg\\
-**Thunderclap:** everyone within 5ft must make Con save, DC 13, or take 1d6 dmg\\
+**Thunderclap:** everyone within 5ft must make Con save, DC 14, or take 1d6 dmg\\
 **Mage Armour:** increase AC to 13.\\
 **Pact of the Blade:** summon a melee weapon as an action. Counts as a magical weapon.\\
 **Gaze of Two Minds:** perceive through another creature's senses.\\
-**Dissonant Whispers:** requires one spell slot. one creature within 60ft must make Wis save, DC 13, or take 4d6 damage and be forced to move away as far as possible. successful save = half damage only.\\
-**Shatter:** requires one spell splot. everyone in a 10ft-radius sphere must make Con save, DC 13, or take 3d8 damage, doubled if they're inorganic. successful save = half damage. Also damages anything mundane object that nobody's carrying.\\
+**Dissonant Whispers:** requires one spell slot. one creature within 60ft must make Wis save, DC 14, or take 4d6 damage and be forced to move away as far as possible. successful save = half damage only.\\
+**Shatter:** requires one spell splot. everyone in a 10ft-radius sphere must make Con save, DC 14, or take 3d8 damage, doubled if they're inorganic. successful save = half damage. Also damages anything mundane object that nobody's carrying.\\
 **Armour of Agathys:** requires one spell slot. gain 10 temporary HP and any creature that hits me in melee takes 10 cold damage until I lose the temp HP.\\
-**Spider Climb:** requires one spell slot. whoever I cast it on can walk on walls and ceilings. Lasts for an hour.
+**Spider Climb:** requires one spell slot. whoever I cast it on can walk on walls and ceilings. Lasts for an hour.\\
+**Hex:** set a target. Deal 1d6 extra damage on every attack on that target. If the target dies before 1h concentration is up, bonus action to transfer to a new target.
 
 ## Spellcasting
 **Spell slots:** 2\\
-**Spell level:** 1\\
-**Spell save DC:** 13\\
-**Spell attack modifier:** +5\\
+**Spell slot level:** 2nd\\
+**Spell save DC:** 14\\
+**Spell attack modifier:** +6\\
 **Spellcasting ability:** Cha
 
 Can cast any known spell by spending one spell slot. Regain all spells after short or long rest.
@@ -160,6 +163,24 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 
 {% include hidden.html content=armorofagathys id="armorofagathys" title="Armor of Agathys" %}
 
+{% capture hex %}
+*1st-level enchantment*
+**Casting Time:** 1 bonus action
+**Range:** 90 feet
+**Components:** V, S, M (the petrified eye of a newt)
+**Duration:** Concentration, 1 hour
+
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.
+
+If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.
+
+A remove curse cast on the target ends this spell early.
+
+*At Higher Levels:* When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+{% endcapture %}
+
+{% include hidden.html content=hex id="hex" title="Hex" %}
+
 ### 2nd level spells
 {% capture spiderclimb %}
 *2nd-level transmutation*\\
@@ -183,9 +204,8 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
-At Higher Levels.
 
-When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+*At Higher Levels:* When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 {% endcapture %}
 
 {% include hidden.html content=shatter id="shatter" title="Shatter" %}
@@ -204,7 +224,7 @@ You can use your action to create a pact weapon in your empty hand. You can choo
 Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
 You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
-{% endcapture %}
+{% endcapture %}kill
 {% include hidden.html content=pactoftheblade id="pactoftheblade" title="Pact of the Blade" %}
 
 ### Orc features
