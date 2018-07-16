@@ -64,3 +64,6 @@ nier:
 rpgs:
   path: /rpgs
   display: RPGs
+adventure-time:
+  path: /livereads/adventure-time
+  display: Adventure Time
