@@ -134,6 +134,26 @@ You create a burst of thunderous sound that can be heard up to 100 feet away. Ea
 {% endcapture %}
 {% include hidden.html content=thunderclap id="thunderclap" title="Thunderclap" %}
 
+{% capture prestidigitation %}
+*Transmutation cantrip*\\
+**Casting Time:** 1 action\\
+**Range:** 10 feet\\
+**Components:** V, S\\
+**Duration:** Up to 1 hour
+
+This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range.
+
+ - You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+ - You instantaneously light or snuff out a candle, a torch, or a small campfire.
+ - You instantaneously clean or soil an object no larger than 1 cubic foot.
+ - You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+ - You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+ - You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
+
+If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+{% endcapture %}
+{% include hidden.html content=prestidigitation id="prestidigitation" title="Prestidigitation" %}
+
 ### 1st level spells
 {% capture dissonantwhispers %}
 *1st-level enchantment* \\
@@ -224,7 +244,7 @@ You can use your action to create a pact weapon in your empty hand. You can choo
 Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
 You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
-{% endcapture %}kill
+{% endcapture %}
 {% include hidden.html content=pactoftheblade id="pactoftheblade" title="Pact of the Blade" %}
 
 ### Orc features
