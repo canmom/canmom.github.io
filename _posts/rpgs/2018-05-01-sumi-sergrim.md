@@ -267,10 +267,20 @@ You can transform one magic weapon into your pact weapon by performing a special
  - Candle lantern
  - 12 shards of silver (12sp)
  - 9 pieces of Turathi white gold (9gp)
- - three ladyfingers (15gp)
+ - assorted coins (100gp)
+ - two ladyfingers (10gp)
  - Practical fighting clothes
  - Quarterstaff
  - A delicately braided ring of Turathi white gold
+ - A necklace with Leviathan's Black Pearl set in it:
+
+{% capture leviathansblackpearl %}
+(requires attunement by a warlock)
+
+When this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot of up to 3rd level. Once you use the pearl, it can't be used again until the following midnight.
+{% endcapture %}
+
+{% include hidden.html content=leviathansblackpearl id="leviathansblackpearl" title="Leviathan's Black Pearl" %}
 
 ### Dashing fighting clothes savings
  - new dress and gloves worth 3gp
