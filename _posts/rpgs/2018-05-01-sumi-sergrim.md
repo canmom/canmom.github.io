@@ -184,10 +184,10 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 {% include hidden.html content=armorofagathys id="armorofagathys" title="Armor of Agathys" %}
 
 {% capture hex %}
-*1st-level enchantment*
-**Casting Time:** 1 bonus action
-**Range:** 90 feet
-**Components:** V, S, M (the petrified eye of a newt)
+*1st-level enchantment*\\
+**Casting Time:** 1 bonus action\\
+**Range:** 90 feet\\
+**Components:** V, S, M (the petrified eye of a newt)\\
 **Duration:** Concentration, 1 hour
 
 You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.
@@ -219,7 +219,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 **Casting Time:** 1 action\\
 **Range:** 60 feet\\
 **Components:** V, S, M (a chip of mica)\\
-**Duration:** Instantaneous\\
+**Duration:** Instantaneous
 
 A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
 
