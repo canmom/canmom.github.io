@@ -170,3 +170,97 @@ We need a conflict, so Finn soon discovers that his authority is not quite absol
 
 In this case, every time Finn breaks a rule, the Goblins immediately offer themselves up for 'spanking', suggesting Finn is just as cruel as the prior king. Finn starts to realise the goblin society functions perfectly well with a pure figurehead King - in fact this becomes literal, as Finn finds that he can be replaced with a statue and leave the Goblin Kingdom behind.
 
+So this episode does not so much reject the premise of Hobbes's _Leviathan_ - that an all powerful monarch is necessary for a harmonious society - but does then go on to say that it's not just unnecessary but actually kind of harmful for the monarch to actually _do_ anything! Instead, the function of the monarch can be found instead in the social relations themselves, codified in the 'royal rules'.
+
+What is this 'monarch', that cannot act except as governed by a particular logic, and arises not from a particular individual's actions but from the totality of social relations? Well obviously it's capital. (Come on, what did you think I was gonna say.)
+
+Perhaps, then, this episode is basically a defense of the kind of political economy that Marx criticised in _Capital_. I think I've probably reached far enough given that we're talking about an episode with about five different spanking jokes, so I'll leave it at that.
+
+As an alternative reading, [Jackie](https://baeddel.tumblr.com) pointed out that in medieval Ireland prior to the English conquest, there was a complicated system of federal authority, with between five and nine kingdoms each ruled by a king. In the legal fiction, these kings were all subject to a presumed High King - but for much of history, this High King was mostly a ceremonial title, and the High Kings - whose identity were disputed up until the very last one! - ruled over just their own kingdoms.
+
+### Episode 15: _The Real You_
+
+This episode is essentially there to develop the relationship between Finn and Princess Bubblegum, although PB's interest in Finn seems almost more scientific curiosity than anything romantic.
+
+She invites Finn to present at a scientific conference, and Finn becomes convinced he must make himself smarter to talk to these distinguished scientists. He finds his salvation in the returning Choose Goose, who gives Finn the 'glasses of Nerdicon'.
+
+As Finn e get a version of the famous 'powers of ten' zoom, which apparently establishes that the Adventure Time physics is recursive. Actually, let's talk about that...
+
+First, we see Finn's skin cells (rather magnified in size). Flying between cells, we the layer of cells beneath, then a swarm of molecules... and then things get weird. Inside a single molecule, we find a universe of individual atoms, portrayed in the old never-actually-accepted-by-physicists style, where three electrons orbit the nucleus in three different planes. And then we zoom in further, and we're zooming in on galaxies, and further still, onto Ooo and on Finn himself.
+
+'As above, so below' taken rather far! Or as Finn puts it, 'everything small's just a small version of something big!' What implications would this have?
+
+Let's first go over why, in real world physics, everything small is _not_ just a small version of something big.
+
+It's true that, in investigating the atom, the fact that Coulomb's law of attraction between charges took the same form (indeed, was directly inspired by) Newton's law of attraction between masses. But the idea that electrons orbit like planets is untenable, because the symmetry of the electromagnetic field is different than that of Newtonian gravity. Less abstractly: magnetic fields are a thing. Because of that, a charge that's being _accelerated_ - such as an electron orbiting an atom - radiates energy away, losing kinetic energy. This would cause orbiting electrons to spiral into the centre of the nucleus almost instantly.
+
+This conundrum was one of the problems that led to the development of quantum physics at the beginning of the 20th century!
+
+It turns out that
+ - firstly, electrons are delocalised, taking on both particle- and wave-like properties
+ - as a result, there are only certain quantum states (called orbitals in chemistry) that an electron can occupy in an atom! there is a ladder of energy levels, and the electron 'wants' to sit in the lowest one, and jumps between them by radiating photons of light at a particular frequency
+ - moreover, electrons are a kind of particle called fermions, which have a particular rule for what happens if you swap two electrons in a quantum state (the details of which would take a bit too long to explain...)
+ - the upshot is the Pauli exclusion principle, which says that you can't have two electrons in the same quantum state! When you take into account _spin_ as well as the electron's position wavefunction, you find each orbital can contain at most two electrons.
+ - this means that electrons fill up the orbitals, starting with the lowest energy level (called the 1s orbital) and working their way up through the energy levels! And this, in turn, gives rise to chemistry.
+
+So, electrons are not all that much like planets, even if they were thought to be at first glance. But there are similarities, because certain physical principles, such as symmetry and the dimensions of space, are relevant at all levels. This is why, in the 'powers of 10' video, there are so many structural similarities between big and small things.
+
+In Ooo, however, it seems there's more to it than that! Well, magic exists, physics is clearly a little bonkers. There is apparently a recursive stack of universes in every atom: we can presume the existence of not just one Finn, but an infinity of Finns stretching 'up' and 'down' (if you prefer, 'in' and 'out') in an infinite fractal tree. Which is just wild! I love it.
+
+Rather than explore the implications of this idea, this episode involves Finn making a machine that blows bubbles at various dimensionalities, which is a neat way to introduce kids to spheres of different dimensions. First: a 2D bubble (1-sphere, or circle - except here it's filled in, making it a 2-ball rather than 1-sphere) with a 1D shadow (a nice way to express projection; here it's a 1-ball, aka line segment); then, a 3D bubble (2-sphere) with a 2D shadow (2-ball, or disk). Unfortunately they spoil it when it's time to make a [3-sphere](https://en.wikipedia.org/3-sphere) and project it into a 3-ball. Instead, they show a projection of a tesseract (4-cube) in the process of being rotated, surrounded by a cloud of black squares. I guess the actual 3-sphere was considered too hard to show? But they could totally have shown something similar with gridlines on the projection of a rotating 3-sphere!
+
+For reasons that are kind of left vague, this tesseract bubble turns into a black hole - but one which conveniently remains levitating above the ground instead of falling into the centre of Ooo.
+
+As far as the plot is concerned, 'smart' Finn manages to communicate the romantic interest he can't admit to Princess Bubblegum, and she kisses him. Clearly I've spent too many words on this one episode, but let's talk about that.
+
+Like, the obvious issue here is that, Finn's a fuckin twelve-year-old, and PB is a thousands-year-old candy elemental or something. Though, I believe at this point in the show, that had yet to be decided; Princess Bubblegum certainly acts pretty childlike in some ways. Perhaps that will be addressed later? Anyway she kisses him on the cheek and he fucking faints(!), then she giggles about it.
+
+I know they eventually abandon the Finn/PB romance angle in order to set Finn up with Flame Princess. PB's interest in Finn feels almost like a troll in this episode - her view of Finn is kinda condescending/curiosity?
+
+I realise that, as a lesbian, I may not be very good at working out what's attractive about boys, but like, he's a kid! A likeable kid, but still, a kid, with very immature ideas (or lack of them) about romantic relationships. This plotline is therefore _quite uncomfortable_.
+
+### Episode 16: _Guardians of Sunshine_
+
+At least nominally a BMO episode, but still BMO doesn't seem to have much of a character beyond 'walking games console'. It's a very generic 'sucked into a computer game' plot, and it feels like the writers don't actually play games. The whole plot is very paint by numbers: you can predict almost everything that happens from the opening minutes. One of Adventure Time's greatest strength is that you _can't_ predict what wild shit they're gonna show you next, so that's kind of disappointing.
+
+The most notable thing about the episode is that the 'inside BMO' parts of the plot are animated in deliberately limited CGI.
+
+### Episode 17: _Death in Bloom_
+
+I was a little frustrated with the show, but this episode, things get back on form!
+
+This is the first episode where it's really spelled out that Peppermint Butler is some kind of undead necromancer.
+
+Finn and Jake are tasked with guarding a 'princess plant'; they fail in an amazingly ridiculous montage of treating it like a human kid. So they decide they must go to the land of the dead to save it! It's such a good premise and it's pretty well realised, a decent play on all the 'venturing to the underworld'.
+
+Do you notice how I have less to say about good episodes than bad ones? Yeah.
+
+### Episode 18: _Susan Strong_
+
+Ahh, this was an episode I remember, and was looking forward to seeing again! This is where they first begin addressing that whole question of 'is Finn the only human'. I think Susan was immediately a popular character with the fandom; she certainly shows up later a whole bunch.
+
+The implications raised by this episode are kind of weird. So far everyone has spoken the same language; the 'feral' 'humans' led by Susan speak nonsense words, but kind of rapidly learn English over the course of the episode. There's a weird sort of contrast between post-apocalyptic mutant humans living in a sewer full of garbage, and the various 'themed' villages and cities on the surface.
+
+Finn kind of weirdly concludes that people who are human except for like, fins (lol) on their head are not human? Even though I feel like these people blatantly were human.
+
+One thing that's kind of frustrating with _Adventure Time_'s depictions of its few humans characters is that they're almost universally pale-skinned; often, more than that, implicitly white. Clearly the mostly white producers of the show just didn't think about that at all, which is... not a great look! There are examples of racial coding in the non-human characters, most notably Cake, but we'll get to that whenever that comes up.
+
+Rewatching, this episode was... OK. The bestial, feral humans are basically a big play on that rather troublesome post-apocalyptic 'feral mutant' trope, and much like the 'island cannibal tribe' of the European colonial imagination before them, they fear innocuous things, struggle with language, are amazed by the commodities of 'civilisation' such as marshmallows and candy, and violent in that they decide to devour the Candy People. Later on I believe they will be fleshed out a lot more.
+
+### Episode 19: _Mystery Train_
+
+It's Finn's birthday, so I believe he is now 13 years old. I believe they more or less tried to age Finn along with the show, roughly one year per season, though whether they stuck _too_ strictly to that as the schedule got kind of weird, I'm not sure.
+
+Jake and a bunch of candy people stage a murder mystery on a train for Finn. It's a parody of _Murder on the Orient Express_; mostly the jokes are of the 'isn't this zany' variety, so it's not that satisfying.
+
+Jake using his fleshwarping powers to create the appearance of an entire separate moving person is pretty funny admittedly.
+
+### Episode 20: _Go With Me_
+
+For an episode focusing on Finn's difficulties with romance, this episode is waaay better than you'd imagine! There's a couple of reasons: Marceline is amazing as always, and there's already grounds for a 'PB and Marceline are exes' reading. Also the wolves were really good.
+
+Why does Marceline go to such efforts to sabotage Finn's attempts to get with PB? Of course she would know that wrestling her, or putting wolves in her bedroom, are not things she wants. Why does PB glare at Marceline when she sees her, how does Marceline know PB's name is Bonnibel? It's certainly not text, or representation or anything, but my reading is that Marceline got involved precisely because she's still got feelings for Bonnibel.
+
+Finn, being a thirteen-year-old, doesn't actually want to make out with a girl at the movies, just see the movie; this is the wacky misunderstanding that underlies the episode. Jake was the one pushing him to approach it romantically. But, it works well enough.
+
+The wolf bit was amazing!
