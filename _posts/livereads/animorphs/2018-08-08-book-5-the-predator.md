@@ -6,7 +6,7 @@ categories:
  - animorphs
 tags:
  - animorphs
-image: "/img/embed/animorphs/book4-covers.png"
+image: "/img/embed/animorphs/book5-covers.jpg"
 layout: article
 ---
 This log begins shortly after we realised my bot crashed.
