@@ -73,8 +73,6 @@ I did not, in the end, fix it in post.
 
 * {: .person1} **canmom:**{: .name} Yeah there was an earlier cover where Marco turns into a lobster
 
-* {: .person2} **drcable:**{: .name} like, there can't be that many sea worlds
-
 * {: .person3} **Transmutress:**{: .name} Someone in marketing decided lobsters weren't cool, which is bullshit because
   
   * non-mammal morphs are the best
@@ -134,6 +132,12 @@ I did not, in the end, fix it in post.
   (she writes, on a website that has her name and email on the front page)
 
 * {: .person2} **drcable:**{: .name} can we doxx the kids based on the hints they leave about their town?
+
+  like, there can't be that many sea worlds
+
+  seriously tho, with one google I've located those wimpy animorphs in san diego
+
+  they're far too easy to doxx
 {: .chat}
 
 > I slipped into the opening of the alley and hid in the shadow of a very smelly Dumpster
@@ -152,6 +156,10 @@ I did not, in the end, fix it in post.
   there's otters and bears and wolves?
 
 * {: .person1} **canmom:**{: .name} To catch our readers up on the actual plot: Marco witnesses a mugging by some 'punks' and decides to turn into a gorilla to save them
+
+* {: .person2} **drcable:**{: .name} I guess like, "punks" is the scholastic way of vaguley racialising things?
+
+* {: .person1} **canmom:**{: .name} they're like, 70s british punk rockers. that's my headcanon and i'm gonna stick to it
 {: .chat}
 
 > The first thing that happened was the fur. It sprouted quickly from my arms and legs and all down my body. Thick, rough, ragged, black fur. It grew long on my arms and back and head. It was shorter everywhere else.
@@ -168,10 +176,6 @@ I did not, in the end, fix it in post.
 * {: .person3} **Transmutress:**{: .name} It really sounds?? Like it does hurt? Every time they mention it?
   
   In excruciating detail?
-
-* {: .person2} **drcable:**{: .name} I guess like, "punks" is the scholastic way of vaguley racialising things?
-
-* {: .person1} **canmom:**{: .name} they're like, 70s british punk rockers. that's my headcanon and i'm gonna stick to it
 {: .chat}
 
 > "Hoo hoo hrrraaawwwrr!" I yelled, in pure gorilla.
@@ -185,7 +189,7 @@ I did not, in the end, fix it in post.
 
 * {: .person3} **Transmutress:**{: .name} Can we please accidentally morphing pigs instead of shoulders?
 
-* {: .person1} **canmom:**{: .name} There's probably something to be said about the 'violently intervening in a mugging' fantasy that's recurred for like, a century at least as the Standard Heroic Action
+^
 {: .chat}
 
 > If the punks had had any sense, they would have run.
@@ -195,6 +199,8 @@ I did not, in the end, fix it in post.
 * {: .person1} **canmom:**{: .name} Videogame Joke
   
   but honestly what kind of mugger is gonna be like 'hey a gorilla randomly showed up in this alley, let's fight it with our tiny knives'
+
+  There's probably something to be said about the 'violently intervening in a mugging' fantasy that's recurred for like, a century at least as the Standard Heroic Action
 
 * {: .person3} **Transmutress:**{: .name} "Fortunately, I checked and all of them were totally alive. What a lucky coincidence."
   
