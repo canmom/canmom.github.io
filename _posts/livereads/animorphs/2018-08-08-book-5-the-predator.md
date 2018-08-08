@@ -27,7 +27,7 @@ This log begins shortly after we realised my bot crashed.
 
 * {: .person2} **drcable:**{: .name} it was, honestly, the funniest thing you can ever imagine
 
-* {: .person2} **drcable:**{: .name} we just can't tell you about it
+  we just can't tell you about it
   
   ever
   
@@ -62,7 +62,7 @@ I did not, in the end, fix it in post.
   
   Coincidence?
 
-* {: .person3} **Transmutress:**{: .name} Also, I recall this book having a lobster morph on the cover.
+  Also, I recall this book having a lobster morph on the cover.
 {: .chat}
 
 <figure markdown="1">
