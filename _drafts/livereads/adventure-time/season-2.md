@@ -172,11 +172,11 @@ In this case, every time Finn breaks a rule, the Goblins immediately offer thems
 
 So this episode does not so much reject the premise of Hobbes's _Leviathan_ - that an all powerful monarch is necessary for a harmonious society - but does then go on to say that it's not just unnecessary but actually kind of harmful for the monarch to actually _do_ anything! Instead, the function of the monarch can be found instead in the social relations themselves, codified in the 'royal rules'.
 
-What is this 'monarch', that cannot act except as governed by a particular logic, and arises not from a particular individual's actions but from the totality of social relations? Well obviously it's capital. (Come on, what did you think I was gonna say.)
+What is this 'monarch', that cannot act except as governed by a particular logic, and arises not from a particular individual's actions but from the totality of social relations? My immediate answer is capital... but perhaps a similar concept could apply to previous societies. (Fredy Perlman can pop up here and say 'Leviathan'!)
 
-Perhaps, then, this episode is basically a defense of the kind of political economy that Marx criticised in _Capital_. I think I've probably reached far enough given that we're talking about an episode with about five different spanking jokes, so I'll leave it at that.
+[Jackie](https://baeddel.tumblr.com) pointed out that in medieval Ireland prior to the English conquest, there was a complicated system of federal authority, with between five and nine kingdoms each ruled by a king. In the legal fiction, these kings were all subject to a presumed High King - but for much of history, this High King was mostly a ceremonial title, and in practice, the nominal High Kings - whose claims were disputed up until the very last one! - ruled over just their own kingdoms. But despite not actually excercising authority, the nominal existence of these High Kings helped justify the social order. (Feel free to dispute my vague understanding if you actually know about this period of history!)
 
-As an alternative reading, [Jackie](https://baeddel.tumblr.com) pointed out that in medieval Ireland prior to the English conquest, there was a complicated system of federal authority, with between five and nine kingdoms each ruled by a king. In the legal fiction, these kings were all subject to a presumed High King - but for much of history, this High King was mostly a ceremonial title, and the High Kings - whose identity were disputed up until the very last one! - ruled over just their own kingdoms.
+And is the episode really saying this 'Silent King' is a good thing? Initially I read the episode as endorsing this idea, but on reflection I think it's more ambivalent. Like many things in _Adventure Time_, it's hard to tell just how seriously to take it. After all, it's easy to dismiss the goblins as just one more wacky village...
 
 ### Episode 15: _The Real You_
 
@@ -264,3 +264,99 @@ Why does Marceline go to such efforts to sabotage Finn's attempts to get with PB
 Finn, being a thirteen-year-old, doesn't actually want to make out with a girl at the movies, just see the movie; this is the wacky misunderstanding that underlies the episode. Jake was the one pushing him to approach it romantically. But, it works well enough.
 
 The wolf bit was amazing!
+
+### Episode 21: _Belly of the Beast_
+
+For some reason, this is one I remember.
+
+This is actually not the first appearance of the 'party bears' - I noticed them before in S01E17 - but it _is_ the first time they are named as such. This time, they've taken up residence in the stomach of a giant monster, conveniently not full of acid. The innards of the giant monster are some very cool biological environments that almost make you not notice that the monster is much bigger on the inside.
+
+What kind of parties do the party bears hold? This is a strange situation, because the show is unable - as a cartoon which at least nominally includes kids as a major target audience - to explicitly refer to alchohol, even though it's definitely more the kind of party that university students might have (I'm tempted to call it a rave! but I'm not exactly sure of the 'rave demarcation problem') than one a 13-year-old kid is like to have.
+
+As far as not mentioning things goes... this episode is also very cagey about referring directly to 'shit', with euphemisms like... 'the stuff'.
+
+Anyway, the bears are led by 'Party Pat', who I feel like has _got_ to be a parody of a specific person? Let's check the wiki.
+
+> Party Pat's appearance is based on Adventure Time creative director Patrick McHale. This is the second character created based on Pat; the others are Gingerbread Pat and Punsy McKale, a character in The Marvelous Misadventures of Flapjack.
+
+Huh. Well, that wasn't quite what I was expecting.
+
+As has become common, the resolution to the conflict of the episode is an unexpected non-resolution. I don't know how the monster doesn't like the sensation of fireworks, but can happily guzzle molten lava. But anyway.
+
+This episode was... OK. I'm not exactly sure why it lodgd in my memory!
+
+### Episode 22: _The Limit_
+
+I really like this episode.
+
+This is the first episode to really explore, fittingly, the limit of Jake's near unlimited stretching power - by forcing him to stretch out through a labyrinth.
+
+But also... just the whole...
+
+* {: .person1} **Finn:**{: .name} What are you gonna wish for, dude?
+
+* {: .person2} **Jake:**{: .name} Oh, you know, that something special only _two bros_ can share...
+
+* {: .person1} **Finn:**{: .name} (breathlessly) I think I'm wishing for the same thing!
+
+* {: .person2} **Jake:**{: .name} You mean the...
+
+* {: .person3} **both together:**{: .name} Ancient psychic tandem war-elephant!?
+
+(which, admittedly, could be read as queerbaiting? but... holy shit that payoff!)
+
+What's even better is that the episode actually delivers on this wild premise and introduces the War Elephant as a character! It's a perfect blend of weird but specific with its own internal logic, with a great image to boot.
+
+This episode just has some fantastically fucked up imagery all round, as Jake gets more and more distorted. But I don't just like it bc body 'horror' is my thing. There's some really funny moments of character humour too.
+
+Since it's created by a wish, I'm not sure if we're supposed to conclude the Ancient Psychic Tandem War Elephant was ever developed in the setting's history, or if it's just a figment of Finn and Jake's imagination given form. Whatever it is, it occasionally shows up again later on. In fact apparently it's going to get an entire episode down the line.
+
+### Episode 23: _Video Makers_
+
+This episode is a mite predictable, though it is one of the few this season that alludes to the post-apocalyptic premise. I did enjoy the gag where they decide they have to obey copyright notices.
+
+BMO is getting a little more agency, which is nice. They ultimately help Finn and Jake reconcile over their creative differences in the filming.
+
+One thing I do find quite interesting is how Jake relates to gender. In various episodes, they've had Jake be the one volunteering to crossdress and it's usually not played for 'man in a dress' gags, and generally being more comfortable with gender variance than Finn is. In this episode, Jake is the one who wants to make a romantic comedy, while Finn wants the kind of action movie a 13-year-old would want. I don't know if it's just that Jake is supposed to be more mature than Finn or what; I don't think Jake is supposed to be read as a transfeminine character. This might be interesting to return to when we get to _Fiona and Cake_.
+
+### Episode 24: _Heat Signature_
+
+Both episodes in this pair concern movies from the old world, which is interesting. In this episode, Marceline's friends with some asshole ghosts, who take a prank on Finn and Jake and turn it into attempted murder. I always enjoy Marceline of course; and it's getting at that tension in Marceline's character between the way she grew up in the halloween-monster world of the Nightosphere, and the slightly more grounded world of Ooo (not a sentence I'd ever think I'd be writing). Still, the episode's... OK.
+
+Naturally, the expected resolution - Marceline turning on her old friends to defend Finn and Jake - is subverted. Marceline isn't actually going to intervene after she apologises for her prank, but the ghosts back off when they hear Finn and Jake have a submarine movie they want to watch.
+
+I don't think the jerk ghosts ever come back, which is a good thing really.
+
+Oddly, in this episode, Finn and Jake are surprised to see LSP homeless, even though we've already seen that. I assume this is because the episodes were planned in a different order?
+
+### Episode 25: _Mortal Folly_
+
+The last season ended rather abruptly with a very ordinary episode. This season, they begin the pattern of ending (and soon, beginning) each season with dramatic, multi-part episodes! So this time, the stakes are much much higher.
+
+We briefly saw the Lich (then, Lich-King) towards the end of the last season, but it would be easy to think he didn't matter. But here, he comes into his own as the overall villain of the next several seasons! We don't know much about him yet, apart from his ability to possess people and the existential threat he poses.
+
+The Ice King is there to be ineffectual, I guess, and provide contrast: the Lich is entirely efficient malevolence while the Ice King continues to be a massive dork.
+
+I do rather like the visual gag where PB is eating ice cream from an ice cream person's head while she worries about Finn and Jake. I wonder if she eats any of her other subjects?
+
+Anyway, apart from the high stakes, the other major thing is that the Lich is (temporarily defeated) by the power of 'lll... ll... ll... liking someone a lot', as physically embodied in the sweater that PB gives Finn. This is marking that they're about to try and put Finn and PB together, but their relationship in this episode their relationship basically feels more maternal on PB's side; it's kind of uncomfortable. (Though, when we see how they _address_ this...)
+
+The design of the Lich is pretty cool - a _lot_ more detailed and grisly than most _Adventure Time_ characters. He's got like, no skin on his jaw or arms! Plus that weird semi-cow-skull thing...
+
+Anyway at the end of this episode, PB is dropped in toxic lich sludge! (Which I guess they never did anything about because, uh...) I believe this is the first time an episode has directly followed from the end of another like this, and it brings us to...
+
+### Episode 26: _Mortal Recoil_
+
+So PB is possessed by the Lich, and everyone takes a while to realise it.
+
+I do enjoy seeing Doctor Ice Cream and Doctor Princess working, incongruously, together. This episode has plenty of wacky comedy, and there's some really cool experimental camera angles at points.
+
+I'm not sure how I feel about the 'hulked out', 'ugly' version of PB - her skin is darkened (yeah hmm), she's all lumpy, but she's still wearing a dress because imagine if!!! So you know, not really good. Or that they have the Ice King be so central to the episode. It's the recurring problem of like, male characters' stories being primary, even when that male character is being critiqued, you know?
+
+There is a cool thing here where the Ice King says that, with his 'wizard eyes', he can usually see a variety of really weird spirits. It's an idea that reminds me a lot of the anime _Mushishi_, and I hope they elaborate on it later!
+
+But anyway, the real big deal here is the dramatic character change they make - thankfully, not permanent. At the end of the episode, PB is frozen by the Ice King, and shattered! It's a surprisingly gory moment - you can see bones inside her. Fortunately, since she's literally made of bubblegum, she can be stuck back together... but there's missing bubblegum, so she ends up not as the adult science dork we all love, but a 13 year old.
+
+Which is to say, a conveniently romanceable age for Finn.
+
+I don't really like this plotline. I can't remember how long this takes; ultimately they abandon the Finn/PB romance angle and the show is better for it. (It's kind of unusual in a way for a cartoon like this that the protagonist goes through a variety of love interests.) But we're going to have to see a few episodes where PB is age regressed. How shocking, etc.
