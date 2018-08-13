@@ -73,7 +73,7 @@ Naive, prone to acting without thinking.
 **Shatter:** requires one spell splot. everyone in a 10ft-radius sphere must make Con save, DC 14, or take 3d8 damage, doubled if they're inorganic. successful save = half damage. Also damages anything mundane object that nobody's carrying.\\
 **Armour of Agathys:** requires one spell slot. gain 10 temporary HP and any creature that hits me in melee takes 10 cold damage until I lose the temp HP.\\
 **Spider Climb:** requires one spell slot. whoever I cast it on can walk on walls and ceilings. Lasts for an hour.\\
-**Hex:** set a target. Deal 1d6 extra damage on every attack on that target. If the target dies before 1h concentration is up, bonus action to transfer to a new target.
+**Hex:** requires one spell slot, bonus action. set a target. Deal 1d6 extra damage on every attack on that target. If the target dies before 1h concentration is up, bonus action to transfer to a new target.
 
 ## Spellcasting
 **Spell slots:** 2\\
