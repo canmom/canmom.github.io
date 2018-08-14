@@ -61,19 +61,25 @@ Naive, prone to acting without thinking.
 **Armour class:** 11 (13 with Mage Armour)\\
 **Initiative:** +0\\
 **Passive perception:** 11\\
-**Passive insight:** 13
+**Passive insight:** 13\\
+**Inspiration:** yes
 
 ### Attacks and abilities
+unlikely to use in combat:\\
+**Mage Armour:** increase AC to 13.\\
+**Gaze of Two Minds:** perceive through another creature's senses.
+
+unlimited:\\
 **Pact Greatsword:** melee +4, 2d6+2 dmg\\
 **Thunderclap:** everyone within 5ft must make Con save, DC 14, or take 1d6 dmg\\
-**Mage Armour:** increase AC to 13.\\
-**Pact of the Blade:** summon a melee weapon as an action. Counts as a magical weapon.\\
-**Gaze of Two Minds:** perceive through another creature's senses.\\
-**Dissonant Whispers:** requires one spell slot. one creature within 60ft must make Wis save, DC 14, or take 4d6 damage and be forced to move away as far as possible. successful save = half damage only.\\
-**Shatter:** requires one spell splot. everyone in a 10ft-radius sphere must make Con save, DC 14, or take 3d8 damage, doubled if they're inorganic. successful save = half damage. Also damages anything mundane object that nobody's carrying.\\
-**Armour of Agathys:** requires one spell slot. gain 10 temporary HP and any creature that hits me in melee takes 10 cold damage until I lose the temp HP.\\
-**Spider Climb:** requires one spell slot. whoever I cast it on can walk on walls and ceilings. Lasts for an hour.\\
-**Hex:** requires one spell slot, bonus action. set a target. Deal 1d6 extra damage on every attack on that target. If the target dies before 1h concentration is up, bonus action to transfer to a new target.
+**Pact of the Blade:** summon a melee weapon as an action. Counts as a magical weapon.
+
+with one spell slot:\\
+**Dissonant Whispers:** one creature within 60ft must make Wis save, DC 14, or take 4d6 damage and be forced to move away as far as possible. successful save = half damage only.\\
+**Shatter:** everyone in a 10ft-radius sphere must make Con save, DC 14, or take 3d8 damage, doubled if they're inorganic. successful save = half damage. Also damages anything mundane object that nobody's carrying.\\
+**Armour of Agathys:** gain 10 temporary HP and any creature that hits me in melee takes 10 cold damage until I lose the temp HP.\\
+**Spider Climb:** whoever I cast it on can walk on walls and ceilings. Lasts for an hour.\\
+**Hex:** bonus action. set a target. Deal 1d6 extra damage on every attack on that target. If the target dies before 1h concentration is up, bonus action to transfer to a new target.
 
 ## Spellcasting
 **Spell slots:** 2\\
@@ -270,6 +276,8 @@ You can transform one magic weapon into your pact weapon by performing a special
  - assorted coins (100gp)
  - two ladyfingers (10gp)
  - Practical fighting clothes
+ - a velvet robe
+ - a cashmere scarf
  - Quarterstaff
  - A delicately braided ring of Turathi white gold
  - A necklace with Leviathan's Black Pearl set in it:
