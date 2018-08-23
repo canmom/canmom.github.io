@@ -32,6 +32,8 @@ A 'something weird happens and Finn and Jake respond' episode, but one that work
 
 The ending is, eh. Of course they would have to resolve the tension ('why the horse, will Finn and Jake ever get to sleep') somehow. 'It's the Ice King trying to understand friendship' works well enough, and the ending is actually quite cute.
 
+I always have the problem that when an episode is really good, I struggle to actually write anything about it, because a list of jokes I found funny isn't very interesting commentary! While I was working on this, I joked that I'd find really strained leftist readings of every episode: "this episode is about the difference between form (a weird horse) and content (the Ice King)". In truth, that's not really a good application of the 'form vs content' distinction. I'm not really going to do that (I actually find bullshitting pretty hard...) but if you like that sort of thing, get ready for episode 14.
+
 ### Episode 3: _Loyalty to the King_
 
 What a strong start to the season the last two episodes were! "This is gonna be a great season! Can't wait to see where they go next!"
@@ -42,7 +44,7 @@ The Ice King shaves his beard. Having done so, he starts getting fawned over by 
 
 So, "don't treat women as objects, boys". Or something. Not an incorrect message, obviously. But where it falls down, just catastrophically, is that all the women in this episode are turned by the demands of plot into being just as disposable and vapid as the (N)Ice King believes them to be, and Finn and Jake are put in the role of rescuers - to the point of having to _fight their way through_ the foolish princesses in order to glue the Ice King's beard back on and reveal his true nature.
 
-It's so bad! It's probably the worst episode of the show so far - not just mediocre and unfunny but misogynist at its core. In this episode, women lack autonomy and will quite literally gladly accept being thrown in jail to get with a 'pretty' jerk. Who the fuck wrote this? Kent Osborne, apparently, who also worked on the last episode, and in the last season, _My Two Favourite People_, and _When The Wedding Bells Thaw_. The latter two of which also focus on het gender relations, squarely from the perspective of men, with women reduced mostly to tools to further the plot. Lady Rainicorn, at least, doesn't suffer the same level of character assassination, but MTFP had that whole Tiffany gag...
+It's so bad! It's probably the worst episode of the show so far - not just mediocre and unfunny but misogynist at its core. In this episode, women lack autonomy and will quite literally gladly accept being thrown in jail to get with a 'pretty' jerk. Who the fuck wrote this? Kent Osborne, apparently, who also worked on the last episode, and in the last season, _My Two Favourite People_, and _When The Wedding Bells Thaw_. The latter two of which also focus on het gender relations, squarely from the perspective of men, with women reduced mostly to tools to further the plot. Lady Rainicorn, at least, doesn't suffer the same level of character assassination, but her ep still had that whole Tiffany gag...
 
 All right, Kent! I'm _watching_ you. You're back up in Episode 10 this season, which has the unpromising title of "To Cut a Woman's Hair".
 
@@ -88,7 +90,7 @@ The cool thing about this episode is that we get Tree Trunks back.
 
 This is the first episode focused on Jake's dysfunctional relationship with his family! We've seen Jake's parents a couple of times, e.g. in _Memories of Boom Boom Mountain_, but this I think is the first time we get to see more about what Jake feels about them. 'Bad dads' seems to be a theme in this season (c.f. Marceline) and of the show in general (as we'll see when Finn's dad shows up, much much later).
 
-In this case, Jake accidentally hurts Finn, and this reminds him of his dad praising him for accidentally hurting his brother. There's uncomfortable shades of how abuse survivors fear they will re-enact abuse. Anyway, Jake's newfound pacifism (didn't we already have this plot in _His Hero_?) proves troublesome when Finn is kidnapped by crystal soldiers from another dimension, and Jake can't get them to give him back just by asking or vaguely threatening the guards without credibility.
+In this case, Jake accidentally hurts Finn, and this reminds him of his dad praising him for accidentally hurting his brother. There's uncomfortable shades of how many abuse survivors fear they will re-enact abuse on others. Anyway, Jake's newfound pacifism (didn't we already have this plot in _His Hero_?) proves troublesome when Finn is kidnapped by crystal soldiers from another dimension, and Jake can't get them to give him back just by asking or vaguely threatening the guards without credibility.
 
 The resolution is that Jake's dad was _actually_ saying Jake would hurt 'everybody who is evil'. This is lucky, because it turns out eating the crystal apple made Tree Trunks gain magic powers and become 'Quartzion, ruler of the crystal men', and, corrupted by their power, attempt to turn Finn into her 'sexy crystal king' (even though he's like what, 12 at this point?). It's like the Standard Ice King Plot but backwards. PG sexual violence is just what semi-villains do in _Adventure Time_, idek?
 
@@ -106,7 +108,7 @@ In terms of that Very Important Lore, a map in this episode gives us the first m
 
 ### Episode 10: _To Cut a Woman's Hair_
 
-In this season it seems like every fun episode has to be balanced by an excruciating one.
+In this season it seems like every fun episode has to be balanced by an excruciating one. Which are, rather frequently, written by Kent Osborne. Oh yes, that fucker's back.
 
 In this one, Finn and Jake are menaced by an ugly (and as Jake suggests and is implicitly confirmed, therefore evil) Forest Witch, who demands that they acquire princess hair to cover her bald spot or she'll absorb Jake into her butt. Yeah, eesh. This is an angle to forcing Finn to start confronting his anxiety over romance; he eventually takes PB on a very awkward 'date' which we can read as her humouring him, I guess.
 
@@ -120,7 +122,7 @@ This _is_ the first episode to reveal Finn's incredible flowing blonde locks, wh
 
 In this episode, Finn and Jake are obsessed with ninjas for some reason. They found out the Ice King is too, and smash his house up with techniques of 'Friojitsu' described in a manual in his house. Meanwhile, the Ice King attempts to kidnap Doctor Princess - not actually a princess, her surname is just Princess! - and Gunter lays an egg which hatches into a cat!? This episode is something...
 
-The kanji on the cover of the ice manual reads 氷忍者 - 氷 is the kanji for ice, and 忍者 is a compound meaning ninja. I'm guessing that this would read as a jukugo word, so 氷 would take the on'yomi reading ヒョウ (hyou); the compound would read ひょうにんじゃ (hyouninja), but if it's not read as a jukogo word it might take a kun'yomi reading and you'd get こおりにんじゃ (koorininja). I did a search for 氷忍者 and I found Japanese ice skating videos, so it does seem to be something Japanese people might actually say; tentatively there's more evidence for こおりにんじゃ. Someone more familiar with the language, let me know :)
+The kanji on the cover of the ice manual reads 氷忍者 - 氷 is the kanji for ice, and 忍者 is a compound meaning ninja. I'm not exactly how Japanese compound words are formed in general. Multi-kanji compounds [are termed _jukogo_ words](https://en.wikipedia.org/wiki/Kanji#jukugo) and tend to take on'yomi readings, so if 氷忍者 qualifies, then 氷 would take the on'yomi reading ヒョウ (hyou); the compound would read ひょうにんじゃ (hyouninja). But if it's not considered one big compound, 氷 might take a kun'yomi reading and you'd get こおりにんじゃ (koorininja). I did a search for 氷忍者 and I found Japanese ice skating videos, so it does seem to be something Japanese people might actually say; tentatively there's more evidence for こおりにんじゃ. Someone more familiar with the language, let me know :)
 
 As for 'friojitzu' - if 'frio' is supposed to be ふり (furi), there's various things it could be (though clearly it's just based on 'freeze'). The least implausible is 降り (rainfall/snowfall), but I'm guessing a native Japanese speaker wanting to come up with a name for an ice-based martial art wouldn't come up with a name that sounds like 'friojitzu' (in any case, 術 (じゅつ) would be better transliterated 'jutsu', and 'jitsu' is a different word altogether!).
 
@@ -136,7 +138,7 @@ Given that there's all sorts of nasty stereotypes about Asian people eating weir
 
 > When Finn performs the traditional Rainicorn rain dance, Bob and Ethel get insulted. This may be because Finn is acting in a stereotypical manner, which could be offensive to them. 
 
-Gee, you think? (Though the more obvious interpretation is that Finn is just making shit up.)
+Gee, you think? (Though the more obvious interpretation is that Finn is just making shit up, in an equally insulting way.)
 
 The 'soy human' bit was kind of funny, but most of the ~wacky~ stuff in this episode felt strained, 'trying too hard'. Lady's parents feel less like characters from whom the humour can come naturally, and more a bunch of 'wacky foreigner' jokes stapled together. Like, why name the traditional rainicorn game some mash of nonsense syllables and not just, something in Korean? I was kind of waiting for the other shoe to drop - that the parents were playing a prank on Finn or something - but no, apparently that's just what Rainicorns are like.
 
@@ -145,6 +147,8 @@ The 'soy human' bit was kind of funny, but most of the ~wacky~ stuff in this epi
 Stop me if you've heard this one before: Finn and Jake encounter some strange magic person. They get embroiled in wacky events. A village we've never seen before is threatened, but they contain the threat they accidentally released.
 
 So Finn and Jake get some magic beans from a gnome knight, two good and one evil, which turn out to produce pods containing various things (pigs in costumes, magic wands, ice cream); the piglets turn out to be the evil ones, but they're weak to ice cream. None of these events are ever mentioned again.
+
+The best that can be said is that, for a Kent Osborne episode, this avoids the misogyny.
 
 ### Episode 14: _The Silent King_
 
@@ -172,11 +176,19 @@ In this case, every time Finn breaks a rule, the Goblins immediately offer thems
 
 So this episode does not so much reject the premise of Hobbes's _Leviathan_ - that an all powerful monarch is necessary for a harmonious society - but does then go on to say that it's not just unnecessary but actually kind of harmful for the monarch to actually _do_ anything! Instead, the function of the monarch can be found instead in the social relations themselves, codified in the 'royal rules'.
 
-What is this 'monarch', that cannot act except as governed by a particular logic, and arises not from a particular individual's actions but from the totality of social relations? My immediate answer is capital... but perhaps a similar concept could apply to previous societies. (Fredy Perlman can pop up here and say 'Leviathan'!)
+What is this 'monarch', that cannot act except as governed by a particular logic, and arises not from a particular individual's actions but from the totality of social relations? Perhaps this isn't so very far from Hobbes - certainly, later writers, such as Perlman, have taken Hobbes's word 'leviathan' and turned it on its head as a vast evil force structuring history.
 
 [Jackie](https://baeddel.tumblr.com) pointed out that in medieval Ireland prior to the English conquest, there was a complicated system of federal authority, with between five and nine kingdoms each ruled by a king. In the legal fiction, these kings were all subject to a presumed High King - but for much of history, this High King was mostly a ceremonial title, and in practice, the nominal High Kings - whose claims were disputed up until the very last one! - ruled over just their own kingdoms. But despite not actually excercising authority, the nominal existence of these High Kings helped justify the social order. (Feel free to dispute my vague understanding if you actually know about this period of history!)
 
-And is the episode really saying this 'Silent King' is a good thing? Initially I read the episode as endorsing this idea, but on reflection I think it's more ambivalent. Like many things in _Adventure Time_, it's hard to tell just how seriously to take it. After all, it's easy to dismiss the goblins as just one more wacky village...
+But perhaps we could narrow it to something more specific. In our present society, the logic of capital, of value, is what rules. Sure enough, society becomes divided into bourgeois and proletariat, but on a more fundamental level, the way we relate to each other is subsumed to this structure by forces more inexorable than the will of individual capitalists. The capitalists, themselves, are compelled to follow the logic of the market, the relentless drive towards accumulation, or find themselves shut out from the process and their role taken up by more willing capitalists. There is [a quote](https://edwad.tumblr.com/post/161455650146/if-the-capitalist-merely-executes-the-logic-of) from the Marxian economist Michael Heinrich that I like on this topic:
+
+> If the capitalist merely executes the logic of capital, then it is not he, but rather capital, self-valorizing capital, that is the “subject” of the process. Marx refers to capital in this regard as the “automatic subject,” a phrase that makes the paradox clear: on the one hand, capital is an automaton, something lifeless, but on the other, as the “subject,” it is the determining agent of the whole process.
+
+How far can we take this episode's 'Royal Rules' for a metaphor for capital? Probably not very far, but bear with me here, I'm having fun. When Finn disobeys the Rules - which he finds nonsensical and alien, and which force him to participate in certain social processes just to survive - the goblins immediately panic and lie down for 'punishment' they imagine will come. Perhaps this can be read as reflecting the belief that capitalism is freedom, and the alternative is either the Hobbesian state of nature, or tyranny and absolute punishment. And yet, to the viewer, the Goblins' belief in the necessity of these nonsensical rules is clearly irrational, and Finn is the understandable one.
+
+Of course, science fiction authors have gotten a lot of mileage about imagining how strange our society would look to a carefully constructed alien Other who can call the things the author dislikes nonsensical and primitive. Perhaps we can see this as a more obligue, and broader-ranging, critique along similar lines...
+
+Is the episode really saying this 'Silent King' is a good thing? Initially I read the episode as endorsing this idea, but on reflection I think it's more ambivalent. Like many things in _Adventure Time_, it's hard to tell just how seriously to take it. After all, it's easy to dismiss the goblins as just one more wacky village...
 
 ### Episode 15: _The Real You_
 
@@ -184,7 +196,7 @@ This episode is essentially there to develop the relationship between Finn and P
 
 She invites Finn to present at a scientific conference, and Finn becomes convinced he must make himself smarter to talk to these distinguished scientists. He finds his salvation in the returning Choose Goose, who gives Finn the 'glasses of Nerdicon'.
 
-As Finn e get a version of the famous 'powers of ten' zoom, which apparently establishes that the Adventure Time physics is recursive. Actually, let's talk about that...
+As Finn puts on the glasses, we get a version of the famous 'powers of ten' zoom, which apparently establishes that the Adventure Time physics is recursive. Actually, if the last episode review was self-indulgent Marx wank, let's take this opportunity to babble about physics. (Do you regret clicking this link now?)
 
 First, we see Finn's skin cells (rather magnified in size). Flying between cells, we the layer of cells beneath, then a swarm of molecules... and then things get weird. Inside a single molecule, we find a universe of individual atoms, portrayed in the old never-actually-accepted-by-physicists style, where three electrons orbit the nucleus in three different planes. And then we zoom in further, and we're zooming in on galaxies, and further still, onto Ooo and on Finn himself.
 
@@ -215,7 +227,7 @@ As far as the plot is concerned, 'smart' Finn manages to communicate the romanti
 
 Like, the obvious issue here is that, Finn's a fuckin twelve-year-old, and PB is a thousands-year-old candy elemental or something. Though, I believe at this point in the show, that had yet to be decided; Princess Bubblegum certainly acts pretty childlike in some ways. Perhaps that will be addressed later? Anyway she kisses him on the cheek and he fucking faints(!), then she giggles about it.
 
-I know they eventually abandon the Finn/PB romance angle in order to set Finn up with Flame Princess. PB's interest in Finn feels almost like a troll in this episode - her view of Finn is kinda condescending/curiosity?
+I remember they eventually abandon the Finn/PB romance angle in order to set Finn up with Flame Princess. PB's interest in Finn feels almost like a troll in this episode - her view of Finn is kinda condescending/curiosity?
 
 I realise that, as a lesbian, I may not be very good at working out what's attractive about boys, but like, he's a kid! A likeable kid, but still, a kid, with very immature ideas (or lack of them) about romantic relationships. This plotline is therefore _quite uncomfortable_.
 
@@ -283,7 +295,7 @@ Huh. Well, that wasn't quite what I was expecting.
 
 As has become common, the resolution to the conflict of the episode is an unexpected non-resolution. I don't know how the monster doesn't like the sensation of fireworks, but can happily guzzle molten lava. But anyway.
 
-This episode was... OK. I'm not exactly sure why it lodgd in my memory!
+This episode was... OK. I'm not exactly sure why it lodged in my memory!
 
 ### Episode 22: _The Limit_
 
@@ -360,3 +372,23 @@ But anyway, the real big deal here is the dramatic character change they make - 
 Which is to say, a conveniently romanceable age for Finn.
 
 I don't really like this plotline. I can't remember how long this takes; ultimately they abandon the Finn/PB romance angle and the show is better for it. (It's kind of unusual in a way for a cartoon like this that the protagonist goes through a variety of love interests.) But we're going to have to see a few episodes where PB is age regressed. How shocking, etc.
+
+## Season 2
+
+So, Season 2 of _Adventure Time_! That had... ups and downs.
+
+The positive signs are that they're already starting to experiment with longer-form plots, and the snowballing callbacks to previous _weird shit_ (fun but unsatisfying) that makes it turn into _weirdly consistent_ shit (that's the good shit).
+
+The bad sign is the dreadful handling of gender. In fact, a lot of that comes in one particular writer's episodes. To be fair on Kent Osborne, his later episodes in the season - _Mystery Train_, _Belly of the Beast_ and _Video Makers_ are considerably better. They are, admittedly, also mostly about men.
+
+I'm surprised how long it's taken to develop BMO's character beyond the basic point of 'talking computer', though there was a little of that in _Video Makers_!
+
+If there is a major arc over the course of this season, it is about the development of Finn's attitude towards romantic relationships. Or to a fair extent, lack thereof - he's still pretty uncomfortable with the idea by the end of the season. Episodes endlessly toy with pushing Finn into dealing with romantic advances and his own suppressed feelings, even though he'd rather punch people. It's a dynamic that gets pretty old pretty fast.
+
+It does seem like a Finn/PB romance was being 'built towards' at this stage; perhaps because, in the show's original premise and pilot, Finn/PB was considered a core part. Princess Bubblegum, however, will refuse to be reduced to a love interest character and develop into a very unusual and interesting figure for a cartoon like this one. At some point, the writers are going to realise that Finn/PB just isn't on the cards, and write Flame Princess into the story to take the "Finn's love interest" role - only to ultimately follow a similar couse to PB!
+
+There is something to be said for depicting romantic relationships that _don't_ work out permanently as a route into marriage, kids etc. in a kids' show. Of course like, nearly every relationship everyone ever enters into will ultimately be a temporary one, and that's all right. The standard in cartoons tends to be 'romantic tension leading into Endgame Pairing', with the outcome treated as being very final - and this is fertile ground for 'shipping wars' and the like that build engagement with a show. So, on one level, I'm glad that _Adventure Time_ is showing Finn growing and maturing and his relationships to people changing; showing that he can still be friends with people after their romantic relationship has ended.
+
+At the same time, I think this dynamic is handled considerably better with Flame Princess than it was with PB. The de-aging at the end of this season feels really transparent, and honestly it's hard to reconcile her fretting over Finn with the Machiavellian ruler she becomes in later seasons.
+
+I think overall... while there's signs of what made Adventure Time so good here, it feels very much like it's still struggling to work out what it wants to do at this point, and following some routes that I think were probably mistakes in light of where they ended up taking it. That's OK, though. We've got another eight seasons to go!
