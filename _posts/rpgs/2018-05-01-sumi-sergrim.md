@@ -34,7 +34,7 @@ Sumi believes the way she approaches her struggles reveals her heart to the worl
 
 ### Bonds
  - **Ariel:** Sumi is kind of in awe of Ariel's knowledge of the world and skill, and a little intimidated by her. After Ariel revealed how worried she was about Sumi's curse, Sumi vowed to own her powers, be true in their expression, and never again let herself hide or lose control. Sumi does not want to hurt or scare her friends any more. Also Ariel shot Marat when he refused to listen to her; it was badass but Sumi is even more intimidated!
- - **Freya:** Freya was there when Sumi was born, and has known her all her life. She was the first person Sumi went to after discovering her curse. Sumi and Freya fought back to back during the lighthouse siege, and Sumi has hella respect for her. She is eager to reunite Freya and Gorta, and wants to provide all the support she can to Freya in the meantime.
+ - **Freya:** Freya was there when Sumi was born, and has known her all her life. She was the first person Sumi went to after discovering her curse. Sumi and Freya fought back to back during the lighthouse siege, and Sumi has hella respect for her. She feels proud to have had a part in helping reunite Freya and Gorta.
  - **Minerva:** Minerva lived near Sumi's village, and she and Sumi set out on their journey together. Sumi has taken her out dancing, but Minerva was a bit of a wallflower. Sumi knows Minerva doesn't always like to talk, but she wishes she could understand her better.
  - **Striven:** Sumi has been asking Striven for understanding of the Black Spot, and she's kind of attracted to her and thinks her magic is pretty fantastic. Sumi is trying to work out what would be a good tattoo to ask Striven to draw on her.
  - **Leviathan:** Sumi has been afraid of Leviathan, but she's determined to face her fear, learn what Leviathan wants, and do the best she can with these circumstances. She was very surprised to find Leviathan so amiable when meeting face to face. She's still suspicious that Leviathan may be telling her what she wants to hear, but she wants to give her a fair shake, and if the 'Devil Down Below' really is the victim of a vast injustice, well, what an adventure it would be to save her!
@@ -47,8 +47,12 @@ Sumi believes the way she approaches her struggles reveals her heart to the worl
  - **Moti:** Young orc girl who's succeeded Sumi in caring for the shrine. Sumi is very fond of her and hopes she'll inspire her to adventure herself one day.
  - **Nyx:** _GOOD DOG. BEST FRIEND._
  - **Yolotli:** Superb friend noodle.
+ - **Gorta:** Sumi thinks Gorta is absolutely amazing and is extremely glad she could help Freya reunite with her.
  - **The Lindworm:** Sumi went out on a limb to get the Lindworm's side of the story, and was disgusted with its petty cruelty and selfishness. She's increasingly doubting her inclination to give people the benefit of the doubt, and seek diplomacy before fighting.
  - **The Jarl:** Sumi is appalled that the Jarl would sell out his people to a dragon's selfish whims, and quietly hopes his subjects will see fit to overthrow him.
+ - **Finnegan:** Over the course of their exploration of Melf's Tower of Flame, Sumi has warmed up to Finnegan and come to respect his eccentricities. She wants to hear all his stories of history.
+ - **Vengeance:** Sumi is not ignorant of this guy's suspicious looks, and she wants to prove to him that Leviathan's gifts are not a curse but something with which she can do good.
+ - **Nystul's Shadow:** Sumi's heart went out to the simulacrum bound to her duty in the tower, her great loss, and the feeling of seeing the world go bye. She wants to get closer to the ancient wizard, and show her that she's still part of this world even as much as it's changed, that she can have a life beyond the task she was assigned.
 
 ### Personality traits
 Sings constantly, and is quick to ask others to join her in dancing and music.
@@ -57,57 +61,53 @@ Sings constantly, and is quick to ask others to join her in dancing and music.
 Naive, prone to acting without thinking.
 
 ## Combat stats
-**Max hit points:** 31 (41 when Armour of Agathys is active)\\
-**Armour class:** 11 (13 with Mage Armour)\\
+**Max hit points:** 38 (48 when Armour of Agathys is active)\\
+**Armour class:** 12\\
 **Initiative:** +0\\
 **Passive perception:** 11\\
 **Passive insight:** 13\\
-**Inspiration:** yes
-
-### Attacks and abilities
-unlikely to use in combat:\\
-**Mage Armour:** increase AC to 13.\\
-**Gaze of Two Minds:** perceive through another creature's senses.
-
-unlimited:\\
-**Pact Greatsword:** melee +4, 2d6+2 dmg\\
-**Thunderclap:** everyone within 5ft must make Con save, DC 14, or take 1d6 dmg\\
-**Pact of the Blade:** summon a melee weapon as an action. Counts as a magical weapon.
-
-with one spell slot:\\
-**Dissonant Whispers:** one creature within 60ft must make Wis save, DC 14, or take 4d6 damage and be forced to move away as far as possible. successful save = half damage only.\\
-**Shatter:** everyone in a 10ft-radius sphere must make Con save, DC 14, or take 3d8 damage, doubled if they're inorganic. successful save = half damage. Also damages anything mundane object that nobody's carrying.\\
-**Armour of Agathys:** gain 10 temporary HP and any creature that hits me in melee takes 10 cold damage until I lose the temp HP.\\
-**Spider Climb:** whoever I cast it on can walk on walls and ceilings. Lasts for an hour.\\
-**Hex:** bonus action. set a target. Deal 1d6 extra damage on every attack on that target. If the target dies before 1h concentration is up, bonus action to transfer to a new target.
+**Inspiration:** no
 
 ## Spellcasting
 **Spell slots:** 2\\
 **Spell slot level:** 2nd\\
-**Spell save DC:** 14\\
-**Spell attack modifier:** +6\\
+**Spell save DC:** 15\\
+**Spell attack modifier:** +7\\
 **Spellcasting ability:** Cha
 
 Can cast any known spell by spending one spell slot. Regain all spells after short or long rest.
 
+### Attacks and abilities
+unlikely to use in combat:
+ - **Gaze of Two Minds:** perceive through another creature's senses.
+
+unlimited use:
+ - **Pact Greatsword:** melee +5, 2d6+2 dmg (3d6+2 dmg with Hex). can attack twice. est. damage: 9 (1hit), 18 (2hit), 12.5 (1hit+hex), 25 (2hit+hex)
+ - **Thunderclap:** everyone within 5ft must make Con save, DC 15, or take 2d6 dmg (est. 7). (worth doing when at least three enemies fail save w/o hex, four w/ hex)
+ - **Pact of the Blade:** summon a melee weapon as an action. Counts as a magical weapon.
+
+with one spell slot:
+ - **Shatter:** everyone in a 10ft-radius sphere must make Con save, DC 15, or take 4d8 damage (est. 18), doubled if they're inorganic. Successful save = half damage. Also damages anything mundane object that nobody's carrying.
+ - **Armour of Agathys:** gain 15 temporary HP and any creature that hits me in melee takes 15 cold damage until I lose the temp HP.
+ - **Lightning Bolt:** everything in a 100 foot long, five foot wide line must take a Dex save, DC 15, or take 8d6 (est. 28) lightning damage. Successful save = half damage. Also sets things on fire.
+
+with one spell slot, requires concentration:
+ - **Fly:** one creature I touch can fly with 60ft speed. **10 min** duration.
+ - **Spider Climb:** whoever I cast it on can walk on walls and ceilings. **1 hour** duration.
+ - **Hex:** bonus action. set a target. Deal 1d6 extra damage on every attack on that target, and pick an ability for that target to have disadvantage on. If the target dies before end of duration, bonus action to transfer to a new target. **8 hour** duration.
+
 ## Invocations
-### Armour of Shadows
-You can cast mage armour on yourself at will, without expending a spell slot or material components.
+<!--### Thief of Five Fates
+You can cast _bane_ once using a warlock spell slot. You can't do so again until you finish a long rest.-->
 
-{% capture magearmour %}
-*1st-level abjuration*
-**Casting Time:** 1 action
-**Range:** Touch
-**Components:** V, S
-**Duration:** 8 hours
-
-You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends it if the target dons armor or if you dismiss the spell as an action.
-{% endcapture %}
-
-{% include hidden.html content=magearmour id="magearmour" title="Mage Armour" %}
+### Eyes of the Rune Keeper
+You can read all writing.
 
 ### Gaze of Two Minds
 You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+
+### Thirsting Blade
+You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.
 
 ## Spells known
 ### Cantrips
@@ -161,19 +161,20 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 {% include hidden.html content=prestidigitation id="prestidigitation" title="Prestidigitation" %}
 
 ### 1st level spells
-{% capture dissonantwhispers %}
-*1st-level enchantment* \\
-**Casting Time:** 1 action \\
-**Range:** 60 feet \\
-**Components:** V \\
-**Duration:** Instantaneous
+{% capture bane %}
+*1st-level enchantment*\\
+**Casting Time:** 1 action\\
+**Range:** 30 feet\\
+**Components:** V, S, M (a drop of blood)\\
+**Duration:** Concentration, up to 1 minute
 
-You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.
+Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a 1d4 and subtract the number rolled from the attack roll or saving throw.
+At Higher Levels.
 
-*At Higher Levels:* When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 {% endcapture %}
 
-{% include hidden.html content=dissonantwhispers id="dissonantwhispers" title="Dissonant Whispers" %}
+<!--{% include hidden.html content=bane id="bane" title="Bane" %}-->
 
 {% capture armorofagathys %}
 *1st-level abjuration*\\
@@ -236,6 +237,36 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 {% include hidden.html content=shatter id="shatter" title="Shatter" %}
 
+### 3rd level spells
+{% capture fly %}
+*3rd-level transmutation*\\
+**Casting Time:** 1 action\\
+**Range:** Touch\\
+**Components:** V, S, M (a wing feather from any bird)\\
+**Duration:** Concentration, up to 10 minutes
+
+You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
+
+*At Higher Levels:* When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
+{% endcapture %}
+
+{% include hidden.html content=fly id="fly" title="Fly" %}
+
+{% capture lightningbolt %}
+*3rd-level evocation*\\
+**Casting Time:** 1 action\\
+**Range:** Self (100-foot line)\\
+**Components:** V, S, M (a bit of fur and a rod of amber, crystal, or glass)\\
+**Duration:** Instantaneous
+
+A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.
+
+The lightning ignites flammable objects in the area that aren't being worn or carried.
+At Higher Levels.
+
+When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+{% endcapture %}
+
 ## Features
 ### Class features
 {% capture callofthedeep %}
@@ -275,10 +306,8 @@ You can transform one magic weapon into your pact weapon by performing a special
  - 9 pieces of Turathi white gold (9gp)
  - assorted coins (100gp)
  - two ladyfingers (10gp)
- - Practical fighting clothes
- - a velvet robe
- - a cashmere scarf
- - Quarterstaff
+ - share in the loot (431gp)
+ - Quarterstaff (now rarely carried)
  - A delicately braided ring of Turathi white gold
  - A necklace with Leviathan's Black Pearl set in it:
 
@@ -290,8 +319,9 @@ When this pearl is on your person, you can use an action to speak its command wo
 
 {% include hidden.html content=leviathansblackpearl id="leviathansblackpearl" title="Leviathan's Black Pearl" %}
 
-### Dashing fighting clothes savings
- - new dress and gloves worth 3gp
+### Dashing fighting clothes fund
+ - new dress and gloves (3gp)
+ - cashmere scarf (25gp)
 
 ## Proficiencies
 ### Saves
