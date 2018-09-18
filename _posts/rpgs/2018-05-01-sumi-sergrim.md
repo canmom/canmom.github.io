@@ -8,7 +8,7 @@ tags:
  - characters
 ---
 
-**Orc Warlock 4**\\
+**Orc Warlock 5**\\
 **Patron:** Leviathan's curse\\
 **Background:** Shrine Maiden\\
 **Str:** 14 (+2)\\
@@ -306,9 +306,10 @@ You can transform one magic weapon into your pact weapon by performing a special
  - 9 pieces of Turathi white gold (9gp)
  - assorted coins (100gp)
  - two ladyfingers (10gp)
- - share in the loot (431gp)
+ - share in the loot (415gp)
  - Quarterstaff (now rarely carried)
  - A delicately braided ring of Turathi white gold
+ - A mask made of shards of mirrors
  - A necklace with Leviathan's Black Pearl set in it:
 
 {% capture leviathansblackpearl %}
