@@ -17,7 +17,7 @@ tags:
 **Int:** 10 (0)\\
 **Wis:** 12 (+1)\\
 **Cha:** 18 (+4)\\
-**Proficiency bonus:** +2
+**Proficiency bonus:** +3
 
 ## Description
 ### Brief background
@@ -65,7 +65,7 @@ Naive, prone to acting without thinking.
 **Armour class:** 12\\
 **Initiative:** +0\\
 **Passive perception:** 11\\
-**Passive insight:** 13\\
+**Passive insight:** 14\\
 **Inspiration:** no
 
 ## Spellcasting
@@ -267,6 +267,8 @@ At Higher Levels.
 When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 {% endcapture %}
 
+{% include hidden.html content=lightningbolt id="lightningbolt" title="Lightning Bolt" %}
+
 ## Features
 ### Class features
 {% capture callofthedeep %}
@@ -300,13 +302,15 @@ You can transform one magic weapon into your pact weapon by performing a special
 
 ## Equipment
  - Traveler's clothes
+ - Dashing fighting clothes including a nice cashmere scarf
+ - A nice dress worth 15gp
  - A stone from my shrine
  - Candle lantern
  - 12 shards of silver (12sp)
  - 9 pieces of Turathi white gold (9gp)
  - assorted coins (100gp)
  - two ladyfingers (10gp)
- - share in the loot (415gp)
+ - share in the loot (380gp)
  - Quarterstaff (now rarely carried)
  - A delicately braided ring of Turathi white gold
  - A mask made of shards of mirrors
