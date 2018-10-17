@@ -3,6 +3,8 @@ title: Violence and 'evil races'
 excerpt: "An attempt to get to grips with the history of D&D and fantasy fiction."
 layout: article
 categories: rpgs
+tags:
+ - rpg design
 ---
 {% assign impath = '/img/embed/dnd/' %}
 The impetus for this post was [something Nausicaa Harris wrote](http://nausicaaharris.tumblr.com/post/179114146573/respectfully-your-personal-narrative-that-it-is-an). It kind of ballooned beyond the point that would be appropriate for a reblog of her, so it's going here.
@@ -29,9 +31,7 @@ I largely agree with what Nausicaa wrote, but the problem of an ‘evil species�
 
 In the movie adaptation of _Lord of the Rings_, we see the ‘orcs’ be popped out of sacs in the ground by an evil wizard, but that doesn’t change the way orcs are presented as racialised figures, and their appearance, affect etc. contrasted with the good noble white humans so we feel comfortable celebrating when they are cut down.
 
-<figure markdown="1">
-![The character Lurtz from 'The Lord of the Rings: The Two Towers', covered in mud after being cut out of a muddy pod.]({{impath}}lurtz.jpg)
-</figure>
+{% include uncaptionedfigure.html alt="The character Lurtz from 'The Lord of the Rings: The Two Towers', covered in mud after being cut out of a muddy pod." img="embed/dnd/lurtz.jpg" %}
 
 The design of the baddies in those films - the ‘ugly’ orcs, the humans with face-covering masks - is a standard way to make sure we feel comfortable with the heroes shooting down dozens of stormtroopers without questioning like, isn’t that a person there that they’re killing without even thinking about it? I mean that on a gut level; maybe we can safely conclude that in the scenario presented by the film, it is clearly right to fight the war and shoot the enemy soldiers, but like… character design is still used to remove the possibility of empathy and make the conflict into one we can cheer for without discomfort. To do this, film-makers will use all the tricks they can think of to dehumanise their villains.
 
@@ -68,7 +68,7 @@ So, it doesn’t need to be explained, at this point, why the characters are con
 
 But there’s another side that D&D draws on…
 
-## Go team Lawful!
+### Go team Lawful!
 
 We also have the division of the world into “law” and “chaos” factions, which draws on Poul Anderson’s [_Three Hearts, Three Lions_](https://en.wikipedia.org/wiki/Three_Hearts_and_Three_Lions). In Anderson’s novel, an accidental time traveller from WWII is drawn into a battle between the heroic forces of ‘Law’, represented by the Holy Roman Empire and ‘Saracens’, and ‘Chaos’, represented by various magical creatures from the ‘Middle World’. Anderson is at least doing better than Tolkien, in putting the ‘Saracens’ on the side of the goodies, but that’s saying very little! Especially when he’s got ideas like ‘cannibal hillmen’ in there. It’s very clear that ‘law’ is good and ‘chaos’ bad.
 
@@ -152,7 +152,7 @@ I think there's two things that make me uncomfortable, there. One is the idea th
 
 Rather than a social and economic system here that produces people as slavers, we have a _species_ which is only capable of slavery. The only way to prevent the re-enslavement of the world is the complete extermination of all the 'mind flayers'. This, to me, is just as much 'moral quicksand' as attempting to sympathise with a character who aspires to own slaves. While the _Waypoint_ article may not be wrong as a criticism of Mearls' module, if it doesn't change this premise, neither side seems to really address that problem.
 
-## Where do the problems come from?
+### Where do problems come from?
 
 The second issue I have is the way we construct the enemy Other. There is a contrast between 'normal' people, who look like 'us' (or a version of ourselves that better fulfils our society's beauty standards), and their enemies are 'monstrous' people, who have tentacles growing out of their faces and reproduce in the most gross way possible. In Lovecraft, the monstrous, betentacled Other stands in for the horrifying outside to what Lovecraft conceived of as 'rational' civilisation.
 
@@ -348,7 +348,7 @@ This is, I think, part of what it takes to unfuck D&D for me. There are no non-p
 
 That might be _necessary_ but it isn't _sufficient_. The other antidote is education: to learn about the history of colonisation, the ideas that were used to justify subjugation and genocide. Address that and explicitly challenge their presence in D&D, or not, but don't replicate it.
 
-## And what about Wizards of the Coast?
+### And what about Wizards of the Coast?
 
 Wizards of the Coast has no business interest in unfucking D&D. 5e is a compromise, designed to capture as many disparate parts of the fractured fanbase as possible. It's not surprising that it's so contradictory: an effort at diversity of skin tones in the artwork, a passage about gender variance... printed alongside things like the orc passages quoted above. It's perhaps easier to get away with the orc stuff because people can respond to a criticism around coding and metaphor with "what, are you saying they're racist against orcs?" and the point will be lost.
 
