@@ -3,6 +3,8 @@ title: Can we make RPG money more interesting?
 excerpt: How can we use the messy, complicated actual history of systems of trade and obligation to make interesting stories?
 layout: article
 categories: rpgs
+tags:
+ - rpg design
 ---
 This post was inspired by a discussion of currency in _Dungeons and Dragons_ and similar fantasy roleplaying games.
 
