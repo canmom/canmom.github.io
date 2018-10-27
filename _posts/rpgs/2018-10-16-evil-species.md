@@ -64,15 +64,13 @@ While I’m not sure how the players of early D&D saw their characters, much lik
 
 This seems to be true in at least some of the novels D&D is drawing from. In Jack Vance’s _Dying Earth_ novels, the protagonist Cugel is utterly amoral, but so is just about everyone else. And Conan, who is mentioned explicitly in one place in the rules, is a conqueror for little other reason than conquest’s sake. The characters are at best ‘lovable rogues’ rather than ‘heroes’ per se. (This is not to get into the miserable subject of gender and sexual violence in those novels, which destroys the sympathy we might have for Cugel or, from the summaries I’ve read, Fafhrd.)
 
-So, it doesn’t need to be explained, at this point, why the characters are conquering the dungeon beyond straightforward greed. There’s very little need, even, to explain the&nbsp;‘monsters of horrid aspect’; they’re there because they need to be, determined by random dice rolls. Still, the monsters sectin
+So, it doesn’t need to be explained, at this point, why the characters are conquering the dungeon beyond straightforward greed. There’s very little need, even, to explain the ‘monsters of horrid aspect’; they’re there because they need to be, determined by random dice rolls.
 
 But there’s another side that D&D draws on…
 
 ### Go team Lawful!
 
 We also have the division of the world into “law” and “chaos” factions, which draws on Poul Anderson’s [_Three Hearts, Three Lions_](https://en.wikipedia.org/wiki/Three_Hearts_and_Three_Lions). In Anderson’s novel, an accidental time traveller from WWII is drawn into a battle between the heroic forces of ‘Law’, represented by the Holy Roman Empire and ‘Saracens’, and ‘Chaos’, represented by various magical creatures from the ‘Middle World’. Anderson is at least doing better than Tolkien, in putting the ‘Saracens’ on the side of the goodies, but that’s saying very little! Especially when he’s got ideas like ‘cannibal hillmen’ in there. It’s very clear that ‘law’ is good and ‘chaos’ bad.
-
-Tolkien, also, occupied a weird place in the inspirations. Some of the founding players liked it (hence the inclusion of hobbits, ents and so on) but Gygax apparently hated Tolkien.
 
 Michael Moorcock, another influence on D&D, would take the whole law/chaos angle and run with it to some strange places, but apparently it’s Anderson who first expressed it.
 
@@ -89,7 +87,7 @@ So we’ve got a game where…
  * it’s necessary to provide monsters ('of horrid aspect') for the players to avoid or overcome
  * the world is divided into Lawful and Chaotic factions, who generally speaking fight each other
 
-Rules such as&nbsp;‘experience points’ are largely built around those assumptions.
+Rules such as ‘experience points’ are largely built around those assumptions.
 
 Questions like ‘are orc babies evil’ don’t even come up in this context. You don’t ask why there are orcs in the dungeon, or perhaps you can blame it on an evil wizard or something; the point is, it hardly matters what sort of people the orcs are, what they want, where they come from. They’re obstacles rather than characters.
 
