@@ -28,6 +28,9 @@ ep1:
 ep2:
   path: /livereads/umineko/ep2
   display: ep. 2
+ep3:
+  path: /livereads/umineko/ep3
+  display: ep. 3
 econ:
   path: /econ
   display: economics
