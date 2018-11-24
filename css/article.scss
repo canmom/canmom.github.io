@@ -401,8 +401,42 @@ article hr {
 
 @import "chat";
 
+/* Umineko styles */
 .red {
     color: red;
+}
+
+.smallcaps {
+    font-variant: small-caps;
+}
+
+.japanese {
+    font-style: normal;
+}
+
+ol.poem {
+    
+    margin-left: 0;
+    font-style: italic;
+    padding-left: 10px;
+}
+
+ol.poem li {
+    list-style-type: none;
+}
+
+ol.poem li p {
+    margin-bottom: 5px;
+}
+
+ol.poem li ol {
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+ol.poem li li {
+    margin-left: 0;
+    padding-left: 0;
 }
 
 /* ===============
