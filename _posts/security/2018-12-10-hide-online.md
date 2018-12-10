@@ -27,7 +27,7 @@ So in the most basic model, you can be spied on when you send a packet to the DN
 *   when the packet leaves your computer (your internet service provider - it can see **what you're sending**, and **where it’s going**)
 *   any of the routers your message passes through along the way (same as your ISP - can see **where the packet came from**, **where it's going**, and **what you’re sending**)
 *   when the packet arrives at the server (the server itself can see **where the packet came from**, and of course **what you're sending**, but that’s the whole point!)
-*   any of the routers your message passes through along the way (an attacker can read **where the reply is coming from**, **where it's going back to**, **what the server is sending back**)
+*   any of the routers the server's reply passes through along the way (an attacker can read **where the reply is coming from**, **where it's going back to**, **what the server is sending back**)
 *   when the reply from the server comes back to you (your ISP can read **where the reply is coming from**, **what the server is sending back**)
 
 So suppose you want to make it harder for someone to track you. Perfect security is impossible, but let’s see what the options are...
@@ -44,7 +44,9 @@ If you have a modern browser like Firefox or Chrome, and the server you’re tal
 
 HTTPS doesn’t stop the server you’re talking to from tracking you - because you have to tell them this information to do anything at all. In this case, Tumblr's server knows what post I’m typing, what blogs I visit, etc. But nobody in between me and Tumblr should be able to find that out - they only know that I’m talking to Tumblr, not what I’m saying.
 
-Some older servers still use HTTP instead of HTTPS. This is not too much of a problem if you’re not sending sensitive information such as passwords. A static website with just HTML is already putting its contents on the internet for anyone to read, so you’re not gaining much by encrypting that information when it sends it to you! However, if you’re sending sensitive information like a password, a modern browser should warn you if you’re using HTTP, and it’s worth checking the URL in the top of your browser to make sure it says ‘https’ and not ‘http’. Sometimes a server isn't designed to automatically switch to HTTPS if you try to connect with HTTP, but you can do it manually - though if it's a badly designed website, it will put you back on HTTP.
+Some older servers still use HTTP instead of HTTPS. This is not too much of a problem if you’re not sending sensitive information such as passwords. A static website with just HTML is already putting its contents on the internet for anyone to read, so you’re not gaining much by encrypting that information when it sends it to you!
+
+However, if you’re sending sensitive information like a password, a modern browser should warn you if you’re using HTTP, and it’s worth checking the URL in the top of your browser to make sure it says ‘https’ and not ‘http’. Sometimes a server isn't designed to automatically switch to HTTPS if you try to connect with HTTP, but you can do it manually - though if it's a badly designed website, it will put you back on HTTP.
 
 You may sometimes see a warning that a page is supposedly using HTTPS, but there are items in the page such as images which would be loadd using additional requests with HTTP instead of HTTPS, which means someone spying on your connection could see these items. I believe modern versions of Firefox block these items unless you tell it otherwise.
 
@@ -62,7 +64,7 @@ When you use a VPN, your computer encrypts the packet it would normally send str
 
 As far as anyone after that point knows, the package comes from the VPN, and when the final destination server replies, it will reply to the VPN. The VPN will then encrypt the reply and send it back to you.
 
-So the VPN hides **what you’re sending** and **who you’re sending it to** from your ISP and anyone who intercepts the packet **_before_** the VPN server, and hides **where your messages come** from from anyone who intercepts your messages **_after_** the VPN server.
+So the VPN hides **what you’re sending** and **who you’re sending it to** from your ISP and anyone who intercepts the packet ***before*** the VPN server, and hides **where your messages come** from the destination and from anyone who intercepts your messages ***after*** the VPN server.
 
 If you’re up against someone with loads of resources, such as a government, they could attack the VPN by doing traffic analysis, looking at when encrypted packets arrive at the VPN server and when decrypted packets leave, and using that to attempt to match the two. That’s the problem that TOR is designed to help solve - it’s basically three layers of VPNs that are constantly changing the particular route. But bear in mind that if you’re up against something like that, you shouldn’t be getting your security advice from some girl on tumblr.
 
