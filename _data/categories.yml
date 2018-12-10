@@ -70,3 +70,6 @@ rpgs:
 adventure-time:
   path: /livereads/adventure-time
   display: Adventure Time
+security:
+  path: /security
+  display: security
