@@ -19,7 +19,35 @@
                     </address>
                 </header>
                 <nav>
-                    {% assign categorylist = "physics rpgs crit security econ programming livereads" | split: ' ' %}
+                    <section class="articles">
+                        <h2><a href="/physics/">physics</a></h2>
+                        <ul class="listing">
+                            {% assign first_posts = site.categories["physics"] | slice: 0,5 %}
+                            {% for post in first_posts %}
+                                {% include listing.html post=post %}
+                            {% endfor %}
+                            <li><a href="/physics/"><p><em>more...</em></p></a></li>
+                        </ul>
+                    </section>
+                    <section class="articles">
+                        <h2><a href="/livereads/">livereads</a></h2>
+                        <ul class="listing">
+                            {% assign subcategories = site.data.livereads %}
+                            {% for story in subcategories %}
+                            {% if "egs uj animorphs umineko" contains story.path %}
+                            <li>
+                            {% capture fullpath %}{% if page.categories %}/{{ page.categories | join: "/" }}{% endif %}/livereads/{{ story.path }}/{% endcapture %}
+                                <a href='/livereads/{{ story.path }}'>
+                                  <h3>{{ story.title }}</h3>
+                                  {% for sitepage in site.pages %}{% if sitepage.url == fullpath %}<p>{{ sitepage.description }}</p>{% endif %}{% endfor %}
+                                </a>
+                            </li>
+                            {% endif %}
+                            {% endfor %}
+                            <li><a href="/livereads/"><p><em>more...</em></p></a></li>
+                        </ul>
+                    </section>
+                    {% assign categorylist = "rpgs crit security econ programming" | split: ' ' %}
                     {% for category_name in categorylist %}
                     <section class="articles">
                         <h2><a href="/{{category_name}}/">{{category_name}}</a></h2>
