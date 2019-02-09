@@ -19,18 +19,20 @@
                     </address>
                 </header>
                 <nav>
-                    {% for category in site.categories %}
-                        {% capture category_name %}{{category | first}}{% endcapture %}
-                        {% if "physics" contains category_name %}
+                    {% assign categorylist = "physics rpgs crit security econ programming livereads" | split: ' ' %}
+                    {% for category_name in categorylist %}
                     <section class="articles">
                         <h2><a href="/{{category_name}}/">{{category_name}}</a></h2>
                         <ul class="listing">
-                            {% for post in site.categories[category_name] %}
+                            {% assign first_posts = site.categories[category_name] | slice: 0,5 %}
+                            {% for post in first_posts %}
                                 {% include listing.html post=post %}
                             {% endfor %}
+                            {% if site.categories[category_name].size > 5 %}
+                            <li><a href="/{{category_name}}/"><p><em>more...</em></p></a></li>
+                            {% endif %}
                         </ul>
                     </section>
-                        {% endif %}
                     {% endfor %}
                     <section class="articles" id="projects">
                         <h2>projects</h2>
