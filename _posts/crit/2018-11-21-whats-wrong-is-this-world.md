@@ -3,6 +3,7 @@ title: “What’s wrong is... this world!”
 layout: article
 origin: https://canmom.tumblr.com/post/180346905187/whats-wrong-is-this-world
 categories: crit
+excerpt: A rumination on consumption and the enormity of the world's grief - inspired by Tokyo Ghoul, NieR and Mononoke-hime.
 ---
 **contains spoilers for: _Tokyo Ghoul_ (the first season of the anime only), _NieR_, _NieR: Automata_, _Princess Mononoke_**
 
