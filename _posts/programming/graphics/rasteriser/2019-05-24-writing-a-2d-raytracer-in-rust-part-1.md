@@ -292,3 +292,40 @@ I put the alpha up to 255, and ran it again. This should be black.
 It is! Success! Hooray! We have managed to draw a black screen.
 
 There's a few issues that I need to fix, like the window starting maximised, and I need to work out how to convert a framebuffer that's a float to a framebuffer that's u8, but still, I am finally at the point where I can start writing an actual raytracer. I hope.
+
+Here's the full program so far:
+
+```rust
+extern crate image;
+extern crate piston_window;
+
+use piston_window::EventLoop;
+
+const WIDTH: u32 = 1280;
+const HEIGHT: u32 = 720;
+
+fn main() {
+    let frame_buffer = image::ImageBuffer::from_pixel(WIDTH, HEIGHT, image::Rgba([0,0,0,255]));
+
+    let mut window: piston_window::PistonWindow =
+    piston_window::WindowSettings::new("Raytracer", [WIDTH, HEIGHT])
+        .exit_on_esc(true)
+        .build()
+        .unwrap_or_else(|_e| { panic!("Could not create window!")});
+
+    let tex = piston_window::Texture::from_image(
+        &mut window.create_texture_context(),
+        &frame_buffer,
+        &piston_window::TextureSettings::new())
+        .unwrap();
+
+    window.set_lazy(true);
+
+    while let Some(e) = window.next() {
+        window.draw_2d(&e, |c, g, _| {
+            piston_window::clear([1.0; 4], g);
+            piston_window::image(&tex, c.transform, g)
+        });
+    }
+}
+```
