@@ -73,3 +73,6 @@ adventure-time:
 security:
   path: /security
   display: security
+raytracer:
+  path: /programming/graphics/raytracer
+  display: raytracer

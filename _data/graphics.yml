@@ -1,2 +1,4 @@
 - path: rasteriser
   title: Building my own rasteriser
+- path: raytracer
+  title: Building a raytracer in Rust!
