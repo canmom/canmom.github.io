@@ -225,13 +225,13 @@ In this example, the Rectangle takes `c.transform` from the `Context`. Both use 
 
 `Context` seems to store information about the window's coordinate system - which way the Y axis is, for example. Not sure how to set it though.
 
-`G2d` seems to be a wrapper around GfxGraphics, which has various graphics drawing functions in order to implement the trait [Graphics](http://docs.piston.rs/piston_window/piston_window/trait.Graphics.html).
+`G2d` seems to be a wrapper around `GfxGraphics`, which has various graphics drawing functions in order to implement the trait [Graphics](http://docs.piston.rs/piston_window/piston_window/trait.Graphics.html).
 
-The colour space for Graphcis objects seems to be sRGB, but stored as a float for some reason? But anyway, we don't need to go down that far.
+The colour space for `Graphics` objects seems to be sRGB, but stored as a float for some reason? But anyway, we don't need to go down that far.
 
 The function we want seems to be [image](http://docs.piston.rs/piston_window/piston_window/fn.image.html). This takes a Texture, which depends on the specific backend. There's also [an Image struct](http://docs.piston.rs/piston_window/piston_window/image/struct.Image.html), which represents... a place where an image might be drawn? Seemingly separate from the texture that will be drawn there.
 
-I decided I'd make no headway staring at these API docs, so I decided to go and have a look at one of the examples. [This one looks promising.](https://github.com/PistonDevelopers/piston-examples/blob/master/src/image.rs)... so they load a texture from a path, using the Texture, and declaring it should be type `G2dTexture`:
+I decided I'd make no headway staring at these API docs, so I decided to go and have a look at one of the examples. [This one looks promising.](https://github.com/PistonDevelopers/piston-examples/blob/master/src/image.rs)... so they load a texture from a path, using the `Texture`, and declaring it should be type `G2dTexture`:
 
 ```rust
 let rust_logo: G2dTexture = Texture::from_path(
@@ -241,11 +241,11 @@ let rust_logo: G2dTexture = Texture::from_path(
         &TextureSettings::new()
     ).unwrap();
 ```
-So let's track down Texture::from_path?? Aha, [here](http://docs.piston.rs/piston_window/piston_window/struct.Texture.html)'s the `Texture` *struct*, whereas before I was looking at some other thing also called `Texture`.
+So let's track down `Texture::from_path`?? Aha, [here](http://docs.piston.rs/piston_window/piston_window/struct.Texture.html)'s the `Texture` *struct*, whereas before I was looking at some other thing also called `Texture`.
 
-It seems that it is possible to create a texture from an ImageBuffer, which in turns seems to be the `ImageBuffer` from the `image` crate. At last, something recognisable!
+It seems that it is possible to create a texture from an `ImageBuffer`, which in turns seems to be the `ImageBuffer` from the `image` crate. At last, something recognisable!
 
-So now I think I can see what we need to do: we make a Texture from our existing ImageBuffer, and in the future we can update that.
+So now I think I can see what we need to do: we make a `Texture` from our existing `ImageBuffer`, and in the future we can update that.
 
 And I *believe* that means the following code:
 
