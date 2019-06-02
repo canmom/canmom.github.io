@@ -11,9 +11,11 @@ tags:
 excerpt: At long last we get to the point of tracing rays - not entirely as we want.
 custom_css: highlighting
 ---
-In the first article, we worked out how to wrangle an interface and draw a window. In the second, we implemented a vector struct.
+We've got a window and a vector struct. I think we're nearly at the point of drawing rays. Can we get there today? (*Almost*, it turns out!)
+1. toc
+{:toc}
 
-### A loose thread: a more general dot product
+## A loose thread: a more general dot product
 
 This morning I realised what was up with this code:
 
@@ -386,9 +388,9 @@ pub struct Ray<'a> {
 }
 ```
 
-The `#[derive(Debug)]` thing [just automatically makes it implement the Debug trait in the default way](https://doc.rust-lang.org/rust-by-example/trait/derive.html), giving it a basic implementation. I've so far been rather cavalier about slapping copy semantics on things via derive. Like, I've kind of made it so that `Vec2` has to have `Copy` traits, which isn't necessarily the case. I needed to make sure `Light` had it, in order to use it in `Ray`.
+The `#[derive(Debug)]` thing [just automatically makes it implement the Debug trait in the default way](https://doc.rust-lang.org/rust-by-example/trait/derive.html), giving it a basic implementation. I've so far been rather cavalier about slapping copy semantics on things via derive. Like, I'm not sure if I've made it so `Vec2` can only have `Copy` members, or if it is itself `Copy` iff it has `Copy` members. (Anyway, I also needed to make sure `Light` had `Debug`, in order to use it in `Ray`.)
 
-I've also neglected some other traits like `Eq` and `PartialEq` which are probably relevant. Work for the future!
+I've neglected some other traits like `Eq` and `PartialEq` which are probably relevant. Work for the future!
 
 Our implementation, it seems, also needs to have a lifetime parameter.
 
