@@ -372,7 +372,7 @@ We can now finally reap the benefits of our hard work, because to normalise a ve
 
 ```rust
 impl<T: Copy + Mul<Output = A> + Div<S>, A: Add<Output = S>, S: Sqrt + Copy> Vec2<T> {
-    fn normalize(self) -> Vec2<<T as Div<S>>::Output> {
+    fn normalise(self) -> Vec2<<T as Div<S>>::Output> {
         self / self.length()
     }
 }
@@ -534,7 +534,7 @@ impl<T: Copy + Mul<Output = A>, A: Add<Output = S>, S: Sqrt> Vec2<T> {
 }
 
 impl<T: Copy + Mul<Output = A> + Div<S>, A: Add<Output = S>, S: Sqrt + Copy> Vec2<T> {
-    fn normalize(self) -> Vec2<<T as Div<S>>::Output> {
+    fn normalise(self) -> Vec2<<T as Div<S>>::Output> {
         self / self.length()
     }
 }
