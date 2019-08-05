@@ -8,7 +8,7 @@ categories:
 tags:
  - building a raytracer
  - learning rust
-excerpt: We're gonna have a path tracer now.
+excerpt: An ab-serde situation? The program becomes a little more flexible, and I get ready to try to benchmark it.
 custom_css: highlighting
 ---
 
