@@ -1,5 +1,5 @@
 ---
-title: "Writing a Raytracer in Rust: part 4"
+title: "Writing a Raytracer in Rust: part 5"
 layout: article
 categories:
  - programming
