@@ -1,5 +1,7 @@
 ---
 layout: wormqueen
+title: wormqueen
+category: fiction
 ---
 # WORM QUEEN
 
@@ -51,11 +53,11 @@ Now, the enslaved people were still friends to the worms. From the stone cities,
 
 Abwydyn went among the people, and heard their entreaties. But what could she do? Neither the insects, nor the mud, nor the stones had reached the ears of the proud rulers in their temples.
 
+## TWO: Antu, the unwanted gift
+
 Let me tell you of these temples. There were a thousand priests, who went about in bright colours, to better catch the light of the sun. Why so many? There was a lot of counting to be done! Each day, from sunrise to sunset, the priests sat counting out the flesh of the Earth so that each person, living and dead, should own their proper amount and no more. It was a vast and terrible work that would never be completed, but they laboured all the same. Every day, many people came before the priests, and bid their slaves go back and forth with sheets of copper, and bushels of grain, always moving, always counting. 
 
 In the end, it was these priests, not the earth, who brought their people to ruin.
-
-## TWO: Antu, the unwanted gift
 
 The priests in their temples knew that they had angered the earth. They tried to appease it in the only way they knew: with violence. Time and again, they asked for a sacrifice. Grain. The blood of animals. The blood of slaves. Of all that they had taken from the earth, they returned just a pittance.
 
