@@ -7,7 +7,7 @@ tags:
  - rpg design
 ---
 {% assign impath = '/img/embed/dnd/' %}
-The impetus for this post was [something Nausicaa Harris wrote](http://nausicaaharris.tumblr.com/post/179114146573/respectfully-your-personal-narrative-that-it-is-an). It kind of ballooned beyond the point that would be appropriate for a reblog of her, so it's going here.
+The impetus for this post was [something Nausicaa Enriquez wrote](https://nausicaaenriquez.tumblr.com/post/179114146573/respectfully-your-personal-narrative-that-it-is-an). It kind of ballooned beyond the point that would be appropriate for a reblog of her, so it's going here.
 
 ## Contents
 {:.no_toc}
