@@ -2,7 +2,7 @@
 title: "Adventure Time: season 3"
 excerpt: "They get the gends"
 layout: article
-image: /img/embed/adventure-time/season-3/episode-.png
+image: embed/adventure-time/season-3/episode-.png
 categories:
  - livereads
  - adventure-time
@@ -21,7 +21,7 @@ A bunch of 'cuties' attempt to meance Finn and Jake, led by their 'cute king'. T
 
 I think the most interesting thing about this episode is that the cuties themselves are some sort of species that can agglomerate into larger organisms, but are also constantly dismembered by the wind and so on. The presentation ensures that this doesn't come across as horrifying, but imagine being one of these creatures! There's a scene where an army changes and ends up torn limb from limb (entirely by a series of comic accidents, admittedly)... full on WWI shit.
 
-{% include captionedfigure.html img="/img/embed/adventure-time/season-3/01-01.png" alt="The Cute King stands over a group of bruised and dying cuties. The cuties have rounded, often ellipsoidal shapes, mostly white but with coloured stripes, and tiny faces. The Cute King has a large pink blob on his head, with his arms coming out of the bottom." capt="Everything that lives is designed to end. We are perpetually trapped..." %}
+{% include captionedfigure.html img="embed/adventure-time/season-3/01-01.png" alt="The Cute King stands over a group of bruised and dying cuties. The cuties have rounded, often ellipsoidal shapes, mostly white but with coloured stripes, and tiny faces. The Cute King has a large pink blob on his head, with his arms coming out of the bottom." capt="Everything that lives is designed to end. We are perpetually trapped..." %}
 
 The other thing to note is that the Cute King himself, when caught in an unguarded moment, the Cute King is actually shown to be very gentle and caring of his injured subjects. But his expressed desires are to 'be evil' and in particular 'control others'. The episode is eventually resolved by Finn and Jake finding a way to give him this wish - using his cuteness to manipulate the Ice King - in a 'righteous' way, i.e. on their enemies.
 
@@ -39,7 +39,7 @@ or "Hail, Emperor, those who are about to die salute you". Apparently there's re
 
 History is pretty fucked up, huh.
 
-{% include captionedfigure.html img="/img/embed/adventure-time/season-3/02-02.png" alt="Finn leaps towards a gladiator ghost with two pointy swords, large bruises on his face. The ghost in the foreground is very large, with four arms. In the background is the ruins of an arena like the colosseum." capt="I love how the Gladiator Ghosts all look absolutely miserable and afraid." %}
+{% include captionedfigure.html img="embed/adventure-time/season-3/02-02.png" alt="Finn leaps towards a gladiator ghost with two pointy swords, large bruises on his face. The ghost in the foreground is very large, with four arms. In the background is the ruins of an arena like the colosseum." capt="I love how the Gladiator Ghosts all look absolutely miserable and afraid." %}
 
 Anyway, this episode does indeed deal with gladiators. Finn and Jake find their way to an arena presided over by a Fight King, and despite instantly recognising it as a trap in a pretty good bit, go inside anyway because it sounds cool. Ultimately, Finn carries out a ruse to get in with the Fight King and then kill him, pretending to be overcome by bloodlust. As a result, they reunite the gladiator ghosts with their various partners.
 
@@ -59,7 +59,7 @@ I think the gladiator ghosts is the interesting bit. It's never explicitly comme
 >
 > According to Andy Ristaino, all the Gladiator Ghosts are homosexual. It can be noted that one of the ghosts calls the one he killed his love.
 
-{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/02-01.png" alt="Finn and Jake leave the arena, accompanied by now-happy Gladiator Ghosts walking away in pairs." %}
+{% include uncaptionedfigure.html img="embed/adventure-time/season-3/02-01.png" alt="Finn and Jake leave the arena, accompanied by now-happy Gladiator Ghosts walking away in pairs." %}
 
 It's all but stated that the Fight King forced each of these pairs to kill each other, and is attempting the same with Finn and Jake. But they're just bros, right. They have girlfriends! They even occasionally have screen time with them!
 
@@ -71,13 +71,13 @@ Marceline episode! Hooray!
 
 This one has a lot of very cool animation tricks to portray a dream world: playing with gravity, scene transitions where furniture blends into trees and so on, lots of great stuff. The plot concerns Marceline's former relationship with a shitty ex called Ashe, who is p much a cartoon misogynist but gets the shit kicked out of him before long. And the bit involving going into a memory to get a memory of another memory from someone else's memories, is kind of brilliant.
 
-{% include captionedfigure.html img="/img/embed/adventure-time/season-3/03-01.png" alt="Finn and Jake hang from the open door of a fridge in a room where gravity appears to be at right angles to normal. The camera is aligned with them, so it's as if Marceline (in the background) is sitting on a wall." capt="A year after <em>Inception</em>, so..." %}
+{% include captionedfigure.html img="embed/adventure-time/season-3/03-01.png" alt="Finn and Jake hang from the open door of a fridge in a room where gravity appears to be at right angles to normal. The camera is aligned with them, so it's as if Marceline (in the background) is sitting on a wall." capt="A year after <em>Inception</em>, so..." %}
 
 I will not comment on the dancing baby segment.
 
 In terms of like, slowly fleshing out the Deep Lore, we get a brief glimpse of Marceline as a child in the early post-apocalypse with a ragged toy called Hambo, which will be very important later! This appears to be before she met Simon. We also get to actually see the infamous fry-eating alluded to in Marceline's song back in *It came from the Nightosphere*.
 
-{% include captionedfigure.html img="/img/embed/adventure-time/season-3/03-02.png" alt="A purely monochrome black and white sequence featuring a white tree in the foreground, with Finn and Jake as tiny white silhouettes, and various orbs in the background symbolically representing Marceline's memories." capt="This sequence really stood out." %}
+{% include captionedfigure.html img="embed/adventure-time/season-3/03-02.png" alt="A purely monochrome black and white sequence featuring a white tree in the foreground, with Finn and Jake as tiny white silhouettes, and various orbs in the background symbolically representing Marceline's memories." capt="This sequence really stood out." %}
 
 It's so impressive how much they can get through in ten minutes. I was sure this would be setup for a two-parter! I think the editing in this show is something that doesn't get enough recognition: they deliver often pretty complex plots, a lot of jokes, and wrap it all up in the space a lot of other visual media would still be in setup. And somehow this remains completely comprehensible, and doesn't feel rushed! Of course, such pacing doesn't allow a lot of space for 'quiet moments' as prized by people like Hayao Miyazaki, but it works very well on an engaging TV level.
 
@@ -87,7 +87,7 @@ This episode has a pretty good premise for an Ice King ep. The Ice King - now al
 
 The assassin, 'Scorcher', doesn't say any lines, but has a lot of screen presence and works as a pretty good foil to the Ice King. After the Ice King signs a contract to confirm Scorcher's job is done, the assassin leaves a note that says "Echoes of past events nuge the tiller on my prsent course. I await its reflection in the future." Who knows what that's going to mean!
 
-{% include captionedfigure.html img="/img/embed/adventure-time/season-3/04-01.png" alt="Scorcher, a very tall red humanoid creature with beige bandages around their head, hands, crotch and feet, attacking a colourful pink and green spacesuited assassin with fire." capt="Something to be said about orientalism, mind. Interestingly, I don't think they ever gender Scorcher..." %}
+{% include captionedfigure.html img="embed/adventure-time/season-3/04-01.png" alt="Scorcher, a very tall red humanoid creature with beige bandages around their head, hands, crotch and feet, attacking a colourful pink and green spacesuited assassin with fire." capt="Something to be said about orientalism, mind. Interestingly, I don't think they ever gender Scorcher..." %}
 
 Apparently this is the first episode to feature Breakfast Princess, and they couldn't settle on a design so we have two Breakfrast Princesses. Wikipedia has a few other production notes - the internet was a controversial inclusion in the setting! Which seems weird given all the robots and so on and the clearly post-apoc world.
 
@@ -97,7 +97,7 @@ I saw the title card to this episode and was just like, oh god. Well, time for *
 
 Finn, planning to make his move or whatever: "she's 13. you're 13. just be yourself." Our cultures scripts for navigating the boundary between 'friendship' and 'romance' are, like. Iffy huh.
 
-{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/05-02.png" alt="Princess Bubblegum, age regressed so that she's a small child, sitting next to Finn on a roof of the Candy Kingdom on a bright, sunny day." %}
+{% include uncaptionedfigure.html img="embed/adventure-time/season-3/05-02.png" alt="Princess Bubblegum, age regressed so that she's a small child, sitting next to Finn on a roof of the Candy Kingdom on a bright, sunny day." %}
 
 I don't really understand this whole age-regression plotline. Why did Princess Bubblegum have to be a love interest? I guess that was to some degree baked into the pilot and so on, but this seems like a very clunky way to attempt to 'address' the very different trajectories of Finn and PB since that starting point. I guess they eventually realised that too, what with Flame Princess being introduced... but for now, "she's 13" (and also a thousands-year-old slime elemental head of state but that's not a thing for now...)
 
@@ -105,7 +105,7 @@ But I forgot one big thing it's time for Lemongrab! (or as he's introduced, here
 
 Immediately after his introduction, he drops his catchphrase: "unacceptable!!!" It's the voice that sells it, I guess - just on the edge of unbearably grating. Apparently they took care in later episodes not to overuse the catchphrase, which was wise.
 
-{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/05-01.png" alt="Princess Bubblegum stands over a slab with a naked Earl of Lemongrab. Lemongrab is a yellow man with a lemon-shaped head and a long pointy nose. He is waving his arms and screaming." %}
+{% include uncaptionedfigure.html img="embed/adventure-time/season-3/05-01.png" alt="Princess Bubblegum stands over a slab with a naked Earl of Lemongrab. Lemongrab is a yellow man with a lemon-shaped head and a long pointy nose. He is waving his arms and screaming." %}
 
 Anyway, what's bizarre, given what we later learn about PB, is that there is some kind of complicated succession law: thanks to her age-regression, PB is not able to sit on the throne of the kingdom she created, and Lemongrab - who she literally constructed in a lab - has to rule in her stead! Who wrote this law? The fact that PB created Lemongrab is even stated in this episode: "he was the first of my experiments gone wrong"!
 
@@ -113,7 +113,7 @@ I *do* enjoy young!PB creating elaborate Rube Goldberg pranks... and then Finn's
 
 Oh, and the ending of this episode, where Princess Bubblegum's subjects offer up their flesh to age her up again in an act of ritual cannibalism... like  damn, nice work guys.
 
-{% include captionedfigure.html img="/img/embed/adventure-time/season-3/05-03.png" alt="Princess Bubblegum stands in a jail cell, surrounded by candy people, each of whom has torn out a chunk of themselves to give to her." capt="Lots of rulers practiced cannibalism! Like, uh... hmm... there has to be some kings on this list... come on..." %}
+{% include captionedfigure.html img="embed/adventure-time/season-3/05-03.png" alt="Princess Bubblegum stands in a jail cell, surrounded by candy people, each of whom has torn out a chunk of themselves to give to her." capt="Lots of rulers practiced cannibalism! Like, uh... hmm... there has to be some kings on this list... come on..." %}
 
 It's suggested that once PB is aged up, she perceives everything that happened in this episode as being 'five years ago', which, well, that's a thing. How does age even work for candy people??
 
@@ -139,7 +139,7 @@ Having a quick search, I find the case of Ferdinand VII of Spain, who was remove
 
 It's time for Lumpy Space Princess to make a return. And to address the whole 'why is LSP homeless in the woods' plot point - mostly addressed in LSP telling the story.
 
-{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/06-01.png" alt="Lumpy Space Princess floats amid a small pack of wolves on top of a cliff at night, just before they howl." %}
+{% include uncaptionedfigure.html img="embed/adventure-time/season-3/06-01.png" alt="Lumpy Space Princess floats amid a small pack of wolves on top of a cliff at night, just before they howl." %}
 
 I'm not at all familiar enough with the 'valley girl' stereotype to really get half the jokes around LSP. She invents an elaborate soap opera story around some wolves she finds, the other plot points deal with her being spoiled and sheltered.... I continue to enjoy the way they draw wolves. There's not really a lot to say about this episode.
 
@@ -149,7 +149,7 @@ This episode was something.
 
 They do a fantastic job of creating a long extended joke setup. As soon as the penguin who loves smashing bottles enters the scene, you *know* it will smash the antidote bottle, leaving you wondering how it will be resolved... and then they deliberately avoid resolving anything, and instead show all the subplots that initially appear to be 'and this is how they get out' instead ending in failure. That part worked great.
 
-{% include captionedfigure.html img="/img/embed/adventure-time/season-3/07-01.png" alt="Finn, all bright white except for his face, floats in a wavy pink void." capt="Behold: the Astral Plane." %}
+{% include captionedfigure.html img="embed/adventure-time/season-3/07-01.png" alt="Finn, all bright white except for his face, floats in a wavy pink void." capt="Behold: the Astral Plane." %}
 
 The Ice King being very Ice King was, well, not as fun. We get it, he desperately wants to be friends but doesn't get social cues and has no respect for anyone else's boundaries, and he's kinda gross because, _you know, old people am I right?_
 
@@ -159,19 +159,19 @@ The Astral Plane, in which Astral Beasts roam, may or may not return.
 
 This is the introduction of Abracadaniel, and also the return of a bunch of returning wizard characters. It's about... masculinity and heterosexuality, I guess.
 
-{% include captionedfigure.html img="/img/embed/adventure-time/season-3/08-01.png" alt="Doctor Princess, a green-skinned woman, in a lab coat, trying to disguise herself as a wizard by wearing a white hood. She holds a microscope in one hand and a conical flask in the other." capt="I enjoyed the brief cameo of Doctor Princess trying to pretend to be a wizard using science at the start of this one!" %}
+{% include captionedfigure.html img="embed/adventure-time/season-3/08-01.png" alt="Doctor Princess, a green-skinned woman, in a lab coat, trying to disguise herself as a wizard by wearing a white hood. She holds a microscope in one hand and a conical flask in the other." capt="I enjoyed the brief cameo of Doctor Princess trying to pretend to be a wizard using science at the start of this one!" %}
 
 Wizards, huh. That's a complicated one, isn't it? On the one hand, the wizard is like a hypermasculine archetype: totally in control of natural forces, huge flowing beard, commanding voice etc. Or even when they're a bit more pathetic, consider the misogynist wizards of Jack Vance, or Pratchett's cranky male academic wizards in contrast to the grounded, care-working witches...
 
 On the other hand, turn the clock back further, or look in other places, and you get a different take on the wizard or 'magic user'. Ask a viking, and they'd say magic is suspicious and effeminate, right? And at leasts by the time of *The Order of the Stick*, the wizard had combined with 'androgynous elf' jokes. Or, well, Conan the Barbarian too?
 
-{% include captionedfigure.html img="/img/embed/adventure-time/season-3/08-01.png" alt="Abracadaniel, a peach-coloured person with a weirdly penis-shaped head (look, I don't know how else to describe it), crouches in the dirt. He's wearing a white jacket, weirdly bulbous shorts, and a rainbow headband." capt="He needs to sports harder I guess." %}
+{% include captionedfigure.html img="embed/adventure-time/season-3/08-01.png" alt="Abracadaniel, a peach-coloured person with a weirdly penis-shaped head (look, I don't know how else to describe it), crouches in the dirt. He's wearing a white jacket, weirdly bulbous shorts, and a rainbow headband." capt="He needs to sports harder I guess." %}
 
 Anyway, in this episode, being a wizard is just sports. With the sort of sports story of: weak boy (Abracadaniel) participates in sports, becomes man. And a weirdly explicit heterosexual element with the wizards competing for a kiss from PB. Only it's *Adventure Time*, so it's all a ~~bit~~ lot ridiculous. The 'Grand High Wizard' presiding over the ceremony is pretty much entirely made of beard. (Perhaps it's lucky they didn't call him the Grand Wizard, because he's already all white, in a pointy outfit... then again, implying the fantasy archetype of the wizard is connected to the KKK would be, well, a move!)
 
 A lot of this episode is, I guess, about reiterating Finn's one-sided infatuation with Princess Bubblegum. They do in fact kiss in this one, and it's rather awkward. We don't really get any attempt to address Princess Bubblegum's motivation for appearing in this episode and offering to kiss whichever wizard wins the tournament. She is literally there as a trophy, though she plays up the theatrics of the whole 'you get to kiss me' thing rather a lot. I guess it's just a lark for her: she can out-wizard any of these guys and she surely knows it.
 
-{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/08-03.png" alt="Princess Bubblegum, in a hot air balloon, gestures towards her own pursed lips with 'V' signs." %}
+{% include uncaptionedfigure.html img="embed/adventure-time/season-3/08-03.png" alt="Princess Bubblegum, in a hot air balloon, gestures towards her own pursed lips with 'V' signs." %}
 
 Towards the end of the episode, Abracadaniel decides he's become a man, and therefore ought to have his kiss, and Finn emerges from the cat he's been transformed into (which is quite an amusing effect) and screams Abracadaniel into submission. It's kind of unsubtle; masculinity as like violent possession of women and all that. But also like I remember Abracadaniel being among the more gay-coded characters in a very gay show; I think I remember a later episode about him forming a relationship with the Ice King. I guess we'll see.
 
