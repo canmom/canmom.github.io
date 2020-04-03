@@ -1,0 +1,448 @@
+---
+title: "Adventure Time: season 3"
+excerpt: "They get the gends"
+layout: article
+image: /img/embed/adventure-time/season-3/episode-.png
+categories:
+ - livereads
+ - adventure-time
+tags:
+- adventure time
+---
+_Adventure Time_ season 3 dates back to July 2011, about a month after the end of the previous one. This liveread stalled for much, much, longer, so it's going to be a little effort to get into the same mindset as I was when writing the season 2 article.
+
+Is the formula going to change? More plot and continuity? This season we are, unfortunately, going to have to deal with the 'aged down Princess Bubblegum' subplot. I hope it won't last too long before they reverse it, because late-_Adventure Time_ PB the ruthless sovereign is a much more interesting character.
+
+##Season 3
+
+### Episode 1: _Conquest of Cuteness_
+
+A bunch of 'cuties' attempt to meance Finn and Jake, led by their 'cute king'. This is one of your standard non-sequitur episodes... to my memory, the 'cute king' does not return.
+
+I think the most interesting thing about this episode is that the cuties themselves are some sort of species that can agglomerate into larger organisms, but are also constantly dismembered by the wind and so on. The presentation ensures that this doesn't come across as horrifying, but imagine being one of these creatures! There's a scene where an army changes and ends up torn limb from limb (entirely by a series of comic accidents, admittedly)... full on WWI shit.
+
+{% include captionedfigure.html img="/img/embed/adventure-time/season-3/01-01.png" alt="The Cute King stands over a group of bruised and dying cuties. The cuties have rounded, often ellipsoidal shapes, mostly white but with coloured stripes, and tiny faces. The Cute King has a large pink blob on his head, with his arms coming out of the bottom." capt="Everything that lives is designed to end. We are perpetually trapped..." %}
+
+The other thing to note is that the Cute King himself, when caught in an unguarded moment, the Cute King is actually shown to be very gentle and caring of his injured subjects. But his expressed desires are to 'be evil' and in particular 'control others'. The episode is eventually resolved by Finn and Jake finding a way to give him this wish - using his cuteness to manipulate the Ice King - in a 'righteous' way, i.e. on their enemies.
+
+What to conclude from this? Well of course the episode runs on the tension between the soft, feminine aesthetic of the Cute People and their ineffectual (and unexplained!) desire to harm others. Some big ol' cultural narratives but it doesn't do much to interrogate where all that comes from, of course.
+
+When can we have like, a gritty war novel about YoRHa-like cutie soldiers born to be torn apart, only to be repaired and kill again...
+
+### Episode 2: *Morituri Te Salutamus*
+
+The title of this episode is the Latin phrase which is said, in pop culture at least, to be uttered by gladiators before they killed each other. It originally went, according to the oracle of Wikipedia,
+
+> Avē, Imperātor, moritūrī tē salūtant
+
+or "Hail, Emperor, those who are about to die salute you". Apparently there's really only one reference to it in Roman historical sources, in the context of a mock naval battle (*naumachia*) staged for the emperor Claudius, in which around 19,000 condemned people were forced to fight to the death on a lake, surrounded by soldiers.
+
+History is pretty fucked up, huh.
+
+{% include captionedfigure.html img="/img/embed/adventure-time/season-3/02-02.png" alt="Finn leaps towards a gladiator ghost with two pointy swords, large bruises on his face. The ghost in the foreground is very large, with four arms. In the background is the ruins of an arena like the colosseum." capt="I love how the Gladiator Ghosts all look absolutely miserable and afraid." %}
+
+Anyway, this episode does indeed deal with gladiators. Finn and Jake find their way to an arena presided over by a Fight King, and despite instantly recognising it as a trap in a pretty good bit, go inside anyway because it sounds cool. Ultimately, Finn carries out a ruse to get in with the Fight King and then kill him, pretending to be overcome by bloodlust. As a result, they reunite the gladiator ghosts with their various partners.
+
+I think the gladiator ghosts is the interesting bit. It's never explicitly commented on in the episode, but the gladiator ghosts all apologise to various people before they die (one saying 'my love'), and at the end of the episode, they're seen walking away in pairs. The gay subtext is pretty explicit, and apparently entirely intentional, per the _Adventure Time_ wiki:
+
+> Several of the names of the Gladiator Ghosts in "Morituri te Salutamus" are taken from famous gladiators in history and fiction:
+>
+> - Amazonia and Achillea were female gladiators whose graves were discovered in London.[3]
+> - Priscus and Verus were gladiators known to fight at the opening games of the Flavian Amphitheatre.[4]
+> - Flamma was a famous gladiator in Roman history.[5]
+> - Rutuba is a gladiator mentioned in the Satires of Horace.[6]
+> - Tetraides is a fictional gladiator from the book The Last Days of Pompeii, by Edward Bulwer-Lytton.
+> - Romulus and Remus are the legendary brothers who supposedly founded Rome, where gladiators originated.
+> - Hyperion is a Titan in Greek Mythology, and is Greek for "The High-One."[7]
+> - Primo means "first" in Latin.
+> - Triumphus means "the triumph of" in Latin. 
+>
+> According to Andy Ristaino, all the Gladiator Ghosts are homosexual. It can be noted that one of the ghosts calls the one he killed his love.
+
+{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/02-01.png" alt="Finn and Jake leave the arena, accompanied by now-happy Gladiator Ghosts walking away in pairs." %}
+
+It's all but stated that the Fight King forced each of these pairs to kill each other, and is attempting the same with Finn and Jake. But they're just bros, right. They have girlfriends! They even occasionally have screen time with them!
+
+This is, I guess, still in the 'anything could be out there' stage of _Adventure Time_, before they start really trying to draw the lore together into something consistent. Sure, there's just a Fight King chilling there like an old sword and sorcery book.
+
+### Episode 3: *Memory of a Memory*
+
+Marceline episode! Hooray!
+
+This one has a lot of very cool animation tricks to portray a dream world: playing with gravity, scene transitions where furniture blends into trees and so on, lots of great stuff. The plot concerns Marceline's former relationship with a shitty ex called Ashe, who is p much a cartoon misogynist but gets the shit kicked out of him before long. And the bit involving going into a memory to get a memory of another memory from someone else's memories, is kind of brilliant.
+
+{% include captionedfigure.html img="/img/embed/adventure-time/season-3/03-01.png" alt="Finn and Jake hang from the open door of a fridge in a room where gravity appears to be at right angles to normal. The camera is aligned with them, so it's as if Marceline (in the background) is sitting on a wall." capt="A year after <em>Inception</em>, so..." %}
+
+I will not comment on the dancing baby segment.
+
+In terms of like, slowly fleshing out the Deep Lore, we get a brief glimpse of Marceline as a child in the early post-apocalypse with a ragged toy called Hambo, which will be very important later! This appears to be before she met Simon. We also get to actually see the infamous fry-eating alluded to in Marceline's song back in *It came from the Nightosphere*.
+
+{% include captionedfigure.html img="/img/embed/adventure-time/season-3/03-02.png" alt="A purely monochrome black and white sequence featuring a white tree in the foreground, with Finn and Jake as tiny white silhouettes, and various orbs in the background symbolically representing Marceline's memories." capt="This sequence really stood out." %}
+
+It's so impressive how much they can get through in ten minutes. I was sure this would be setup for a two-parter! I think the editing in this show is something that doesn't get enough recognition: they deliver often pretty complex plots, a lot of jokes, and wrap it all up in the space a lot of other visual media would still be in setup. And somehow this remains completely comprehensible, and doesn't feel rushed! Of course, such pacing doesn't allow a lot of space for 'quiet moments' as prized by people like Hayao Miyazaki, but it works very well on an engaging TV level.
+
+### Episode 4: *Hitman*
+
+This episode has a pretty good premise for an Ice King ep. The Ice King - now all the way over to totally ineffectual nuisance villain, who Finn and Jake treat like a misbehaving child - accidentally hires a supernatural assassin to kill them, and has to find a way to save them from his mistake.
+
+The assassin, 'Scorcher', doesn't say any lines, but has a lot of screen presence and works as a pretty good foil to the Ice King. After the Ice King signs a contract to confirm Scorcher's job is done, the assassin leaves a note that says "Echoes of past events nuge the tiller on my prsent course. I await its reflection in the future." Who knows what that's going to mean!
+
+{% include captionedfigure.html img="/img/embed/adventure-time/season-3/04-01.png" alt="Scorcher, a very tall red humanoid creature with beige bandages around their head, hands, crotch and feet, attacking a colourful pink and green spacesuited assassin with fire." capt="Something to be said about orientalism, mind. Interestingly, I don't think they ever gender Scorcher..." %}
+
+Apparently this is the first episode to feature Breakfast Princess, and they couldn't settle on a design so we have two Breakfrast Princesses. Wikipedia has a few other production notes - the internet was a controversial inclusion in the setting! Which seems weird given all the robots and so on and the clearly post-apoc world.
+
+### Episode 5: *Too Young*
+
+I saw the title card to this episode and was just like, oh god. Well, time for *this* to come to a head I guess.
+
+Finn, planning to make his move or whatever: "she's 13. you're 13. just be yourself." Our cultures scripts for navigating the boundary between 'friendship' and 'romance' are, like. Iffy huh.
+
+{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/05-02.png" alt="Princess Bubblegum, age regressed so that she's a small child, sitting next to Finn on a roof of the Candy Kingdom on a bright, sunny day." %}
+
+I don't really understand this whole age-regression plotline. Why did Princess Bubblegum have to be a love interest? I guess that was to some degree baked into the pilot and so on, but this seems like a very clunky way to attempt to 'address' the very different trajectories of Finn and PB since that starting point. I guess they eventually realised that too, what with Flame Princess being introduced... but for now, "she's 13" (and also a thousands-year-old slime elemental head of state but that's not a thing for now...)
+
+But I forgot one big thing it's time for Lemongrab! (or as he's introduced, here, the Earl of Lemongrab). He fast became a fan favourite and we'll quickly see why.
+
+Immediately after his introduction, he drops his catchphrase: "unacceptable!!!" It's the voice that sells it, I guess - just on the edge of unbearably grating. Apparently they took care in later episodes not to overuse the catchphrase, which was wise.
+
+{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/05-01.png" alt="Princess Bubblegum stands over a slab with a naked Earl of Lemongrab. Lemongrab is a yellow man with a lemon-shaped head and a long pointy nose. He is waving his arms and screaming." %}
+
+Anyway, what's bizarre, given what we later learn about PB, is that there is some kind of complicated succession law: thanks to her age-regression, PB is not able to sit on the throne of the kingdom she created, and Lemongrab - who she literally constructed in a lab - has to rule in her stead! Who wrote this law? The fact that PB created Lemongrab is even stated in this episode: "he was the first of my experiments gone wrong"!
+
+I *do* enjoy young!PB creating elaborate Rube Goldberg pranks... and then Finn's idea of a prank just being punching Lemongrab in the gut.
+
+Oh, and the ending of this episode, where Princess Bubblegum's subjects offer up their flesh to age her up again in an act of ritual cannibalism... like  damn, nice work guys.
+
+{% include captionedfigure.html img="/img/embed/adventure-time/season-3/05-03.png" alt="Princess Bubblegum stands in a jail cell, surrounded by candy people, each of whom has torn out a chunk of themselves to give to her." capt="Lots of rulers practiced cannibalism! Like, uh... hmm... there has to be some kings on this list... come on..." %}
+
+It's suggested that once PB is aged up, she perceives everything that happened in this episode as being 'five years ago', which, well, that's a thing. How does age even work for candy people??
+
+I'd like to think that will put an end to Finn/PB, but no, he's still obsessed with her. Foof.
+
+Some comments from Wikipedia:
+
+> The decision to revert Princess Bubblegum to her original 18 year old self was met with contention on the Internet, with many fans noting that the decision merely returned the show to its second-season status quo. Ward expressed disregard for these opinions, and the episode's co-storyboarded Tom Herpich stated in the DVD commentary: "We're not out there to give people a hard time. We're out there to make quality entertainment." Herpich and Rebecca Sugar also argued that the point of Bubblegum reverting to 18 was meant to be emphasize the idea of sacrifice, as well as the fact that the Candy Kingdom cannot function without her as ruler.
+
+The Candy Kingdom can't function without its sovereign... this is an idea that will be returned to a lot in future episodes, because I guess the Candy Kingdom is fundamentally a toy created to satisfy PB's bizarre desire to have a nation under her.
+
+What *is* 'age' in the Candy Kingdom, anyway? PB is nominally 18 years old, but that goes more to (supposedly) describe her appearance and affect, because in a literal sense she's much much older. And she can be aged down, meaning she behaves like a 13-year-old child, which apparently has legal significance. It's, I guess, a child's understanding of age, as like different categories of people: this is what a 13 year old is like, this is what an 18 year old is like.
+
+It's notable that I think Finn ages with the show, and presumably this is at least partly targeted at actual 13-year-olds?
+
+Apart from that, we see the workings of the candy carceral state. I'm tempted to leave it at that because that's a hilarious senetence on its own, but, here we go: the candy monarch, or in this case regent, apparently has the right to immediately order arbitrary sentences without trial - and these are respected! It's not clear who enforces them... later, we'll become more familiar with the banana guards, the comically ineffectual cops of the Candy Kingdom. And of course, there's the vast and overpowering gumball guardians, though they are rarely actually acknowledged.
+
+Presumably, in the Candy Kingdom, laws flow from the absolute authority of Princess Bubblegum, who has slightly more of a claim to divine right than most historical monarchs (as the literal creator of most of her subjects, and as a 'candy elemental'). In history, of course there have been cases where the heir to the throne is too young to actually rule, and a regent or regency council has ruled in their stead. But I can't immediately find a case of the regent actively imprisoning the underage monarch! However, there is the case of George III of the United Kingdom, who was considered 'permanently insane' and effectively confined to a castle for much of his later life, while remaining King and therefore the nominal source of legal authority.
+
+Having a quick search, I find the case of Ferdinand VII of Spain, who was removed from power and imprisoned by Napoleon between 1808 and 1813 (after which he started brutally repressing a lot of people in order to reestablish absolute rule), and Richard I of England who was imprisoned by Leopold V of Austria and later the Holy Roman Emperor Henry VI. But I can't find any case of a regent imprisoning the monarch! Which isn't surprising: I imagine if you made so overt a move against the ostensible sovereign, you wouldn't really be considered a regent any more, whether or not your coup is successful.
+
+### Episode 6: *The Monster*
+
+It's time for Lumpy Space Princess to make a return. And to address the whole 'why is LSP homeless in the woods' plot point - mostly addressed in LSP telling the story.
+
+{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/06-01.png" alt="Lumpy Space Princess floats amid a small pack of wolves on top of a cliff at night, just before they howl." %}
+
+I'm not at all familiar enough with the 'valley girl' stereotype to really get half the jokes around LSP. She invents an elaborate soap opera story around some wolves she finds, the other plot points deal with her being spoiled and sheltered.... I continue to enjoy the way they draw wolves. There's not really a lot to say about this episode.
+
+### Episode 7: *Still*
+
+This episode was something.
+
+They do a fantastic job of creating a long extended joke setup. As soon as the penguin who loves smashing bottles enters the scene, you *know* it will smash the antidote bottle, leaving you wondering how it will be resolved... and then they deliberately avoid resolving anything, and instead show all the subplots that initially appear to be 'and this is how they get out' instead ending in failure. That part worked great.
+
+{% include captionedfigure.html img="/img/embed/adventure-time/season-3/07-01.png" alt="Finn, all bright white except for his face, floats in a wavy pink void." capt="Behold: the Astral Plane." %}
+
+The Ice King being very Ice King was, well, not as fun. We get it, he desperately wants to be friends but doesn't get social cues and has no respect for anyone else's boundaries, and he's kinda gross because, _you know, old people am I right?_
+
+The Astral Plane, in which Astral Beasts roam, may or may not return.
+
+### Episode 8: *Wizard Battle*
+
+This is the introduction of Abracadaniel, and also the return of a bunch of returning wizard characters. It's about... masculinity and heterosexuality, I guess.
+
+{% include captionedfigure.html img="/img/embed/adventure-time/season-3/08-01.png" alt="Doctor Princess, a green-skinned woman, in a lab coat, trying to disguise herself as a wizard by wearing a white hood. She holds a microscope in one hand and a conical flask in the other." capt="I enjoyed the brief cameo of Doctor Princess trying to pretend to be a wizard using science at the start of this one!" %}
+
+Wizards, huh. That's a complicated one, isn't it? On the one hand, the wizard is like a hypermasculine archetype: totally in control of natural forces, huge flowing beard, commanding voice etc. Or even when they're a bit more pathetic, consider the misogynist wizards of Jack Vance, or Pratchett's cranky male academic wizards in contrast to the grounded, care-working witches...
+
+On the other hand, turn the clock back further, or look in other places, and you get a different take on the wizard or 'magic user'. Ask a viking, and they'd say magic is suspicious and effeminate, right? And at leasts by the time of *The Order of the Stick*, the wizard had combined with 'androgynous elf' jokes. Or, well, Conan the Barbarian too?
+
+{% include captionedfigure.html img="/img/embed/adventure-time/season-3/08-01.png" alt="Abracadaniel, a peach-coloured person with a weirdly penis-shaped head (look, I don't know how else to describe it), crouches in the dirt. He's wearing a white jacket, weirdly bulbous shorts, and a rainbow headband." capt="He needs to sports harder I guess." %}
+
+Anyway, in this episode, being a wizard is just sports. With the sort of sports story of: weak boy (Abracadaniel) participates in sports, becomes man. And a weirdly explicit heterosexual element with the wizards competing for a kiss from PB. Only it's *Adventure Time*, so it's all a ~~bit~~ lot ridiculous. The 'Grand High Wizard' presiding over the ceremony is pretty much entirely made of beard. (Perhaps it's lucky they didn't call him the Grand Wizard, because he's already all white, in a pointy outfit... then again, implying the fantasy archetype of the wizard is connected to the KKK would be, well, a move!)
+
+A lot of this episode is, I guess, about reiterating Finn's one-sided infatuation with Princess Bubblegum. They do in fact kiss in this one, and it's rather awkward. We don't really get any attempt to address Princess Bubblegum's motivation for appearing in this episode and offering to kiss whichever wizard wins the tournament. She is literally there as a trophy, though she plays up the theatrics of the whole 'you get to kiss me' thing rather a lot. I guess it's just a lark for her: she can out-wizard any of these guys and she surely knows it.
+
+{% include uncaptionedfigure.html img="/img/embed/adventure-time/season-3/08-03.png" alt="Princess Bubblegum, in a hot air balloon, gestures towards her own pursed lips with 'V' signs." %}
+
+Towards the end of the episode, Abracadaniel decides he's become a man, and therefore ought to have his kiss, and Finn emerges from the cat he's been transformed into (which is quite an amusing effect) and screams Abracadaniel into submission. It's kind of unsubtle; masculinity as like violent possession of women and all that. But also like I remember Abracadaniel being among the more gay-coded characters in a very gay show; I think I remember a later episode about him forming a relationship with the Ice King. I guess we'll see.
+
+(Upon the revelation of the 'prize', the only other woman wizard attempts to withdraw from the contest. Can't suggest anything too lesbian, I guess.)
+
+### Episode 9: *Fionna and Cake*
+
+Oh here we are. I think this episode more or less melted the fandom when it aired.
+
+So the 'fanfic' premise of this episode isn't immediately explained, at first it's just *Adventure Time* but gender swapped with no explanation. We quickly go through the genderflipped versions of the various characters, ensuring that we recognise the same dynamics: romantic tension between Fionna and Prince Bubblegum, the Ice Queen attempting to steal away princes...
+
+One thing that's kind of striking is that, while Finn is in just about all ways normatively 'masculine', by copying his personality over to Fionna they make her at least a little gender variant; the Ice Queen calls her a tomboy immediately. A lot of the show's 'standard heterosexual dynamics' (if you will) take on a slightly different tone when gender-flipped. For example, according to standard gender roles, a king trying to kidnap princesses is less 'surprising' than a queen attempting to kidnap princes...
+
+The plot is that Prince Bubblegum more active overtures towards Fionna, making some very overt flirty comments, outright asking her to a ball as his girlfriend... Fionna meanwhile is definitely following the 'useless lesbian' script: "I'm sure when he said go out, he meant..." even if she's not actually a lesbian... (god imagine how the show would feel if it was Fionna, Marceline and Princess Bubblegum in the same world!). Ultimately however it's a ruse by the Ice Queen - and Fionna, unlike Finn, realises she's not so interested in romance at this point.
+
+Cake, Cake... oh boy this is a whole coding *thing*. Cake is voiced by Roz Ryan, who's as far as I can tell the only Black woman in the voice cast. The way she's presented seems very racialised according to the whole 'sassy Black woman' stereotype, and this is like, the entire 'joke' of Cake's gender-flipped incarnation. As such, she's much more overtly sexual than even Jake is. As far as the stereotype goes, I don't feel I'm really informed enough to comment on how much this is like, a send-up vs. a straightforward punching-down joke here. Regardless like... almost all the 'human' or human-like characters in *Adventure Time* are white, and at least at this point, Cake is given little opportunity to leave the stereotype-appropriate sidekick/relationship coach role.
+
+Anyway, at the very last minute it abruptly turns into a clunky joke about self-insert fic by the Ice King; Fionna and Cake are always going to be non-canonical. It seems rather a shame; judging by the rest of the episode the Ice King can really write! Until he can't. Or are we to suppose that Fionna and Cake 'really' exist in some sense, and the Ice King has modified their 'actual' story? I'm probably thinking about this more than the writers...
+
+In terms of recent animation history, this was maybe the point where Rebecca Sugar, who wrote and storyboarded this ep, started getting a reputation? I'm not sure - I wasn't really 'part of the fandom' at this point.
+
+My main feeling about all this is that: Fionna's a pretty cool character, most of the rest of the cast were basically one-note jokes because that's all this episode had room for, and I am more interested in 'what if it was gay' than 'what if we flipped the gends' overall...
+
+### Episode 10: *What Was Missing*
+
+Oh fuck yeah *this* episode. The big Bubbline ship tease episode. Or rather, the episode that *heavily*, *heavily* implies they're exes. And it's a musical episode!
+
+Marceline sings a whole old song about how her complicated feelings with regard to PB (and voices some of the first actual criticism of PB lol), we learn PB wears Marcie's shirt to bed, and hell like, shipping aside, I also really enjoyed Finn's song.
+
+The contrived premise they used to set up this episode, the 'door lord', was pretty damn funny. The little folding door animations (how many of those things does he have!), the expressions he makes...
+
+Yeah, this definitely stands as one of my favourite episodes in the show so far. I *could* take that as an opportunity to spend 500 words discussing whether pasta is a noodle, an important question raised by this ep, but I'll spare you.
+
+For some reason PB writes out Euler's formula on the ground while using BMO as a living chiptunes system! It's sciency, I guess?
+
+Anyway, shortly after this episode aired, the big Bubbline controversy happen. To briefly summarise, Frederator Studios released a recap video on Youtube that included a piece of Bubbline fanart (including some by storyboarder Natasha Allegri) and openly speculated about the possibility of them having a relationship. They took it down, referred to some pretty damn tame fanart as 'spicy'... it was messy. You can see the deleted video, and a little history of the controversy on the wiki [here](https://adventuretime.fandom.com/wiki/Mathematical!).
+
+Anyway, thanks to that, *Mathematical!* got cancelled and some guy lost his job. The show's creators were definitely aware of the idea of Bubbline subtext and its reception with the fans from this point on; eventually I'm led to understand they finally make it 'canon' in the final episode (which is, I guess, slightly less cowardly than simply declaring it so after the fact!)
+
+It's frustrating, but not surprising. Over the period *Adventure Time* was airing, various shows have pushed the boundaries on whether western animated cartoons can portray same-gender relationships. There's a few shitty excuses floating out there (e.g. that it would prevent syndication in certain countries where the state bans gay relationships), but ultimately I'm much more annoyed with Cartoon Network than the immediate creators of the show.
+
+At the same time... I love the animated medium a lot, and---though I have no illusions about the supposed potential of 'representation' in effecting actual material changes---I do kind of idly wish these cartoons would have the capacity to explore same-gender romantic relationships with the same depth and complexity that they spend on het relationships and (nominally) platonic ones, instead of just putting a kiss in the last episode when they no longer have to worry about cancellation, and reaping some progressive accolades from recognition-starved gay people. But then there's a whole fucking lot that needs to change in the animation industry.
+
+Still, at the time this aired, Marceline singing a song that could reasonably be interpreted as romantic was a step forward! That's how bad things were! Hell, even now we have She-Ra which is by a lesbian, bursting with fantastic overt lesbian subtext, but still has to occasionally throw out constructions like 'best friend' in place of 'girlfriend'. That Korrasami ending in *Legend of Korra* had them... hold hands and walk into a beam of light, requiring confirmation from the directors after the fact. *Gravity Falls* wanted to have a nameless background lesbian couple and even that got banned! The big exception is, I guess, *Steven Universe*,, which goes further than most (except for She-Ra) in *attempting* (not always successfully) to portray more complex, explicitly gay relationships... but it wraps it in a bunch of sci-fi distancing elements which maybe help it get away with it?
+
+There's so many cartoons which almost go there, but not quite... I guess the studios who decide on content bans have worked out that, whatever profits they can make from 'queer' shows doesn't necessarily require them to be too overt about it, just to go *slightly* further than the next show over without upsetting the broader homophobic audience too much. Broad appeal, and all that.
+
+Shit sucks lol.
+
+### Episode 11: *Apple Thief*
+
+This episode begins with quite a detailed montage of Jake making Korean food. Which is, sadly, immediately obviated by the plot, but props for the effort.
+
+Anyway, it's time for Tree Trunks to come back. But it's actually time to go into the criminal underbelly of the Candy Kingdom... which it apparently has. Presumably more because Princess Bubblegum desired a criminal underbelly than because of any socioeconomic factors? Like, maybe this is addressed later, but can candy people create children, or are they *all* handcrafted by Princess Bubblegum?
+
+Anyway, the PG-rated criminal underworld is pretty amusing. We have a candy person doing the knife-between-fingers thing only they're just poking their hand with a spoon, various roughed up looking candy people, some shocking language such as 'dang'...
+
+This is also the first introduction of Mr. Pig, tree trunks' eventual husband, as a joke about the gangster in that Guy Ritchie movie who feeds people to pigs I guess?
+
+Then there's the bit at the end where Tree Trunks tries to turn herself in to the Banana Guards for stealing her own apples. That's a good bit. I guess the banana guards just, do what anyone tells them? Including 'chain me up'? Something something service top...
+
+### Episode 12: *The Creeps*
+
+This one's a little gothic horror/murder mystery. FInn and Jake are all dressed up in black tie, there's some kind of masquerade on.
+
+As Jake immediately lampshades, they've done a similar story where Jake staged a fake murder mystery with fake skeletons. Speaking of which, I like the implication that Cinnamon Bun has an entire humanoid skeleton inside his body.
+
+There's a *lot* of toilet humour in this episode. But eventually it starts get going with the expected twist: an 'actual' ghost starts menacing the protagonists, melting them into goo, putting them into paintings... I think I remember how this goes. Finn is trying to prank Jake, Jake turns it into a counter-prank, but there is a third 'real' ghost who neither of them are responsible for.
+
+Sure enough, that's what happens! The vfx for melting characters are pretty good. Eventually it's revealed that Lady Rainicorn can 'phase' other people into her body. In Korean she says...
+
+> Lady Rainicorn: 당연하지! 난 제이크랑 항상 한 몸이 되는데. ("Of course. Jake and I merge our bodies all the time.") 
+
+Uh huh, I bet you do.
+
+Apparently the 'real' ghost in this episode is going to be setup for a plotline a long way down the road! Something I totally forgot about.
+
+I wonder who built this mansion, and why? Finn seems perfectly happy to use it to stage his murder mystery prank.
+
+### Episode 13: *From Bad to Worse*
+
+A zombie episode to follow the gothic horror episode... ah, both of these episodes aired in October, so I guess they're effectively Halloween episodes.
+
+In this case, we see some of the powers of PB's lab. I like that the zombie outbreak is caused by an act of perfectly ordinary candy cannibalism. It seems to be a recurring theme?
+
+This episode has a lot of good visual jokes. I love Jake running and extending his arm out behind him in a long trail as the zombie virus spreads along it, and filling up the 'sciencey shower' with his own coiled arm. "Science" the lab rat, actually a skilled scientist rather than a test subject, is extremely cute. I find it interesting how *Adventure Time* likes to draw quadrupedal animals as basically cones...
+
+'Candy steel' is mentioned as a material in this episode. Candy, one of the four fundamental elements along with ice, fire and slime, can surely be anything...
+
+Fetching the Korean lines from this episode... first, when Lady lets Jake out of the 'sciencey shower'
+
+> Lady: 아니야. 얘는 날 사랑해. ("No. He loves me.")
+
+Second, when Lady has been returned to normal:
+
+> Lady: [Hugs Jake] 난 네가 깨물어 주는 게 좋아. ("I like it when you bite me.") 
+
+Both pretty easy to guess from context! And also like, this flies but Bubbline doesn't?
+
+### Episode 14: *Beautopia*
+
+Susan Strong is back!
+
+The 'tribe' of humans or 'mutants' who have 'regressed' back to a 'simpler' way of living is not entirely uncommon in post-apocalyptic media, and there's definitely a lot of that in Susan and her 'hyoomans' of fishlike people. Susan, unlike every other character in the show, speaks a kind of 'simpler' English, avoiding pronouns and copulas; likewise the 'hyoomans' live in terror in a post-apocalyptic ruin rather than a themed village. In a sense, I guess the 'theme' of the Hyoomans *is* 'post-apocalyptic tribe'.
+
+This episode also raises again the question of whether Susan is 'really' human, or 'just' another Hyooman. Finn is, after all, supposedly the last surviving 'true' human in Ooo, though it's not at all clear what the significance of this would be given that nearly everyone in Ooo can hold a conversation.
+
+There's a fair element of horror in this episode too, such as in the designs of the 'lubglubs', cloudlike monsters with spindly limbs and giant white teeth, and the motifs when they're passing through the underground. Once this episode got going, I quite enjoyed it, although it spends a bit too long with Jake complaining and turning into various shapes to express his discomfort. The post-apocalyptic shopping area, with a huge torch in the centre, is an interesting design...
+
+The 'theme' of this episode is maybe, not to distrust the 'primitive' (or in Jake's words 'crazy') Susan Strong's understanding of her world: the Lub Glubs are in fact dangerous monsters, not harmless pool toys. Of course that relies on a lot of work to set up Susan Strong as ignorant and 'primitive'. Why, for example, does she think of fire as a 'red flower', when flowers are as absent from her underground world as fire?
+
+At the end of the episode, it's heavily hinted that Susan is not a Hyooman, but may in fact be a human like Finn. Not sure when they get around to definitively resolving that.
+
+### Episode 15: *No One Can Hear You*
+
+Oh it's the one with the deer! You have probably seen the gif even if you haven't seen the episode, where the deer takes off his hooves and wriggles his fingers.
+
+Sadly the rest of the episode didn't quite live up to my memory of it. Most of it is about Jake acting 'crazy', acting like he's waiting for a surprise party, as a result of a head injury. The monster of the week is a fantastically creepy looking deer, which glues the candy people to the wall in order to harvest their sugar, but it only appears at the beginning and end of the episode.
+
+Moreover, there's some really poorly judged jokes which manage to be both disablist *and* transmisogynist, with Finn punching Jake in order to fix his 'craziness' and him going 'I'm a womaaaan'... likewise Princess Bubblegum joking awkwardly at the end about not giving the deer any sugar "if you know what I mean"---just, yeah, not really guys.
+
+I'm not sure where the pop-culture idea of a head injury  simply reversibly flipping a random personality bit comes from. Certainly not from any actual experience of head injuries... of course this episode wasn't remotely trying to portray actual effects of injuries, with Finn wobbling around with his legs in a cast for much of the episode. I do wonder what he ate during his six month sleep...
+
+Anyway, this episode is a waste of a very good monster design.
+
+### Episode 16: *Jake vs. Me-Mow*
+
+Another assassin... this one's pretty cool because it's all based on like, Jake's shapeshifting power and a really tiny character who can go up his nose. There's a very cool tracking shot that follows Me-Mow climbing down a tree while angling the camera to keep Finn in the background. Also, I think this may be the first time we've met Wildberry Princess... ah, no actually, previously she's been a prisoner of the Ice King.
+
+Come to think of it, what is the nature of the other, non Bubblegum princesses? Do they all create their subjects deliberately like Princess Bubblegum? Or do fully formed polities come into existence complete with royalty? Wildberry Princess's retainers seem to love her, to the point of crying when they think she's dead. But we see very little of the day to day existence in the wildberry kingdom.
+
+The size of an *Adventure Time* principality also seems to vary considerably. Hot Dog Princess, for example, has a small pig sty and about five guards. Raggedy Princess doesn't seem to have a nation at all. Wildberry Princess's kingdom presumably stands somewhere between that and the the thriving superpowers of the Candy and Fire kingdoms.
+
+Unlike most of the kingdoms, Wildberry does have something very non-berry-themed in the form of a large supply of meat. Which raises even more questions... does she farm the animals, or hunt them? Are they sapient, like most animals in *Adventure Time*?
+
+### Episode 17: *Thank You*
+
+This is an unusual episode in that Finn and Jake are basically background characters, and instead the episode focuses entirely on a snow golem taking care of a fire fox - difficult given the fox needs to stay warm and the golem needs to not melt!
+
+There's a lot of extremely cute visual jokes in this episode, dealing with the snow golem's snow body in various ways. It's an almost entirely dialogue-less episode, but they do a great job of communicating the characters' feelings through body language etc. The alarm clock bird is particularly brilliant.
+
+It's long enough ago that I can't remember anymore, but the snow golem apparently featured in the pilot episode, as an enemy of Pen and Jake.
+
+I guess the implication of this episode is that the Ice Kingdom and Fire Kingdom at least have totally independent ecosystems, each populated with a variety of fire and ice creatures. The same doesn't really seem to be true for the Candy Kingdom, which is more of a city-state in the middle of an otherwise temperate zone. I think this was before Princess Bubblegum got 'promoted' to one of the four fundamental elements of the world or whathaveyou; at the moment she's just another princess, albeit a particularly important one...
+
+What relation does the Ice King have to his subjects? Of course, he uses the penguins as various forms of labour, although they seem to come and go pretty freely. But the 'golems' (which obviously have nothing to do with the Jewish story, alas) seem to mostly ignore and even avoid him... a figurehead king, like with the goblins in the previous season? Don't worry, no more Hobbes today.
+
+Anyway, I really liked this episode. It's always fun when *Adventure Time* steps away from Finn and Jake for a bit, and the Golem works extremely well as a likable character, caring even though it's actively harming him! Which, mood lol.
+
+### Episode 18: *The New Frontier*
+
+The title card of this episode features the Cosmic Owl. Will we finally meet him?
+
+No: the Cosmic Owl appears only briefly, to set the stage for Jake's 'croak dream', which is apparently understood as a premonition of death. We learn a little about the view of the afterlife in Ooo: Glob (one component of a three-headed being on Mars) will 'tally [Jake's] deeds' while his 'individual Earth consciousness' spreads 'all over everywhere'. I feel like there *has* to be a term for this, but I'm not exactly sure what it is. Some combination of belief in an afterlife with pansychism (the belief that everything has conscious experience) or pantheism (that 'God' exists in everything)? Dissipating and returning to some source of souls/life seems to be a fairly common idea in fantasy: the 'force' in *Star Wars*, the 'lifestream' in *Final Fantasy VII* and *XIV*... but I don't know if there's a general name for the belief that souls are formed out of some omnipresent substance, and eventually return to it?
+
+As for Glob... this is a spoiler, but Glob dies in a later episode, he is certainly not some kind of omnipotent deity. Though he may be omniscient! It's not clear what Jake thinks will be the outcome of Glob 'tallying his deeds', he mentions no judgement... is it just an act of witnessing, and keeping record?
+
+In any case, shockingly Jake does not die two thirds of the way through season 3, though he seems almsot eager too in the proper religious context. I kind of wonder---is everyone expected to receive a 'croak dream'? Presumably not, or Jake wouldn't fear dying in other episodes. I realise it was mostly for a bit, but what's special about a 'croak dream' death in Ooo thanatology?
+
+### Episode 19: *Holly Jolly Secrets* part 1
+
+Hoo boy, this is one that really set the fandom on fire as I recall. But the actual 'reveal', I seem to remember, comes only at the very end after a bunch of standard Ice King antics. Including a few man in a dress type jokes, where one of the tapes shows Ice King pretending to be PB.
+
+My copy of this episode had an unbalanced vocal track for some reason so everything was coming from the left. There's not much more to say about the actual episode, since the reveal comes in part 2. Except maybe... the climate never seems to change in Ooo. This is a Christmas episode, but rather than have it just naturally be winter, they need to find a reason for the Ice King to come and make snow.
+
+Hey, if NieR can have the planet tidally locked without explanation, Adventure Time can have the Earth's axis tilted back to perpendicular to its orbital plane.
+
+### Episode 20: *Holly Jolly Secrets* part 2
+
+BMO discovers that the Ice King somehow steganographically encoded an ASCII image of Gunther in his tears of sadness, which is not remarked on further.
+
+The Ice King uses his ability to create life to quickly call up an army. A lot of characters in *Adventure Time* can create life, although few with the variety and complexity of PB...
+
+Still most of this is just the Ice King dicking about. Only at 7 minutes in do we finally get the big reveal... the Ice King lived before the war, an archaeologist named Simon Petrikov, and has slowly been transformed into his current state by the long term working of the crown. He had a fiancée named Betty, who I know we'll meet later - and he alienated her under the influence of the crown.
+
+So of course, it's a kind of absolving backstory: the Ice King, we learn, isn't a cruel person by choice so much as a victim of a supernatural artefact. Simon Petrikov seems to be internalising some of the Ice King's worldview even in his lucid moments, calling for Betty, his princess, to 'love him again'. But overall, it's heavily suggested he was an 'ordinary' person, capable of functioning in a relationship.
+
+Shelby the worm narrates the outtro, in another brief cameo appearance. What's Shelby's deal, anyway? Shelby narrates how Finn and Jake have "a fleeting moment of empathy" for "the biggest weirdo in Ooo" -- which, well, you're one to talk Shelby. The whole issue with the Ice King is *not* that he's 'weird' and neuroatypical, but that he has no sense of others' boundaries and treats them cruelly. Conflating these two dimensions is like, extremely dangerous, and enables various kinds of justifications of abuse. End soapbox.
+
+Anyway, what gives Finn and Jake this 'fleeting moment of empathy' is precisely that that the Ice King wasn't always 'this way', that he once was a nice upstanding middle class white guy or whatever rather than some kind of intrinsic 'weirdo'. Which, well, what do I even say.
+
+### Episode 21: *Marceline's Closet*
+
+Wow, they just handed me that setup with the title. Look, you know how to make "Marceline is blatantly bi/lesbian" jokes. Go ahead and fill in one here.
+
+Jake doesn't read out all of Marceline's note, but the magic of 1080p lets me read it. It says:
+
+> Hey guys,
+>
+> I had to run out but I'll be back in a few minutes. I had to run out to buy some ketchup. Is it possible to be allergic to tomatoes? My sleep patterns are always super weird when I eat tomatoes. Do you ever have those lucid dreams? Anyway,
+>
+> DON'T GO IN MY HOUSE.
+>
+>---M
+
+So obviously they do that.
+
+This episode had a lot of good mime sequences, which I didn't expect to say about anything. We don't really learn much new about Marceline, but it's always fun when she gets screen time.
+
+### Episode 22: *Paper Pete*
+
+I had absolutely no memory of this episode.
+
+This mostly comes across as '13-year-old kid bored in library'. It was a little cute that of the two warring factinos of tiny people, amidst all the kings and princesses, one group elects their leader democratically.
+
+Mostly, though, this episode was Finn tormenting Jake in various ways to get attention. I actually honestly expected an end-of-season arc where the two have a falling out, but they make up by the end of the ep as usual.
+
+Turtle Princess does not seem to have a Turtle Kingdom, just a vast library. She appears to be the only one on staff, so no wonder she's so tired all the time.
+
+### Episode 23: *Another Way*
+
+This episode begins with... 'clown nurses' who suck toes? Including some kinda uncomfortable 'lol this woman has muscles' imagery. It becomes increasingly uncomfortable as they insist on 'smooching' Finn's injured foot, despite his extreme discomfort. Scary clown imagery by way of sexual violence, yeah.
+
+Anyway this episode is a series of escapades where Finn is told he must do things one (slightly uncomfortable) way, and he chooses to do things his 'own way'. They're all contrived enough that I'm expecting this to turn out ot be a dream sequence or something like that.
+
+This episode does mark the return of the almost forgotten joke that Finn has a vocoder lodged in his throat or something, an can sing in an autotuned voice?
+
+Anyway, Finn has a crisis of confidence but then realises he can undo the harms he did with wanton violence with more wanton violence, so... very Subverted, I guess. It wasn't a dream sequence. It did feel like an early season episode, and not in a good way.
+
+### Episode 24: *Ghost Princess*
+
+This episode was something. I was wondering why I don't really remember much about the character of Ghost Princess, but it turns out she's gone to the '50th Death World' by the end of the episode.
+
+50 Death Worlds... which is an entirely different afterlife than Jake supposed he would have! Of course, Jake could just be wrong.
+
+After a lot of 'good cop/bad cop' jokes---how many old movies do Finn and Jake watch for the concept of the carceral state and its violence to be meaningful? given their own immediate example is the banana guards!---they eventually discern that Ghost Princess was originally a Warrior Princess, killed in a battle against her lover Clarence because she would not give up her kingdom. The battle is fought with medieval weapons (it feels like a very Arthurian story), but later Clarence dies from overeating at a convenience store, so, who even knows. Princess status appears to persist through death, which may be worth noting as we try to puzzle out the whole princess thing.
+
+Speaking of attitudes towards death in Ooo... there appears to be some kind of vast realm that's almost entirely graves and perpetually night. This region isn't named, but it is divided such that there are 'ne'er-do-well graves'... who decides who gets buried in which part of the graveyard?
+
+The ghost costumes are very much along the lines of like, 80s American movies set in high school, with all the dynamics you'd expect. I haven't watched very many of those movies so I can't really say more than, hey, I see what they're doing there.
+
+### Episode 25: *Dad's Dungeon*
+
+We're up to the last two episodes of the season, so it's time for moving plots forward, big Reveals, and the like.
+
+So this was... a weird one. Jake's dad (and Finn's adopted dad) is... kind of terrible, huh. Creating a prerecorded message to belittle his son, acting like he has to be 'toughened up'? I hope that's the message we're expected to take, despite their final reconciliation at the end.
+
+There were some very neat monster designs in this episode. I liked the fruits that turned you into a giant fruit full of bones, and the floating women with mouths hidden behind their hair...
+
+Jake's dad seems to have been about as mature as his children, more obsessed with all the theatrics of 'adventure' than actually caring for them. Also: Finn's 13! I think Jake is also probably meant to be 13, since he's seen growing up alongside Finn, although later plotlines act like he's much older (since he has kids and so on). I guess it's a thing about dogs aging faster?
+
+Anyway, Finn has a new sword made of a specific demon's blood. I believe this is the first of a long series of new swords he'll acquire over the course of the series.
+
+### Episode 26: *Incendium*
+
+Is this when Flame Princess arrives on the scene?
+
+It is!
+
+So it's time for *this* storyline. Flame Princess is explicitly introduced as a new love interest for Finn, who Jake actively seeks out after Finn starts pining over PB a little *too* much. The bulk of this episode is pretty good, with Jake improvising more and more desperately to please the Fire King.
+
+Not quite sure where they're going with the whole 'Flame Princess literally turns into a pillar of fire and attacks everyone in sight when she's upset' thing. Or well, I know exactly what they're playing into and I don't like it is more accurate! Still, I know Flame Princess will soon grow into a much more interesting character, and even leave behind her whole 'love interest' position in a few seasons' time.
+
+For now, though, they needed to introduce a new character to the dynamic and set the seeds for trying to have a more believable Finn/any woman relationship than Finn/PB, which by now has been *thoroughly* sunk. One thing I do appreciate a lot about *Adventure Time* is that they allow their characters to grow beyond their initial plans for them, and don't relegate anyone to the 'girl who is into the main character' role.
+
+Anyway, let's talk about evil!
+
+In *Adventure Time*, certain people just seem to self-identify as evil. As in, they'll literally say "I'm evil!" to justify their actions. We saw it with the cuties, the witch in the previous season, other examples I'm forgetting... The FIre King does it here, in reference to Flame Princess. They're an evil kingdom, you see.
+
+Very early D&D [had the idea of 'alignment languages'](/rpgs/evil-species). One's 'alignment' in terms of good vs. evil, lawful vs. chaotic placed you in a certain kind of cultural/political bloc, who were at war. *Adventure Time* doesn't go quite that far, but it seems like it runs on a similar sort of logic. 'Evil' in Adventure Time isn't a pattern of behaviour that anyone might exhibit, so much as a team you're on. That said, it does seem to have walked this back quite a long way. The Ice King (who notably never refers to his own alignment) is well on his way towards being a slightly awkward friend rather than a menace; previously 'monstrous' characters like the wolves and the Snow Golem have also been made much more sympathetic.
+
+I don't necessarily have much more to draw out on that subject. Later, we're going to learn more about the elaborate fictional history of the *Adventure Time* setting: the Great Mushroom War, the Lich, the origins of the Ice King's crown, the four elements and so on. Perhaps then we'll come to see the origin of evil.
+
+## Overall, on Season 3
+
+Very solid season overall. Lots of episodes here are 'classic' episodes, either introducing or developing characters in ways the show will be exploring for most of the rest of its run. There's far fewer dud episodes, the jokes land much more reliably (except for a certain penchant for transmisogynist sight gags which is sadly par for the course in comedy.) It was pretty hard to stop watching!
+
+Finn and Jake are getting character development... PB hasn't changed nearly as much but there's hints of it. Marceline, although she didn't quite get anything as spectacle-filled as *It Came From The Nightosphere*, got some pretty solid screen time.
+
+I think the standout episode for me is probably *What Was Missing* for, I guess, pretty clear reasons! Lots of good character focus, relationships that don't involve Finn...
+
+In terms of audience numbers, this and Season 4 seem to be when *Adventure Time* was maybe most popular? *Fionna and Cake* drawing more than anything. Of course, that's more a measure of marketing when it first aired than how engaged the fandom was.
+
+I think people were pretty excited, though. *Adventure Time* definitely had a Fandom at this point; the Bubbline controversy helps illustrate that.
