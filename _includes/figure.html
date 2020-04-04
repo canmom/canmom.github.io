@@ -1,0 +1,11 @@
+<figure {% if include.class %} class="{{ include.class }}"{% endif %}{% if include.wraptight %} style="shape-outside: url({{site.url}}/img/{{ include.src }});"{% endif %}>
+	<img src="{{ site.url }}/img/{{ include.src }}" alt="{{ include.alt }}">
+    {% if include.capt or include.contentsrc %}
+	<figcaption>
+		{{ include.capt }}
+		{% if include.contentsrc %}
+		(<a href='{{ include.contentsrc }}'>source</a>)
+		{% endif %}
+	</figcaption>
+    {% endif %}
+</figure>

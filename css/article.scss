@@ -484,6 +484,22 @@ ol.poem li li {
         width: 691px;
         margin: 0 auto;
     }
+
+    article figure.float {
+        max-width: 300px;
+        shape-image-threshold: 0.5;
+        shape-margin: 1em;
+    }
+
+    article figure.float.right {
+        float: right;
+        margin-left: 0.5em;
+    }
+
+    article figure.float.left {
+        float: left;
+        margin-right: 0.5em;
+    }
 }
 
 @media only screen and (min-width: 1000px) {
