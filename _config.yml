@@ -8,7 +8,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-description: Playful physics, programming, livereads and lesbianism
+description: The world is a trauma engine, but at least you can be gay.
 lang: en_GB
 logo: /android-chrome-512x512.png
 twitter:
@@ -20,3 +20,5 @@ social:
     - https://github.com/canmom
     - https://canmom.tumblr.com
     - https://canmom.itch.io
+kramdown:
+  parse_block_html: true
