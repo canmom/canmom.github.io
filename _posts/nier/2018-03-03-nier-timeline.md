@@ -1,21 +1,21 @@
 ---
 title: "NieR series: the full story, part 1"
-excerpt: "A tour through the storyline leaning up to the beginning of NieR, and the many surprises along the way."
+excerpt: "A joke ending where the air force shoots you is the perfect  a sweeping existential tragedy?"
 layout: article
 categories: nier
 tags:
 - nier
+redirect-from: "/nier/nier-timeline"
+date: 2020-04-05 02:00:00
 ---
 
-This project is an attempt to stitch *Grimoire NieR*, *NieR*, the *NieR Audio CD*, and later on, *YoRHa*, *YoRHa Boys* and *NieR: Automata*, among other sources, into one full, cohesive story. Contains major spoilers for _Drakengard_, _NieR_ and _NieR: Automata_ as well as supplemental material.
+This project is an attempt to stitch all the *Drag-on Dragoon* and *NieR* games, and their surrounding novellas, stage plays, concert dramas, lore books, and so on, and so on, into one full, cohesive story. I began in 2018, abandoned the effort for two years, and then came back to it. You may want to read [previous articles]({{ site.url }}/nier/) on DoD3 and DoD1.
 
-This is *not* a complete timeline, though I've attempted to include dates where they're listed, because Yoko Taro's work is a fractal rabbit hole and I've yet to explore every corner. For a really thorough timeline, including the events of the other games in the *Drakengard* series, Rekka Alexiel has done an incredible job [here](http://nier2.com/timeline.html). I'm trying to go for a more narrative presentation, including links to the various stories and translations so you can read them with some context.
-
-The vast majority of _NieR_ content has never been officially translated, which is unfortunate because the games leave out a _lot_. However, fans have done an incredible job making up for the lack, and there are only a few significant gaps.
+The vast majority of _NieR_ content has never been officially translated, which is unfortunate because the game leaves out a _lot_ of key plot information covered in books like *Grimoire NieR*. However, fans have done an incredible job making up for the lack, and there are only a few significant gaps.
 
 ## _Drakengard_/_Drag-on Dragoon_, 2003
 
-[nb- the events of _Drakengard 3_ take place earlier, but I haven't read about them to avoid spoiling myself on that game! _Drakengard 2_ on the other hand is an a separate timeline and irrelevant to the _NieR_ series.]
+*Note: I am working on a more comprehensive tour of DoD 1, but for now, let this short summary suffice.*
 
 In a grimdark fantasy world, a very very violent man called Caim and his dragon partner, Angelus, fight a grueling war against an enemy nation simply called the Empire. The Empire inevitably turns out to be controlled by an apocalyptic cult armed with magic flying fortresses and so forth, worshipping mysterious beings called the ‘Watchers’. Basically, the deal is: the Gods think humanity is a failure and want to kill us off (per *Drag-on Dragoon Perfect Guide*, translated [here](http://nier2.com/2015/04/04/dod-encyclopedia/)).
 
@@ -75,8 +75,8 @@ In 2033, the Project Gestalt people figure out a way to bind Gestalts into books
 
 (Later, in *NieR*, we encounter Grimoires Noir, Weiss and Rubrum, though the latter doesn't speak.)
 
-## *NieR Replicant Drama CD* disc 1 ([track summaries](https://docs.google.com/document/d/1YLw2-OT7ios3ik5CdRN34dJCL5XviWSyQMnzFTiI_BU/edit?hl=en_US#))
-You can listen to the Drama CD [here on Youtube](https://www.youtube.com/playlist?list=PL6qLzIEXCzmpap-dtq6vHZ2S3CYH4U1Ny), but there are no subtitles available.
+## *NieR Replicant Drama CD* disc 1 ([translation](https://docs.google.com/document/d/1NYjBEBvQ981KZTUwwhGeaBtrOSetmsmZVQYxSKTEbCc/edit))
+You can listen to the Drama CD [here on Youtube](https://www.youtube.com/playlist?list=PL6qLzIEXCzmpap-dtq6vHZ2S3CYH4U1Ny), and follow along with the above translation by [shirobooty](https://twitter.com/shirobooty).
 
 Around this time, we introduce Nier, the protagonist of *NieR*. Depending on which version of the game you play, he's either a dad ('Father Nier') looking after his daughter, or a brother ('Brother Nier') looking after his sister. (The devs figured a father would play better in the west, and a brother better in Japan. The dad version was released on the XBox in Japan as *NieR: Gestalt*, and the brother version on the PS3 as *NieR: RepliCant*. The English translation was the dad version on both consoles. The differences between the two versions are minor, mostly concerning relationships between Nier and the rest of the party.)
 
@@ -129,7 +129,11 @@ Around this point, Gestalt Nier decides that a thousand years of providing maso 
 
 ### Nier and Yonah's backstory
 
-When _NieR_ picks up, we are playing as a Replicant based on Nier. Nier is living in a small town overseen by Devola and Popola, where he works odd jobs for the townsfolk to care for Yonah, mostly out of sympathy. Nobody knows that Devola and Popola are androids, and they come across as sympathetic, giving Nier helpful advice and support; Popola works in the library, and Devola sings at a fountain. As the game starts, Yonah is sickly, and afflicted with the Black Scrawl (inevitably, since her Gestalt is permanently in half-relapsed stasis), and Nier looks for medicine to try and help her condition.
+When _NieR_ picks up, we are playing as a Replicant based on Nier. Nier is living in a small town overseen by Devola and Popola, where he works odd jobs for the townsfolk to care for Yonah, mostly out of sympathy. Nobody knows that Devola and Popola are androids, and they come across as sympathetic, giving Nier helpful advice and support; Popola works in the library, and Devola sings at a fountain. Per an interview with Yoko Taro in *Grimoire NieR*, Devola and Popola oversee reproduction of the Replicants, who don't have any grounds to find it strange:
+
+> Replicants don't realize that they can't have babies since they have no concept of what normal childbirth looks like. Basically, managers like Devola and Popola just call them to a place, say "You're going to give birth soon", and put them into sleep, then create a replicant from a test tube-like thing while they're asleep. When replicants die, D&P just 'recycle' them into new bodies.
+
+As the game starts, Yonah is sickly, and afflicted with the Black Scrawl (inevitably, since her Gestalt is permanently in half-relapsed stasis), and Nier looks for medicine to try and help her condition.
 
 According to the *Grimoire Nier* story **[content warning: child sexual abuse, underage sex work]** [_The Red and the Black_](http://nier.wikia.com/wiki/The_Red_and_the_Black), Brother Nier and Yonah were once raised by a mother and distant father, although their biological mother probably did not undergo the Gestalt Process so I suspect it's someone put in place as a surrogate mother by the Hamelin Organisation. Anyway, she died abruptly when they were ten - it turns out, of the Black Scrawl. In *Gestalt*, Father Nier lost his wife instead of his mother.
 
@@ -158,9 +162,9 @@ The story **[content warning: parental abuse]** [*The Magic Mountain*](http://ni
 ### Kainé's backstory
 After reaching ending A, a bunch of extra backstory information unlocks on subsequent playthroughs.
 
-[The first part](https://www.youtube.com/watch?v=gqfjfAyTjaU) reveals the backstory of Kainé as a replicant. Unlike her original, the Replicant of Kainé is intersex; this is shown much more explicitly in the Japanese version. (Some of the translated _Grimoire Nier_ material talks about Kainé in uncomfortable ways, using the h-slur and referring to her 'male' and 'female' sides. I am not sure to what extent this is ignorance on the creators' part, mistranslation, or cultural differences for trans and intersex people in Japan.)
+[The first part](https://www.youtube.com/watch?v=gqfjfAyTjaU) reveals the backstory of Kainé as a replicant. Unlike her original, the Replicant of Kainé is intersex, and can be understood as a trans woman. This is never stated outright in the game, either the original or the dub, but discussed in *Grimoire NieR*.
 
-As a child, Kainé is bullied brutally for being intersex by children in the Aerie, with tacit support of the adults. Her only support comes from her grandmother, the Replicant version of Kaali. Although often quick-tempered, Kaali cares for Kainé as nobody else will, and Kainé loves her fiercely. The two live in a metal shack on the outskirts of the Aerie (a town made of bridges and hanging buildings inside a giant ravine). However, as Kaali gets older, she starts to fall ill, and Kainé takes over more of the household tasks, risking going out into the world again.
+As a child, Kainé is brutally bullied by children in the Aerie, especially one child named Dimo, with tacit support of the adults. Her only support comes from her grandmother, the Replicant version of Kaali. Although often quick-tempered, Kaali cares for Kainé as nobody else will, and Kainé loves her fiercely. The two live in a metal shack on the outskirts of the Aerie (a town made of bridges and hanging buildings inside a giant ravine). However, as Kaali gets older, she starts to fall ill, and Kainé takes over more of the household tasks, risking going out into the world again.
 
 It ends tragically. A giant, powerful Shade (named Hook in *Grimoire Nier*), an aggregation of multiple Gestalts with a sadistic streak, attacks Kainé's hut and tortures, then kills Kaali in front of Kainé; Kainé severely injures herself trying to drive it away, and is left dismembered with most of her bones broken, bleeding to death and hallucinating.
 
@@ -168,7 +172,7 @@ At that point, she's approached by Tyrann, the assumed name of Masayoshi Yura, w
 
 Tyrann enters a symbiotic relationship, taking the place of her left arm and feeding on her emotions - particularly, hate and anger - but in return granting Kainé a lot of deadly magic. I'm not exactly sure if this is a 'pact' in the *Drakengard* sense, but it's a similar deal. There's also a danger: if Kainé doesn't give Tyrann the hateful emotions he wants, he threatens to take over her body entirely.
 
-I don't think we get a precise timeline for how long it is between Kainé's possession and her first encounter with Nier and Grimoire Weiss. In the meantime, she gets a reputation in the Aerie as a monster who gets off on killing Shades. In the story **[content warning: anti-intersex bigotry/transmisogyny, genitals]** [*Witches' Sabbath*](http://nier.wikia.com/wiki/Witches%27_Sabbath), we get a first-person account of a creepy and hypocritical priest who lectures others on love and tolerance, and manages to accept that Kainé is possessed by a Shade, but just cannot handle the fact she has a dick (and does, in fact, get off on killing Shades - lol I love Kainé so much...).
+I don't think we get a precise timeline for how long it is between Kainé's possession and her first encounter with Nier and Grimoire Weiss. In the meantime, she gets a reputation in the Aerie as a monster who gets off on killing Shades. In the story **[content warning: anti-intersex bigotry/transmisogyny, sex]** [*Witches' Sabbath*](http://nier.wikia.com/wiki/Witches%27_Sabbath), we get a first-person account of a creepy and hypocritical priest who lectures others on love and tolerance, and manages to accept that Kainé is possessed by a Shade, but just cannot handle the fact she has a dick (and does, in fact, get off on killing Shades---I love Kainé so much...).
 
 ### Emil
 
