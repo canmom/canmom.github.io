@@ -20,5 +20,3 @@ social:
     - https://github.com/canmom
     - https://canmom.tumblr.com
     - https://canmom.itch.io
-kramdown:
-  parse_block_html: true
