@@ -500,6 +500,11 @@ ol.poem li li {
     article figure.float.left {
         float: left;
         margin-right: 0.5em;
+        margin-left: 0;
+    }
+
+    article figure.float figcaption {
+        text-align: center;
     }
 }
 
