@@ -7,21 +7,19 @@ tags:
 - nier
 date: 2020-04-14 01:00:00 +0100
 ---
-Where we last left off, we covered the hundred years after the end of DoD3, bringing us up to the start of <cite>Drag-on Dragoon</cite> (released in the west as <cite>Drakengard</cite>.
+Where we last left off, we covered the hundred years after the end of DoD3, bringing us up to the start of <cite>Drag-on Dragoon</cite> (released in the west as <cite>Drakengard</cite>).
 
 ## A few words about the game
 
-DoD has two modes: ground missions, where you run around as Caim in a musou game inspired by <cite>Dynasty Warriors</cite>, and air missions, where you ride on Angelus in a surprisingly free flight sim inspired by <cite>Ace Combat</cite>. The levels are generally sprawling, and filled with a few hundred generic soldiers and a handful of stronger enemies.
+DoD has two modes: ground missions, where you run around as Caim in a musou game inspired by <cite>Dynasty Warriors</cite> with the option of hopping on Angelus, and air missions, where you ride on Angelus in a surprisingly free flight sim inspired by <cite>Ace Combat</cite>. The levels are generally sprawling, and filled with a few hundred generic soldiers and a handful of stronger enemies.
 
-At the outset, Caim has a basic three-hit string, which charges up a bar which can be spent on a magic attack. There are a large number of weapons unlocked by completing specific challenges (typically, killing all the enemies in a certain area or finding a chest somewhere in the level, but some of them are really quite absurd and they don't seem to be documented in-game). Each weapon can be levelled by use, requiring a certain number of hundreds of kills to fully level and unlock its weapon story. Each weapon has an associated magic attack. Levelling gets you more hits in your string of attack animations before it resets, and also increases its stats. You can switch between eight different weapons on the fly, but beyond levelling, there's not a lot of reason.
+Beyond working through the story, there are a large number of weapons unlocked by completing specific challenges (typically, killing all the enemies in a certain area or finding a chest somewhere in the level, but some of them are really quite absurd and they don't seem to be documented in-game). The combat system is very limited, with the main variety coming from the magic attacks and enemies which negate some of your abilities. The main way to go is to stunlock groups of enemies and getting large chains of hits.
 
-So far as I can tell, each weapon category has its own set of weapon animations. Caim also has a running attack and a special timed AoE which both knock enemies over. You have separate left and right dodges, but they're kind of janky so usually it's better to just keep hitting and stunlock a group of enemies. This is all you get. The main trick in gameplay is to maintain a continuous string of hits without pause for as long as possible, since at certain points in the chain, enemies drop orbs which can heal you or produce an AoE.
+Hopping on Angelus gives you a an AoE attack, but because Angelus flies at a constant speed and height, and you can't fire directly underneath you, it takes some practice to consistently hit specific groups of enemies. In air missions, Angelus also flies at a constant speed, which you can steer with two degrees of freedom (you're always upright). You can shoot fireballs, or hold down the attack button to target a group of enemies for a weaker but multitarget homing attack.
 
-In air missions, Angelus flies at a constant speed, which you can steer with two degrees of freedom (you're always upright). You can shoot fireballs, or hold down the attack button to target a group of enemies for a weaker but multitarget homing attack. When you fill up your magic bar, you can do a powerful attack where you shoot a whole bunch of fireballs at everything in sight. That's pretty much all there is to it.
+Later on, you unlock companions who join you in the ground missions. You pick one to accompany you, and you can summon them three times in a mission. When they're out, their health slowly drains and they revert to Caim when it hits zero, but they have ridiculously OP magic which they can spam for the cost of a small amount of health.
 
-Later on, you unlock companions who join you in the ground missions. You pick one to accompany you, and you can summon them pretty much whenever; their health slowly drains and they revert to Caim when it hits zero, but while they're out, they have ridiculously OP magic which they can spam at will, for the cost of a small amount of health.
-
-Interspersed with these combat sequences are FMV sequences and in-engine cutscenes. Credit where it's due, the FMV sequences are pretty solid by 2003 standards. The story and atmosphere are the the main things to recommend about the game, but you can get a lot of the experience by just looking them up on youtube.
+Interspersed with these combat sequences are FMV sequences and in-engine cutscenes. The FMV sequences are solid by 2003 standards. The story and atmosphere are the the main things to recommend about the game, but you can get a lot of the experience by just looking the cutscenes up on youtube.
 
 Unlike DoD3, where the different branches would all automatically be unlocked over the course of the story, in DoD 1 the branches depend on specific actions taken in a level (though you can only access them in a specific sequence). It's not possible to lock yourself out of anything, since you have a chapter select from the start, but it does basically require you to pay attention, or more likely, look it up on GameFAQs.
 
@@ -43,11 +41,11 @@ Caim reveals that he cannot speak due to his Pact. Inuart takes charge, and prop
 
 ## Chapter 2
 
-Escorted by a handful of surviving Union soldiers, the group get underway, but Angelus perceives that the Elf Village has been attacked by the Empire. Inuart refuses to listen, and insists on continuing to the village. Caim and Angelus get in the air, and soon find Imperial air forces massing, which they blow up. They find an Imperial army outside the village, and blow them up too. But this blowing up is all for naught: the Empire have, in news that's surely absolutely shocking to everyone, massacred the elves.
+Escorted by a handful of surviving Union soldiers, the group get underway, but Angelus perceives that the Elf Village has been attacked by the Empire. Inuart refuses to listen, and insists on continuing to the village. Caim and Angelus get in the air, and soon find Imperial air forces massing, which they blow up. They find an Imperial army outside the village, and blow them up too. But this blowing up is all for naught: the Empire have, in news that's surely absolutely shocking to everyone, massacred the elves and left with any survivors.
 
 Angelus receives a message from Verdelet, since Pacted people can apparently communicate with not just their own Pact partner but any of them? He wants them to join him in the Desert Temple (the Land of Sands in DoD3), and Inuart and Furiae go ahead. Caim and Angelus investigate the village, and find a dead Imperial soldier with the creed of the Church written beside him in blood. Oddly, Angelus does not know what Angels are, or the connection between the Empire and the Church.
 
-Next, they find a dying elf, who advises them to go to a shrine where most of the villagers have been taken. The Shrine---presumably, the same Forest Shrine once occupied by Three---is known to belong to the Church, but the connection between Church and Empire is apparently less well understood by pretty much everyone. When they arrive, Angelus sneers at the terrible state of the Shrine while Caim kills the Empire's 'wizard-priests' (which are *extremely* annoying enemies, since they can kite you with ranged attacks and you can only block in one direction!) The elves, however, are nowhere to be found.
+Next, they find a dying elf, who advises them to go to a shrine where most of the villagers have been taken. The Shrine---presumably, the same Forest Shrine once occupied by Three---is known to belong to the Church, but the connection between Church and Empire is apparently less well understood by pretty much everyone. When they arrive, Angelus sneers at the terrible state of the Shrine while Caim kills the Empire's 'wizard-priests' (which are *extremely* annoying enemies, since they can kite you with ranged attacks and your options for blocking and dodging are very limited!) The elves, however, are nowhere to be found.
 
 ### Meeting Leonard
 
@@ -61,18 +59,23 @@ There is another branch point earlier in this chapter which requires you to meet
 
 ## Chapter 3
 
-Upon arriving in the desert, Caim immediately runs into Furiae, who tells him that Inuart and Verdelet have been captured and imprisoned. Furiae asks him to go and rescue them, leading to an intense dogfight with some uh... lamia maybe? Then, Caim wipes out the prison guards, freeing some Union soldiers, along with Verdelet. But Inuart has been moved to another prison.
+Upon arriving in the desert, Caim immediately runs into Furiae, who tells him that Inuart and Verdelet have been captured and imprisoned. Furiae asks him to go and rescue them, leading to an intense dogfight with some uh... lamia maybe? I think that's what you call a wingéd lion. On the ground, Caim wipes out the prison guards, freeing some Union soldiers along with Verdelet. But Inuart has been moved to another prison.
 
-We cut to Inuart, a mysterious voice echoes Inuart's possessive feelings about Furiae back to him as Inuart begs for mercy. It informs him that Furiae will be killed by the strain of being the Goddess of the Seal, and tells him that if he has the power of a dragon's pact, he could make it so that she was no longer the goddess. Caim can't be allowed to do it, and 'bask in her love and affection'. Inuart's eyes turn red: he's been infected.
+We cut to Inuart, a mysterious voice echoes Inuart's possessive feelings about Furiae back to him as Inuart begs for mercy. It informs him that Furiae will be killed by the strain of being the Goddess of the Seal, and tells him that if he has the power of a dragon's pact, he could make it so that she is no longer the goddess. Caim, of course, can't be allowed to do it---after all, he could 'bask in her love and affection' and Inuart would have nothing. Inuart's eyes turn red: he's been infected.
 
 Verdelet warns that the Empire is about to destroy the Seal in the Desert Shrine. Caim and Angelus make for the shrine, which is a kind of stone platform with a magic circle, and Caim kills just about everything in sight. But then ghosts start coming out of the Seal itself. There follows a gruelling battle in which Caim and Angelus run about, massacring the Empire's soldiers, but it all amounts to nothing: the Seal is broken.
 
 This is going to become a pattern.
 
-Though Inuart has been taken, the gang do find his harp. Furiae worries, and Verdelet is broadly useless. But then, they hear another Pacted voice in the distance, from another Imperial prison. This is Arioch.
+Though Inuart has been taken, the gang do find his harp. Furiae worries, and Verdelet is broadly useless. But then, they hear another Pacted voice in the distance, from another Imperial prison. It's Arioch.
 
 ### Meeting Arioch
 
-We're introduced to Arioch by overhearing two guards having an objectifying conversation about their prisoner while Arioch laughs in the background. Then the Union attacks and busts the prison open, and we see an FMV of Arioch, bound in a whole lot of belts. She gets a vision of two bright lights, one blue, one orange: the elementals, Undine and Salamander. This is the voice that the party heard over in the desert.
+We're introduced to Arioch by overhearing two guards having an objectifying conversation about their prisoner while Arioch laughs in the background. Then the Union attacks and busts the prison open, and we see an FMV of Arioch, bound in a whole lot of belts. She gets a vision of two bright lights, one blue, one orange: the elementals, Undine and Salamander. She forms a pact with the pair, allowing her to jump into the pact partner group chat.
 
-Caim storms the prison over the course of an absolutely exhausting mission. Finally, they meet Arioch. She immediately asks if Caim has seen any children, and when he hasn't, she tries to take a bite out of him. Verdelet subdues her with a spell, and she joins the party.
+Caim storms the prison over the course of an absolutely exhausting mission. Finally, they meet Arioch. She immediately asks if Caim has seen any children, and when he hasn't, she tries to take a bite out of him. Verdelet subdues her with a spell, and she joins the party. Verdelet is somehow able to discern that the cost of her pact is her womb.
+
+## Chapter 4
+
+<cite>Drag-on Dragoon</cite> is not a short game. We're still pretty early on at this point.
+
