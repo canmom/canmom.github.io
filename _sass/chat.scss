@@ -29,7 +29,7 @@ ul.chat li p:first-child {
 		background: linear-gradient(to right, rgba($colour,0.05),rgba($colour,0));
 	}
 
-	ul.chat li.#{$person} strong.name {
+	ul.chat li.#{$person} b.name {
 		color: $colour;
 	}
 }
