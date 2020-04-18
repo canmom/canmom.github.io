@@ -76,3 +76,6 @@ security:
 raytracer:
   path: /programming/graphics/raytracer
   display: raytracer
+gender:
+  path: /gender/
+  display: gender
