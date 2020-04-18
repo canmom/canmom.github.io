@@ -3,27 +3,27 @@ title: “What’s wrong is... this world!”
 layout: article
 origin: https://canmom.tumblr.com/post/180346905187/whats-wrong-is-this-world
 categories: crit
-excerpt: A rumination on consumption and the enormity of the world's grief - inspired by Tokyo Ghoul, NieR and Mononoke-hime.
+excerpt: A rumination on consumption and the enormity of the world's grief - inspired by <cite>Tokyo Ghoul</cite>, <cite>NieR</cite> and <cite>Mononoke-hime</cite>.
 ---
-**contains spoilers for: _Tokyo Ghoul_ (the first season of the anime only), _NieR_, _NieR: Automata_, _Princess Mononoke_**
+**contains spoilers for: <cite>Tokyo Ghoul</cite> (the first season of the anime only), <cite>NieR</cite>, <cite>NieR: Automata</cite>, <cite>Mononoke-hime</cite>**
 
-(related: [_Violence and ‘evil races’_](https://canmom.github.io/rpgs/evil-species))
+(related: [<cite>Violence and ‘evil races’</cite>]({{ site.url }}/rpgs/evil-species), [<cite>the NieR story</cite>]({{site.url}}/nier/))
 
-I watched the first season of the anime _Tokyo Ghoul_, in part because I know one or two friends who like it, and in part because I heard it came up in connection with Yoko Taro in some way as an inspiration for some part of the _NieR_ series - although now I go to confirm it, it seems like the only connection is that 9S and the protagonist of TG (snrk) are voiced by the same actor, and Yoko Taro had never watched TG until he got around to casting 9S and Yosuke Saito suggested it… so I guess I just completely made that up?
+I watched the first season of the anime <cite>Tokyo Ghoul</cite>, in part because I know one or two friends who like it, and in part because I heard it came up in connection with Yoko Taro in some way as an inspiration for some part of the <cite>NieR</cite> series - although now I go to confirm it, it seems like the only connection is that 9S and the protagonist of TG (snrk) are voiced by the same actor, and Yoko Taro had never watched TG until he got around to casting 9S and Yosuke Saito suggested it… so I guess I just completely made that up?
 
 Regardless…
 
-TG is pretty silly and hard to take seriously most of the time, it feels like a shonen anime but drenched in gratuitous blood and cannibalism. Still I think there’s some interesting things there, and I feel like… even if Yoko Taro didn’t have anything to do with it after all, I found myself comparing what it’s doing with what _NieR_ does because at certain points they shoot for similar themes. (tl;dr I think _NieR_ does it better lol)
+TG is pretty silly and hard to take seriously most of the time. It feels like a shonen anime but drenched in gratuitous blood and cannibalism. Still I think there’s some interesting things there, and I feel like… even if Yoko Taro didn’t have anything to do with it after all, I found myself comparing what it’s doing with what <cite>NieR</cite> does because at certain points they shoot for similar themes. (tl;dr I think <cite>NieR</cite> does it better, to nobody's surprise.)
 
 ## What’s this ghoul thing all about then?
 
-_Tokyo Ghoul_ is about a ghoul who lives in Tokyo, duh
+<cite>Tokyo Ghoul</cite> is about a ghoul who lives in Tokyo, duh
 
-_Tokyo Ghoul_ is about - stop me if you’ve heard this one before - an unassuming Japanese university student who by a bizarre accident falls into a semi-secret underworld full of people with superpowers. At first he’s a liability, but one of the superpowered factions goes out on a limb and after generally getting the shit beat out of him and suffering all kinds of misery and torture, he ends up one of the most powerful of them all…
+<cite>Tokyo Ghoul</cite> is about - stop me if you’ve heard this one before - an unassuming Japanese university student who by a bizarre accident falls into a semi-secret underworld full of people with superpowers. At first he’s a liability, but one of the superpowered factions goes out on a limb and after generally getting the shit beat out of him and suffering all kinds of misery and torture, he ends up one of the most powerful of them all…
 
 OK, wow that sounds even more cliché when I write it all out! I guess the difference here is that the superpowered beings - the Ghouls - get their powers by cannibalism, and in fact cannot even eat or drink anything but humans/other ghouls and (for some reason) coffee. This is reminiscent in some ways of [stories about sexy decadent vampires](https://vrvblog.co/gabriel/3629/lost-boys/) and the temptations they offer. (I’m not going to be able to discuss any of this with the grace and humour of Kay, but I’ll try, I guess…)
 
-So we’ve got the common kind of troubled Fantasy Oppression Metaphor. The Ghouls are marginalised and have their own secret society, pretending to live human lives but also putting on masks to hunt humans and fight each other; they’re hunted by an organisation called the ‘Commission of Counter Ghoul’ (Wikipedia tells me this is called the 喰種対策局 _Gūru Taisaku Kyoku_, “Ghoul Countermeasures Bureau”, but for some reason it’s given that charmingly silly acronym instead), which uses the supernatural weapons torn from the corpses of dead ghouls to fight the living ghouls.
+So we’ve got the common kind of troubled Fantasy Oppression Metaphor. The Ghouls are marginalised and have their own secret society, pretending to live human lives but also putting on masks to hunt humans and fight each other; they’re hunted by an organisation called the ‘Commission of Counter Ghoul’ (Wikipedia tells me this is called the 喰種対策局 <i>Gūru Taisaku Kyoku</i>, “Ghoul Countermeasures Bureau”, but for some reason it’s given that charmingly silly acronym instead), which uses the supernatural weapons torn from the corpses of dead ghouls to fight the living ghouls.
 
 <figure>
   <img src="{{site.url}}/img/embed/2018-11-21-whats-wrong-is-this-world/img-00.png" alt="Members of the CCG, mostly dudes in suits, sitting in rows in a brightly lit room.">
@@ -31,7 +31,7 @@ So we’ve got the common kind of troubled Fantasy Oppression Metaphor. The Ghou
 
 There isn’t really a ‘masquerade’ as such; ghouls are discussed on TV, and none of the protagonists are unaware of what a ghoul is. However, they do generally hide the fact they are a ghoul from their human friends and society at large, and many of the conflicts come from the possibility that a ghoul character’s friends or partners might discover their terrible, terrible secret.
 
-Of course, it’s a struggle to have a sympathetic protagonist who’s compelled to subsist on cannibalism, so after a first few episodes where the protagonist Kaneki freaks out about having ghoul organs implanted into his body (like, seriously, that’s the premise lol) and almost eats his boyfriend totally heterosexual childhood best friend who he cares about above everyone else, he settles in with an organisation called ‘Antique’.
+Of course, it’s a struggle to have a sympathetic protagonist who’s compelled to subsist on cannibalism, so after a first few episodes where the protagonist Kaneki freaks out about having ghoul organs implanted into his body (like, seriously, that’s the premise lol) and almost eats his ~~boyfriend~~ totally heterosexual childhood best friend who he cares about above everyone else, he settles in with an organisation called ‘Antique’.
 
 (Brief note about translation... at least in the netflix translation, it’s written あんていく, and it _could_ be the te-form of ‘to knit’! but it’s probably ‘antique’, though why it’s written in hiragana not katakana I don’t know!)
 
@@ -49,15 +49,15 @@ The rest of the season plays out in about three arcs. In the first arc, an evil 
   <img src="{{site.url}}/img/embed/2018-11-21-whats-wrong-is-this-world/img-02.png" alt="Kaneki, whose hair has now changed from black to wite, stands over the fallen Jason, supported by red extra limbs called kagune. He is saying 'You tried to eat me...'">
 </figure>
 
-The final episode mostly takes place in Kaneki’s head (c.f. NGE) where he gets lambasted by the ghoul whose organs were implanted in him (lol i still can’t get over that), and ends with him accepting his ghoul side, getting superpowered, and eating his torturer. At that point… it just stops abruptly. We don’t even see Kaneki meet back up with the rest of Antique. (I guess that’s all for the next season, but I’m going to write this post now while it’s fresh in my head)
+The final episode mostly takes place in Kaneki’s head (c.f. NGE) where he gets lambasted by the ghoul whose organs were implanted in him (I still can’t get over that), and ends with him accepting his ghoul side, getting superpowered, and eating his torturer. At that point… it just stops abruptly. We don’t even see Kaneki meet back up with the rest of Antique. (I guess that’s all for the next season, but I’m going to write this post now while it’s fresh in my head)
 
-In terms of the level of violence, it’s reminiscent of _Baccano!_ (Speaking of which, what’s with that show? Once you manage to tease apart its nonlinear presentation, the primary story entirely amounts to ‘a bunch of immortal people who like murder get on a train and murder each other’!)
+In terms of the level of violence, I’m reminded of <cite>Baccano!</cite>, though really you could pick just about any somewhat edgy seinen. (Speaking of which, what’s with <cite>Baccano!</cite>? Once you manage to tease apart its nonlinear presentation, the primary story entirely amounts to ‘a bunch of immortal people who like murder get on a train and murder each other’!)
 
 ## So what’s it saying with all this?
 
 That’s the question right? Yeah there’s a bunch of people killing each other, what’s it all for?
 
-To my mind the two most interesting bits of the story are the second arc, which is what made me inclined to compare it to _NieR_ (mostly thinking ‘this is trying to do what NieR did but not as good’), and the protagonist’s inner monologue in the final episode of the first season.
+To my mind the two most interesting bits of the story are the second arc, which is what made me inclined to compare it to <cite>NieR</cite> (mostly thinking ‘this is trying to do what NieR did but not as good’), and the protagonist’s inner monologue in the final episode of the first season.
 
 I’m pretty interested in the problem of trying to tell a story about a conflict that points to a potential end to the conflict that isn’t the annihilation of one side or the other. Given that one side is literally flesh-eating ghouls, the anime goes to surprising lengths to parallel the feelings and efforts of the CCG ‘doves’ and the ghouls, emphasising both the sadism of some of the doves but also their interrelationships and grief when one of them dies - and likewise presenting the ghouls as sympathetic characters, even the ones who do murder and eat people.
 
@@ -107,27 +107,27 @@ Kirishima:
 
 It could hardly be more explicit here: the Ghouls and the CCG are basically the same, but neither can see it. The thrust of this episode is Kaneki trying to get across to Amon that ghouls are people etc. etc., while Kirishima ultimately kills Mado; after the fact, we get various flashbacks aiming to develop Mado as something other than a sadist.
 
-So like - it’s doing a similar thing to _NieR_ and _Princess Mononoke_, which is to present a conflict where both sides are driven by grief and revenge, and both are suffering for it, even if one side ultimately instigated the conflict.
+Like <cite>NieR</cite> and <cite>Mononoke-hime</cite>, it's aiming to present a conflict where both sides are driven by grief and revenge, and both are suffering for it, even if one side ultimately instigated the conflict.
 
 <figure>
   <img src="{{site.url}}/img/embed/2018-11-21-whats-wrong-is-this-world/img-17.png" alt="A screenshit of NieR: Gestalt. The Replicant of Father Nier faces his counterpart, the 'Shadowlord'. Nier's upper body is uncovered except for a shoulder pad; he has white hair and an eyepatch. The Shadowlord closely resembles him, but he's made of shadowy writing and red lines.">
 </figure>
 
-In the original _NieR_, the plot depends in part on Nier not being able to understand what the Shades (relapsed Gestalts) are saying; in the second playthrough, we are allowed to hear the Shades begging for mercy, and ultimately we learn that the protagonists are ‘Replicants’ who were supposed to be empty vessels for temporarily displaced souls, but somehow accidentally gained sentience.
+In the original <cite>NieR</cite>, the plot depends in part on Nier not being able to understand what the Shades (relapsed Gestalts) are saying; in the second playthrough, we are allowed to hear the Shades begging for mercy, and ultimately we learn that the protagonists are ‘Replicants’ who were supposed to be empty vessels for temporarily displaced souls, but somehow accidentally gained sentience.
 
 The struggle is between two different versions of the same people, and it’s a situation set up that can’t not have a tragic ending; at best, Nier and his daughter/sister (depending on version) will be permanently separated while the Replicants keep dying to the Black Scrawl and the Replicants relapse; at worst, either the Gestalts or the Replicants must die, and since the Replicants can’t reproduce, the ultimate ending leaves humanity doomed to die out in a generation.
 
-In _NieR: Automata_, we kind of know from the beginning not to take the things 9S and 2B say about the machine lifeforms at face value; and sure enough, the machines turn out to be just as capable of complex emotion and thought as the android protagonists. Both sides are chasing after their image of humanity; the war between was built on a false premise from the start and is sustained by various lies - in part because for the leadership of both factions, ending the war is an existential, or perhaps existentialist threat.
+In <cite>NieR: Automata</cite>, we kind of know from the beginning not to take the things 9S and 2B say about the machine lifeforms at face value; and sure enough, the machines turn out to be just as capable of complex emotion and thought as the android protagonists. Both sides are chasing after their image of humanity. The war between was built on a false premise from the start and is sustained by various lies, in part because, for the leadership of both factions, ending the war is an existential (or perhaps existentialist!) threat.
 
 <figure>
   <img src="{{site.url}}/img/embed/2018-11-21-whats-wrong-is-this-world/img-18.png" alt="The androids 9S and A2, both dressed in dark uniforms although A2's is mostly destroyed, lie in a pool of their own blood. Both have katanas through their chests.">
 </figure>
 
-Like many of Yoko Taro’s games, _NieR Automata_ takes place in a world that is overwhelmingly bleak. The game’s opening lines set the tone:
+Like many of Yoko Taro’s games, <cite>NieR Automata</cite> takes place in a world that is overwhelmingly bleak. The game’s opening lines set the tone:
 
 > Everything that lives is designed to end. We are perpetually trapped in a never-ending spiral of life and death. Is this a curse? Or some kind of punishment? I often think of the god who blessed us with this cryptic puzzle, and wonder if I ever have the chance to kill him.
 
-But unlike the original NieR, _Automata_ points to a way to transcend its tragic ending, and crucially, refuse the unwinnable scenario imposed on the characters; textually, by the original no. 9 who created Project YoRHa and programmed the backdoor the machines use to destroy it, and metatextually, by the developers whose names you can only fight your way through by finding solidarity with others and explicitly disavowing the tragic, nihilistic conclusion. The pods, who gain sapience over the course of the game, offer an interpretation: we are perpetually trapped in a never-ending spiral of life and death - but life is ‘all about the struggle within this cycle’. For a Yoko Taro game, that counts as upbeat.
+But unlike the original <cite>NieR</cite>, <cite>Automata</cite> points to a way to transcend its tragic ending, and crucially, refuse the unwinnable scenario imposed on the characters; textually, by the original no. 9 who created Project YoRHa and programmed the backdoor the machines use to destroy it, and metatextually, by the developers whose names you can only fight your way through by finding solidarity with others and explicitly disavowing the tragic, nihilistic conclusion. The pods, who gain sapience over the course of the game, offer an interpretation: we are perpetually trapped in a never-ending spiral of life and death - but life is ‘all about the struggle within this cycle’. For a Yoko Taro game, that counts as upbeat.
 
 <figure>
   <img src="{{site.url}}/img/embed/2018-11-21-whats-wrong-is-this-world/img-19.png" alt="Irontown, a small fortress of wooden pallisades surrounded by stakes in the middle of a lake. Various triangular roofs can be seen, along with the smoke of industry.">
@@ -141,17 +141,17 @@ It comes to a head (lol) when Eboshi - on behalf of her sponsor, the Emperor, wh
   <img src="{{site.url}}/img/embed/2018-11-21-whats-wrong-is-this-world/img-20.png" alt="A person completely covered in rags, covered by a woven mat. 'The world is cursed. But still, you find reasons to keep living.'">
 </figure>
 
-In this case, for the most part specific attention is not drawn to the horror of the situation itself, except in one memorable line shown above: “the world is cursed. But still, you find reasons to keep living.” This line is spoken by one of the lepers in Eboshi’s gun workshop, and the speaker is on the edge of death.
+In this case, for the most part specific attention is not drawn to the horror of the situation itself, except in one memorable line shown above: “the world is cursed. But still, you find reasons to keep living.” This line is spoken by one of the leprosy patients in Eboshi’s gun workshop, and the speaker is on the edge of death.
 
-The world of _Princess Mononoke_ is one caught in an enormous transformation, one we can identify with the ‘primitive accumulation’ on which present capitalist expansion was founded; industrialisation is taking place, the feudal order is giving way, and guns - presented with terrifying destructive power, reducing a group of samurai to dismembered, screaming people, able to kill the gods themselves - have entered the world.
+The world of <cite>Princess Mononoke</cite> is one caught in an enormous transformation, one we can identify with the ‘primitive accumulation’ on which present capitalist expansion was founded; industrialisation is taking place, the feudal order is giving way, and guns---presented with terrifying destructive power, reducing a group of samurai to dismembered, screaming people, able to kill the gods themselves---have entered the world.
 
-As much as he may deserve it, it’s not simply that these stories kill God. Killing God is a common enough theme in JRPGs - there’s a joke that goes the final boss of every JPRG is God, your dad, or both - but in _NieR Automata_ the gods are all but absent (you wouldn’t even know there even are omnicidal gods unless you’re familiar with the broader franchise, specifically DoD and _Grimoire NieR_) and represented metaphorically; it is not 2B who kills God, but the player, shooting their way through the names of the developers who are, of course, the architects of the characters’ suffering.
+As much as he may deserve it, it’s not simply that these stories kill God. Killing God is a common enough theme in JRPGs---there’s a joke that goes the final boss of every JPRG is God, your dad, or both---but in <cite>NieR Automata</cite> the gods are all but absent (you wouldn’t even know there even are omnicidal gods unless you’re familiar with the broader franchise, specifically DoD and <cite>Grimoire NieR</cite>) and represented metaphorically; it is not 2B who kills God, but the player, shooting their way through the names of the developers who are, of course, the architects of the characters’ suffering.
 
-On the other hand, in _Princess Mononoke_, killing (a) god is almost always a bad idea. The only hope for Irontown is if it breaks off its deicide habit and learns to find a peaceful accord with the (decimated) Forest. Since Ashitaka settles in Irontown, and San makes peace with him, we might think there is hope - how it will actually be able to do this, and overcome the material limits set by the broader context, is not spelled out.
+On the other hand, in <cite>Princess Mononoke</cite>, killing (a) god is almost always a bad idea. The only hope for Irontown is if it breaks off its deicide habit and learns to find a peaceful accord with the (decimated) Forest. Since Ashitaka settles in Irontown, and San makes peace with him, we might think there is hope---how it will actually be able to do this, and overcome the material limits set by the broader context, is not spelled out.
 
 ## We get it, you like _NieR_ - where are you going with this?
 
-I like these kinds of stories - ones which do not focus on ‘how the villain is defeated’ but ‘how the tragedy came about’ and in particular, if it can end in anything other than misery and tragedy. So how does Tokyo Ghoul compare?
+I like these kinds of stories---ones which do not focus on ‘how the villain is defeated’ but ‘how the tragedy came about’ and in particular, if it can end in anything other than misery and tragedy. So how does Tokyo Ghoul compare?
 
 I was inspired to draw these connections in part by a moment in the finale, where Kaneki has spent more or less the entire episode being physically tortured by Jason and inside his head, being lambasted by Rize (the ghoul whose organs were implanted into him) and told it’s all his fault. Eventually he resolves to change and fight back, with the words…
 
@@ -233,7 +233,7 @@ what to make of this scene? After this, the theme music kicks in mid-episode for
 
 Let’s abruptly switch tracks to a Daniel Kahn song! (I promise it's relevant. Ish.)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B7EgQXMV8nM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="B7EgQXMV8nM" %}
 
 "It's just a little song about our needs." says Kahn, as he tells us about the "horror story" in the price of every commodity: "a story about factories and fields, a story of the power people wield". Quotes from _Capital_ scroll rapidly past.
 
@@ -243,7 +243,7 @@ What is money but a highly abstracted way to force people to give up the hours o
 
 Because in this world of 'generalised commodity exchange', we cannot live except by buying our means of subsistence (food, warmth, etc.), which means we need money and so does everyone else. And to get those things... we say 'I will give you money, and a fraction of the ability to live another day, if and only if you do this for me'.
 
-*"You'd like to make believe that you receive what's only fair, that no-one has to suffer to keep you in your chair, but you've gotta give the butcher his share..."*
+> "You'd like to make believe that you receive what's only fair, that no-one has to suffer to keep you in your chair, but you've gotta give the butcher his share..."
 
 This is the antagonism between producers and consumers, the one that's hard to say we might abolish as 'easily' as the antagonism between different capitals. Work less, and yet have more...
 
