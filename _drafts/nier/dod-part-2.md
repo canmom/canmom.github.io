@@ -1,39 +1,59 @@
 ---
-title: "The NieR story, part 4: it can get more grimdark"
-excerpt: "The manga Shi Ni Itaru Aka and the setup for Drag-on Dragoon"
+title: "The NieR story, part 5: musou and madness"
+excerpt: "A blood-drenched &lsquo;hero&rsquo; in a buffet of apocalypses: it's <cite>Drag-on Dragoon</cite>..."
 layout: article
 categories: nier
 tags:
 - nier
-date: 2020-04-14 01:00:00 +0100
+date: 2020-04-22 01:00:00 +0100
 ---
 Where we last left off, we covered the hundred years after the end of DoD3, bringing us up to the start of <cite>Drag-on Dragoon</cite> (released in the west as <cite>Drakengard</cite>).
 
+{% include hiddentoc.md %}
+
+{% include figure.html src='/embed/nier/DoDCover.webp' alt='The Japanese cover to Drag-on Dragoon, featuring an orange cloudscape with a dragon flying in the distance.' class='float left' %}
+
 ## A few words about the game
 
-DoD has two modes: ground missions, where you run around as Caim in a musou game inspired by <cite>Dynasty Warriors</cite> with the option of hopping on Angelus, and air missions, where you ride on Angelus in a surprisingly free flight sim inspired by <cite>Ace Combat</cite>. The levels are generally sprawling, and filled with a few hundred generic soldiers and a handful of stronger enemies.
+DoD has two modes: ground missions, where you run around as Caim in a musou game inspired by <cite>Dynasty Warriors</cite> with the option of hopping on Angelus, and air missions, where you ride on Angelus in a surprisingly free flight sim inspired by <cite>Ace Combat</cite>. The levels are generally sprawling, and filled with a few hundred generic soldiers and a handful of stronger enemies. It's a game about killing by the hundreds or thousands.
 
-Beyond working through the story, there are a large number of weapons unlocked by completing specific challenges (typically, killing all the enemies in a certain area or finding a chest somewhere in the level, but some of them are really quite absurd and they don't seem to be documented in-game). The combat system is very limited, giving you one combo which can be occasionally canceld into a more powerful AoE. The main variety coming from the magic attacks and enemies which negate some of your abilities. The main way to go is to stunlock groups of enemies and getting large chains of hits.
+The story and atmosphere are the the main things to recommend about it, but you can get a lot of the experience by just looking the cutscenes up on Youtube! I recommend [this version](https://www.youtube.com/watch?v=MsrFtzQra9c) which uses the Japanese voices.
 
-Hopping on Angelus gives you a an AoE attack, but because Angelus flies at a constant speed and height, and you can't fire directly underneath you, it takes some practice to consistently hit specific groups of enemies. In air missions, Angelus also flies at a constant speed, which you can steer with two degrees of freedom (you're always upright). You can shoot fireballs in a straight line, or hold down the attack button to target a group of enemies for a weaker but multitarget homing attack. Every so many kills, you can unleash a large cloud of homing blasts to clear out a group.
+{% capture gamemechanics %}
+Beyond working through the story, there are a large number of weapons unlocked by completing specific challenges (typically, killing all the enemies in a certain area or finding a chest somewhere in the level, but some of them are really quite absurd and they don't seem to be documented in-game). The combat system is very limited, giving you one combo which can be occasionally canceled into a more powerful AoE. The main variety comes from each weapon's magic attacks, and the annoying magic resistant enemies, who shoot out a projectile whenever they are hit by a magic attack.
 
-Later on, you unlock companions who join you in the ground missions. You pick one to accompany you, and you can summon them three times in a mission. When they're out, their health slowly drains and they revert to Caim when it hits zero, but they have ridiculously OP magic which they can spam for the cost of a small amount of health.
+Generally, DoD is a game of trying to keep a pack of enemies stunlocked so they can't hit you, while building up a big chain to get a health orb. This isn't too difficult, since all your attacks interrupt the enemy. If you mess up and take several hits, you can die very quickly. It's usually worth taking along a weak but fast weapon to quickly build up a big chain and get some health orbs to heal back up. Enemy AI varies between the rubbish (the basic soldiers who slowly walk towards you) to the simple but frustrating (ranged enemies who have mastered the trick of kiting), though enemies rarely live long enough after popping into the draw distance to do very much!
 
-Interspersed with these combat sequences are FMV sequences and in-engine cutscenes. The FMV sequences are solid by 2003 standards, but now of course look quite dated. The story and atmosphere are the the main things to recommend about the game, but you can get a lot of the experience by just looking the cutscenes up on Youtube!
+In outdoor missions, you can hop on Angelus. This grants you a powerful AoE attack, but because Angelus flies at a constant speed and height, and you can't fire directly underneath you, it takes some practice to consistently hit specific groups of enemies. Angelus is also at the mercy of ranged enemies, in particular the 'arbalesters' who fire pinpoint accurate crossbows. Take two hits in the air in quick succession, and Caim is dropped to the ground. To an extent you can avoid getting shot down by dashing at the right moment or flying in a circle, but often there's no point getting in the air until you've cleared the wizards and arbalesters.
 
-Unlike DoD3, where the different branches would all automatically be unlocked over the course of the story, in DoD 1 the story branches depend on specific actions taken in a level (though you can only access the endings in a specific sequence). It's not possible to lock yourself out of anything, since you have a chapter select from the start, but it does basically require you to pay attention, or more likely, look it up on GameFAQs.
+In the air missions, Angelus also flies at a mostly constant speed, which you can steer with two degrees of freedom (you're always upright). The flight model is pretty simple: you are faster while diving, that's basically it. You can shoot fireballs ahead in a straight line, or hold down the attack button to target a group of enemies for a weaker but multitarget homing attack. Hitting with these basic attacks charges up your magic attack, which lets you emit a large cloud of homing Celestial Alphabet traces to clear out a group.
 
-Overall, while it is absolutely possible to emulate DoD on PCSX2 without any major issues, including a fanmade 'undub' patch which restores the Japanese voices, I don't massively recommend it unless you have a fair tolerance for old-school, repetitive musou games! If you *do* like that kind of thing, hacking through the thousands of enemies is a decent amount of mindless fun.
+Angelus has a right and left dodge and a quick dash forward, each with a short cooldown, and these are your main tools to avoid the *many* enemies who also have homing attacks---quite important, since there is no way to recover health in the air!
+
+Later on, you unlock companions who join you in the ground missions. You pick one to accompany you, and you can summon them three times in a mission. When they're out, their health slowly drains and they revert to Caim when it hits zero, but they have ridiculously OP magic which they can spam, which ignores magic resistance. These are the best way to clear out packs of magic resistant enemies.
+
+Interspersed with these combat missions are FMV sequences and in-engine cutscenes. The FMV sequences are solid by 2003 standards, and have some great imagery once you get to the more apocalyptic endings.
+
+Overall, while it is absolutely possible to emulate DoD on PCSX2 without any major issues, including a fanmade 'undub' patch which restores the Japanese voices, I don't recommend it unless you have quite a strong tolerance for old-school, repetitive musou games! If you *do* like that kind of thing, hacking through the thousands of enemies is a kind of mindlessly fun thing to do while dissociating, and there is some actual challenge in the timed aerial missions and boss fights. However, savestates are absolutely essential, since it's gutting to die and lose all progress in a 25-minute long mission.
+{% endcapture %}
+
+{% include hidden.html content=gamemechanics id='gamemechanics' title='Game mechanics' %}
+
+Unlike DoD3, where the different branches would all automatically be unlocked over the course of the story, in DoD 1 the story branches depend on specific actions taken in a level (typically, beating them within a certain time limit). It's not possible to lock yourself out of anything, since you have a chapter select from the start, but it does basically require you to pay attention, or more likely, look it up on GameFAQs.
 
 ## The Celestial Alphabet
 
+{% include figure.html src='embed/nier/AgrippaCelestialAlphabet.jpg' alt="A page from Agrippa's manuscript 'Of Occult Philosophy', depicting his invention the Celestial Alphabet." capt="Agrippa&rsquo;s original manuscript page defining the Celestial Alphabet [<a href='https://commons.wikimedia.org/wiki/File:Three_Books_of_Occult_Philosophy-Book_III-Page_439.jpg'>source</a>]" class="float right" %}
+
 All the games in the DoD/NieR franchise represent magic using the [Celestial Alphabet](https://en.wikipedia.org/wiki/Celestial_Alphabet), which was originally invented as the script of angels by 16th-century occultist Heinrich Cornelius Agrippa. In his book <cite>Of Occult Philosophy</cite>, Agrippa presented it as a kind of precursor to Hebrew, which was used by Moses and the Prophets. The letters consist of small circles linked by simple geometric lines, mostly based on real Hebrew letters.
 
-I'm not sure when Yoko Taro got the idea to use it, but it's been part of the series since DoD. Casting magic usually leads to circles appearing in the Celestial Alphabet, either floating in the air or running over surfaces. In <cite>NieR Automata</cite>, which we'll cover later, the names of bosses are introduced in the Celestial Alphabet on your first run through the game, and then later translated. And occasionally when something magic is going on, Celestial letters float around in the air like motes of dust.
+I'm not sure when Yoko Taro got the idea to use it, but it's been part of the series since DoD. Casting magic usually leads to circles appearing in the Celestial Alphabet, either floating in the air or running over surfaces. Occasionally when something magic is going on, Celestial letters float around in the air like motes of dust. It's also used in interface elements like the target marker in flying missions, or boss names in <cite>NieR: Automata</cite>.
+
+Like Hebrew, the Celestial Alphabet has only consonants, not vowels. Apparently, when used in magic, the letters are usually those of the DNA bases A, C, G and T, representing the human genome---but I have not confirmed this!
 
 ## The soundtrack
 
-The DoD/NieR series in part became known for Keiichi Okabe's beautiful, haunting songs, but the original Drag-on Dragoon soundtrack composed by Sano Nobuyoshi and Aihara Takayuki took a different approach to match the disquieting tone of the game. It's composed of tiny samples from classical music, recut into long repeating strings---and though it sounds like it would be headache-inducing, it ends up working very well and adding a lot to the game.
+The DoD/NieR series in part became known for Keiichi Okabe's beautiful, haunting songs, but the [Drag-on Dragoon soundtrack](https://www.youtube.com/watch?v=HkrTbleRsqc&list=PL8woW7Kc7z-YLptfM9eO31FlgRaxKNyCD) composed by Sano Nobuyoshi and Aihara Takayuki took a different approach, aiming to match the disquieting tone of the game. It's composed of tiny samples from classical music, recut into long repeating strings and riffs---and though it sounds like it would be headache-inducing, it ends up working very well.
 
 ## Chapter 1: "Beginnings"
 
@@ -41,31 +61,35 @@ Where we left off, we were at the Castle of the Goddess, also known as the Sanct
 
 Caim and Angelus together are nigh unstoppable. Though the Imperial army has air support in the form of airships, gargoyle cubes, and what I can only describe as kind of winged cupboard, none of it can stand up to the dragon. Having established total air supremacy, Caim and Angelus more or less wipe out the Imperial army besieging the castle, and then Caim storms the inside of the castle and reaches Furiae at the top.
 
-Inuart is with Furiae, defending her from Imperial soldiers, but he's not nearly as good at fighting as Caim. Caim arrives just in time, and kills the soldiers, giving us this rather character-establishing moment:
+Inuart is with Furiae, defending her from Imperial soldiers, but he's not nearly as good at fighting as Caim. Caim arrives just in time, and kills the soldiers, giving us a character-establishing moment:
 
-{% include figure.html src='AlreadyDead.webp' alt="A screenshot from DoD 1. Caim stabs the corpse of an Imperial soldier; Inuart says 'Caim, that's enough! He's dead..." %}
+{% include figure.html src='embed/nier/AlreadyDead.webp' alt="A screenshot from DoD 1. Caim stabs the corpse of an Imperial soldier; Inuart says 'Caim, that's enough! He's dead..." %}
 
 Caim reveals that he cannot speak due to his Pact. Inuart takes charge, and proposes evacuating Furiae from the castle to travel to a nearby 'Elf Village'; the Elves, he says, are sworn to neutrality in the conflict. We get a short FMV where Inuart sings to celebrate their victory:
 
-{% include youtube.html %}
+{% include youtube.html id='CY5xg5u_YvY' capt="[<a href='https://youtu.be/NQXR3erl-MU?t=2015'>Japanese audio</a> (the song is the same in both versions)]" %}
 
 ## Chapter 2: "Complications"
 
 Escorted by a handful of surviving Union soldiers, the group get underway, but Angelus perceives that the Elf Village has been attacked by the Empire. Inuart refuses to listen, and insists on continuing to the village. Caim and Angelus get in the air, and soon find Imperial air forces massing, which they blow up. They find an Imperial army outside the village, and blow them up too. But this blowing up is all for naught: the Empire have, in news that's surely absolutely shocking to everyone, massacred the elves and left with any survivors.
 
+{% include youtube.html id='MsrFtzQra9c?start=1494&end=1525' capt="Caim discovers the creed of the Church of the Angels. (Japanese voices only from now on, since the English dub is rather grating.)" %}
+
 Angelus receives a message from Verdelet, since Pacted people can apparently communicate with not just their own Pact partner but any of them? He wants them to join him in the Desert Temple (the Land of Sands in DoD3), and Inuart and Furiae go ahead. Caim and Angelus investigate the village, and find a dead Imperial soldier with the creed of the Church written beside him in blood. Oddly, Angelus does not know what Angels are, or the connection between the Empire and the Church.
 
-Next, they find a dying elf, who advises them to go to a shrine where most of the villagers have been taken. The Shrine---presumably, the same Forest Shrine once occupied by Three---is known to belong to the Church, but the connection between Church and Empire is apparently less well understood by pretty much everyone. When they arrive, Angelus sneers at the terrible state of the Shrine while Caim kills the Empire's 'wizard-priests' (which are *extremely* annoying enemies, since they can kite you with ranged attacks and your options for blocking and dodging are very limited!) The elves, however, are nowhere to be found.
+Next, they find a dying elf, who advises them to go to a shrine where most of the villagers have been taken. The Shrine---presumably, the same Forest Shrine once occupied by Three---is known to belong to the Church, but the connection between Church and Empire is apparently less well understood by pretty much everyone. When they arrive, Angelus sneers at the terrible state of the Shrine while Caim kills the Empire's 'wizard-priests' (which are extremely annoying enemies, since they can kite you with ranged attacks and your options for blocking and dodging are very limited!) The elves, however, are nowhere to be found.
 
 ### Meeting Leonard
 
 Unlike DoD3 where the companions just join you as you play through the story, in DoD you need to jump through a bunch of extra hoops. This starts by beating that mission with the wizards in 20 minutes. If you do, you get a slightly different cutscene: a villager appears and informs Caim that he's from the Valley of the Faeries, which is under attack. This leads to meeting Leonard.
 
-As we meet him, Leonard is kneeling in front of a burning house, with the bodies of his brothers strewn around the ground. He raises a dagger to kill himself, but can't bring himself to do it. The Faerie shows up and taunts and suicide-baits him, and then suddenly proposes a pact.
+{% include youtube.html id='MsrFtzQra9c?start=5774&end=5942' capt="Leonard does not kill himself, but forms a pact." %}
+
+As we meet him, Leonard is kneeling in front of a burning house, with the bodies of his brothers strewn around the ground. He raises a dagger to kill himself, but can't bring himself to do it. The Faerie shows up, taunting and suicide-baiting him, and then suddenly proposes a pact.
 
 Caim and Angelus become aware of Leonard when they hear his Pact-boosted voice, and close in on his house. They find Leonard doing last rites for the Imperial soldiers he just killed. He agrees to accompany them towards the desert.
 
-## Leonard's regret branch (alternative Chapter 2)
+## Leonard's regret (alternative Chapter 2)
 
 There is another branch point earlier in the chapter which requires you to recruit Leonard and play a little of Chapter 3, then come back to an alternate version of the scene where Caim inspects the destroyed elf village. This time, Leonard is present while Caim inspects the blood message expressing the creed of the Church of the Angels.
 
@@ -73,7 +97,9 @@ There is no explanation as to why; I reasoned that perhaps it had to do with cha
 
 In any case, in this timeline, Leonard receives a vision of the Forest of the Seal on fire, apparently broadcast by Verdelet. The player has the option of going to the Forest of the Seal, home of the Faeries, to get a special chapter.
 
-The Empire, it turns out, is burning the forest. Leonard's Faerie points out a group of child sodliers conscripted by the Empire.
+The Empire, it turns out, is burning the forest. Leonard's Faerie points out a group of child soldiers conscripted by the Empire.
+
+{% include youtube.html id='MsrFtzQra9c?start=6264&end=6532' capt="The important parts of the Leonard's Regret mission." %}
 
 Caim, in his usual way, sets about killing everyone in sight. Leonard protests---they're conscripts, maybe he could talk to them!---and even Angelus has qualms. (The child soldiers have a distinct model with weirdly green faces, and killing them is required to progress.) As you kill them, the children beg for mercy, while the mission objective text presents more and more encouragement to slaughter them. "While young, they are dangerous tools of the empire." it tells you. "Send them all to hell."
 
@@ -85,7 +111,9 @@ Imperials dealt with, they meet the King of the Faeries, who is much the same as
 
 Upon arriving in the desert, Caim immediately runs into Furiae, who tells him that Inuart and Verdelet have been captured and imprisoned. Furiae asks him to go and rescue them, leading to an intense dogfight with some uh... lamia maybe? I think that's what you call a wingéd lion. On the ground, Caim wipes out the prison guards, freeing some Union soldiers along with Verdelet. But Inuart has been moved to another prison.
 
-We cut to Inuart, a mysterious voice echoes Inuart's possessive feelings about Furiae back to him as Inuart begs for mercy. It informs him that Furiae will be killed by the strain of being the Goddess of the Seal, and tells him that if he has the power of a dragon's pact, he could make it so that she is no longer the goddess. Caim, of course, can't be allowed to do it---after all, he could 'bask in her love and affection' and Inuart would have nothing. Inuart's eyes turn red: he's been infected.
+{% include youtube.html id='MsrFtzQra9c?start=2032&end=2164' capt="Inuart is indoctrinated into the Church of the Angels." %}
+
+We cut to Inuart, a mysterious voice (implicitly, the Angels possessing Manah) echoes Inuart's possessive feelings about Furiae back to him as Inuart begs for mercy. It informs him that Furiae will be killed by the strain of being the Goddess of the Seal, and tells him that if he has the power of a dragon's pact, he could make it so that she is no longer the goddess. Caim, of course, can't be allowed to do it---after all, he could 'bask in her love and affection' and Inuart would have nothing. Inuart's eyes turn red: he's been infected.
 
 Back in the desesrt, Verdelet warns that the Empire is about to destroy the Seal in the Desert Shrine. Caim and Angelus make for the shrine, which is a kind of stone platform with a magic circle, and Caim kills just about everything in sight. But then ghosts start coming out of the Seal itself. There follows a gruelling battle in which Caim and Angelus run about, massacring the Empire's soldiers, but it all amounts to nothing: the Seal is broken.
 
@@ -94,6 +122,8 @@ This is going to become a pattern.
 Though Inuart has been taken, the gang do find his harp. Furiae worries, and Verdelet is broadly useless. But then, they hear another Pacted voice in the distance, from another Imperial prison. It's Arioch.
 
 ### Meeting Arioch
+
+{% include youtube.html id='MsrFtzQra9c?start=6950&end=7051' capt="Arioch forms a pact." %}
 
 We're introduced to Arioch by overhearing two guards having an objectifying conversation about their prisoner while Arioch laughs in the background. Then the Union attacks and busts the prison open, and we see an FMV of Arioch, bound in a whole lot of belts. She gets a vision of two bright lights, one blue, one orange: the elementals, Undine and Salamander. She forms a pact with the pair, allowing her to jump into the pact partner group chat.
 
@@ -105,67 +135,81 @@ Once you've recruited Arioch, you get the option to rewind to the midpoint of Ch
 
 Much like Leonard's alternate chapter, the theme of this chapter is horrible things happening to children. For some reason the Empire is... throwing the civilians from the elf village into the sea, children included. Caim and Angelus attack the Imperial gunboats from the air, but as soon as the battle is won, they find Arioch has started eating the bodies. (Bizarrely, in this cutscene, everyone seems to be walking on water.)
 
+{% include youtube.html id='MsrFtzQra9c?start=7597&end=7667' capt='Arioch eats the bodies of the children thrown overboard by the Empire, and Undine and Salamander explain her story.' %}
+
 Undine and Salamander explain what happened to Arioch's children, and the price of their Pact. Her story, they say dispassionately, is one of 'solitude and death, for all eternity.'
 
 Despite all the ships and clumps of flying skulls that Caim destroys, the Seal is unceremoniously broken. Womp womp.
 
+{% include figure.html src='embed/nier/AngelusForm2.webp' alt='The second form of the red dragon Angelus. Her horns have developed more and there is a stinger in her tail.' class='float right' wraptight=true %}
+
 ## Chapter 4: "Betrayal"
 
-Regardless of which route you take, at the end of Chapter 3, Angelus transforms into her second form.
+Regardless of which route you take, at the end of Chapter 3, Angelus transforms into her second form. The next chapter takes place in an icy area called the Winter Wastelands, which seems to be somewhere in Eastern Europe judging by the map.
 
-<cite>Drag-on Dragoon</cite> is not a short game. We're still pretty early on at this point. The next chapter takes place in an icy area called the Winter Wastelands, which seems to be somewhere in Eastern Europe judging by the map.
+{% include youtube.html id='MsrFtzQra9c?start=2533&end=2785' capt="Inuart's entrance, and kidnapping of Furiae." %}
 
-Inuart appears, riding the black dragon Legna with whom he's formed a Pact. He asks Furiae to come with him, telling her that she 'need not be the only sacrifice' anymore. Caim pulls his sword as Inuart explains that he traded his songs for strength. This leads to an FMV where Caim and Inuart, and their dragons, confront each other. Inuart knocks Caim down, and Legna proves stronger than Angelus and bites her neck, giving Caim a flashback of the time Legna killed his parents. Inuart wins the fight, knocks Verdelet down, kisses Furiae despite her pushing him away, and abducts her. In a rather heavy-handed moment, he says 'welcome to a world without song' and his harp drops in front of the camera.
+Inuart appears, riding the black dragon Legna with whom he's formed a Pact. He asks Furiae to come with him, telling her that she 'need not be the only sacrifice' anymore. Caim pulls his sword as Inuart explains that he traded his songs for strength. This leads to an FMV where Caim and Inuart, and their dragons, confront each other. Inuart overwhelms Caim with unexpected force, and Legna proves stronger than Angelus and bites her neck, giving Caim a flashback of the time Legna killed his parents. Ultimately, Inuart wins the fight, knocks Verdelet down, kisses Furiae despite her pushing him away, and abducts her. In a rather heavy-handed moment, he says 'welcome to a world without song' and his harp drops in front of the camera.
 
-Pursuing Inuart, Caim et al come onto an Imperial column, and rout them. The column includes goblins, who Verdelet casually refers to as subhumans, alternating between calling for slaughter and wondering whether their cause is really just. (Caim does not seem to particularly care and just gets on with killing everyone.) They defeat some giants who are gathering sacrifices for the Empire, and somehow read its mind to discern that Furiae has been taken to a fortress.
+Pursuing Inuart, Caim et al come onto an Imperial column, and rout them. The column includes goblins, who Verdelet and the mission text casually refer to as "subhumans", alternating between calling for slaughter and wondering whether their cause is really just. (Caim does not seem to particularly care and just gets on with killing everyone.) They defeat some giants who are gathering sacrifices for the Empire, and somehow read its mind to discern that Furiae has been taken to a fortress.
 
-At that point, they hear a distant scream, which Angelus declares must be from the Faeries, indicating the Forest seal has also fallen. They rush towards the Empire, through a dangerous path where golems live. In practice this means you have to go through an absolutely gruelling mission killing goblins in winding canyons before finally blowing up an Imperial golem, which has crenellations on its head for some reason.
+At that point, they hear a distant scream, which Angelus declares must be from the Faeries, indicating the Forest seal has also fallen. They rush towards the Empire, through a dangerous path where golems live. In practice this means you have to go through an absolutely gruelling mission killing goblins in winding canyons before finally blowing up an Imperial golem, which has crenellations on its head.
 
 ### Meeting Seere
 
 This is where you recruit Seere, but it's only accessible after you see ending A.
 
+{% include youtube.html id='MsrFtzQra9c?start=7754&end=7869' capt="The introduction of Seere, and then Golem." %}
+
 You hear Seere and Manah's mother talking to Seere with her dying breaths. 'I love only you', she says. Seere does not understand that she's dead.
 
 In an FMV, Seere sees a golem come around the corner. It's carrying Seere, who explains that in his village, everyone died. The golem is not very talkative, and apparently formed a pact out of protective feeling. Seere confirms that he gave away his 'time', meaning he will never age, but always remain a child.  
 
-## Seere's Prayer (alternative chapter 4)
+## Seere's Prayer (alternative Chapter 4)
 
 Seere directs the group to the valley where his sister Manah was taken by the Empire, after their mother abandoned her. As soon as they get there, a bunch of Imperial wizards and golems attack. This chapter is broadly a series of irrelevant battles while Seere explains how his mother abused Manah, but left him alone.
 
 A wizard possesses Seere's Golem, and Seere starts telling it it's all right to hit him. Accidentally injuring Seere breaks Golem's possession, but also, eesh, Seere. During the following mission, Seere tells you that the other golems are merely being controlled by the wizards, not fighting you willingly. Not long after, he gets kidnapped and taken to an amphitheatre.
 
-For some reason, the goblins who capture Seere and put him as a prize in their 'coliseum' feel a need to taunt him about his uselessness. Why they care, I'm not sure! But Caim has to fight ten waves of gladiators, named such things as the 'husband and wife giant pair' or 'three beautiful sisters of death'.
+Bizarrely, the goblins who capture Seere and put him as a prize in their coliseum feel a need to taunt him about his uselessness. Why they care, I'm not sure! But Caim has to fight ten waves of gladiators, named such things as the 'husband and wife giant pair' or 'three beautiful sisters of death'.
 
 Seere rescued, they hear the scream of the Faeries, and get the call to the big battle as before.
 
 ## Chapter 5: "Destruction"
 
-This chapter takes place in the 'Blue Mountains', which appear to correspond to the Pyrenees. It opens with an FMV depicting the Union battling the Empire. Caim's efforts do not seem to have been in vain, since the Union forces appear well-matched with the Empire.
+This chapter takes place in the 'Blue Mountains', which appear to correspond to the Pyrenees. It opens with an FMV depicting the Union entering battle with the Empire. Caim's efforts do not seem to have been in vain, and the forces are now well-matched in power...
 
-Abruptly, this changes when giant stony cyclopses appear behind the Imperial army. These have some of the coolest enemy designs in the game: the strange drooping face, the scaffolding attached to them, the way their arms are bound behind their backs. Alongside them comes air support in the form of what appear to be beholders from D&D. Nome of them are a match for Angelus.
+{% include youtube.html id='MsrFtzQra9c?start=3160&end=3229' capt="The cyclpses appear behind the Empire's lines." %}
 
-Joining the Union army on the ground, Caim and Angelus lay absolute waste to the Imperial army, killing thousands of them. It seems the Union has won. But the victory is short-lived. The ground starts shaking, and a blast comes from the sky, creating for all intents and purposes a nuclear explosion complete with mushroom cloud.
+Abruptly, giant cyclopses appear behind the Imperial army. These have some of the coolest enemy designs in the game: the strange drooping face, the scaffolding attached to them, the way their arms are bound behind their backs. They remind me of some of the designs in <cite>Nausicaa</cite>. Alongside them comes air support in the form of what appear to be beholders from D&D. Caim, the only force on the Union side which can match these, takes to the air and kills the cyclopses.
 
-The Empire, it turns out, has a massive flying fortress. Perhaps it's related to Four's angel Armaros, which also took the form of a flying fortress? In any case, Verdelet panics and declares it the judgement of (the) God(s). Caim kicks him a bit, saying nothing as usual. Then, in the blast craters, the Imperial soldiers start reanimating, and Caim and Angelus get back to the mass killing.
+Joining the Union army on the ground, Caim and Angelus lay absolute waste to the Imperial army, killing thousands of them. It seems the Union has won! But the victory is short-lived. The ground starts shaking, and a blast comes from the sky, creating for all intents and purposes a nuclear explosion complete with mushroom cloud.
 
-On Angelus, Caim ascends towards the flying fortress (which is much larger than Armaros, sitting on a floating island). But Angelus is unable to fly high enough to get on board---there is some sort of protection around the fortress.
+{% include youtube.html id='MsrFtzQra9c?start=3422&end=3503' capt="The Sky Fortress releases its nukes." %}
+
+The Empire, it turns out, has a massive flying fortress. (Perhaps it's related to Four's angel Armaros, which also took the form of a flying fortress? The Empire's fortress, however, better resembles a gigantic flying bivalve mollusc.) Verdelet panics and declares it the judgement of (the) God(s). Caim kicks him a bit, saying nothing as usual. Then, in the blast craters, the Imperial soldiers start reanimating, and Caim and Angelus get back to the mass killing.
+
+On Angelus, Caim ascends towards the flying fortress. But Angelus is unable to fly high enough to get on board---there is some sort of protection around the fortress.
 
 ## Chapter 6: "An Old Enemy"
 
 We see inside the Sky Fortress. Furiae has been changed into a dark dress, on a bed next to some sort of indiscernible pile of purple blobs. A strange pillar of light stands in the room, and behind it the figure of Manah, fully possessed by the Angels. Inuart boasts about his strength, and sets out to go fight Caim on the back of Legna. This time, Angelus wins, and Caim and Angelus chase the retreating Inuart and Legna back onto the fortress.
 
-Inside, Angelus flies around blowing up every cannon emplacement she can see. In the pact partner group chat, Verdelet continues to despair, saying the Seal-breaking ritual is close to completion. Caim gets off, and you have a timed mission where you have to get to Furiae within 20 minutes. As you do so, you hear Furiae's broken voice, expressing her feelings toward Caim. (Listening to the voices undub, I noticed that a dialogue that just says 好き (romantic love) is replaced with 'I...') However, Caim apparently doesn't hear this.
+Inside, Angelus flies around blowing up every cannon emplacement she can see. In the pact partner group chat, Verdelet continues to despair, saying the Seal-breaking ritual is close to completion. Caim enters the fortress proper on foot, and you have a timed mission where you have to get to Furiae within 20 minutes. As you do so, you hear Furiae's broken voice, expressing her feelings toward Caim. (Listening to the voices undub, I noticed that a dialogue fragment that just says 好き (romantic love) is replaced with 'I...') However, Caim apparently doesn't hear this.
+
+{% include youtube.html id='MsrFtzQra9c?start=4039&end=4097' capt="Caim sees the body of Furiae, and almost gives up." %}
 
 Caim enters the inner sanctum of the fortress, and sees Manah walking around reciting the Cult's creed, while Furiae lies, dead, on the strange glass pillar. Angelus begs Caim not to give up, but to destroy the Eggs of Resurrection.
 
 ## Chapter 7: "Tragedy"
 
+{% include youtube.html id='MsrFtzQra9c?start=4118&end=4261' capt="Inuart learns what happened to Furiae, and departs the Sky Fortress with her body." %}
+
 This chapter is introduced by an FMV. Manah dances in front of Furiae's dead body. Inuart shoves his way to the front of the soldiers, and sees the body. Suddenly, his Red Eye disappears. A deep voice comes in over Manah's as she explains that Furiae is no longer useful. Inuart has a breakdown as Furiae dances, realising that his motives were more selfish than he was ever willing to acknowledge. Inuart leaves on Legna, carrying Furiae's corpse... and gets a terrible idea.
 
 Caim and Angelus chase after him and have an aerial dogfight. But before he can finish Inuart off, Verdelet calls on him to stop---the Seal is broken.
 
-This chapter entirely consists of this one boss fight. Afterwards, Angelus advances to her third stage. Depending how well you execute this boss fight, you can go to chapter 8, once you've seen ending A, chapter 9.
+This chapter entirely consists of this one boss fight. Depending how well you execute this boss fight, you can go to chapter 8, or (once you've also seen ending A), chapter 9.
 
 ## Chapter 8: "Seals"
 
@@ -177,11 +221,15 @@ Caim descends to the ground, finding the Cathedral City largely in ruins and pop
 
 Inside the building, Caim faces an honestly ridiculous number of enemies. (I'm not sure if the Cathedral in DoD3 is intended to represent the same building as this Temple in DoD. The Cathedral is much larger, and has different architecture in general, but that might just be the result of tech limitations.) As Caim fights, Manah's voice switches between the high-pitched child voice and the deep voice of the Angels speaking through her.
 
+{% include youtube.html id='MsrFtzQra9c?start=4841&end=4923' capt="Verdelet catastrophically fails to seal away Manah." %}
+
 Finally, Caim reaches Manah, but before he can kill her, Verdelet intervenes: "I am the Hierarch, this is my duty." Verdelet starts chanting, creating rings of text in the Celestial Alphabet, which he sends towards Manah---but she starts laughing in the deep Angel voice, and suddenly grows enormous.
 
 ### Ending A: the [A]nguish of an Unsmiling Angel
 
 In the final boss fight of this branch, Caim hops on Angelus to fight a giant flying Manah above the Cathedral City. At first, Manah attacks with homing bullets, but she soon begins a sustained attack where large purple rings of Celestial Alphabet fly out of her in a variety of patterns. But, ~~thanks to judicious use of savestates~~ Angelus prevails, and Manah falls back to the city while shrinking back to her normal size.
+
+{% include youtube.html id='MsrFtzQra9c?start=5038&end=5410' capt="Manah is judged, and Angelus becomes the Seal." %}
 
 Back in the temple, Caim, Verdelet and Angelus stand about silently while Manah begs Caim to kill her, and begs for her mother's love. Caim, Angelus says, will leave her alive to suffer the judgement of all of humanity, as a harsher punishment than merely killing her.
 
@@ -191,6 +239,8 @@ Someone, Verdelet declares, must become the new Goddess of the Seal. Angelus ask
 
 If you manage to do enough damage to Legna in Chapter 7 in a four-and-a-half minute window, Inuart descends to the Cathedral City with Furiae's body instead of escaping. He believes that somehow, the Eggs will be able to bring her back. In this version, Angelus does not grow into her third form. No...
 
+{% include youtube.html id='MsrFtzQra9c?start=9072&end=9161' capt="Caim confronts Inuart in front of an Egg of Resurrection" %}
+
 On ground level, Caim catches up with Inuart, who has placed Furiae's body in front of one of the Eggs. He kneels in front of Caim, and insists that the Egg will give him a miracle. He stills sees this as a contest of strength between himself and Caim, one which this time, he will finally win.
 
 He takes to the air on Legna, and Caim once again fights him on Angelus. This is tougher than the previous fights: Legna gets a whole lot of free dodges and your homing attack is basically useless, so it's a game of dodging his homing attacks (not easy!) and leading him on your manually aimed shots---but he constantly changes direction and your tracking is very slow!
@@ -198,6 +248,8 @@ He takes to the air on Legna, and Caim once again fights him on Angelus. This is
 Depending on how your fight with Inuart goes, the story branches here. If you manage to beat Inuart in less than 260 seconds, you can access ending C; otherwise, you're on track for ending B.
 
 ### Ending B: flowers for the [B]roken spirit
+
+{% include youtube.html id='MsrFtzQra9c?start=9248&end=9377' capt="Inuart places Furiae's body into an Egg." %}
 
 We see an FMV: the Cathedral City is burning, filled with Eggs of Resurrection (or, if you ask Angelus, destruction). Inuart walks up to an Egg carrying Furiae's body, and raises her up to the surface. She disappears inside, and Celestial Alphabet covers the egg, which is briefly translucent. The surface ripples, and at first it seems that Furiae has been successfully resurrected, now with angelic wings. She looks at Inuart, who reaches out to her, and then she eviscerates him with a big centipede tail.
 
@@ -207,17 +259,21 @@ The final FMV sees Caim standing over the Cathedral City as dawn breaks, holding
 
 ### Ending C: a [C]ompanion's eternal farewell.
 
-Caim manages to defeat him, and he lands next to Furiae and starts begging Caim to let him die together with her. He lies beside her, and Caim descides to let him be.
+{% include youtube.html id='MsrFtzQra9c?start=10208&end=10290' capt="Manah tries to take control of the dragons." %}
 
-At this point, Angelus interrupts: Manah is at the altar. We see her standing in front of one of the Eggs, where she declares dragons are the tools of God, and will be her servants. Angelus transforms into a new form: the 'chaos dragon'
+Caim manages to defeat Inuart, who lands next to Furiae and starts begging Caim to let him die together with her. Caim leaves the two lying on the ground together.
 
-Angelus explains that other dragons have devoured Manah. She declares that 'powers greater than we' have fated them to fight each other, obviating the Pact. This has something to do with the nature of dragons, which were, she says, created to destroy humanity. But she retains her ability to speak, and talks about her regret while she fights you. Caim regains use of his voice, but apparently all he has to say is "I am Caim". Yes Caim, you sure are.
+At this point, Angelus interrupts: Manah is at the altar. We see her standing in front of one of the Eggs, where she declares dragons are the tools of God, and will be her servants. But the dragons have other ideas, and devour her.
+
+Angelus transforms into a new form: the 'Chaos Dragon', with a skull for a face. She declares that 'powers greater than we' have fated her and Caim to fight each other, obviating the Pact. This has something to do with the nature of dragons, which were, she says, created to destroy humanity. But she retains her ability to speak, and talks about her regret while she fights you. Caim regains use of his voice, but apparently all he has to say is "I am Caim". Yes Caim, you sure are.
 
 This boss fight is pretty tough. The space is enclosed enough that Angelus can't take full advantage of her mobility, but she still likes to hop from end to end of the room, introducing an increasing variety of kinds of fire.
 
+{% include youtube.html id='MsrFtzQra9c?start=10555&end=10637' capt="Manah tries to take control of the dragons." %}
+
 With Angelus dead, Caim smashes the nearby Egg of Resurrection, only to hear a roar from outside. He steps out the door to see that Angelus isn't the only dragon affected by... whatever the hell Manah did. But hey, he's Caim, so what's 'a million dragons'?
 
-Honestly, I don't know how to reconcile this ending with just about _anything_---which is to say, I think it's largely been retconned away. It now seems that dragons were created by androids or perhaps even humans in the Kingdom of Night in the <cite>NieR</cite> world, so why they would go and destroy humanity in the name of God is far from clear. This branch has never been followed up on, so who knows what happens in dragon world.
+Honestly, I don't know how to reconcile this ending with just about _anything_---which is to say, I think it's largely been retconned away. It now seems that dragons were created by androids or perhaps even humans in the Kingdom of Night in the <cite>NieR</cite> world, so why they would go and destroy humanity in the name of God is far from clear. Alternatively, if you accept DoD 2 canon, the dragons are rebelling against God, so again... who knows. This branch has never been followed up on.
 
 ## Chapter 10: "Astray"
 
@@ -235,15 +291,19 @@ Caim and his companions appear in a separate sections of the Sky Fortress, and s
 
 ### If you don't find Manah
 
+{% include youtube.html id='MsrFtzQra9c?start=9948&end=10177' capt="Caim learns about Furiae's feelings, and she kills herself." %}
+
 Caim meets Inuart in the inner sanctum, still loyal to the Empire. Inuart explains that he's no traitor---he's creating a new world! Furiae is still alive, and begs Inuart not to stay there.
 
 In the background, Manah laughs in the deep voice of the power possessing her. She uses some kind of magic to pin Furiae to the glass pillar, and echoes her thoughts out loud---including the ones about being into Caim. Caim looks on mutely, and backs away slightly---and, in the face of his rejection, Furiae grabs a dagger and stabs herself.
 
-Caim despairs. He raises his sword to attack Manah, but Angelus persuades him to rush to go after the EGgs instead. The story rejoins chapter 7.
+Caim despairs. He raises his sword to attack Manah, but Angelus persuades him to rush to go after the Eggs instead. The story rejoins chapter 7.
 
 ### If you do find Manah
 
 Rather than entering the inner sanctum, Caim turns around and runs back, and finds Manah dancing in one of the rooms of the fortress. He gives chase, and tracks Manah to a round room with a small stepped dais. Caim moves to kill her, but Seere jumps into the way. He blames himself for Manah's condition, and begs her to be strong.
+
+{% include youtube.html id='MsrFtzQra9c?start=10993&end=11157' capt="Seere confronts his sister, and resigns to have Golem kill her." %}
 
 Manah rises onto the dais and gives a short speech. *She* is loved by the Angels... and the other humans refuse to be loved. So Seere asks Golem to help.
 
@@ -251,15 +311,19 @@ Golem does so... by walking up and squashing Manah flat.
 
 Unfortunately, Manah's death does *not* stop the catastrophe. In fact, it makes it *so* much worse.
 
-Meanwhile, Inuart is with Furiae. Inuart declares there *is* a way... they will 'give birth to the world'. Angelus takes on her Chaos form once again.
+Meanwhile, Inuart is with Furiae. Inuart declares there *is* a way... they will 'give birth to the world'.
 
 ## Chapter 12: "Chaos"
 
+{% include youtube.html id='MsrFtzQra9c?start=11226&end=11290' capt="The Angels descend upon Earth." %}
+
 An FMV shows a light appearing above the Cathedral City. Three large pools of light emerge, and from them, giant babies slowly drift down to Earth, head first. They start to cry... and float out over the city, electric wings flickering behind them. (The devs definitely did watch <cite>Evangelion</cite>.)
 
-These are elsewhere stated to be the Angels we've been waiting for, though the game mostly calls them Grotesqueries instead (in Japanese as well as English, so far as I can tell). Caim and Angelus get into the sky and start fighting them. Individually, they're not so tough, but each one launches homing magic missiles and it's pretty tough to get to the required 50 kills.
+These are elsewhere stated to be the Angels worshipped by the Church, though the game mostly calls them Grotesqueries instead (in Japanese as well as English, so far as I can tell). Caim and Angelus get into the sky and start fighting them. Individually, they're not so tough, but each one launches homing magic missiles and it's takes a few tries to get to the required 50 kills.
 
-Down at ground level, the street is full of smaller angels. Caim and the gang get to killing, though more and more appear endlessly.
+Down at ground level, the street is full of smaller angels. Caim and the gang get to killing, though more and more angels appear, seemingly endlessly.
+
+{% include youtube.html id='MsrFtzQra9c?start=11442&end=11651' capt="Arioch allows herself to be devoured by the Angels, the Mother Angel manifests, and Leonard blows himself up in a suicide attack." %}
 
 In an FMV, Arioch gets very excited by the swarms of flying babies, and allows them to descend... and eat her alive. Verdelet cowers in a corner, only to suddenly receive a message in an unfamiliar voice telling him to run---perhaps his petrified dragon.
 
@@ -271,11 +335,15 @@ Only Caim, Seere, Angelus and Golem remain. As Caim fights his way towards the Q
 
 ### Ending D: the wild dreams of a [D]eluded child
 
+{% include youtube.html id='MsrFtzQra9c?start=11698&end=11873' capt="Seere hatches a plan to freeze the Mother Angel in time." %}
+
 As they approach the Mother Angel, Seere feels a strange heat---apparently his body, which has lost its time, is reacting to the Great Time. The Golem proposes breaking the pact, which will apparently release Seere's own time, with the effect of permanently freezing time for both Seere and the Mother Angel. (The descriptions are a little confusing but that seems to be the gist.)
 
 The Mother Angel lies down, and it takes on the appearance of an exaggerated pregnancy, her womb becoming more and more spherical as she fucks with Great Time. A circle of white fluid appears around it. Seere says goodbye, and asks Caim and Angelus to fly him onto the Mother Angel. He recites a story about a warrior who once drank all of time, and then, by releasing it, saved the world. He aspires to follow this 'Little Hero'.
 
 Caim and Angelus fly in through a curtain of angels and land on the Mother Angel. In a final FMV, Seere is released to dive onto the surface of the Mother Angel, where he lies down and looks at the Pact brand on his hand. The angels dive onto Angelus and start devouring her, but then Seere's time is released, as a kind of black spiky cone resembling a ferrofluid which covers up the Mother Angel, and extends into space as a vast conical tower covering most of Spain.
+
+{% include youtube.html id='MsrFtzQra9c?start=11896&end=12027' capt="Seere freezes the Mother Angel, creating a strange tower-like form stretching into space above the Cathedral City." %}
 
 The credits roll to the soft sound of bells.
 
@@ -289,20 +357,88 @@ In terms of story, not a lot of significance happens in the Free Expeditions---t
 
 ## Chapter 13: "Truth"
 
-The final branch starts just after Leonard and Arioch are devoured by the Angels. This time, Seere does not attempt his time freeze plan, but instead Caim and Angelus dive towards the dragon. Both are engulfed in white light, and fall through a portal somewhere very unexpected: Tokyo, in the year 2003. It is rendered in greyscale, unlike the rest of the game.
+The final branch starts just after Leonard and Arioch are devoured by the Angels. This time, Seere does not attempt his time freeze plan, but instead Caim and Angelus dive towards the Mother Angel. Both are engulfed in white light, and fall through a portal somewhere very unexpected: Shinjuku, Tokyo, in the year 2003. Unlike the rest of the game, this is rendered exclusively in greyscale.
 
 ### Ending E: [E]nd of the Dragon Sphere
 
-According to Yoko Taro, this ending is directly inspired by <cite>End of Evangelion</cite>.
+{% include youtube.html id='MsrFtzQra9c?start=12353' capt="The full Ending E sequence, including the boss fight with the Mother Angel." %}
 
 Much like in ending D of DoD 3, Caim and Angelus orbit the Mother Angel, which releases a series of rings of Celestial Alphabet which will, if unchecked, destroy the world. But this version is a little more merciful. While DoD 3's final boss was a rhythm game, this one is more of Simon Says game, but one which requires very rapid inputs and gives you little time to learn. Angelus's rings expand out to hit the rings of the Mother Angel, so you don't need perfect timing, but you must match the colour to avoid getting stunned for long enough that you'll probably die. Luckily, in the modern day we can exploit savestates, and you can also pause at any time to look at the oncoming rings. It's also only two and a half minutes long.
 
 At the end, the Mother Angel collapses into dust. Angelus hovers above... 'it is done.' she says. And then, she is abruptly shot out of the air by jets of the 303rd Flight Squadron, 6th Air Group of the Japanese Air Self Defence Force. Both her and Caim's bodies fall to the ground. The credits roll to the sound of traffic, and finally we see Angelus's body speared on Tokyo Tower. Manah's voice thanks us for playing.
 
-There's actually an easter egg Free Expedition that comes after this ending, where you can fight five jets on Angelus. The jets are much faster and more manoeuvrable than she is. If you manage to shoot down all 5 jets, you unlock a special bonus 'dragon' for use in air expeditions: the [Sukhoi Su-37](https://en.wikipedia.org/wiki/Sukhoi_Su-37), a Russian experimental supermanoeuvrable jet that featured in the <cite>Ace Combat</cite> games. Adorably, Caim sits on top of the cockpit holding his sword, just like he did on Angelus.
+There's actually an easter egg Free Expedition that comes after this ending, where you can fight five jets on Angelus. The jets are much faster and more manoeuvrable than she is. If you manage to shoot down all 5 jets, you [unlock a special bonus 'dragon'](https://www.youtube.com/watch?v=A9MN8xyZESg) for use in air expeditions: the [Sukhoi Su-37](https://en.wikipedia.org/wiki/Sukhoi_Su-37), a Russian experimental supermanoeuvrable jet that featured in the <cite>Ace Combat</cite> games. Adorably, Caim sits on top of the cockpit holding his sword, just like he did on Angelus.
 
-And that's <cite>Drag-on Dragoon</cite>! For what happens next with Angelus and the Mother Angel, the story picks up in <cite>NieR</cite>. As for what might happen back in the DoD world, it's not at all clear. Maybe the angels eat everybody. Maybe without the Mother Angel, they all go back to whatever sort of fucked up home they have.
+And that's <cite>Drag-on Dragoon</cite>! For what happens next with Angelus and the Mother Angel, the story picks up in <cite>NieR</cite>. As for what might happen back in the DoD world, it's not at all clear. Maybe the angels eat everybody. Maybe, without the Mother Angel, they all go back to wherever angels live.
 
 ## The 1.3 novel
 
-But what about the A branch of DoD 3? This is covered by another Eishima Jun novel, <cite>Drag-on Dragoon v1.3</cite>. This one has also not received a full translation, but Rekka Alexiel has made some notes available.
+But what about the A branch of DoD 3? This side of the story is covered by another novel, <cite>Drag-on Dragoon 1.3</cite>, published in 2014, the year after DoD3 was released. More of a collection of short stories than a novel, it has not received a full translation, but Rekka Alexiel has [translated the first chapter](http://firesanctuary.com/blog/2014/05/24/dod1-3-the-crimson-dragon/), and provided [character notes](http://firesanctuary.com/blog/2014/05/26/dod1-3-assorted-info/) and [summaries](http://firesanctuary.com/blog/2014/05/26/dod1-3-images-and-brief-summary/) of the content. Each chapter is written by a different author, following an outline by Yoko Taro.
+
+So what's different? Does this novel smooth over all the weird tangents and retconned details and turn DoD into one clear story? Looking at Rekka's summaries... not remotely! Instead, we get another flavour of apocalypse and a whole rainbow of dragons.
+
+Like the game, the 1.3 novel splits into five branches with different endings. However, only the A branch is covered in the novel, and the rest is left to implication.
+
+### The Crimson Dragon
+
+We first meet Caim, climbing a mountain to make an appeal to Angelus. Most of his 25 soldiers have died of hypothermia, but he presses on, reminiscing on his history as the last survivor of Caerleon after the events of <cite>Shi Ni Itaru Aka</cite>. To match the power of the Red-Eye soldiers, Verdelet came up with an idea: the Union should make an alliance with the dragons. So Caim climbs a mountain to meet an unknown dragon; if it's Legna, he will take his revenge, otherwise he will propose an alliance.
+
+Caim is caught in an avalanche, but survives, ending up in a cave. Presumably, he's successful in proposing an alliance with Angelus, since he rides her in the rest of the stories (though without the benefit of a magical Pact).
+
+{% include figure.html src='embed/nier/FuriaeDragon.webp' alt="A greyscale drawing of Furiae in front of her silver dragon, as portrayed in the DoD 1.3 novel. This version of Furiae wears the same dress and black scarf, but carries a sword and small shield." class="float left" capt="Furiae and her silver dragon." %}
+
+### The World Two Years Later
+
+This fragment shows that Legna and another dragon were captured and caged by a noble, who wanted to feast on dragon brains. The younger dragon dies, but Legna escapes and kills everyone.
+
+### The Truly Diseased
+
+This chapter concerns Leonard and Arioch, but Rekka has no notes on it.
+
+From the character summaries, we learn that Caim's companions form alliances with dragons, rather than pacts with various magical creatures. Leonard sides with a green dragon to protect a village, and Arioch joins a yellow dragon to look for something she's lost. That's all I have.
+
+### Little Sister
+
+Furiae becomes separated from Caim, but still has unrequited feelings, which motivate her to join a silver dragon to pursue him. She does not seem to be the Goddess of the Seal---indeed, there's no mention of the Seal in these summaries! She's been travelling with Inuart---who apparently does exist in this timeline, though he was not present at the destruction of Caerleon in <cite>Shi Ni Itaru Aka</cite>. However, when Furiae eventually catches up to Caim, he ignores her calls, and instructs Angelus to shoot down both her and her dragon!
+
+{% include figure.html src='embed/nier/AngelusAngelForm.webp' alt="The dragon Angelus in her humanoid 'Angel' form, as portrayed in the DoD 1.3 novel." class="float right" capt="Angelus in her 'angel' form at the end of the world." %}
+
+### A Ending
+
+Meanwhile, Seere and Manah travel together after the death of their mother, joining up with a 'rag-tag group of commoners and soldiers' loyal to the Church of the Angels. Seere secretly resents Manah, and when the travellers start to worship her as a 'Holy Mother', he sneaks away.
+
+In the final 'A ending' story, written by Yoko Taro himself, we find out what the dragons are up to. A 'demonic dragon' (Legna, presumably?) explains that, all along, the plan was to let Red-Eye multiply, because the dragons can gain great power by eating the infected. At this point, dragons start eating every human in sight.
+
+Caim is killed by one of these berserk dragons. Angelus cannot save him, but she [n.b. Rekka's translation uses 'he' pronouns] starts fighting the other dragons, breaking down into laughter as she does. At this point, from Seere's POV, we see the dragons start transforming into winged humanoid forms. Apparently this is their Angelic form. In this form, the dragons eat all the humans, which causes them to multiply further; then they start eating the rest of the Earth as well: mountains, trees, etc. This causes them to transform again into piles of writhing guts, which grow into gigantic babylike forms, and then they start eating each other. Angelus is spared, and watches from above the last few babies turn into giant eggs. These, apparently, will be used to 'begin anew, a time before this world ever existed' (Rekka's translation).
+
+Somehow Caim's corpse evaded most of the devouring, and Angelus (who is still in the Angelic form, and has not transformed into a pile of guts etc.) gives Caim a funeral of a sort, cutting her hair and letting it fall on his corpse, where it creates a funeral pyre.
+
+So... that explains absolutely nothing! Sounds like Yoko Taro had just watched <cite>Akira</cite> maybe?
+
+Of the other branches mentioned in the chart printed in <cite>DoD 1.3</cite>, the only one I can learn very much from is ending E, which is marked <cite>Shinjuku 2013</cite>. Apparently something crosses over into some version of our world, like in ending E of the game, and appears in the same place, though that's about all I can conclude from the title!
+
+## <cite>Drag-on Dragoon 2</cite>
+
+<cite>Drag-on Dragoon 2</cite> was released in 2005, another project of Cavia. Yoko Taro did not direct---instead this one was directed by Yasui Akira. (Yoko Taro was involved, but only as a video editor).
+
+{% include figure.html src='embed/nier/Nowe.webp' alt='Nowe, the protagonist of Drag-on Dragoon 2, a young man in mostly black clothes, including a sleeveless top and a complicated leather belt with multiple layers. His lower left arm is armoured, and in his right arm he holds a chunky, slightly serrated sword.' wraptight=true class='float right' %}
+
+I'm not going to write a full plot summary of DoD 2, since I haven't played it and it's largely ignored by the rest of the franchise. The game is written as if to follow from the A ending, where Angelus has become the Goddess of the Seal and Manah was spared. However, per word of Yoko Taro, it does *not* follow from the A ending, but instead takes place in a different branch to the ones shown in the game.
+
+In DoD2, following events similar to branch A of DoD, Inuart enters a Seed of Resurrection together with the body of Furiae and some of the blood of Legna. This creates a special child in the form of Nowe, the protagonist of DoD 2. Legna at some point regresses to the form of a blue dragon, though over the course of DoD 2 he transforms into a black dragon again.
+
+Verdelet founds an order called the Knights of the Seal, whose purpose is to uphold the Seal System. However, the Knights of the Seal soon become oppressive rulers in their own right. Manah escapes from Caim's custody, and starts fighting to overthrow the Knights.
+
+{% include figure.html src='embed/nier/ManahDoD2.webp' alt='Manah, as she appears in DoD 2. She wears a brown t-shirt and slightly flared trousers, and holds a green cloak in her hand. In her left hand she holds a curving blue staff. Under her t-shirt are the signs of a Pact.' wraptight=true class='float left' %}
+
+Nowe becomes a Knight of the Seal, upholding the 'keys' which protect Angelus's seal, and grows up alongside another knight, Eris. However, the two become alienated from the Knights after they try to poison Nowe. Joining Manah, Nowe and Eris start a campaign to overthrow the Knights---which will destroy the keys and release Angelus. On the way, he meets Caim, who is also trying to release Angelus from her burden.
+
+When Angelus is freed, she has been driven mad by the pressures of being the Seal and starts wrecking shit, so Nowe has to kill her. This kicks off all the chaos of the first game, but this is ultimately all part of the dragons' plan to storm heaven and devour God.
+
+In the ending sequence, Legna explains that Nowe is the dragons' weapon, and takes him to the 'Bone Casket' which created him. This is the only branch point: Nowe may refuse to enter the casket, in which case Legna fights him, but Nowe transforms into the New Breed; in this branch, his partner Eris must become the new Goddess of the Seal, to Nowe's horror. Or, he can try to enter the casket, only for it to attack him and mind control Manah; after defeating it, the gang join Legna in his rebellion against God. Finally, Manah can successfully subdue the casket, at which point Legna determines Nowe is no longer useful and fights him. In the third branch, when Legna dies, both the dragons and God fade away, leaving humans to make their own fate.
+
+There are some claims about the nature of dragons here which seem to have been retconned; Legna claims that God created dragons, but they rebelled, and dragons created humanity, but now it seems to be the other way round. Beyond that, DoD 2 has no further bearing on the plot of <cite>NieR</cite>, and by all accounts isn't much good, so let's leave it.
+
+## Onwards, to <cite>NieR</cite>
+
+At this point, we say goodbye to the DoD world, and jump over to the <cite>NieR</cite> branch, which followed real-world history up until the appearance of Caim, Angelus and the Mother Angel over Shinjuku in 2003. Unfortunately, defeating the Mother Angel did *not* save everybody...
