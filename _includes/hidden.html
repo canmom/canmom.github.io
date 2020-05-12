@@ -1,7 +1,5 @@
-<div class="hiddenheader">
-  <h3>{{ include.title | smartify }}</h3>
-  <button class="revealbutton" id="{{ include.id }}button" onclick="reveal('{{ include.id }}')">reveal</button>
-</div>
-<div id="{{ include.id }}" class="hiddencontent">
+<!--AFTER-->
+<details>
+<summary>{{ include.title | smartify }}</summary>
 {{ include.content | markdownify }}
-</div>
+</details>

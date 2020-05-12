@@ -254,14 +254,25 @@ article hr {
     border-top: 3px solid $border-colour;
 }
 
-.hiddenheader {
-    margin-top: 5px;
-    background-color: rgba($border-colour,0.4);
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    padding-right: 20px;
+article details {
+    margin: 5px 10px 20px 10px;
+    padding: 10px;
+    background-color: rgba($border-colour,0.2);
+}
+
+article details summary {
     border: 1px solid $border-colour;
+    background-color: rgba($border-colour,0.2);
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    opacity: .8;
+    display: list-item;
+    margin: -10px -10px -10px -10px;
+}
+
+article details[open] > summary {
+    margin-bottom: 10px;
 }
 
 .hiddencontent {
