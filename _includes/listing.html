@@ -3,9 +3,9 @@
     <a href="{{ post.url }}">
         <div class="titledate">
             <h3>{{ post.title }}</h3>
-            <div class="date">
+            <time datetime="{{post.date}}">
                 {{post.date | date: "%e&nbsp;%b.&nbsp;%Y"}}
-            </div>
+            </time>
         </div>
         <p>{{ post.excerpt }}</p>
         <ul class="tags">
