@@ -2,20 +2,21 @@
 title: Capital, prefaces
 excerpt: There is, it turns out, a lot that Marx and Engels have to say before we actually start with the whole 'reading Capital' thing. In large part, Marx complaining about the state of political economy in 1870s Germany. This turns out to be surprisingly entertaining.
 categories:
- - econ
+ - theory
  - capital
 tags:
  - capital
 layout: article
+redirect_from: "/econ/capital/capital-prefaces"
 date: 2017-09-26 14:19:00 GMT+0100
 ---
-I am reading *Capital* as part of a reading group led by [@edwad](http://edwad.tumblr.com), who’s incredibly dedicated to helping people understand Marxian economics and has made a very useful [course of reading](https://edwadacademy.tumblr.com/post/118162659440/course-outline).
+I am reading <cite>Capital</cite> as part of a reading group led by [@edwad](http://edwad.tumblr.com), who’s incredibly dedicated to helping people understand Marxian economics and has made a very useful [course of reading](https://edwadacademy.tumblr.com/post/118162659440/course-outline).
 
-In accordance with a previous version of Edwad’s study guide, I began by reading *Wage Labour and Capital* (since removed from the syllabus) and then *Value, Price and Profit*. Notes from those will be migrated to this site later; for now they can be read at [capitalmomentum](https://capitalmomentum.tumblr.com).
+In accordance with a previous version of Edwad’s study guide, I began by reading <cite>Wage Labour and Capital</cite> (since removed from the syllabus) and then <cite>Value, Price and Profit</cite>. Notes from those will be migrated to this site later; for now they can be read at [capitalmomentum](https://capitalmomentum.tumblr.com).
 
 ## Translator's preface
 
-*Capital: Critique of Political Economy* (*Das Kapital. Kritik der politischen Ökonomie*) was of course originally published in German. There are several translations of *Capital* available. I will be reading the Penguin translation, translated by Ben Fowkes in 1976. This corrects some mistakes and omissions in early translations. I'll quote Fowkes himself:
+<cite>Capital: Critique of Political Economy</cite> (<cite lang="de">Das Kapital. Kritik der politischen Ökonomie</cite>) was of course originally published in German. There are several translations of <cite>Capital</cite> available. I will be reading the Penguin translation, translated by Ben Fowkes in 1976. This corrects some mistakes and omissions in early translations. I'll quote Fowkes himself:
 
 > So why is a new translation necessary? Firstly, the English language itself has changed. A translation made in the nineteenth century can hardly survive this change intact. Think only of the pejorative sense the word ‘labourer’ has taken on, making its replacement by ‘worker’ essential.
 >
@@ -41,7 +42,7 @@ That's an awful lot of use of the word 'form'. Maybe later we'll have some idea 
 
 Marx has some very good lines in this intro. For example, talking about the remains of feudal relations:
 
-> In all other spheres, and just like the rest of Continental Western Europe, we suffer not only from the development of capitalist production, but also from the incompleteness of that development. Alongside the modern evils, we are oppressed by a whole series of inherited evils, arising from the passive survival of archaic and outmoded modes of production, with their accompanying train of anachronistic social and political relations. We suffer not only from the living, but from the dead. Le mort saisit le vif!
+> In all other spheres, and just like the rest of Continental Western Europe, we suffer not only from the development of capitalist production, but also from the incompleteness of that development. Alongside the modern evils, we are oppressed by a whole series of inherited evils, arising from the passive survival of archaic and outmoded modes of production, with their accompanying train of anachronistic social and political relations. We suffer not only from the living, but from the dead. <i lang="fr">Le mort saisit le vif!</i>
 
 He says that he mostly examines England because capitalism is more developed there, and because the statistics and inspections are a lot better allowing him to research it more thoroughly.
 
@@ -57,7 +58,7 @@ Fucking *zing*.
 
 The postface talks about modifications to the text and reception of the book in Germany, and the history of political economy in England, Germany and other countries. I don't really have the context to judge many of Marx's pronouncements.
 
-He declares there hasn't been a lot of study of political economy in Germany, because the *capitalist mode of production* was slower to develop there than England or France. They've mostly been aping the English and French ideas.
+He declares there hasn't been a lot of study of political economy in Germany, because the <i>capitalist mode of production</i> was slower to develop there than England or France. They've mostly been aping the English and French ideas.
 
 Since 1848, 'capitalist production has developed rapidly in Germany' leading to 'the full bloom of speculation and swindling'. But it was too late for German political economy:
 
@@ -121,7 +122,7 @@ Marx notes that he made edits to the French edition on the 'scrupulously exact' 
 
 ## Third edition preface
 
-Here Engels steps up. Marx, unfortunately, died in 1883 before he could finish revising *Capital*.
+Here Engels steps up. Marx, unfortunately, died in 1883 before he could finish revising <cite>Capital</cite>.
 
 > It was Marx’s original intention to re-write a great part of the text of the first volume, to formulate many theoretical points more exactly, to insert new ones, and to bring historical and statistical materials up to date. But his ailing condition and the urgent need to do the final editing of the second volume* induced him to give up this scheme. Only the most necessary alterations were to be made, only the insertions which the French edition (Le Capital, par Karl Marx, Paris, Lachâtre, 1873†) already contained were to be put in.
 

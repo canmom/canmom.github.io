@@ -2,11 +2,12 @@
 title: "Capital, chapter 1: The Commodity"
 excerpt: "Marx doesn't waste time: it's time to learn a theory of value."
 categories:
- - econ
+ - theory
  - capital
 tags:
  - capital
 layout: article
+redirect_from: /econ/capital/capital-chapter-1
 date: 2017-09-26 15:22:00 GMT+0100
 ---
 So, with all those prefaces out of the way, let's learn some economics.
@@ -29,19 +30,19 @@ Nevertheless, we have established: objects that have a use together constitute u
 
 Marx emphasises a difference between the 'material content' and 'social form' of wealth:
 
-> Use-values are only realized [verwirklicht] in use or in consumption. They constitute the material content of wealth, whatever its social form may be. In the form of society to be considered here they are also the material bearers [Trager] of... exchange-value.
+> Use-values are only realized [<i lang="de">verwirklicht</i>] in use or in consumption. They constitute the material content of wealth, whatever its social form may be. In the form of society to be considered here they are also the material bearers [<i lang="de">Trager</i>] of... exchange-value.
 
 So 'use-values' are qualitative and essentially this word refers to how an object is actually used. Meanwhile 'exchange-value' is only a thing in 'the form of society to be considered here', capitalism.
 
 Marx introduces exchange-value by pointing out that the quantitative relation, of how many of one thing you can exchange for another thing, looks pretty arbitrary at first glance and varies all over with time and place.
 
-Exchange-values, Marx says, are [transitive](https://en.wikipedia.org/wiki/Transitive_relation). That is if A can be exchanged for B and C, then B and C must also be exchangeable. This, says Marx, implies there's some underlying quantity that is equal between in each of the exchanged things.
+Exchange-values, Marx says, are [transitive](https://en.wikipedia.org/wiki/Transitive_relation). That is, if A can be exchanged for B and C, then B and C must also be exchangeable. This, says Marx, implies there's some underlying quantity that is equal between in each of the exchanged things.
 
 > In short, it is exchanged for other commodities in the most diverse proportions. Therefore the wheat has many exchange values instead of one. But x boot-polish, y silk or z gold, etc., each represent the exchange-value of one quarter of wheat. Therefore x boot-polish, y silk, z gold, etc., must, as exchange-values, be mutually replaceable or of identical magnitude. It follows from this that, firstly, the valid exchange-values of a particular commodity express something equal, and secondly, exchange-value cannot be anything other than the mode of expression, the ‘form of appearance’, of a content distinguishable from it.
 
 Marx says that 'exchange is transitive' implies 'there must be a common underlying quantity determining exchange values'. If you accept the former, you should accept the latter. (Later, I believe he will show how the common underlying quantity leads to exchange values that are transitive.)
 
-Of course, this argument depends on the reader accepting that exchanging things is transitive. So I'm led to ask, what if they weren't transitive? e.g., if you could exchange 1 quarter wheat for \(x\) boot-polish and \(y\) silk, but exchange \(x\) boot-polish for y' silk where \(y'\ne y\). In that case, if you start with some wheat, and assuming 'can be exchanged for' is reflexive, and \(y'>y\) you could obtain arbitrary amounts of wheat by trading 1 quarter wheat for \(x\) boot-polish for \(y'\) silk for \(\frac{y'}{y}\) wheat. So if the system of exchange is to work at all, exchange has to be transitive?
+Of course, this argument depends on the reader accepting that exchanging things is transitive. So I'm led to ask, what if they weren't transitive? e.g., if you could exchange 1 quarter wheat for $$x$$ boot-polish and $$y$$ silk, but exchange $$x$$ boot-polish for $$y'$$ silk where $$y'\ne y$$. In that case, if you start with some wheat, and assuming 'can be exchanged for' is reflexive, and $$y'>y$$ you could obtain arbitrary amounts of wheat by trading 1 quarter wheat for $$x$$ boot-polish for $$y'$$ silk for $$\frac{y'}{y}$$ wheat. So if the system of exchange is to work at all, exchange has to be transitive?
 
 After a discussion with edwad and a reminder about what David Harvey said, the answer is apparently that at this stage in the text, Marx isn't trying to *prove* his assertions, so much as lay out the overall logic of his theory to be fleshed out later. I kind of wish he'd state that more clearly, something like 'we will demonstrate that exchange is transitive later'.
 
@@ -55,13 +56,18 @@ Marx then declares that, having abstracted away all physical qualities, all that
 
 > But even the product of labour has already been transformed in our hands. If we make abstraction from its use-value, we abstract also from the material constituents and forms which make it a use-value. All its sensuous characteristics are extinguished. Nor is it any longer the product of the labour of the joiner, the mason or the spinner, or of any other particular kind of productive labour. With the disappearance of the useful character of the products of labour, the useful character of the kinds of labour embodied in them also disappears; this in turn entails the disappearance of the different concrete forms of labour.
 
-So it's not any particular kind of labour represented by exchange-value, but 'abstract' labour. This leads to a third kind of value, 'crystals' of the 'social substance' of human labour, which Marx calls 'commodity values' (the translator notes 'Warenwerte' as the German word). But he mostly just calls this unqualified 'value'. Perhaps this is a translation issue, and the unqualified 'value' is somehow syntactically distinct in German.
+So it's not any particular kind of labour represented by exchange-value, but 'abstract' labour. This leads to a third kind of value, 'crystals' of the 'social substance' of human labour, which Marx calls 'commodity values' (the translator notes <i lang="de">Warenwerte</i> as the German word). But he mostly just calls this unqualified 'value'. Perhaps this is a translation issue, and the unqualified 'value' is somehow syntactically distinct in German.
 
 Anyway, we have three kinds of value:
 
-- use-value: qualitative measure of what uses humans might put something to
-- exchange-value: quantitative measure of the amount of other commodities that one commodity might be exchanged for, in which the details of the commodity are irrelevant
-- value (commodity-value): quantitative measure of the amount of abstract human labour embodied in an object.
+use-value
+: qualitative measure of what uses humans might put something to
+
+exchange-value
+: quantitative measure of the amount of other commodities that one commodity might be exchanged for, in which the details of the commodity are irrelevant
+
+value (commodity-value)
+: quantitative measure of the amount of abstract human labour embodied in an object.
 
 I *really* wish Marx would not use value unqualified for one of the things and hyphenated types of value in the other two.
 
@@ -69,7 +75,7 @@ In any case, Marx briefly says that the analysis of *value* will lead us back to
 
 Here is a definition:
 
-> Socially necessary labour-time is the labour-time required to produce any use-value under the conditions of production normal for a given society and with the average degree of skill and intensity of labour prevalent in that society.
+> <dfn>Socially necessary labour-time</dfn> is the labour-time required to produce any use-value under the conditions of production normal for a given society and with the average degree of skill and intensity of labour prevalent in that society.
 
 To clarify this, Marx gives an example of a new technology (the power loom) drastically reducing the *socially necessary* labour time to produce a use-value, and therefore reducing the *value* produced by an hour's work by a worker using the old method (hand-looms). There's a list of things that might affect the labour-time *required* for production:
 
@@ -110,7 +116,7 @@ Another definition:
 
 > The coat is a use-value that satisfies a particular need. A specific kind of productive activity is required to bring it into existence. This activity is determined by its aim, mode of operation, object, means and result. We use the abbreviated expression ‘useful labour’ for labour whose utility is represented by the use-value of its product, or by the fact that its product is a use-value. In this connection we consider only its useful effect.
 
-Marx declares that the coat and linen can only 'confront each other as commodities' because the kinds of labour used to produce them are different. The variedness of stuff 'reflects' labour that's just as varied, which Marx terms the *social division of labour*, noting that it's necessary for commodity production (but the converse is not true, and you can have division of labour without commodities).
+Marx declares that the coat and linen can only 'confront each other as commodities' because the kinds of labour used to produce them are different. The variedness of stuff 'reflects' labour that's just as varied, which Marx terms the <dfn>social division of labour</dfn>, noting that it's necessary for commodity production (but the converse is not true, and you can have division of labour without commodities).
 
 To illustrate this, Marx cites the 'primitive Indian community'; it's not clear (and the translator does not comment) whether Marx means India the country, or the pejorative term for Indigenous people. I'd be skeptical that no Indigenous people had any kind of commodity production, even if not on the same scale as imperial capitalism. Marx's second example, of workers within a factory dividing labour but not to trade with each other, is a much better and more relevant one.
 
