@@ -61,7 +61,7 @@
                                 {% include listing.html post=post %}
                             {% endfor %}
                             {% if site.categories[category_name].size > 5 %}
-                            <li><a href="/{{category_name}}/" class="more"></a></li>
+                            <li><a href="/{{category_name}}/" class="more"><p>more…</p></a></li>
                             {% endif %}
                         </ul>
                     </section>
@@ -81,7 +81,7 @@
                             </li>
                             {% endif %}
                             {% endfor %}
-                            <li><a href="/livereads/" class="more"></a></li>
+                            <li><a href="/livereads/" class="more"><p>more…</p></a></li>
                         </ul>
                     </section>
                     {% assign categorylist = "nier programming" | split: ' ' %}
@@ -94,7 +94,7 @@
                                 {% include listing.html post=post %}
                             {% endfor %}
                             {% if site.categories[category_name].size > 5 %}
-                            <li><a href="/{{category_name}}/" class="more"></a></li>
+                            <li><a href="/{{category_name}}/" class="more"><p>more…</p></a></li>
                             {% endif %}
                         </ul>
                     </section>
