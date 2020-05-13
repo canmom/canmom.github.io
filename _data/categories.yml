@@ -31,11 +31,8 @@ ep2:
 ep3:
   path: /livereads/umineko/ep3
   display: ep. 3
-econ:
-  path: /econ
-  display: economics
 capital:
-  path: /econ/capital
+  path: /theory/capital
   display: capital
 crit:
   path: /crit
@@ -76,6 +73,6 @@ security:
 raytracer:
   path: /programming/graphics/raytracer
   display: raytracer
-gender:
-  path: /gender/
-  display: gender
+theory:
+  path: /theory/
+  display: theory
