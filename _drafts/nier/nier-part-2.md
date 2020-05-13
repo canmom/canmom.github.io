@@ -254,7 +254,7 @@ P-chan dispassionately observes to Kalil that one of the two 'intruders' has die
 
 ## 5 years? You call that a timeskip?
 
-The game resumes five years later. In Replicant, Nier is now noticeably older; in Gestalt he still looks like a foot, but now he wears a kind of half-blindfold mask. The cutscene opens <i>in media res</i>, with Nier cutting down Shades in his village.
+The game resumes five years later. In Replicant, Nier is now noticeably older; in Gestalt he still looks like a foot, but now he wears a kind of half-blindfold mask. The cutscene opens <i lang="la">in media res</i>, with Nier cutting down Shades in his village.
 
 Nier notices that Popola has inexplicably not changed at all in this period. She brushes it off, and distracts with a letter from Emil: he thinks he's close to find a cure for Kainé's condition.
 
