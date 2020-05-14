@@ -5,13 +5,10 @@
 
 img {
 	max-width: 20%;
-}
-
-article {
-	display: flex;
-	justify-content: center;
-	flex-wrap: wrap;
-	align-items: flex-start
+	float: left;
+	shape-outside: url(/img/splash-photo.png);
+	shape-margin: 1em;
+	margin: 1em;
 }
 
 header {
@@ -24,21 +21,6 @@ header h1 {
 
 header p {
 	margin-left: 1em;
-}
-
-header p.line1 {
-	margin-bottom: 0;
-}
-
-header p.line2 {
-	margin-left: 3em;
-	margin-top: 0;
-	margin-bottom: 0;
-}
-
-header p.line3 {
-	margin-left: 5em;
-	margin-top: 0;
 }
 
 address {
@@ -84,11 +66,7 @@ nav .articles h2 a {
 
 @media only screen and (min-width: 1250px) {
 	header {
-		max-width: 60%;
-	}
-
-	#container {
-		width: 80%;
+		max-width: 80%;
 	}
 
 	nav .articles {
