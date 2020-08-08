@@ -9,7 +9,7 @@ redirect_from: "/nier/nier-timeline"
 date: 2020-04-23 01:00:00 +0100
 ---
 
-It's time to begin on <cite>NieR</cite> proper.
+It's time to begin on <cite>NieR</cite> proper. (This post will be updated later with videos and images, but I presently don't have time to fill them in.)
 
 ## A quick recap
 
