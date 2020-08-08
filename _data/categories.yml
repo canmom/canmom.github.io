@@ -76,3 +76,6 @@ raytracer:
 theory:
   path: /theory/
   display: theory
+animation:
+  path: /animation/
+  display: animation
