@@ -1,0 +1,105 @@
+---
+title: "Perspective! 1: theory side"
+layout: article
+excerpt: An accessible, accurate introduction to the world where every point is really a direction...
+category: animation
+tags:
+    - animation notes
+    - perspective
+date: 2020-08-09 00:00:01 +01:00
+---
+<p>Recently my wonderful and brilliant girlfriend jackie <a href='https://baeddel.tumblr.com'>@baeddel</a>​ has been teaching herself drawing, and making really rapid progress, and hit the stage that anyone trying to learn drawing hits when you face up to the mysteries of perspective.</p>
+
+<p>Now, there’s a lot of great writing on the subject of perspective. People as far back as Leonardo da Vinci did it. I personally really like <a href="http://www.handprint.com/HP/WCL/perspect1.html">this one</a>, but you could also do well by downloading some Andrew Loomis books off libgen. However, after doing this for a while and learning about 3D graphics and photography a little, I feel like I’ve ended up with a slightly different angle on perspective drawing which <em>might</em> help make it more accessible.</p>
+
+<p>For better or worse, the only way to really deeply understand perspective is to grind out a lot of perspective drawings or 3D renders and let it sink into your intuition. As you draw a bunch of pictures, you’ll discover for yourself how perspective works by looking at the world, playing with 3D software, and trying out how things look on paper. That’s bad because you can’t just download&nbsp;‘here is how to perspective’ directly into your brain, but also good because that process of discovery absolutely kicks ass and rules.</p>
+
+<p>All the same, there are absolutely some principles and heuristics we can pull out to guide us from the start, and by thinking about geometry a bit (promise there’s no hardcore maths here!) we can figure out what’s really going on when we draw perspective…</p>
+
+<h2>What is ‘perspective’?</h2>
+
+<p>We live in a 3D world. However, the way we <em>see</em> it is not 3D, but 2D. To a first approximation, the only information we get about the world from our visual system is the <strong>direction, colour and brightness of the light arriving at our eyes</strong>.</p>
+
+<p>Light travels in straight lines, so we can generally assume that light arriving from a particular direction tells us something about what’s in that direction. If we see a red light from a particular direction, we know there’s a red thing that way.</p>
+
+<figure>
+  <img alt="An eye receiving rays from lightbulbs in various directions." src="{{ site.url }}/img/embed/animation/perspective/1-what-eyes-do.png">
+</figure>
+
+<p>Now, just about every part of our visual experience of the world is <em>extremely weird</em> once you start poking at it. We’re constantly glancing in different directions, viewing things at different angles, and when we look in a particular direction, the acuity of our vision varies drastically from the centre to the edges of our field of view. Despite this, our brains can seamlessly stitch all this data together into one general sense of a continuous visual field in all directions. This lends us a certain, intuitive sense of how things work. Faraway things ‘look small’: a nearby small thing and a distant big thing will take up similar proportions of our field of view. This is the basic intuition behind perspective drawing.</p>
+
+<p>Roundabout the “Renaissance” (which is <a href="https://going-medieval.com/2017/07/25/on-the-concept-of-the-renaissance-and-outkasts-hey-ya/amp/#click=https://t.co/CT87ApA9YH">kind of fake</a>), some European dudes established a set of conventions for representing <strong>a specific view of the 3D world on a 2D sheet of paper</strong> (or other surface, not necessarily flat, but flat is conventional). They weren’t the first people to do this---China had what we nowadays call orthographic perspective a long time before, for example---but they formalised it, and it’s their system that we’ve inherited today.</p>
+
+<figure>
+  <img alt="A perspective projected drawing stands between the eye and the scene." src="{{ site.url }}/img/embed/animation/perspective/2-role-of-paper.png">
+</figure>
+
+<p>The sheet of paper is very important. A perspective drawing does <em>not</em> represent the inside of our eyeballs, but <strong>a projection onto a <em>specific surface</em></strong> that stands <em>between</em> us and the world. Which means that when we look at a perspective drawing, its surface is also subject to some of the same ‘distortions’ of viewing the world through an eyeball as the scene it depicts. So <b>a perspective drawing depends as much on the position and shape of the surface</b> as the eyeball behind it.</p>
+
+<p>The underlying ‘logic’ of perspective is: if we were place our eye at the <em>exact right position</em>, everything lines up and the drawing matches the (possibly imaginary) 3D world it’s trying to represent. This special eye position is the ‘<dfn>centre of projection</dfn>’.</p>
+
+<p>Back in the Renaissance, <a href="https://en.wikipedia.org/wiki/Filippo_Brunelleschi">this dude</a> would demonstrate the power of his new drawing technique by having viewers look at a building through a small hole, then substitute in his drawing, showing off that they matched exactly. However, we almost never view a perspective drawing from the centre of projection! It’s pretty rare for a drawing or painting to <em>only</em> be visible through an eyepiece which forces the exact right centre of projection.</p>
+
+<figure>
+  <img alt="Illusionistic perspective, where the viewer must look through a specific eyepiece, is rarely used." src="{{ site.url }}/img/embed/animation/perspective/3-illusionistic-perspective.png">
+</figure>
+
+<p>(The only prominent exception in the present day I know about is <a href="https://www.leonkeer.com/3d-streetpainting/">those chalk drawings by Leon Keer</a> that are designed to create the illusion of a 3D shape (e.g. a big pit) when viewed from a specific angle. And other gimmicky stuff, like those rooms that make you look big or small when viewed through the little hole. But the vast majority of perspective art does not insist on being viewed from a specific position!)</p>
+
+<p>This means that perspective is not actually designed to create the illusion of a 3D world. Rather, <strong>perspective is <em>a set of conventions for representing depth</em></strong>, which is built around a specific, abstract mathematical construction inspired by vision. This means it is absolutely reasonable to break from the strict rules of perspective for any number of aesthetic reasons.</p>
+
+<p>But if you’re reading this, you probably want to learn how to do it ‘right’ - ‘know the rules, so you can break them’. Whether we like it or not, perspective is absolutely the dominant way to represent depth in art. And that has a lot to do with photography…</p>
+
+<h2>Perspective and photography</h2>
+
+<p>Back in the Renaissance, the  novel idea that drawings should be constructed around a centre of projection was controversial. But it caught on, in part through the use of mechanical aids, such as wire grids which could guide the artist to ‘measure’ how big things looked from a specific point of view. Many of these tools were used at workshops called <a href="https://en.wikipedia.org/wiki/Atelier">ateliers</a>, which taught drawing and painting in a specific, rigid way.</p>
+
+<p>One of the most sophisticated drawing aids was the <a href="https://en.wikipedia.org/wiki/Camera_obscura"><em>camera obscura</em></a>, essentially a room-sized pinhole camera in modern language. This consisted of a dark room with a tiny hole in one wall, through which light would shine from outside in a way that created a faint, upside-down image on the opposite wall. The artists could then trace this image onto paper. Camera obscuras existed for a long time, but they became quite popular as a drawing tool in the early modern period.</p>
+
+<p>The camera obscura created a perfect perspective projection, with the centre of projection sitting right in the middle of the whole in the wall. Modern cameras work on a very similar principle, although lenses allow them to gather a lot more light, at the cost of making certain parts of the world appear blurry and ‘out of focus’.</p>
+
+<p>So a lot of the time, when we do a perspective drawing, we’re not trying to trick the viewer with a particular sense that everything lines up ‘realistically’ with their actual vision. Instead, we’re trying to draw on their experiences of seeing photos! This is particularly pertinent to animation, where we’re heavily leaning on our viewers’ experience of live action film. Certain anime directors such as KyoAni’s Naoko Yamada will go as far as to simulate artefacts of camera optics, like bokeh and chromatic aberration.</p>
+
+<figure>
+  <img alt="A still from Koe no Katachi showing two characters inside a climing frame." src="{{ site.url }}/img/embed/animation/perspective/koe-no-katachi-still.png">
+</figure>
+
+<p>For example, this shot from <em>Koe no Katachi</em> (<em>The Shape of Voice</em>/<em>A Silent Voice</em>) is drawn in perspective as if from a wide angle lens. As well as perspective drawing and carefully realistic cel-shading to give the characters 3D form, it simulates depth of field by slightly blurring the line drawings of the nearer character (who is not in the focal plane), and also simulates chromatic aberration around the bright highlights. Many of the same tricks are also carried out in CGI, even in very stylised films like those of Pixar. So this is a drawing, and it’s not trying to convince us it’s not a drawing, but it’s using live action-inspired effects to open up some of the storytelling possibilities of cinema.</p>
+
+<p>In the cinema, there is no attempt to ‘illusionistically’ use a particular centre of projection. The effective centre of projection in a close-up shot and a long shot is likely completely different (and in any case, even if it happened to lie within the cinema for a particular shot, most of the audience is not at that spot!) Not only that, but directors will actually change the centre of projection for artistic effect. The <a href="https://en.wikipedia.org/wiki/Dolly_zoom">dolly zoom</a>, where the camera moves backwards while narrowing its field of view, is in effect moving the centre of projection while keeping the subject at the same size.</p>
+
+<p>One reason really extreme&nbsp;‘fish eye’ perspective, whose centre of projection is in some implausible position, is still considered a reasonable depiction of its subject… is perhaps our familiarity with this kind of photography. As much as we animators may want to break away from the limitations of what cameras can show, as representational artists we still need to lean on some familiar element to convey whatever we’re trying to show. To borrow a phrase from Eizouken, perspective drawing is a ‘narrative tool’, one which we can push in various directions. (e.g. a common effect in animation is to drastically push the perspective distortions when a character is on drugs, which keeps things grounded but still makes them look uncanny).</p>
+
+<p>OK, that’s some theory. Let’s&nbsp; get onto the practicalities. How does perspective <em>work</em>?</p>
+
+<h2>Perspective distortions and FOV</h2>
+
+<p>In a perspective drawing, <strong>each position in the image represents a different direction,</strong> travelling away from the centre of your eye.</p>
+
+<p>In other words, imagine your eye can shoot out laser beams. Each point on a perspective drawing represents a possible direction the laser can go.</p>
+
+<p>Lets grab some language from computer graphics. Objects in the 3D world exist in <b><dfn>world space</dfn></b>. The drawing, meanwhile, lives in <b><dfn>canvas space</dfn></b> (usually called screen space, for graphics). The angle between view directions on opposite sides of the drawing is the drawing’s <b>field of view</b>, which is measured as an angle.</p>
+
+<p>As long as the set of view angles represented by a perspective drawing is small enough, it will still look <em>pretty much</em> right when viewed from somewhere near to, but not exactly on, the centre of projection. Once you get to the wider angles, though, it’s much more important to view from the centre of projection. Otherwise, the image will look strangely distorted…</p>
+
+<figure>
+  <img alt="Three cubes in perspective. The one near the edge of the picture is very distorted." src="{{ site.url }}/img/embed/animation/perspective/4-distortions.png">
+</figure>
+
+<p>This image of three cubes was rendered with a 90-degree field of view, meaning the angle between the left and right sides of the picture is 90 degrees. I’ve marked each circle with the field of view it represents. (This is twice the angle between that circle and the centre of the image)</p>
+
+<p>The image represents a 90 degree wide pyramid of <b>world space</b>, projected onto a square in <b>canvas space</b>. This pyramid shape, with its ends cut off, is known as a <em>frustum</em> in 3D graphics. You don’t need to know that to draw perspective, it’s just a cool word.</p>
+
+<figure>
+  <img alt="A view of the same three cubes from outside the camera, and the part of the world the camera can see." src="{{ site.url }}/img/embed/animation/perspective/5-distortions-outside.png">
+</figure>
+
+<p>If your eyeball is half the physical distance from the monitor as the width of the image on your screen, the render will look ‘right’: the cube at the edge of your view will look just like a real 3D cube at the edge of your vision. But I doubt your eye is, assuming a 96ppi screen, only 2.8 inches from the screen!</p>
+
+<p>Since you’re not looking at the image from the centre of projection, that outside cube looks <em>really weird</em>. It’s not how we expect a cube to look. This is an example of perspective ‘distortion’: when a <em>correct</em> perspective drawing looks ‘wrong’ because we’re not looking at it from the centre of projection.</p>
+
+<p>Yet despite this, the other two cubes near the centre of the image still look pretty much fine! This is the strange power of perspective drawing, at least for someone like us who’s acculturated to it: <em>even when we’re not at the centre of projection, it gives a convincing impression of how far away things are</em>, drawing on our experience of looking at photos and other perspective drawings as much as our actual experience of the world.</p>
+
+<p>I picked 90 degrees for a reason. If you have two perpendicular surfaces in <b>world space</b>, their <em>vanishing points</em> are 90 degrees apart. So a 90 degree-fov perspective drawing could contain both vanishing points of a cube.</p>
+
+<p>Now hold on, what <em>is</em> a vanishing point? Well, let’s get into the actual practicalities of drawing shit in perspective!</p>
