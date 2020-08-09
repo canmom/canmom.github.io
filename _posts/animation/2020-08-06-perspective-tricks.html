@@ -1,0 +1,89 @@
+---
+title: "Perspective! 4: the bag of tricks"
+layout: article
+excerpt: How do you make sure two things are the same height? How do you move things around on a plane? Where does the third vanishing point go? Let's build up a bag of tricks for perspective-wrangling.
+category: animation
+tags:
+    - animation notes
+    - perspective
+date: 2020-08-09 00:00:04 +01:00
+---
+
+
+
+<p>Last time, we were drawing a railway. We worked out that the sleepers a long way away would appear to be packed tightly together, and sleepers near us would be spread out.</p>
+
+<h2>The first trick</h2>
+
+<p>So, you want to draw all the equally distant railway sleepers, in perspective. Is there a trick that can help you? Let's start by drawing one sleeper.</p>
+
+<figure>
+  <img alt="A railway with just one sleeper in perspective." src="{{ site.url }}/img/embed/animation/perspective/14-railway.png">
+</figure>
+
+<p>Where does the second one go? In theory you could work out out carefully by figuring out the angles between various elements… in practice just put it somewhere that looks good. How about.. here:</p>
+
+<figure>
+  <img alt="An arbitrarily placed second sleeper" src="{{ site.url }}/img/embed/animation/perspective/15-railway-2.png">
+</figure>
+
+<p>Now comes the fun part. Here’s the two useful facts:</p>
+<ul>
+  <li><b>if two things are in the same place in world space, they’re also in the same place in canvas space</b></li>
+  <li><b>straight lines in world space are straight lines in canvas space</b></li>
+</ul>
+
+<p>With that in mind, we just need to figure out the right lines to draw in order to clone our railway sleepers. Here’s the track from above:</p>
+
+<figure>
+  <img alt="The track viewed from above. A cross is drawn, connecting the points where the sleepers touch the track. From the centre of the crosos is a line parallel to the tracks." src="{{ site.url }}/img/embed/animation/perspective/16-midpoint.png">
+</figure>
+
+<p>First, we find the midpoint. If we diagonally connect the points where the sleepers touch the tracks, the two lines cross at a specific point in 3D <b>world space</b>.</p>
+
+<p>If we draw a line from this midpoint that’s parallel to the tracks, it will hit every single sleeper right in the middle:</p>
+
+<figure>
+  <img alt="A line extends from the midpoint, dead central to the tracks." src="{{ site.url }}/img/embed/animation/perspective/17-midpoint-2.png">
+</figure>
+
+<p>Now, if we draw a line from the edge of one sleeper through the middle of another, and then continue it to the opposite side of the track…</p>
+
+<figure>
+  <img alt="A line from one sleeper through the middle of the other." src="{{ site.url }}/img/embed/animation/perspective/18-cloned-distance.png">
+</figure>
+
+<p>through the magic of triangles, we have cloned the distance between the sleepers!</p>
+
+<p>But the really cool part is, we can do all of this in perspective in the exact same way. To draw the line parallel to the tracks, we connect it up to the vanishing point.</p>
+
+<figure>
+  <img alt="The position of a third sleeper in perspective." src="{{ site.url }}/img/embed/animation/perspective/19-cloned-distance.png">
+</figure>
+
+<p>Better yet, we can repeat that as many times as we want now we have the midpoint line in place.</p>
+
+<figure>
+  <img alt="A whole row of sleepers in perspective." src="{{ site.url }}/img/embed/animation/perspective/20-many-cloned-distances.png">
+</figure>
+
+<p>There are a lot of perspective constructions like this. Most of them rely on two ‘gadgets’:</p>
+<ul>
+  <li>pick <b>two known points</b> and find <b>the point on another line that’s in line with these points</b>
+    <ul>
+      <li>draw a line through the two points
+      <li>extend it out to hit the line</li>
+    </ul>
+  </li>
+
+  <li>create a <b>new line parallel to a known line</b> that passes through a <b>known point</b>,
+    <ul>
+      <li>draw a line from the known point...</li>
+      <li>...to the vanishing point of the known line</li></ul>
+  </li>
+</ul>
+
+<p>By iterating on these two tricks, you can unfold an entire 3D scene, with all the distances right.</p>
+
+<p>There’s a third important gadget we need to add. Suppose you have a character who’s a certain height, and you want to draw another character who’s the same height at a different distance from the camera. You know where her feet are, but where do you draw her head?</p>
+

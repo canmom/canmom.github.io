@@ -1,0 +1,207 @@
+---
+title: "Perspective! 2: the actual practicalities of drawing shit in perspective"
+layout: article
+excerpt: What is a vanishing point, really? How do we jump from 'world space' to 'canvas space'? How big is a perspective drawing?
+category: animation
+tags:
+    - animation notes
+    - perspective
+date: 2020-08-09 00:00:02 +01:00
+---
+<p>So far we've seen:</p>
+<ul>
+  <li>perspective is a set of conventions for representing depth, which nowadays mostly serves to evoke photography</li>
+  <li>the perspective construction is based on a point called the 'centre of projection', and a specific image surface (a flat one, in rectilinear perspective)</li>
+  <li>every point in a perspective drawing represents a distinct direction, travelling away from this centre of projection until it hits something, like a laser beam coming out of your eye</li>
+  <li>if we look at a perspective drawing from anywhere other than the 'centre of projection', which is almost always the case, it may look distorted</li>
+  <li>if we don't want these distortions for artistic effect, we should limit our field of view</li>
+</ul>
+
+<p>There are two ways to go about making a perspective drawing. The first way is to be really meticulous and do everything very carefully with vanishing points. The second way is to just wing it: it will be ‘wrong’ but nobody will notice. However, it helps to practice the ‘right’ way to build the intuition that lets you do it the ‘fast’ way without anyone catching you without getting out a ruler.</p>
+
+<p>Most of the time, when you do a meticulously accurate perspective drawing, what you’re gonna be drawing is a cuboid. Or at the very least, a flat, rectangular surface. If you’re drawing something else, you’ll probably start by projecting a rectangular grid, and then using that grid to help you draw the angular or curvy shape you <em>actually</em> wanted to draw.</p>
+
+<p>So why do we like flat rectangular surfaces so much? This all comes back to the <em>fundamental most important fact</em> about perspective: <strong>if a collection of lines is parallel in world space, they all point towards the same, specific point in canvas space</strong>. This point is called the ‘<dfn>vanishing point</dfn>’ for that direction. We like rectangles because they have parallel sides, which we can point towards the same vanishing point.</p>
+
+<p>You know earlier when we said that each point on the image corresponds to the direction of a laser beam coming out of your eye? Well, any line that points in the same direction as that laser beam in world space will point towards its corresponding point in screen space. For example, imagine some logs are laid out like this:</p>
+
+<figure>
+  <img alt="Plan showing some logs, laid at an angle from the canvas. The artist projects a laser through the canvas, parallel to the logs, creating a dot." src="{{ site.url }}/img/embed/animation/perspective/6-logs.png">
+</figure>
+
+<p>Shoot your eye laser out parallel to the logs. This will hit your canvas at a certain point; that’s your vanishing point. When you draw the logs, since they’re all parallel to that laser beam in <b>world space</b>, they all converge towards its vanishing point in <b>canvas space</b>:</p>
+
+<figure>
+  <img alt="Perspective drawing of the same piles of logs, with the vanishing point marked." src="{{ site.url }}/img/embed/animation/perspective/7-logs-image.png">
+</figure>
+
+<p>From this key perspective fact, basically all else follows!</p>
+
+<p>We have one other technicality to clear up. As your eye lasers shoot out and hit the perspective plane, somewhere (possibly outside the actual canvas!) they will be hitting it ‘dead on’, perpendicular to the image plane.</p>
+
+<figure>
+  <img alt="A plan view of a head shooting out three lasers, which hit the plane at three points. At one, it is parallel to the plane normal" src="{{ site.url }}/img/embed/animation/perspective/22-view-direction-and-normal.png">
+</figure>
+
+<p>This ‘dead on’ direction is often singled out in perspective drawing, and sometimes referred to as the <dfn>view direction</dfn> - however I think that's a potentially confusing name, so instead I'm going to call it the <dfn><b>normal direction</b></dfn>. ('Normal' in this context means 'perpendicular to a plane'.) Its vanishing point in <b>canvas space</b> is called the <dfn>principal point</dfn>. There’s nothing <em>intrinsically</em> special about this direction compared to the others, but it can be useful to keep track of it once we start messing around with planes. And, as we saw in the previous article, if you want to minimise perspective 'distortion', you should make sure the principal point is near the centre of your picture.</p>
+
+<h2>“How many” vanishing points</h2>
+
+<p>Perspective lessons often break things down into ‘one point’, ‘two point’ or ‘three point’ perspective. Though this scheme makes drawing simpler, it is, to me, not a very helpful way to introduce it.</p>
+
+<p>Instead, I’d say there is one set of directions which are special: the ones which are <b>parallel to the image plane</b>. Imagine you shoot your eye laser exactly along the surface of your canvas. It will never hit it, even if you run it backwards out the back of your head as well. There is no vanishing point - or, equivalently, the vanishing point is equally far away.</p>
+
+{% include figure.html src="embed/animation/perspective/30-top-down-perspective.png" alt="A perspective view of an artist and canvas from above. The artist is looking along parallel to the canvas, with lasers coming out both the back and front of her head." %}
+
+<p>This means that if something is flat and parallel with the image plane, it has the same shape in <b>canvas space</b> as it does in <b>world space</b>!</p>
+
+<p>Usually, we assume the surface we’re perspective projecting onto is vertical. If that’s the case, then vertical lines in 3D space are also going to be vertical - they won’t converge to a point.</p>
+
+<p>Now, suppose we want to draw a cube. A cube has three sets of edges, each of which will have a different vanishing point.</p>
+
+<figure>
+  <img alt="A plan view of an artist facing a cube, away from the centre of the image." src="{{ site.url }}/img/embed/animation/perspective/9-drawing-cube-from-above.png">
+</figure>
+
+<p>If we’re looking at it ‘end on’, by which I mean, looking at it so the nearest face is parallel to the image plane, that face will simply look like a square. We can see that in the render from earlier:</p>
+
+<figure>
+  <img alt="A render of three cubes in perspective, with their edges marked in colour." src="{{ site.url }}/img/embed/animation/perspective/8-distortions-annotated.png">
+</figure>
+
+<p>All three cubes have the same, equally sized square end; only the sides which aren’t parallel to the image plane look different when we move the cubes around!
+
+<p>Let's look at each set of parallel edges:
+
+<ul>
+  <li>The red and blue edges have infinitely distant vanishing points.
+  <li>The green edges are parallel to the normal direction, so they all converge to its vanishing point, the so-called 'principal point'. We cropped the picture so the principal point is in the middle, so they all converge towards the middle.</li>
+</ul>
+
+<p>This setup is known as ‘one point’ perspective, since these cubes have exactly one vanishing point. Of course, if there were some cubes in the scene rotated to a different angle, this would not be true!</p>
+
+<p>Most of the time we won’t meet the cubes ‘end on’. The main use for ‘one point’ perspective is when we’re looking down a long corridor or street. In this case, it’s pretty common to put the image plane perpendicular to the direction of the street.</p>
+
+<p>OK, now let’s turn the cube around a bit. The vertical edges (blue) are still parallel to the image plane. But the other edges are not parallel to the image plane, so they’ll get vanishing points.</p>
+
+<p>First, here it is from above:</p>
+
+<figure>
+  <img alt="orthographic image of three cubes and a viewing frustum from above. The cubes are rotated slightly from the normal direction." src="{{ site.url }}/img/embed/animation/perspective/11-weird-fucking-cubes-from-above.png">
+</figure>
+
+<p>And now, ‘two point’ perspective:</p>
+
+<figure>
+  <img alt="The same three cubes. Because they have a set of edges parallel to the vertical direction, they are in 'two point' perspective." src="{{ site.url }}/img/embed/animation/perspective/10-weird-fucking-cubes.png">
+</figure>
+
+<p>Here, the vanishing point for the red lines falls outside the 75-degree FOV of the image. The vanishing point for the green lines is inside the image. (Remember, these circles are marked with FOVs, not the angle from the central ray.)</p>
+
+<p>Two point perspective is commonly used to show architecture in backgrounds.</p>
+
+<p>Finally, ‘three point’ perspective shows cuboids where <em>none</em> of the faces are parallel to the image plane. Realistically, the vast majority of cuboids are in this condition. In this case, all three sets of lines have a vanishing point. Typically, your ‘camera’ is angled downwards:</p>
+
+<figure>
+  <img alt="The same three cubes, but with the camera rotated so that it points down." src="{{ site.url }}/img/embed/animation/perspective/12-three-point-god.png">
+</figure>
+
+<p>The bad news is that a great deal of the time in a realistic composition, your cubes will be in this perspective. The good news is that it’s pretty easy to just wing it for at least a few of those vanishing points once you figure out how it works; you almost never have to actually construct three distinct vanishing points.</p>
+
+<h2>How far apart to place your vanishing points</h2>
+
+<p>When I first started trying to teach myself perspective drawing, the question of how far apart to place my vanishing points (in canvas space) was quite a headache. Nobody seemed to give the answer, beyond a vague admonition not to put them too close together.</p>
+
+<p>This question is a matter of judgement, but hopefully what we’ve just seen can help us understand <em>what we're actually deciding</em>. Vanishing points represent <b>directions</b>; if we have a cuboid shape then its vanishing points are 90 degrees apart.</p>
+
+<p>This means:</p>
+<ul>
+  <li>if our vanishing points are close together, we have a wide-angle picture, like a wide-angle lens on a camera. perspective distortions will be very extreme.</li>
+  <li>if our vanishing points are far apart, we have a narrow-angle picture, like a zoom lens. perspective distortions will be mild.</li>
+  <li>if our vanishing points are <em>infinitely</em> far apart, we have an 'orthgraphic' rather than 'perspective' drawing, mostly used in diagrams. there are no perspective distortions at all.</li>
+</ul>
+
+<p>However, it’s not so simple as ‘x distance on the paper = y degrees of view angle’. That would be true if we were drawing on the surface of a sphere, but we’re drawing on a flat piece of paper! Near to the ‘principal point', we’re looking at the paper straight on. When we look far away from that point, we’re glancing the paper at an oblique angle.</p>
+
+<p>This means that angles are arranged in <b>canvas space</b> in an uneven way, like this:</p>
+
+<figure>
+  <img alt="A set of circles marked with angles from the centre of the picture." src="{{ site.url }}/img/embed/animation/perspective/28-fov-field.png">
+  <figcaption>The numbers in this image represent the angle between a ray that hits the circle, and the central ‘normal direction’. To get the field of view of an image that just contains that circle, you should double these angles.</figcaption>
+</figure>
+
+<p>So if there’s 90 degrees separating two vanishing points, we could put them both on opposite sides of the 45° radius circle (since 45°+45°=90°). In this case, we’d get a perspective drawing like this:</p>
+
+<figure>
+  <img alt="A perspective drawing on top of the angle field with vanishing points 45 degrees from the principal point." src="{{ site.url }}/img/embed/animation/perspective/29-90-degree-fov-1.png">
+</figure>
+
+<p>In this case, the vanishing points are 384 pixels apart. But suppose we rotated this around the vertical axis by 15 degrees. This moves one vanishing point onto the 30°-radius circle (since \(45\deg-15\deg=30\deg\)), and the other on the 60°-radius circle (since \(45\deg+15\deg=60\deg\)).</p>
+
+{% include figure.html alt="A different perspective drawing of the same figure on the same angle field with the VPs in different positions." src="embed/animation/perspective/31-90-degree-perspective-on-fov-field-rotated.png" %}
+
+<p>There is one other wrinkle. If you’re doing a full, three-point perspective, how do you make sure your third vanishing point is consistent with the lens angle implied by the other two? This is something it's usually fairly easy to get away with just guessing, but we'll return to this question in the next post when we talk about planes and vanishing lines.</p>
+
+<h2>Winging it</h2>
+
+<p>Have a look at all those cubes we’ve rendered just now. Let’s notice some Rectangle Facts™:</p>
+<ul>
+  <li>the faces of a cube, and rectangles in general, are always convex quadrilaterals (a needlessly fancy way to say ‘four-sided shapes’) in perspective, because straight lines in <b>world space</b> are also straight lines in <b>canvas space</b></li>
+  <li>these quadrilaterals taper off towards the vanishing points. opposite pairs of edges share a vanishing point.</li>
+  <li>the more the rectangle is rotated perpendicular to the image plane in <b>world space</b>, the thinner it looks in <b>canvas space</b>. this is called <dfn>foreshortening</dfn> and we'll discuss it more later!</li>
+</ul>
+
+<p>Fortunately for us, just about any convex quadrilateral could be a perspective projection of <em>some</em> rectangle. In fact, it could be the projection of a whole set of different rectangles, depending where the point of projection is sitting! Moreover, we humans are generally not great at figuring out whether it’s the <em>right</em> rectangle, as long as it’s near enough. In fact, the wrong projection might even look nicer sometimes.</p>
+
+<p>Here are some convex quadrilaterals:</p>
+
+<figure>
+  <img alt="A messy collection of convex quadrilaterals." src="{{ site.url }}/img/embed/animation/perspective/13-the-shape.png">
+</figure>
+
+<p>Any of these could a rectangle, projected in perspective. But which one do you pick for the rectangle you want to draw?</p>
+
+<p>Let’s assume you’re starting with a square. Here’s how you figure out what it ought to look like:</p>
+<ul>
+  <li>if we’re looking straight at it (i.e. near parallel to the image plane), all the sides are gonna be roughly the same length.</li>
+
+  <li>if we’re glancing by it at an angle, it will look thinner, and it will taper (get narrower from one side to the other)</li>
+
+  <li>how much does it taper? that basically depends how near the camera it is. if it’s a long way away, it will be very thin and not taper very much. if it’s nearby, it will be thicker, but also taper a lot.</li>
+</ul>
+
+<p>In this animation, these three identical squares are spaced equally along a line in world space, and rotating at the same speed:</p>
+
+<figure>
+  <img alt="Blender animation of three rotating squares in 3D space." src="{{ site.url }}/img/embed/animation/perspective/planerotate.gif">
+</figure>
+
+<p>The one on the left is much nearer, and so it tapers a lot more when it turns.</p>
+
+<p>Why should this be? It has to do with the way perspective usually compresses distances along the normal direction much more for faraway objects than nearby objects.</p>
+
+<p><em>It does what now?</em></p>
+
+<h2>Distance in perspective</h2>
+
+<p>Suppose you’re drawing a railway line. In <b>world space</b>, the railway sleepers are instantly far apart. But let’s have a look at what happens to them in perspective.</p>
+
+<figure>
+  <img alt="Side view of an artist drawing a railway line. Visual rays (lasers) form a series of right angled triangles." src="{{ site.url }}/img/embed/animation/perspective/21-perspective-spacing.png">
+</figure>
+
+<p>There are two effects here which are going to affect things. Firstly, let’s look at your eye lasers. Remember, perspective drawings represent the directions towards things. So since your eye lasers are wider apart for nearby things, the gaps between the nearby sleepers will appear to be bigger. We know this from everyday experience: far away things look small.</p>
+
+<p>But there’s a second effect that compounds this. Notice that, for the nearby things, our eye lasers are hitting the canvas at a really oblique angle. This means the drawings of the two railways sleepers need to be <em>even further apart</em> in canvas space!</p>
+
+<p>This is the reason why we try to keep the ‘principal point’, i.e. the point where our eye lasers are perpendicular to the image plane, near to the centre of the image, and limit the overall field of view. The viewer will probably not be sitting at the exact centre of projection, so these measures help avoid the distortions from looking too weird.</p>
+
+<p>It also explains a general rough principle to keep in mind: <b>stuff that’s near to you will look more ‘perspectivey’ than stuff that’s far away</b>. Another way of looking at it: when stuff is nearby, the ‘near’ side will look much bigger than the far side of an object. When stuff is far away, the near and far sides will appear similar sizes, so it will look much closer to an ‘orthographic’ (non-perspective) projection.</p>
+
+<p>This implies: <strong>if something is equally spaced in <b>world space</b>, it gets <em>increasingly clustered in canvas space</em> the further away it is</b>.</strong>
+
+<p>Suppose you’re looking at a long street: the nearby buildings will take up lots of space in the frame. The faraway buildings will be reduced to slivers!</p>
+
+<p>Now, how does this relate to our rotating squares? Consider a rotating object. As it rotates, one side gets nearer, the other gets further away. If the object is near the camera (point of projection), this leads to a much bigger change of shape in perspective space than if it’s a long way away.</p>
+
+<p>Soon, we'll look at some more specific perspective tricks: how to build up relationships between the shapes we draw in perspective, to make sure your lines and planes are at the 'right' size and 'right' angles in relation to each other. But first, we have to meet planes and their vanishing <em>lines</em>.</p>
