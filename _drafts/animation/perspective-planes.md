@@ -77,8 +77,12 @@ date: 2020-08-09 00:00:04 +01:00
 
 {% include figure.html alt="The same plane but now with a horizon line added, crossing through the." src="32-arbitrary-plane-horizon.png" %}
 
-<p>Let's turn this 
-
 <h2>Where does the vanishing line go in the picture?</h2>
+
+<p>A vanishing line represents a set of parallel planes, sure. But where do we place a vanishing line? How do we interpret its position and orientation?</p>
+
+<p>We've seen that vanishing <em>points</em> represent the direction of an eye laser, and they spread out from the central 'normal direction' to represent increasing angles. We can take this concept again, but first we need a couple of geometrical concepts: specifically, the normal of a plane.</p>
+
+<p>The <dfn>normal</dfn> of a plane is the direction that is perpendicular to the plane---pointing away from the plane as directly as possible. We can draw a little arrow representing the normal at any position on the plane. Since all these arrows are parallel to each other
 
 <p>To understand vanishing lines, let's bring back our rotating square. When we're looking face-on to the square, the vanishing point is i</p>
