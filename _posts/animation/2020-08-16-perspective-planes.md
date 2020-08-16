@@ -6,7 +6,7 @@ category: animation
 tags:
     - animation notes
     - perspective
-date: 2020-08-09 00:00:04 +01:00
+date: 2020-08-16 00:02:27 +01:00
 ---
 
 We just introduced the most important tool of perspective drawing: the vanishing point. Let's summarise what we've learned:
