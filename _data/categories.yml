@@ -79,3 +79,6 @@ theory:
 animation:
   path: /animation/
   display: animation
+hidden:
+  path: /hidden/
+  display: hidden

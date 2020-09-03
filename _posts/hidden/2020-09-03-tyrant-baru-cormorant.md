@@ -1,10 +1,10 @@
 ---
-title:  (on <cite>The Tyrant Baru Cormorant</cite>)
+title: Baru 3 megapost WIP (on <cite>The Tyrant Baru Cormorant</cite>)
 layout: article
 tags:
  - baru cormorant
 excerpt: how do you keep pulling this off seth
-categories: crit
+categories: hidden
 ---
 I have read <cite>The Tyrant Baru Cormorant</cite>. (*Despite* the best efforts of the publishing industry.)
 
