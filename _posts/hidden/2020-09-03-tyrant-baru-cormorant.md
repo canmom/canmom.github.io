@@ -568,7 +568,7 @@ Barhu keeps the second part of her plan close to her chest, but she finally expl
 4. use these funds to arm the Oriati
 5. the Oriati will attack Falcresti trade, cutting Falcrest out of the equation entirely, and bankrupting the Empire
 
-The Brain is not persuaded by Baru's plan. While Baru is obsessed with numbers, she drops the title of the book:
+The Brain is not persuaded by Barhu's plan. While Barhu is obsessed with numbers, she drops the title of the book, and reminds her of the unspoken cost of capitalism:
 
 > “You want to be a tyrant,” she said.
 > 
@@ -576,4 +576,160 @@ The Brain is not persuaded by Baru's plan. While Baru is obsessed with numbers, 
 >
 > “No. You will be a tyrant. You will be a creator and protector of tyranny. Do you understand what Falcrest does to us, if they have the access given by trade? Trim is outlawed. Family land is bought up and turned to cash crops. Children are worked in the fields. Men are killed and their killings blamed on their own conduct. Women are stripped of their children and brought into prostitution. Their sons are soldiers. Their daughters are sent as maids to the houses of the rich. You are asking me to open our doors to a pack of rabid dogs.”
 
-In the somewhat strained metaphor of Kimbune's Theorem, Barhu hopes to redirect the vast economic power of Falcrest not to expansion, but to transform it into something different. (Not... literally, the line still goes up, until it very suddenly goes down. It's not a perfect metaphor.)
+In my somewhat strained metaphor of Kimbune's Theorem, Barhu hopes to redirect the vast economic power of Falcrest not to expansion, but to transform it into something different. As she sees it, the vast expanding wealth of Falcrest could be stolen and transformed into vast wealth of Taranoke, Vultjag, the Stakhieczi, the Mbo; we later see her dream of a future world in which a kind of cosmopolitan scientific modernity would develop, complete with uranium-powered carriages, surgery anaesthetised by opiates, and 'meat golems' controlled by electricity. The people of this future would be diverse, but all the wealth the would enjoy came from trade.
+
+In short, a perfectly bourgeois vision of the future.
+
+The Brain is, quite rightly in my view, antsy:
+
+> “The best way to break a mill is to burn it down, Baru.”
+>
+> “Not if you want to keep building mills and making flour! The reason Falcrest is winning is because its ways are stronger! I can steal that strength!”
+>
+> “But it is still Falcrest’s strength. It is still that monstrous pillaging force which treats people like coin and coin like people. And if you try to wield it you are seduced by it. Take Alu into your body instead. Consecrate yourself into my trust.”
+>
+> “Damn you,” Barhu hissed. “I can do so much more than carry a plague and die young. Don’t you see? The concern that rules this new trade could be mightier than the Republic itself! And I will own it all! I can force Falcrest to give justice to those it’s conquered!”
+>
+> “Nothing you own by Falcrest’s means is owned by anything but Falcrest. When you think you possess them, that is when they possess you.”
+
+In our own world, we have not exactly seen capitalism severed of empire. The old European empires have officially relinquished their holdings, but not before installing capitalist means of governance which live on; all of us now dance to the strings of the world economy. And the beneficiaries of that economy haven't changed all that much. Capitalism, as an abstract force, annihilated prior modes of self-sufficient existence just as surely as Falcrest's ships and incendiary weapons.
+
+But Barhu would be at the top this time! Ready to technocratically ensure that nothing bad comes of her trade concern. So that would make it OK right?
+
+The Brain does not, admittedly, have a much better plan. Her own method is to render herself a sort of messiah---by casting her current body in bronze, and having another person with the same tumour take up the cause---and stoke the various Mbo into war against Falcrest.
+
+The question of whether something other than capitalism could have been born of the end of feudalism is one that we will never be able to definitively answer. In the history we ended up having, capitalism won, at this point anyway. The world was proletarianised: slowly, sometimes through the mindless action of the market but [often through the deliberate efforts of the "workers' movement" and its representatives](https://endnotes.org.uk/issues/4/en/endnotes-preface), the 'peasantry' (self-sufficent farmers) that once made up almost the entire world population has been dissolved; at last all of us now depend on the market, and are thereby forced to work for a wage.
+
+This is a process Baru, back in <cite>Monster</cite>, sees in positive terms, speaking to Svir of her plans to link Aurdwynn into the world market:
+
+> “Once their economy values currency instead of land, the peasantry will be able to profit and save off their own labor instead of tithing their incomes for protection—”
+
+Here, we see her plan extend to the world. Barhu, the daughter of traders, the accountant... she cannot imagine how this trade would leave people not with opportunities for saving and profit, but propertyless proletarians structurally necessary for the whole machine to work. The hypothetical meat golems will do the work, right? Just like one day, we'll be able to stop working because of robots and asteroid mining and clever technocratic computers, as the FALC advocates promise.
+
+So as satisfying as it is to see Barhu absolutely annihilate Cairdine Farrier (we're getting to that) and get back on her feet, it's hard not to believe that the many people who point to the ghost of Falcrest in her plans are absolutely right. A 'better' Falcrest, perhaps: one without the eugenic obsessions and dreams of centralised control, but still a power that subsumes everything to its expansion.
+
+## History lessons!
+
+At the end of the book, while listing the scientific basis for their various ideas, Seth speaks briefly to the plausibility of Barhu's plan:
+
+> The economic power of Baru’s notional trade concern is hardly exaggerated. Nor is the possibility of the near-total destruction of an imperial economy by mismanagement on the part of a powerful few: interested readers may look into John Law’s time in France and the neighboring South Sea bubble in England.
+
+Well, I am an interested reader. Let's find out more. (With apologies for people who aren't concerned with 17th-century economics.)
+
+### John Law in France
+
+John Law was a Scottish economist. In the events discussed, Law created a bank that bought up most of France's debt with the then-novel paper money, and consolidated all the trading companies of French 'Louisiana' into one Mississipi Company in the 1700s.
+
+The region the settlers called 'Louisiana' was of course actually the home of [an enormous variety of people](https://en.wikipedia.org/wiki/Category:Native_American_tribes_in_Louisiana), among them the [Choctaw](https://en.wikipedia.org/wiki/Choctaw), [Natchitoches](https://en.wikipedia.org/wiki/Natchitoches_people), [Tangipahoa](https://en.wikipedia.org/wiki/Tangipahoa), [Houma](https://en.wikipedia.org/wiki/Houma_people), [Kadohadacho](https://en.wikipedia.org/wiki/Kadohadacho), [Taensa](https://en.wikipedia.org/wiki/Taensa), [Natchez](https://en.wikipedia.org/wiki/Natchez_people), [Caddo](https://en.wikipedia.org/wiki/Caddo), [Acolapissa](https://en.wikipedia.org/wiki/Acolapissa), [Ishak](https://en.wikipedia.org/wiki/Atakapa)... honestly someone from the region, especially connected with the various living members of these groups could tell you a lot more, but the picture you immediately get if you try and research this is:
+
+1. there were, not surprisingly, many complex societies with many different languages, polities and relationships prior to the French arriving
+2. in many cases, what is recorded about them today in easily accessible sources is filtered through the eyes of colonists; in [some cases](https://en.wikipedia.org/wiki/Doustioni) the complete genocide of a particular tribe leaves barely any record at all.
+
+Researching John Law's 'system' leads to a number of somewhat conflicting, unclear accounts, dressed up in somewhat opaque financial terminology (a '4% bond'---4% of what, exactly?). There's even a Canadian animated short film about it, which did not prove enlightening. But here's my best attempt to describe what went on, using [this paper](https://sci-hub.tw/10.2307/30034460) (scihub link) and [this page](https://www.winton.com/longer-view/the-mississippi-bubble) (by some weirdo capitalists, but it helps explain some things I found unclear in other accounts):
+
+<details markdown="1">
+<summary>gritty economic details</summary>
+
+The bank: 
+
+ - the first phase began after the death of Louis XIV, one of the longest-reigning Kings of France, who had spent a lot of gold and silver money financing war. At the time of his death, France's economy was pretty much frozen: there was not enough money in circulation to do anything, or even to mint more money.
+ - John Law was a Scottish economist who had, after escaping execution for duelling, been travelling Europe researching currency systems. He had been advocating for the benefits of fiat money over gold- and silver-based currencies, hoping to create both a banking concern and a demonstration of how currency *should* be done.
+ - in 1714, Law showed up in Paris. the regent Duke of Orléans, ruling for the infant King, was into the idea of fixing France's frozen economy. At first, France did not go all-in on Law's ideas, but tried to fix the situation by increasing taxes, defaulting on some loans, and devaluing their currency (in relation to...? I'm not sure), and 'consolidating the remaining debt into 4 percent bonds with no redemption date'. As best as I can understand, that means that France replaced its existing debts with these new legal objects; the state was obliged to pay the bearer of the bond 4% of its value every year?
+ - John Law did, however, get to start a bank. He sold shares in his company in exchange for those bonds (so instead of having the promise of France giving you money eventually, you'd get a slice of the profit of John Law's bank).
+ - what did the bank actually do? it would 'discount bills of exchange', which means that if you were a merchant who had a promise to be paid by a customer at a certain date, you could go to the bank and sell it, in return for banknotes. The bank would then collect the bill of exchange. The banknotes entitled you to go to the bank and get a certain number of gold or silver coins---but of course the intent was that they would instead circulate as currency.
+ - John Law's bank held a 'reserve' of gold and silver, and issued five times as many banknotes. As long as things were ticking over ok, the bank could process anyone who showed up day to day to switch their notes for gold and silver; most people would continue to exchange banknotes. This is the norm for banks now (while banknotes are not backed by gold or silver anymore, bank accounts work in a similar way in relation to government-issued money), but at the time it was very novel. Since the bank's currency was backed by gold and silver (technically, coins of a certain size and quality), it was not a fiat currency---Falcrest is well ahead of them here.
+ - the French state encouraged the use of John Law's notes by saying people could use them to pay their taxes, took a hand in redeeming notes, and even taxed people using old-style coins.
+ - in 1718, Law got them to nationalize the bank: the King bought out the shareholders and by 1720 turned the bank's notes into the only legal tender of France. At the same time, gold and silver stopped being legal tender, and the bank notes were now redeemed not by a certain quantity of gold but by 'units of account' (not sure I fully understand this). Apparently this made Law's paper notes the first full-blown fiat currency.
+
+The Mississipi Company:
+
+ - Meanwhile, starting in 1717, John Law was building the second instrument of his grand plan: a company to exploit the then-unsettled French holdings in "Louisiana", which is to say, come invest in my genocides! you'll get rich!
+ - he funded the company the same way as the bank at first, selling shares in the company for those 4% bonds. but the interest on the bonds was considered 'unsecure' so they moved to take over various other industries, selling more shares to buy it, until he controlled basically all French trade through monopolies
+ - they sold even more shares for government bonds in order to basically take over tax collection and give a big enough loan to the French government that they could pay off all their prior debts, i.e. now the French government owed all its debts to the Mississipi Company.
+
+</details>
+
+In short, in the 1710s, John Law's bank and the Mississipi Company basically acquired all the debt of the French government, allowing them to collect interest, through selling shares in return for government bonds. The reason people wanted shares was because the company basically got to own the entire French economy, and the bank was issuing the legal tender and buying up 'bills of exchange' (IOUs to merchants), with the promise that they would soon reap huge profits from exploiting Mississipi. They wanted them so much that the price of shares grew to a ridiculous level.
+
+So how did the bubble burst? I admit I don't fully understand this part of the paper, but Law believed---wrongly---that he had to keep his share price high in order to achieve his various goals, such as the bank offering low-interest loans (low interest being something he believed a sign of a healthy economy). So as the speculative frenzy began to top out and people started to lose faith in the whole thing, he 'pegged' the value of the shares---which means basically he ordered the bank to buy shares at 9000 livres of banknotes, which set a floor on what they'd be worth. But all these banknotes being issued massively inflated the currency.
+
+And it totally died when Law started fucking with that exchange rate to try and deflate the currency again. This caused such panics and uproar that he lost his government post and eventually fled in exile.
+
+What happened to the parent empire? They had to clean up the mess of the company, and basically ended up where they'd started in terms of debt. This helped discredit the monarchy, and apparently damaged the development of "French capitalism and industry" according to those capitalists in the second link, 'ruining' many investors. So for individual French bourgeois and nobles, apparently it was pretty bad news---and I don't know how strong a link you can draw to the French revolution, but perhaps it played a role in doing for the monarchy entirely.
+
+But if we're comparing Baru's plan, the real question is---how did it affect French colonialism? It did not stop the French from 'developing' their colony in 'Louisiana' to some degree---perhaps not to the degree they would have if not for Law's financial shenanigans, but it didn't send them packing either. The French revolutionary government---which is in some part clearly the model for Falcrest---still held colonised territory around the world until the 20th century.
+
+Of course, the speculative bubble is only part of Baru's plan; but a speculative bubble alone is not enough to kill an empire, just to wound it.
+
+### South Sea bubble
+
+The [South Sea bubble](https://en.wikipedia.org/wiki/South_Sea_Company) was kind of a response by the English to the new financial experiment in France, during a time when Britain was at war with Spain. The colonial monopoly it pursued was the slave trade: the 'South Sea Company' would transport African slaves to South America, at the time still under the control of Spain and Portugal. It provoked a similar investor bubble when, much like John Law's company, it started taking over government debt.
+
+Unlike John Law's bubble, which was driven by flawed economic theories but a sincere effort to... make France better at colonialism, hooray?... the South Sea Company was pretty much a scam from the outset, though a scam which played on rich British peoples' enthusiasm to get rich off trading abducted humans to the most horrific life imaginable, so don't feel much sympathy for anyone involved.
+
+The initial buying of government debts at face value offered a lot of potential for profit. Government debt was not particularly valuable at the time because people didn't expect it to be repaid, so those in the know about the new Company could buy up debts on the cheap and sell them to the Company for their nominal value in Company shares. Later, they went public, and there was a massive spike in people buying shares from each other, inflating the price to a ludicrous degree.
+
+One thing I was surprised to find out was that Isaac Newton owned £22,000 of shares in the company. It's not known if he got rid of them before the bubble burst. But man, as much as I knew about his brutal treatment of counterfeiters and fellow scientists, 'investor in the slave trade' is kind of widely elided from history! What the fuck...
+
+The story doesn't seem to be as hard to follow as the John Law story. The bubble burst, a number of politicians were disgraced, and England passed laws to try and prevent future bubbles. Unfortunately, the South Sea Company did not die the way Law's company did. After another war, England got its hands on the right to trade slaves to Spanish colonies, previously only available to France, and set up a number of slave-taking 'factories' in West Africa. Although this was not the real intention of the company, it went ahead and bought 34,000 people over the 25 years of operation, of whom about 30,000 survived the trip. (If that's not sickening enough, that was considered a *good* survival rate by the standards of the 'middle passage'). Eventually it was shut down because they didn't do their accounting properly on their non-slave ships, or pay what Spain said they were owed.
+
+As that indicates, the collapse of the speculative bubble, while it certainly did for various politicians, certainly did not put an end to British colonialism or slave trading. I don't know if any particular country managed to escape the various speculative bubbles of this period. And on that note, [it would be resistance of the enslaved people](https://libcom.org/blog/dauve-versus-marx-31072018), such as the Haitian revolution, not some sudden British benevolence, which put an end to the slave trade.
+
+### What to conclude?
+
+Of course, the nakedly obvious conclusion is that colonialism is utterly, unimaginably evil. But that probably goes without saying.
+
+As far as our world of fiction is concerned, Barhu's plan is to create a similar speculative bubble to capture most of the wealth of Falcrest in her own colonial monopoly venture. By getting Falcrest to move their wealth offshore, she can create conditions for the Oriati to seize it.
+
+But in practice, what would that mean? We know Falcrest has a fiat currency; what would actually be seized? Military control, perhaps, over the trade---trade which Falcrest would not be able to finance a war to take back. I think that's the idea, anyway. I guess we'll find out in the fourth book.
+
+But would that be enough? Money is, after all, a fiction---a system for getting people to behave in a certain way. In this book, financial shenanigans are enough to force Falcrest's navy to return to dock---but if Falcrest's control over the world was truly at stake, would the economic snafu be enough to prevent them mobilising all force necessary to take it back? I guess Barhu, no stranger to war economics, thinks so: if Falcrest cannot pay their sailors' wages, can't move the chemical ingredients to the Burn workshops, outfit their ships, and do all the things that drive a war economy, they won't be able to take back any control. But the *social* relationships of domination won't disappear as quickly...
+
+## An economic cancer
+
+Elsewhere, Barhu muses (while pretending to be lobotoimsed---more on that shortly!) on what it was that enabled Falcrest to rise to its position in the world. She considers many angles---we'll get to that in a sec---but one of them is Falcrest's financial system:
+
+> There was so much she could say. The matter of money, Falcrest’s wholesale adoption of paper fiat notes and liquidity banking, which allowed them to move value more efficiently: you could not raise money from your people to fund an expedition if all their value was locked up in farmland and lumber and milk. But when it was stored in paper notes in banks then you could borrow from the people without actually taking their property.
+
+Why do we organise our lives around the fiction of money at all? The details of the answer may vary, but all answers come back to the behaviours that money creates: the system of impetuses to act and coordinating dynamics which take a bunch of people living out our lives and bind us together into an economy moving towards, more or less, a common goal. If the chartists are right, and money was born from early states and kings to feed their armies, it was because of its utility in making sure food is grown, organised, transported etc.
+
+So looking past Barhu's explanation of the plan in terms of abstractions like 'wealth' and 'money', what she aspires to do is to inject a different organising principle into that organising process---a new system which will, though born of the same substance, rapidly grow to take control of its host's functions, ultimately fatally.
+
+We could, if we wanted to be cheeky, say she wants to give Falcrest cancer. But like the transmissible cancers of the Cancrioth, like real immortal cancer cell lines such as those taken from Henrietta Lacks, her economic cancer (she hopes) will outlive its original host.
+
+So is she killing Falcrest, or rendering it immortal?
+
+## The reason for empire
+
+One other point of theory where Barhu makes her feelings known is the question which animated her at the very beginning of the first book: why them, and not us? Why did Falcrest arrive at Taranoke, and not the opposite?
+
+I will quote her full answer now, since it's one of my fave passages of the book:
+
+<details markdown="1">
+<summary>Why Falcrest, and not Taranoke?</summary>
+
+> There was so much she could say. The matter of money, Falcrest’s wholesale adoption of paper fiat notes and liquidity banking, which allowed them to move value more efficiently: you could not raise money from your people to fund an expedition if all their value was locked up in farmland and lumber and milk. But when it was stored in paper notes in banks then you could borrow from the people without actually taking their property.
+>
+> There were the ships, the superb rigging and coppered hulls and the chemistry of citrus and salt that kept the crews alive to sail, and the fearsome laboratories that produced the Burn. There was the culture of desperate and syncretic inadequacy, fear of the world outracing Falcrest, which had stolen the best of Stakhieczi astronomy and Oriati scientific philosophy. And the culture of revolutionary bloodshed, willing to use living bodies to discover the causes and cures of disease, to test which substances would do harm if used in piping, food, cloth.
+>
+> And Lapetiare and his coffeehouses, where the art of debate grew from spectator sport to revolutionary spark, where the stockbrokers did their trading now. There were the pigs that gave Falcrest the annual flu, which made the Masquerade’s collective immunity so vigilant, which laid flat the populations of every new province Falcrest seized. There were the canals and the waterways, the ancient expertise at managing tsunami and flood that became the modern engineering that turned the mills that made the flour and the soybean meal that put the calories into the workers. And the sewers. And the aqueducts. And the republican government, which shifted the flow of a Parliamin’s corruption and favoritism from fellow elites to a Parliamin’s constituents, so that corruption at least helped the common people sometimes.
+>
+> But all of those things were just limbs and muscles on the beast. They explained how Falcrest was conquering the world but not why. A strong man might have the ability to strangle or force a weak man. But nowhere was it written that the strong man was fated to kill or enslave that weak man.
+>
+> Would Taranoke, given all these advantages, have gone to Falcrest, subverted and enslaved it, made it part of a Taranoki empire?
+>
+> No. And the Oriati were the proof. The Oriati had their own heinous history, their own spasms of conquest: but for much of their millennium of unsurpassed worldly power, they had kept to their own borders and their own internal struggles. Their voyages had been for exploration and trade. They had been good neighbors.
+>
+> Aurdwynn had of course washed itself in blood. The Maia had come to conquer, the Stakhieczi had counterinvaded to preserve the great green breadbasket that fed them. So you might be tempted to say that wherever cultures meet conflict was inevitable. But they had been two rival homelands at war over the middle ground; neither had ever made a possession of the other.
+>
+> Yes, people had always been evil nearly as much as they had been good. Yes, happiness was rarer than suffering—that was simply a fact of mathematics; happiness required a narrow range of conditions, and suffering flourished in all the rest.
+>
+> But Falcrest was not an innocent victim of a historical inevitability. Empire required a will, a brain to move the beast, to reach out with appetite, to see other people as the answer to that appetite, to justify the devouring of other peoples as right and necessary and good, to frame slavery and conquest as acts of grace and charity.
+>
+> Incrasticism had provided that last and most fateful technology. The capability to justify any violence in the name of an ultimate destiny, an engine to inflict misery and to claim that misery as necessary in the quest for utopia. A false science by which the races and sexes could be separated and specialized like workers in a mill. And the endless self-deceptive blind guilty quest to justify that false science, so that the suffering and the misery remained necessary.
+>
+> Falcrest had chosen empire.
+
+</details>
+
+This passage reminds me very strongly of the theories on states written by Peter Gelderloos in his book <cite>Worshipping Power</cite>, which I discussed a little in the previous post...
