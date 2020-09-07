@@ -82,3 +82,6 @@ animation:
 hidden:
   path: /hidden/
   display: hidden
+baru:
+  path: /crit/baru
+  display: Baru Cormorant
