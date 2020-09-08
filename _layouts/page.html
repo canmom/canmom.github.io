@@ -2,7 +2,7 @@
 <html class="no-js" lang="en-gb">
 <head>
   {% include frontmatter.html %}
-  <title>{{ page.title }}</title>
+  <title>{{ page.title | strip_html }}</title>
   {% seo %}
   
   <link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho&amp;subset=japanese" rel="stylesheet"> 
