@@ -7,6 +7,7 @@ excerpt: "Last time round I doubted the cancer wizards. But I needn't have worri
 categories:
  - crit
  - baru
+date: 2020-09-09 01:00:00 +0100
 ---
 
 This is the fourth part of a series of articles on <cite>The Tyrant Baru Cormorant</cite>---part review, part meta, part commentary. For intro and links to the others, go [here]({{ site.url }}/crit/baru/tyrant-1-intro)!
