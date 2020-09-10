@@ -7,7 +7,7 @@
                 {{post.date | date: "%e&nbsp;%b.&nbsp;%Y"}}
             </time>
         </div>
-        <p>{{ post.excerpt }}</p>
+        <p>{{ post.excerpt | smartify }}</p>
         <ul class="tags">
             {% for tag in post.tags %}
                 {% unless include.excludetags contains tag %}
