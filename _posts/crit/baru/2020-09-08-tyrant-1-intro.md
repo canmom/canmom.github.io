@@ -99,8 +99,8 @@ This post is just an introduction. The substance of this series will begin in th
 [Anti-wizardischte Aktion]({{ site.url }}/crit/baru/tyrant-3-wizards)
 : Last time round I doubted the cancer wizards. But I needn't have worried: this book is doing something very interesting after all! What is the real power of a wizard? And what are the Cancrioth really like when we get to know them?
 
-Mason dust in the wound
-: Baru's not had the best time in this series, and in this book she hits rock bottom. Tau calls her a 'wound' in trim, who is poisoning the web of social connections. Are they right? And what happens when she finally connects with her dead-girlfriend tulpa on a lobotomy table?
+[Mason dust in the wound]({{ site.url }}/crit/baru/tyrant-4-wound)
+: Baru's not had the best time in this series, and in this book she hits rock bottom. Tau calls her a 'wound' in trim, who is poisoning the web of social connections. Are they right? What is being 'human'? And what happens to dear Baru when she finally connects with her dead-girlfriend tulpa on a lobotomy table?
 
 The corpse-hollow
 : A short one. The <cite>Baru Cormorant</cite> series's angle on the world is very much ecological. What does that imply when Baru witnesses (another!) genocide?

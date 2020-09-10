@@ -3,7 +3,7 @@ title: "Mason dust in the wound (on <cite>The Tyrant Baru Cormorant</cite>, part
 layout: article
 tags:
  - baru cormorant
-excerpt: "Last time round I doubted the cancer wizards. But I needn't have worried: this book is doing something very interesting after all! What is the real power of a wizard? And what are the Cancrioth really like when we get to know them?"
+excerpt: "Baru's not had the best time in this series, and in this book she hits rock bottom. Tau calls her a 'wound' in trim, who is poisoning the web of social connections. Are they right? What is being 'human'? And what happens to dear Baru when she finally connects with her dead-girlfriend tulpa on a lobotomy table?"
 categories:
  - crit
  - baru
@@ -131,7 +131,7 @@ Excluding someone from the web of social relationships comes up in another conte
 
 This no doubt has many parallels, but one is a ritual of exile in ancient Roman law, where someone could be declared <dfn>Homo sacer</dfn>, which is sort-of translated as 'sacred' (in the sense of 'set apart'). Someone in this condition could be killed by anyone, but was not fit for use in ritual sacrifice. The Italian philosopher Giorgio Agamben made a very big deal out of this, as a theory of what states do in general and what 'sovereignty' is. Wikipedia tells me he said this:
 
-> Agamben opines that laws have always assumed the authority to define "bare life" – <i lang="el">zoe</i>, as opposed to <i lang="el">bios</i>, that is 'qualified life' – by making this exclusive operation, while at the same time gaining power over it by making it the subject of political control. The power of law to actively separate "political" beings (citizens) from "bare life" (bodies) has carried on from Antiquity to Modernity – from, literally, Aristotle to Auschwitz. Aristotle, as Agamben notes, constitutes political life via a simultaneous inclusion and exclusion of "bare life": as Aristotle says, man is an animal born to life (Gk. ζῆν, <i lang="el">zen</i>), but existing with regard to the good life (εὖ ζῆν, <i lang="el">eu zen</li>) which can be achieved through politics. Bare life, in this ancient conception of politics, is that which must be transformed, via the State, into the "good life"; that is, bare life is that which is supposedly excluded from the higher aims of the state, yet is included precisely so that it may be transformed into this "good life".
+> Agamben opines that laws have always assumed the authority to define "bare life" – <i lang="el">zoe</i>, as opposed to <i lang="el">bios</i>, that is 'qualified life' – by making this exclusive operation, while at the same time gaining power over it by making it the subject of political control. The power of law to actively separate "political" beings (citizens) from "bare life" (bodies) has carried on from Antiquity to Modernity – from, literally, Aristotle to Auschwitz. Aristotle, as Agamben notes, constitutes political life via a simultaneous inclusion and exclusion of "bare life": as Aristotle says, man is an animal born to life (Gk. ζῆν, <i lang="el">zen</i>), but existing with regard to the good life (εὖ ζῆν, <i lang="el">eu zen</i>) which can be achieved through politics. Bare life, in this ancient conception of politics, is that which must be transformed, via the State, into the "good life"; that is, bare life is that which is supposedly excluded from the higher aims of the state, yet is included precisely so that it may be transformed into this "good life".
 
 I have no idea if that's an accurate summary, but it seems like a useful concept.
 
