@@ -109,7 +109,7 @@ We constantly see people whose camaraderie has categorical exceptions, from sold
 
 Personal connections as celebrated in trim are *necessary, but not sufficient*. The great achievement of the Mbo is not merely mobilising a philosophy that emphasises social connection, but making sure it does not punch exceptions.
 
-## Bare life?
+## Bare life? (or, let's try to do Theory)
 
 The notion of who is afforded *humanity* and who is not seems to have become very important to the 'opaque theory I don't really understand' side of left academia lately. I've tried to read Mbembe's <cite>Necropolitics</cite> but bounced off the bit about Bataille more than once. So... this bit is going to be a bit less thought out than someone who is really plugged-in could write.
 
@@ -121,3 +121,30 @@ Not everyone accepts this framing, but one does:
 
 > “When the shark smells blood, do you go limp and wait for teeth?” Scheme-Colonel Masako cried back. “You don’t understand Falcrest. They’re cowards! They exploit weakness! They bargain only when they fear our strength! Tau wants to make speeches about who’s human and who is not, but Falcrest doesn’t think any of us are human!”
 
+Elsewhere, we see what becomes of those who are *not* considered 'people' by a group, such as in the democide on Kyprananoke:
+
+> The Pranist, they said, was a purifier, sent to make sure liberated islets were made canaathe, which meant, in the new thinking, fit for people. He would kill anyone who’d had surgeries or inoculations. He would kill anyone educated in a Falcresti school. He would kill foreigners who refused to return to their ships and send back their water.
+
+Excluding someone from the web of social relationships comes up in another context also, this time with the Taranoki. Baru's parents (we'll talk more about them later) prevailed on her people not to subject her to 'the carpets', a ritual of exclusion reserved for 'traitors, spies, spouse-beaters and child molesters'. Once subjected to the carpets, it is forbidden to provide aid or even the barest acknowledgement.
+
+> Someone ripped the cloth from her. Rough hands lifted her and pushed her toward the road out of the village. She caught her right foot on a vine and stumbled. No one helped her: no one could. The word would go out everywhere that Taranoki people lived, even among the plainsiders, that Baru Namestruck had been trampled under her own parents’ feet.
+
+This no doubt has many parallels, but one is a ritual of exile in ancient Roman law, where someone could be declared <dfn>Homo sacer</dfn>, which is sort-of translated as 'sacred' (in the sense of 'set apart'). Someone in this condition could be killed by anyone, but was not fit for use in ritual sacrifice. The Italian philosopher Giorgio Agamben made a very big deal out of this, as a theory of what states do in general and what 'sovereignty' is. Wikipedia tells me he said this:
+
+> Agamben opines that laws have always assumed the authority to define "bare life" – <i lang="el">zoe</i>, as opposed to <i lang="el">bios</, that is 'qualified life' – by making this exclusive operation, while at the same time gaining power over it by making it the subject of political control. The power of law to actively separate "political" beings (citizens) from "bare life" (bodies) has carried on from Antiquity to Modernity – from, literally, Aristotle to Auschwitz. Aristotle, as Agamben notes, constitutes political life via a simultaneous inclusion and exclusion of "bare life": as Aristotle says, man is an animal born to life (Gk. ζῆν, <i lang="el">zen</i>), but existing with regard to the good life (εὖ ζῆν, <i lang="el">eu zen</li>) which can be achieved through politics. Bare life, in this ancient conception of politics, is that which must be transformed, via the State, into the "good life"; that is, bare life is that which is supposedly excluded from the higher aims of the state, yet is included precisely so that it may be transformed into this "good life".
+
+I have no idea if that's an accurate summary, but it seems like a useful concept.
+
+So if the function of state power is all about drawing this distinction between "bare life" to be managed and "the good life", the proper subjectivity which can be achieved through participating in its structures, what of the philosophy of trim? I have no idea if Seth read Agamben (seems unlikely? in a recent reddit AMA, they mentioned an intent to criticise <cite>Guns, Germs and Steel</cite>, while praising C. Scott's <cite>Seeing Like a State</cite>, which seem an entirely different realm of academia than Italians and Theory).
+
+So both Falcrest and the Mbo seek to draw people into their version of the 'good life'. For Falcrest, this is to be achieved by naked force and direct control, taking people into prisons to condition them into good citizens, and breeding the perfect citizen. For the Mbo, it is to be achieved by creating individual, personal connections and friendships; diversity is to be encouraged, as long as one is part of the network (contra Aminata's vision of her homeland).
+
+What with Tau being in the highest echelons of Mbo society, outside of the mob which comes for Farrier and Torrinde, it's not clear how the Mbo handles 'crime' or deliberate breaks with the broader community---even in a small way, like breaking the day's taboos. I'm afraid I'm not well enough read on West African history to compare its inspirations.
+
+According to the hinted long backstory---at least, as it's understood by the characters---these two visions lead to two approaches to the world. The Mbo claims a stable, thousand year history; Falcrest, a short life of aggressive expansion. Is that how it would be? Of course, it's not that simple...
+
+## Closing a wound
+
+Falcrest and the Mbo's notions of the 'good life' are clearly contradictory, as we see in the quotes above. To go along with Falcresti eugenics is to disobey the strictures of trim; to live as the Oriati do is 'unhygienic' as the Falcresti remind anyone who will listen. For Baru to get drawn into the Oriati web, she has to let go of her Falcresti habits: less blackmail, more giving a shit about her friends.
+
+On anarchistic grounds, I can't help but wonder, is there a way to do away with the sense of 'good life' vs. 'bare life' altogether? I don't think I fully understand the question I'm trying to ask, what that would entail.
