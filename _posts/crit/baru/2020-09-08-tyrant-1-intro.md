@@ -102,8 +102,8 @@ This post is just an introduction. The substance of this series will begin in th
 [Mason dust in the wound]({{ site.url }}/crit/baru/tyrant-4-wound)
 : Baru's not had the best time in this series, and in this book she hits rock bottom. Tau calls her a 'wound' in trim, who is poisoning the web of social connections. Are they right? What is being 'human'? And what happens to dear Baru when she finally connects with her dead-girlfriend tulpa on a lobotomy table?
 
-The corpse-hollow
-: A short one. The <cite>Baru Cormorant</cite> series's angle on the world is very much ecological. What does that imply when Baru witnesses (another!) genocide?
+[The corpse-hollow]({{ site.url }}/crit/baru/tyrant-5-genocide)
+: Baru witnesses (another!) genocide on Kyprananoke. We take a look at the book's treatment of it, its dark questions about agency, and Baru's ecological angle on the horror of genocide.
 
 Kimbune's Theorem
 : Capitalist economics, population growth, disease, cancer, radioactivity---the subjects of <cite>Baru Cormorant</cite> are all linked through the terrifying power of exponential growth and decay. In this book, Baru encounters a different angle on exponentials, through a famous mathematical theorem. Are *you* enough of a nerd to read the book in this light? (Contains, optionally a derivation of Euler's formula.)
