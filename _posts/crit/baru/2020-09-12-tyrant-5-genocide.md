@@ -3,11 +3,11 @@ title: "The corpse-hollow (on <cite>The Tyrant Baru Cormorant</cite>, part 5)"
 layout: article
 tags:
  - baru cormorant
-excerpt: "The <cite>Baru Cormorant</cite> series's angle on the world is very much ecological. What does that imply when Baru witnesses (another!) genocide?"
+excerpt: "Baru witnesses (another!) genocide on Kyprananoke. We take a look at the book's treatment of it, its dark questions about agency, and Baru's ecological angle on the horror of genocide."
 categories:
  - crit
  - baru
-date: 2020-09-09 02:00:00 +0100
+date: 2020-09-12 02:00:00 +0100
 ---
 
 This is the fifth part of a series of articles on <cite>The Tyrant Baru Cormorant</cite>---part review, part meta, part commentary. For intro and links to the others, go [here]({{ site.url }}/crit/baru/tyrant-1-intro)!
@@ -67,16 +67,26 @@ Later, Baru tries to explain what she saw to a group of Taranoki people in effec
 
 This is striking, because in terms of how it's carried out, the brutal massacres-by-machete we witness on Kyprananoke resemble most of all the history of the Cambodian genocide, from the hyper-autarkic nationalism to the targeting of people with signs of surgery (late in the genocide, the Khmer Rouge took wearing glasses as a sign of being an intellectual).
 
-<details>
+<details markdown="1">
 <summary>A short Khmer Rouge history</summary>
 
-While an attempt at telling a detailed history of the Khmer Rouge's rise to power is kind of way beyond what I'm capable of making for this article, it could obviously not have happened in a vacuum. The Cambodian Civil War was essentially a product of the neighbouring Vietnam and Korean Wars, one of the most famous proxy wars in which Americans, Soviets and to a lesser extent the Chinese were burning down the country for the sake of spreading their bloc's economic and geopolitical control. Faced with the massive war infrastructure of the American state coming down on them, and without equivalent on-the-ground support from the USSR, the Viet Cong ended up with the choice to either surrender or resort to the suite of brutal but effective guerilla tactics like 'punji stick' traps, while hiding in networks of tiny tunnels to escape American napalm.
+While an attempt at telling a detailed history of the Khmer Rouge's rise to power is kind of way beyond what I'm capable of making for this article, it could obviously not have happened in a vacuum.
 
-In the 60s, Cambodia was a former French colony, then ruled by a monarchy led by King Sihanouk, and pointedly neutral between the sides of the Cold War. This neutrality collapsed in the mid 60s; Sihanouk attempted to court the Leninists, but before long was booted out by a right-wing coup aligned with the Americans, and a civil war started which lasted half a decade. The war was marked by *enormous* country-wide firebombing campaigns by the Americans, dropping incomprehensible amounts of ordnance. Their target was the Khmer Rouge, who were (French-educated) ideological weirdos by all sides' standards, but a convenient local force for the Leninists to back. Especially once Sihanouk lent them his support in exile, and the Americans continued to bomb without much regard for who is a civilian, the Khmer rapidly grew into a major popular movement. The Khmer Rouge started out their trend of atrocities here, from torture to the use of child soldiers.
+The Cambodian Civil War was essentially a product of the neighbouring Vietnam and Korean Wars, one of the most famous proxy wars in which Americans, Soviets and to a lesser extent the Chinese were burning down the country for the sake of spreading their bloc's economic and geopolitical control.
 
-Like anything in the Cold War, it's hard to work out which reported horrors definitely happened, since most of the reports on it are themselves highly partisan. It generally does seem to be agreed that by the time the Khmer Rouge won the war, the cities were full of starving refugees and the country's economic capacity to feed them had been devastated, so the first act of the new regime was that the Khmer Rouge ordered the cities abandoned entirely---a not *entirely* incomprehensible measure. But from there, of course the Khmer Rouge went on to do far, far worse than simply failing to handle a crisis. They pursued an incomprehensible program of trying to turn the entire country into an entirely self-sufficient system of near-primitivist agricultural communes, a cartoon of Mao's (even larger and more catastrophic, but not as *intentionally* deadly) 'Great Leap Forward', combined with a weird sort of 11th-century LARP.
+Faced with the massive war infrastructure of the American state coming down on them, and without equivalent on-the-ground support from the USSR, the Vietcong (military force of North Vietnam) ended up with the choice to either surrender or resort to the suite of brutal but effective guerilla tactics like 'punji stick' traps, while hiding in networks of tiny tunnels to escape American napalm. The war edged onto neighbouring Cambodia.
 
-To pull off this attempt at a social 'reset', the Khmer Rouge killed people. A *lot* of people. By the time the North Vietnamese invaded the country again and kicked out the Khmer Rouge (who then briefly received American backing!), about a quarter of the population of Cambodia had been killed, somewhere between 2 and 3 million people. Many died of starvation and disease, but a huge proportion were deliberately tortured and killed by bladed weapons, sharp sticks and random farm tools (since ammunition was scarce). The victims were interred in enormous, shallow mass graves, which have become sites of commemoration---places whose images of stacked ranks of skulls are kind of incomprehensible, even knowing what happened.
+In the 60s, Cambodia was a former French colony, then ruled by a monarchy led by King Sihanouk, and pointedly neutral between the sides of the Cold War. This neutrality collapsed in the mid 60s; Sihanouk attempted to court the Leninists, without upsetting the Americans too much, but by about 1970, he was booted out by a right-wing coup aligned with the Americans, and a civil war started which lasted half a decade.
+
+The war was marked by *enormous* country-wide firebombing campaigns by the Americans, dropping incomprehensible amounts of ordnance. Their target was the Khmer Rouge, who were (French-educated) ideological weirdos by all sides' standards, but a convenient local force for the Leninists to back. Especially once Sihanouk lent them his support in exile, and the Americans continued to bomb without much regard civilian or combatant, the Khmer rapidly grew into a major popular movement.
+
+The Khmer Rouge started out their trend of atrocities here, from torture to the use of child soldiers. But like anything in the Cold War, it's hard to work out which reported horrors definitely happened, since most of the reports on it are themselves highly partisan. It generally does seem to be agreed that by the time the Khmer Rouge won the war, the cities were full of starving refugees and the country's economic capacity to feed them had been devastated, so the first act of the new regime was that the Khmer Rouge ordered the cities abandoned entirely---a not *entirely* incomprehensible measure.
+
+But from there, of course the Khmer Rouge went on to do far, far worse than simply failing to handle a crisis. They pursued an incomprehensible program of trying to turn the entire country into an entirely self-sufficient system of near-primitivist agricultural communes, a cartoon of Mao's (even larger and more catastrophic in terms of starvation deaths, but not as *intentionally* deadly) 'Great Leap Forward', combined with a weird sort of 11th-century LARP.
+
+To pull off this attempt at a social 'reset', the Khmer Rouge killed people. A *lot* of people.
+
+By the time the North Vietnamese invaded the country again and kicked out the Khmer Rouge (who then briefly received American backing!), about a quarter of the population of Cambodia had been killed, somewhere between 2 and 3 million people. Many died of starvation and disease, but a huge proportion were deliberately tortured and killed by bladed weapons, sharp sticks and random farm tools (since ammunition was scarce). The victims were interred in enormous, shallow mass graves, which have become sites of commemoration---places whose images of stacked ranks of skulls are kind of incomprehensible, even knowing what happened.
 
 I have not read into this depressing subject enough to be able to say how the Khmer Rouge's intentions converged on 'kill a quarter of our population', or who might have fought against it. Even in the wake of the genocide, they attempted to blame the mass death on the Vietnamese invasion. And in a particularly ugly episode of leftist history, reports of genocide were treated as false propaganda concocted by the Americans (not implausible), and the Khmer Rouge enjoyed a brief popularity with certain leftist student movements.
 
@@ -110,7 +120,7 @@ I know there's an entire academic field devoted to working out the causes of gen
 
 When we invoke these factors to attempt to explain why a genocide happened at a particular place and time, we sort of remove the focus from the people actually carrying it out---people who are, in Baru's words, undoubtedly 'doing evil'. She describes the dilemma of analysing broad historical forces effectively; we can simply replace Falcest with the force of capitalism and colonialism and more generally history.
 
-I think as far as my belief, I find it hard not to accept that the *capacity* for 'unimaginably' heinous atrocities, like the corpse mutilations etc. which always accompany a genocide, exists in just about everyone. Just like the capacity to treat people abusively, or disregard obvious harms. Our behaviour is in many ways incredibly *plastic*---though we change on very slow timescales. But I'll come back to this question of subjectivity and intent later, once we've considered Baru's plan against Falcrest.
+I think as far as my belief, I find it hard not to accept that the *capacity* for 'unimaginably' heinous atrocities, like the corpse mutilations etc. which always accompany a genocide, exists in just about everyone. Just like the capacity to treat people abusively, or disregard obvious harms. Our behaviour is in many ways incredibly *plastic*---though we change on very slow timescales. But I'll come back to this question of subjectivity and intent later, when we consider Baru's explanation for Falcrest's power.
 
 ## The significance of genocide
 
@@ -150,15 +160,17 @@ Barhu's emphasis on gain and loss perhaps comes from her own, personal preoccupa
 
 ## Last word on Kyprananoke
 
-How do we apply this to Kyprananoke---where, on the one hand, we have people like the Pranist doing horrifying massacres up close and personal, but on the other, the whole situation is a product of the arrival of Falcrest and the regime they imposed? One thing I think the book does very well in making clear is that genocide and 'democlysm' is not one dramatic event (the final drowning of the island) but a protracted event, civil wars and brutal regimes shading into each other, each tragedy producing another.
+How do we apply this to Kyprananoke---where, on the one hand, we have people like the Pranist doing horrifying massacres up close and personal, but on the other, the whole situation is a product of the arrival of Falcrest and the regime they imposed?
 
-Falcresti observers speak of this as 'chaos': 'a chaos made of man'...
+One thing I think the book does very well in making clear is that genocide and 'democlysm' is not one dramatic event (the final drowning of the island) but a protracted event, civil wars and brutal regimes shading into each other, each tragedy producing another.
+
+The term 'democlysm' comes from the Falcresti observers, 'a chaos made of man'...
 
 > Nullsin shuddered.
 >
 > The Kyprananoke archipelago had fallen into democlysm, the word great Iranenna (she’d read her prerevolutionary philosophers, in school at Shaheen) coined for “a chaos made of man.” Nowhere in nature could you find bloodshed like this.
 
-It's easy imagine how this perception would justify Falcrest's brutal 'order'. But chaos is a sense of unpredictability, and the democlysm is far from unpredictable; it's a very natural consequence of colonial rule. (It is also far from true that no such thing happens in nature, as anyone who has read about ant colonies can attest.)
+It's easy imagine how this perception---of 'bare life', to look back at the previous article---would justify Falcrest's brutal 'order'. But chaos is a sense of unpredictability, and the democlysm is far from unpredictable; it's a very natural consequence of colonial rule. (It is also far from true that no such thing happens in nature, as anyone who has read about ant colonies can attest.)
 
 One thing I found out while writing this was that Barhu's shore trip on Kyprananoke, and the whole sequence with the Pranist, was actually quite a late addition to the story (according to [this Reddit answer](https://www.reddit.com/r/books/comments/ijzl2b/im_seth_dickinson_author_of_destiny_lore_and_the/g3hx62s/)).
 
