@@ -11,8 +11,9 @@ img {
 	margin: 1em;
 }
 
-header {
-	max-width: 475px;
+main {
+	margin: 0 auto;
+	max-width: 1500px;
 }
 
 header h1 {
@@ -28,18 +29,20 @@ address {
 	margin-left: 1em;
 }
 
+address a::before {
+	content: "▶ "
+}
+
+address a:hover::before {
+	content: "▷ "
+}
+
 a {
 	display: block;
 }
 
 a.more {
 	font-style: italic;
-}
-
-nav {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
 }
 
 nav .articles {
@@ -56,33 +59,16 @@ nav .articles h2 a {
 
 @import "listing";
 
-@media only screen and (max-width: 1249px) {
-	#container {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-	}
-}
-
-@media only screen and (min-width: 1250px) {
-	header {
-		max-width: 80%;
-	}
-
-	nav .articles {
-		max-width: 45%;
-	}
-
-	article {
-		max-width: 1500px;
-		margin: 0 auto;
-	}
-
+@media only screen and (min-width: 800px) {
 	nav {
-		justify-content: flex-start;
+		columns: 2;
+		column-gap: 2em;
+		max-width: 1000px;
 	}
 
 	nav .articles {
+		break-inside: avoid;
 		margin-right: 50px;
+		display: inline-block;
 	}
 }

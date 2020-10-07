@@ -60,7 +60,7 @@ header nav a:hover {
     MOBILE: Main
    ============== */
 
-article {
+main {
     margin-top: 25px;
     // padding: 0 25px;
     width: 90%;
@@ -68,82 +68,82 @@ article {
     margin-right: 5%;
 }
 
-article h1 {
+main h1 {
     margin: 20px 0 20px 0;
     font-size: 32px;
     line-height: 33px;
 }
 
-article h2 {
+main h2 {
     font-size: 20px;
     margin: 20px 0 20px 10px;
 }
 
-article h3 {
+main h3 {
     font-size: 18px;
     opacity:.8;
     margin: 20px 0 20px 20px;
 }
 
-article h4 {
+main h4 {
     font-size: 18px;
     opacity: .8;
     margin: 20px 0 20px 24px;   
 }
 
-article p, article ul, article ol, article dl {
+main p, main ul, main ol, main dl {
     margin: 0 0 20px 25px;
 }
 
-article ol#markdown-toc {
+main ol#markdown-toc {
     font-family: "Lato", sans-serif;
     font-size: 17px;
 }
 
-article ol#markdown-toc li ol {
+main ol#markdown-toc li ol {
     margin: 0;
 }
 
-article dl dt {
+main dl dt {
     font-weight: bold;
 }
 
-article dl dt::after {
+main dl dt::after {
     content: ":"
 }
 
-article li {
+main li {
     margin-top: 5px;
 }
 
-article ul.listing {
+main ul.listing {
     margin-left: 25px;
 }
 
-article blockquote, article div.highlighter-rouge {
+main blockquote, main div.highlighter-rouge {
     margin-left: 45px;
     margin-right: 20px;
     padding-left: 15px;
     background-color: $blockquote-background-colour;
 }
 
-article code.highlighter-rouge {
+main code.highlighter-rouge {
     background-color: $blockquote-background-colour;
 }
 
-article blockquote p {
+main blockquote p {
     margin-left: 0;
 }
 
-article blockquote blockquote {
+main blockquote blockquote {
     margin-left: 0;
 }
 
-article .highlighter-rouge {
+main .highlighter-rouge {
     font-size: 80%;
 }
 
-article p:first-child {
+main p:first-child {
     margin-top: 20px;
 }
 
@@ -195,7 +195,7 @@ nav.tags {
     margin-top: 10px;
 }
 
-article .citation {
+main .citation {
     font-size: 90%;
 }
 
@@ -219,48 +219,48 @@ article .citation {
     margin: 0;
 }
 
-article figure {
+main figure {
     margin: 0 0 20px 25px;
     display: flex;
     align-items: center;
     flex-direction: column;
 }
 
-article figure img {
+main figure img {
     max-width: 100%;
     color: #f00;
 }
 
-article figure figcaption {
+main figure figcaption {
     margin: 0 20px;
     font-size: 90%;
 }
 
-article figure pre {
+main figure pre {
     max-width: 100%;
 }
 
-article a {
+main a {
     color: $accent-colour;
 }
 
-article a:hover {
+main a:hover {
     background-color: rgba($accent-colour, 0.05);
 }
 
-article hr {
+main hr {
     width: 60%;
     margin: 20px auto;
     border-top: 3px solid $border-colour;
 }
 
-article details {
+main details {
     margin: 5px 10px 20px 10px;
     padding: 10px;
     background-color: rgba($border-colour,0.2);
 }
 
-article details summary {
+main details summary {
     border: 1px solid $border-colour;
     background-color: rgba($border-colour,0.2);
     padding: 10px;
@@ -271,7 +271,7 @@ article details summary {
     margin: -10px -10px -10px -10px;
 }
 
-article details[open] > summary {
+main details[open] > summary {
     margin-bottom: 10px;
 }
 
@@ -508,30 +508,30 @@ ol.poem li li {
     //     width: 38%;
     // }
 
-    article {
+    main {
         width: 691px;
         margin: 0 auto;
     }
 
-    article figure.float {
+    main figure.float {
         max-width: 300px;
         shape-image-threshold: 0.5;
         shape-margin: 1em;
         margin-bottom: 0;
     }
 
-    article figure.float.right {
+    main figure.float.right {
         float: right;
         margin-left: 0.5em;
     }
 
-    article figure.float.left {
+    main figure.float.left {
         float: left;
         margin-right: 0.5em;
         margin-left: 0;
     }
 
-    article figure.float figcaption {
+    main figure.float figcaption {
         text-align: center;
     }
 }

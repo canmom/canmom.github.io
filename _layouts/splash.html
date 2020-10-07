@@ -7,7 +7,7 @@
         {% seo %}
     </head>
     <body>
-        <article>
+        <main>
             <img src="img/splash-photo.png" alt="Site author photo: a smiling trans woman with red hair.">
             <section id="container">
                 <header>
@@ -24,96 +24,96 @@
                 <nav>
                     <section class="articles">
                         <h2><a href="https://canmom.itch.io">fiction</a></h2>
-                        <ul class="listing">
-                            <li>
+                        <section class="listing">
+                            <article>
                                 <a href="https://canmom.github.io/vector">
-                                    <h3>VECTOR</h3>
+                                    <h1>VECTOR</h1>
                                     <p>Civil war. Transforming bodies. Radioactive, regenerating trans women struggle to survive and transform a dystopian world. (web serial)</p>
                                 </a>
-                            </li>
-                            <li>
+                            </article>
+                            <article>
                                 <a href="https://canmom.itch.io/house">
-                                    <h3>house</h3>
+                                    <h1>house</h1>
                                     <p>The revolution has come, houses are free, and you're falling in love with your occupant. (interactive fiction)</p>
                                 </a>
-                            </li>
-                            <li>
+                            </article>
+                            <article>
                                 <a href="https://canmom.itch.io/hacker">
-                                    <h3>hacker</h3>
+                                    <h1>hacker</h1>
                                     <p>An AI romance. (interactive fiction)</p>
                                 </a>
-                            </li>
-                        </ul>
+                            </article>
+                        </section>
                     </section>
                     {% assign categorylist = "animation crit physics theory rpgs" | split: ' ' %}
                     {% for category_name in categorylist %}
                     <section class="articles">
                         <h2><a href="/{{category_name}}/">{{category_name}}</a></h2>
-                        <ul class="listing">
+                        <section class="listing">
                             {% assign first_posts = site.categories[category_name] | slice: 0,5 %}
                             {% for post in first_posts %}
                                 {% include listing.html post=post %}
                             {% endfor %}
                             {% if site.categories[category_name].size > 5 %}
-                            <li><a href="/{{category_name}}/" class="more"><p>more…</p></a></li>
+                            <a href="/{{category_name}}/" class="more"><p>more…</p></a>
                             {% endif %}
-                        </ul>
+                        </section>
                     </section>
                     {% endfor %}
                     <section class="articles">
                         <h2><a href="/livereads/">livereads</a></h2>
-                        <ul class="listing">
+                        <section class="listing">
                             {% assign subcategories = site.data.livereads %}
                             {% for story in subcategories %}
                             {% if "egs uj animorphs umineko" contains story.path %}
-                            <li>
+                            <article>
                             {% capture fullpath %}{% if page.categories %}/{{ page.categories | join: "/" }}{% endif %}/livereads/{{ story.path }}/{% endcapture %}
                                 <a href='/livereads/{{ story.path }}'>
                                   <h3>{{ story.title }}</h3>
                                   {% for sitepage in site.pages %}{% if sitepage.url == fullpath %}<p>{{ sitepage.description }}</p>{% endif %}{% endfor %}
                                 </a>
-                            </li>
+                            </article>
                             {% endif %}
                             {% endfor %}
-                            <li><a href="/livereads/" class="more"><p>more…</p></a></li>
-                        </ul>
+                            <a href="/livereads/" class="more"><p>more…</p></a>
+                        </section>
                     </section>
                     {% assign categorylist = "nier programming" | split: ' ' %}
                     {% for category_name in categorylist %}
                     <section class="articles">
                         <h2><a href="/{{category_name}}/">{{category_name}}</a></h2>
-                        <ul class="listing">
+                        <section class="listing">
                             {% assign first_posts = site.categories[category_name] | slice: 0,5 %}
                             {% for post in first_posts %}
                                 {% include listing.html post=post %}
                             {% endfor %}
                             {% if site.categories[category_name].size > 5 %}
-                            <li><a href="/{{category_name}}/" class="more"><p>more…</p></a></li>
+                            <a href="/{{category_name}}/" class="more"><p>more…</p></a>
                             {% endif %}
-                        </ul>
+                        </section>
                     </section>
                     {% endfor %}
                     <section class="articles" id="projects">
                         <h2>projects</h2>
-                        <ul class="listing">
+                        <section class="listing">
                             {% for repo in site.github.public_repositories reversed%}
                             {% unless page.project_excludes contains repo.name %}
-                            <li>
+                            <article>
                                 <a href="{{ repo.html_url }}">
-                                    <h3>{{ repo.name }}</h3>
+                                    <h1>{{ repo.name }}</h1>
                                     {% if repo.name == "canmom.github.io" %}
                                     <p>The source code to the website you're looking at right now!</p>
                                     {% else %}
                                     <p>{{ repo.description }}</p>
                                     {% endif %}
                                 </a>
-                            </li>
+                            </article>
                             {% endunless %}
                             {% endfor %}
-                        </ul>
+                        </section>
                     </section>
                 </nav>
             </section>
-        </article>
+        </main>
     </body>
 </html>
