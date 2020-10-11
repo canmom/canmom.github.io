@@ -2,21 +2,21 @@
 layout: page
 css: "/article/category.css"
 ---
-<article class="articles">
+<main class="articles">
   <p>{{ page.description }}</p>
   <h2>Subcategories</h2>
-  <ul class="listing">
+  <section class="listing">
     {% assign subcats = site.data[page.cat] %}
     {% for story in subcats %}
-      <li>
+      <article>
         {% capture fullpath %}{% if page.categories %}/{{ page.categories | join: "/" }}{% endif %}/{{ page.cat }}/{{ story.path }}/{% endcapture %}
         <a href='{{ story.path }}'>
-          <h3>{{ story.title }}</h3>
+          <h1>{{ story.title }}</h1>
           {% for sitepage in site.pages %}{% if sitepage.url == fullpath %}<p>{{ sitepage.description }}</p>{% endif %}{% endfor %}
         </a>
-      </li>
+      </article>
     {% endfor %}
-  </ul>
+  </section>
   <!--List any articles that are members of only the supercategory-->
   {% assign excludeArr = '' | split: '' | push: site.data.categories[page.cat].display %}
   {% for cat in page.categories %}
@@ -25,10 +25,10 @@ css: "/article/category.css"
   {% assign catposts = site.categories[page.cat] | reverse | where_exp: "post", "post.categories[-1] == page.cat" %}
   {% if catposts.size > 0 %}
   <h2>Posts</h2>
-  <ul class="listing">
+  <section class="listing">
     {% for post in catposts %}
       {% include listing.html post=post excludetags=excludeArr %}
     {% endfor %}
-  </ul>
+  </section>
   {% endif %}
-</article>
+</main>

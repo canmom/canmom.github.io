@@ -2,15 +2,15 @@
 layout: page
 css: "/article/category.css"
 ---
-<article class="articles">
+<main class="articles">
   <p>{{ page.description }}</p>
   {% assign excludeArr = '' | split: '' | push: site.data.categories[page.cat].display %}
   {% for cat in page.categories %}
     {% assign excludeArr = excludeArr | push: site.data.categories[cat].display %}
   {% endfor %}
-  <ul class="listing">
+  <section class="listing">
     {% for post in site.categories[page.cat] reversed %}
         {% include listing.html post=post excludetags=excludeArr %}
     {% endfor %}
-  </ul>
-</article>
+  </section>
+</main>
