@@ -7,7 +7,7 @@ excerpt: "Capitalist economics, population growth, disease, cancer, radioactivit
 categories:
  - crit
  - baru
-date: 2020-09-12 02:00:00 +0100
+date: 2020-10-11 01:00:00 +0100
 has_plots: true
 ---
 This is the sixth part of a series of articles on <cite>The Tyrant Baru Cormorant</cite>---part review, part meta, part commentary. For intro and links to the others, go [here]({{ site.url }}/crit/baru/tyrant-1-intro)!
