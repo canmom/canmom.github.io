@@ -15,7 +15,7 @@ What a series! Like, damn.
 1. contents list
 {:toc}
 
-Last year, I read the first two books in the <cite>Masquerade</cite> series, watching Baru Cormorant as first [a <cite>Traitor</cite>]({{ site.url }}/crit/a-few-qualms-on-the-traitor-baru-cormorant) and then [a <cite>Monster</cite>]({{ site.url }}/crit/unmastered-on-the-monster-baru-cormorant). Many people responded with insightful additions and kind words. Ever since then, those books have sat in my head accruing emotions. I read the commentaries on Seth's blog, I reread favourite passages, even somehow became Twitter friends with the author.
+Last year, I read the first two books in the <cite>Masquerade</cite> series, watching Baru Cormorant as first [a <cite>Traitor</cite>](/crit/a-few-qualms-on-the-traitor-baru-cormorant) and then [a <cite>Monster</cite>](/crit/unmastered-on-the-monster-baru-cormorant). Many people responded with insightful additions and kind words. Ever since then, those books have sat in my head accruing emotions. I read the commentaries on Seth's blog, I reread favourite passages, even somehow became Twitter friends with the author.
 
 And then <cite>Tyrant</cite> came out.
 
@@ -93,23 +93,23 @@ Now, we reach <cite>Tyrant</cite>. By tradition, the name of this book should me
 
 This post is just an introduction. The substance of this series will begin in the *next* post. But to give some hints about where we're going...
 
-[An odd flavour of history]({{ site.url }}/crit/baru/tyrant-2-defamiliarisation)
+[An odd flavour of history](/crit/baru/tyrant-2-defamiliarisation)
 : <cite>Tyrant</cite> opens in an epigraph, opening a tiny window into the ugly, messy history that inspired it. The history of just one small region of our planet is overwhelming. So why bother making up a fantasy one, which will always be smaller? Let's talk about the sci-fi technique of <dfn>defamiliarisation</dfn>.
 
-[Anti-wizardischte Aktion]({{ site.url }}/crit/baru/tyrant-3-wizards)
+[Anti-wizardischte Aktion](/crit/baru/tyrant-3-wizards)
 : Last time round I doubted the cancer wizards. But I needn't have worried: this book is doing something very interesting after all! What is the real power of a wizard? And what are the Cancrioth really like when we get to know them?
 
-[Mason dust in the wound]({{ site.url }}/crit/baru/tyrant-4-wound)
+[Mason dust in the wound](/crit/baru/tyrant-4-wound)
 : Baru's not had the best time in this series, and in this book she hits rock bottom. Tau calls her a 'wound' in trim, who is poisoning the web of social connections. Are they right? What is being 'human'? And what happens to dear Baru when she finally connects with her dead-girlfriend tulpa on a lobotomy table?
 
-[The corpse-hollow]({{ site.url }}/crit/baru/tyrant-5-genocide)
+[The corpse-hollow](/crit/baru/tyrant-5-genocide)
 : Baru witnesses (another!) genocide on Kyprananoke. We take a look at the book's treatment of it, its dark questions about agency, and Baru's ecological angle on the horror of genocide.
 
-Kimbune's Theorem
-: Capitalist economics, population growth, disease, cancer, radioactivity---the subjects of <cite>Baru Cormorant</cite> are all linked through the terrifying power of exponential growth and decay. In this book, Baru encounters a different angle on exponentials, through a famous mathematical theorem. Are *you* enough of a nerd to read the book in this light? (Contains, optionally a derivation of Euler's formula.)
+[Kimbune's Theorem](/crit/baru/tyrant-6-exponential)
+: Capitalist economics, population growth, disease, cancer, radioactivity---the subjects of <cite>Baru Cormorant</cite> are all linked through the terrifying power of exponential growth and decay. In this book, Baru encounters a different angle on exponentials, through a famous mathematical theorem. What can this angle tell us?
 
 Butchering an empire
-: We have the tools we need to consider Baru's new grand plan. But can it possibly achieve the desired result? Perhaps 17th-century economic history can be a lens to help us understand.
+: As she breaks free of Farrier's story, Baru hatches a grand new grand plan. But can it possibly achieve the desired result? Perhaps 17th-century economic history can be a lens to help us understand.
 
 Horse-archers and Anti-Mannism
 : We've seen the grandiose scope of Baru's plan---but first she has a lot of obstacles to deal with, from a fucked up mountain culture to a fucked up money man. t all hinges on gender. (And the fact that she tops.)
