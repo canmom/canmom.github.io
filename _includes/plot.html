@@ -1,0 +1,62 @@
+<figure>
+    <div class="plot" id="plot-{{include.name}}"></div>
+    <figcaption>{% if include.slider %}
+<input type="range" id="slider-{{include.name}}" name="{{include.name}}" min="{{include.slidermin}}" max="{{include.slidermax}}" value="{{include.sliderdefault}}" {% if include.sliderstep %}step="{{include.sliderstep}}"{% endif %}>
+<label for="slider-{{include.name}}">{{include.slider}}</label>
+{% endif %}</figcaption>
+</figure>
+<script>
+{% if include.slider %}
+sliders["{{include.name}}"] = document.getElementById('slider-{{include.name}}');
+{% endif %}
+
+plots["{{include.name}}"] = function () {
+
+{% if include.slider %}
+    const sliderValue = parseFloat(sliders["{{include.name}}"].value);
+{% endif %}
+
+    const instance = functionPlot({
+        target:'#plot-{{include.name}}',
+        {% if include.range %}
+        yAxis: { domain: {{ include.range }} },
+        {% endif %}
+        {% if include.domain %}
+        xAxis: {domain: {{ include.domain }} },
+        {% endif %}
+        {% if include.fn %}
+        data: [
+            {fn: '{{include.fn}}'}
+        ],
+        {% elsif include.data %}
+        data: {{ include.data }},
+        {% endif %}
+        {% if include.extraOptions %}
+        {{include.extraOptions}},
+        {% endif %}
+        grid: true
+    });
+
+    const xFormat = function (d) {
+        return (new Intl.NumberFormat().format(d))
+    }
+    const yFormat = function (d) {
+        // new format = old format + ' i' for imaginary
+        return (new Intl.NumberFormat().format(d)) {% if include.complexPlane %}+ ' i'{% endif %}
+    }
+    // update format
+    instance.meta.xAxis.tickFormat(xFormat)
+    instance.meta.yAxis.tickFormat(yFormat)
+    // redraw the graph
+    instance.draw()
+    
+}
+
+{% if include.slider %}
+sliders["{{include.name}}"].addEventListener('input',plots["{{include.name}}"]);
+{% endif %}
+
+plots["{{include.name}}"]();
+
+
+</script>

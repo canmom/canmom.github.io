@@ -12,7 +12,9 @@
   <link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
     {% endfor %}
   {% endif %}
-
+  {% if page.has_plots %}
+  {% include functionplot.html %}
+  {% endif %}
   {% include mathjax.html %}
 </head>
 <body>
