@@ -7,7 +7,7 @@ excerpt: "As she breaks free of Farrier's story, Baru hatches a grand new grand 
 categories:
  - crit
  - baru
-date: 2020-10-16 02:00:00 +0100
+date: 2020-10-17 21:15:00 +0100
 ---
 This is the seventh part of a series of articles on <cite>The Tyrant Baru Cormorant</cite>---part review, part meta, part commentary. For intro and links to the others, go [here](/crit/baru/tyrant-1-intro)!
 
