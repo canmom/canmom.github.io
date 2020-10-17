@@ -108,8 +108,8 @@ This post is just an introduction. The substance of this series will begin in th
 [Kimbune's Theorem](/crit/baru/tyrant-6-exponential)
 : Capitalist economics, population growth, disease, cancer, radioactivity---the subjects of <cite>Baru Cormorant</cite> are all linked through the terrifying power of exponential growth and decay. In this book, Baru encounters a different angle on exponentials, through a famous mathematical theorem. What can this angle tell us?
 
-Butchering an empire
-: As she breaks free of Farrier's story, Baru hatches a grand new grand plan. But can it possibly achieve the desired result? Perhaps 17th-century economic history can be a lens to help us understand.
+[Butchering an empire](/crit/baru/tyrant-7-butchering)
+: As she breaks free of Farrier's story, Baru hatches a grand new grand plan. But can it possibly achieve the desired result? Perhaps 17th-century economic history can be a lens to help us understand. Or perhaps post-Nazi Germany has the answer. Or perhaps the Soviet Union! What happens when modern empires fall?
 
 Horse-archers and Anti-Mannism
 : We've seen the grandiose scope of Baru's plan---but first she has a lot of obstacles to deal with, from a fucked up mountain culture to a fucked up money man. t all hinges on gender. (And the fact that she tops.)
