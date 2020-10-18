@@ -13,6 +13,9 @@ This is the seventh part of a series of articles on <cite>The Tyrant Baru Cormor
 
 In this one, we consider what Baru's whole life has built up to: her plan to 'butcher' the Masquerade, and bring about a world not ruled by its colonialism.
 
+1. foo
+{:toc}
+
 ## Barhu's big plan
 
 If, as we've seen, the Masquerade thrives by making everyone dependent on participating in its growth, how can it be destroyed without killing all those who've come to depend on it? For so long, Baru could not see an answer; she resigned herself to a vision of apocalyptic war as the only alternative to Falcrest achieving 'total causal closure'.
