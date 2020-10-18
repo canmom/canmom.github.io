@@ -367,7 +367,7 @@ In this case, Falcrest would be able to reap the benefits of Baru's trade route,
 
 Economic failure absolutely *can* lead to collapse of a political bloc, in the right context. The obvious modern example to me is the end of the Cold War.
 
-<details>
+<details markdown="1">
 <summary>The fall of the Soviet Union</summary>
 
 In the latter half of the 20th century there were essentially two parallel economic systems, by which I mean like: networks of trade and resource distribution, moving around raw materials and manufactured goods, and methods for organising these things. These were centred on two blocs of political and military power in the US and USSR.
