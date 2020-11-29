@@ -1,6 +1,6 @@
 ---
 layout: wormqueen
-title: wormqueen
+title: Worm Queen
 category: fiction
 ---
 # WORM QUEEN
