@@ -31,7 +31,55 @@ Then, of course, were the offerings. Demons take root in flesh, and for the less
 
 One time the Master even bade you implant demons in a horse. The beast was untamable, they said, and when you approached it kicked you hard enough to shatter a leg. The Master tutted, and uncorked a lesser demon to repair you, and another to stupefy the horse; you held it steady as the Master worked his way around, carving the words of power into its flanks. So tamed by magic, it whickered and nuzzled you, utterly ignorant of its impending death.
 
-The demon the Master called led it to grow legs by the dozen, and split its head down the middle, and each night for weeks after you lay soaked in sweat, and would come to the day's rigours grey-faced and stupid, flinching at the slightest movement.
+The demon the Master called granted it legs by the dozen, and split its head down the middle, and worst of all it spoke clearly, whispering praises from the ruined face of the horse. Each night for weeks after you lay soaked in sweat, and would come to the day's rigours grey-faced and stupid, flinching at the slightest movement.
 
 So it went for three years of your life.
+
+Not all of the Master's sacrifices, of course, were mere animals. The most potent demons could only be summoned in a human host, and occasionally you would oversee a scrawny, hungry-faced mother or father appear at the threshold of the tower, a sobbing infant tugging at the hem of their cloak. The Master would seize the infant by the wrist, and draw out a jingling sack of coin that seemed to him just a trifle; the parent would hurry back into the darkness, not looking back for shame at their deed.
+
+On many of those nights, storms lashed the tower, as if God wanted to punish the Master for his blackguardly deeds.
+
+You did not see what became of the children; such rituals were too dangerous to be entrusted to a mere 'prentice. But now and then you would see a face on one of the homunculi that seemed a little familiar.
+
+Of the Master's ultimate design... well, that remained unfathomable. As the years wore on, you saw him less and less, and he would be quicker to strike you or upbraid you. You had always flinched at his coming, but now the dread filled your lungs like a second demon, stealing all your breath. Yet some days, he would emerge from the workshop with a softer mood... he would look upon you with a sad smile, and lavish praise on your progress in the Arts.
+
+No divination could pierce his moods. You would sometimes lie wondering if your true parents would treat you thus, and find that you could scarce remember their faces.
+
+You did not stop wearing dresses---but now, it was easier to trace his movements, so you were never again caught. To stop it giving you away, you would seize the false arm and bind it to your hip.
+
+One summer, a troupe of travelling players came to the Master's tower, seeing a wizard's tower as a suitably grand backdrop for their tale of sin and debauchery. The Master glanced at the commotion only once, and scoffed at it---but upon seeing that you could not tear your gaze away from the window, he smiled as if recalling something. "Go, then." he said. "It is natural to be drawn by pretty girls at the fair."
+
+You didn't tell him it wasn't the girls you were looking at.
+
+You dressed in your best approximation of what the peasants wore. Your woolen cloak showed no sign of fraying, and surely it would mark you as a rich man's son to those who looked close, but it should at least draw little attention. Summer or not, the morning air was cool, a breeze from the sea at the horizon, and your breath fogged the air.
+
+The players were all men and boys, as was the custom in those times. The tale they spun told of an orphaned girl who went to the city to seek a husband, only to suffer depredations at the hands of cruel merchants and foreign sailors. But she remained virtuous, and caught the eye of a nobleman's son out to campaign who saw at once her Christian virtue. They were betrothed, but he was called to battle, and an arrow pierced his heart the day they were to be married. So struck was she with grief, she flung herself off the cliff top to be with her love... but as a suicide, she went to Hell and remained separated from him for eternity.
+
+It was a beautiful performance and you cried a lot.
+
+Of course, the actor playing the girl caught your eye. You couldn't stop your eyes following his little earing, the corner of his jaw catching the morning light (he had some kind of glitter on, you belatedly realised, to make the skin shine better), the way his lips moved softly around the syllables, the gleam of his eyelashes. And there he was, wearing a dress in broad daylight, walking like a woman, and people were cheering him on!
+
+Lucky bastard.
+
+Whether it was lust (sinful) or jealousy (also sinful), you tarried after the performance ended to see if you might find this strange brazen boy. You even, it must be admitted, entertained dreams of running away to join the theatre, but you knew better to trifle with your Master's designs.
+
+You found the players a short walk from the wagon, most of them stripped to the waist or further as they put away their costumes. You found yourself blushing and turning your gaze down, even though as a man among men, it should cause no-one discomfort to gaze where you will.
+
+The Fates must have been smiling that day, because the one actor you hoped to meet indeed caught you standing there. "Ho, there!" he cried. "The wizard's apprentice, if I am not mistaken?"
+
+You felt your cheeks getting warm, despite the chill. With some effort, you open your mouth to answer. "Just so, my friend! Alas, for I had thought myself a little more inconspicuous."
+
+The actor laughed. "Oh, it is not what you're wearing, young master wizard. It is---" and you looked up to find that he'd walked right over to you, and taken you by the elbow, arresting you with those beautiful eyes "---the haunted look, of one who has seen far too many things that should never be seen. As an actor, I'm trained to see such things, you see." He blinked, ever so slowly.
+
+You didn't feel cold anymore. You did feel a lot of things, things hard to name, but cold was not one of them. You were probably biting your lip.
+
+"Then... have you met a lot of wizards, on your travels?" you managed. "I am shamed to admit I know only my own Master, and no other luminaries of the Art."
+
+He laughed. You wished to fall into that laugh and wander it forever, like the legendary Bull of Minos. (In that moment, it scarce mattered that the bull was slain.)
+
+"Why yes indeed!" said he. "My companions and I have wandered among all manner of wizards, sorcerors, sooth-sayers, mystics and chirurgeons. Most, alas, have shown little interest in the theatre. Perhaps when one is accustomed to the dances of angels, the orations of men seem knavish to compare."
+
+You spluttered a protest. "To say such things, when you alone would shame the highest seraphim!" You had not yet seen an angel, but you could not fathom them being half as beautiful as this actor boy. Nor as well-spoken.
+
+Looking back, it was scarcely a surprise that he should have kissed you then. But you had not such wit, back then. Still, you had enough sense to kiss him back; his lips were surprisingly soft (not that you had much to compare them to), and you held there as the kiss stole your breath and sent shivers out to your fingers.
 
