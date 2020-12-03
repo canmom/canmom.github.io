@@ -1,5 +1,5 @@
 ---
-title: Refusing to be a Wizard
+title: A wizard's apprentice (WIP)
 layout: wormqueen
 category: fiction
 ---
@@ -99,3 +99,4 @@ Your lovely actor nodded. "Well, you are wiser than most wizards then." he says.
 
 A terrible spirit took you then---one which would set your fate. "Are you proposing..." you said, as coyly as you could manage, "that we put them to the test?"
 
+[more to come!]
