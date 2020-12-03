@@ -35,13 +35,13 @@ The demon the Master called granted it legs by the dozen, and split its head dow
 
 So it went for three years of your life.
 
-Not all of the Master's sacrifices, of course, were mere animals. The most potent demons could only be summoned in a human host, and occasionally you would oversee a scrawny, hungry-faced mother or father appear at the threshold of the tower, a sobbing infant tugging at the hem of their cloak. The Master would seize the infant by the wrist, and draw out a jingling sack of coin that seemed to him just a trifle; the parent would hurry back into the darkness, not looking back for shame at their deed.
+Not all of the Master's sacrifices, of course, were mere animals. The most potent demons could only be summoned in a human host, and occasionally you would oversee a scrawny, hungry-faced mother or father appear at the threshold of the tower, a sobbing infant tugging at the hem of their cloak. The Master would seize the infant by the wrist, and draw out a jingling sack of coin that seemed to him just a trifle; the parent would hurry back into the darkness, not looking back at their shame.
 
-On many of those nights, storms lashed the tower, as if God wanted to punish the Master for his blackguardly deeds.
+On many of those nights, storms lashed the tower, as if God wanted to punish the Master for his blackguardery.
 
 You did not see what became of the children; such rituals were too dangerous to be entrusted to a mere 'prentice. But now and then you would see a face on one of the homunculi that seemed a little familiar.
 
-Of the Master's ultimate design... well, that remained unfathomable. As the years wore on, you saw him less and less, and he would be quicker to strike you or upbraid you. You had always flinched at his coming, but now the dread filled your lungs like a second demon, stealing all your breath. Yet some days, he would emerge from the workshop with a softer mood... he would look upon you with a sad smile, and lavish praise on your progress in the Arts.
+Of the Master's ultimate design... well, that remained unfathomable. As the years wore on, you saw him less and less, and he would be quicker to strike you or upbraid you. You had always flinched at his coming, but now the dread filled your lungs like a second demon, snatching away your breath. Yet some days, he would emerge from the workshop with a softer mood... he would look upon you with a sad smile, and lavish praise on your progress in the Arts.
 
 No divination could pierce his moods. You would sometimes lie wondering if your true parents would treat you thus, and find that you could scarce remember their faces.
 
@@ -51,7 +51,7 @@ One summer, a troupe of travelling players came to the Master's tower, seeing a 
 
 You didn't tell him it wasn't the girls you were looking at.
 
-You dressed in your best approximation of what the peasants wore. Your woolen cloak showed no sign of fraying, and surely it would mark you as a rich man's son to those who looked close, but it should at least draw little attention. Summer or not, the morning air was cool, a breeze from the sea at the horizon, and your breath fogged the air.
+You dressed in your best approximation of what the peasants wore. Your woolen cloak showed no sign of fraying, and surely it would mark you as a rich man's son to those who looked close, but it should at least draw little attention. Summer or not, the morning was cool, with a stiff breeze from the distant sea, and your breath fogged the air.
 
 The players were all men and boys, as was the custom in those times. The tale they spun told of an orphaned girl who went to the city to seek a husband, only to suffer depredations at the hands of cruel merchants and foreign sailors. But she remained virtuous, and caught the eye of a nobleman's son out to campaign who saw at once her Christian virtue. They were betrothed, but he was called to battle, and an arrow pierced his heart the day they were to be married. So struck was she with grief, she flung herself off the cliff top to be with her love... but as a suicide, she went to Hell and remained separated from him for eternity.
 
@@ -81,5 +81,21 @@ He laughed. You wished to fall into that laugh and wander it forever, like the l
 
 You spluttered a protest. "To say such things, when you alone would shame the highest seraphim!" You had not yet seen an angel, but you could not fathom them being half as beautiful as this actor boy. Nor as well-spoken.
 
-Looking back, it was scarcely a surprise that he should have kissed you then. But you had not such wit, back then. Still, you had enough sense to kiss him back; his lips were surprisingly soft (not that you had much to compare them to), and you held there as the kiss stole your breath and sent shivers out to your fingers.
+Looking back, it was scarcely a surprise that he should have kissed you. But you had not such wit, back then. Still, you had enough sense to kiss him back; his lips were surprisingly soft (not that you had much to compare them to), and you held there as the kiss stole your breath and sent shivers out to your fingers.
+
+"Well!" said he, when you finally pulled apart. "For certain, you are not like other wizards." For some reason this made you far more proud than any praise your Master had bestowed.
+
+You found yourself babbling. "The Master says that magic is a man's power. The power of the penis, which is the most sacred flesh. Defile yourself as a man, like the ancient eunuchs, and the demons will laugh in your face, for they know you belong to them already." These were forbidden secrets, but you would tell anything to this boy. In any case, he just nodded, as if this was no news to him.
+
+"Such seems to be the belief among wizards." But not, you realised, you. He raised an eyebrow, letting you figure it out.
+
+"I think..." you said. "I think I don't agree with that belief very much."
+
+"Is that so?" He smiles and tilts his head and you would like to kiss him again, very badly.
+
+"I think the demons probably don't care half so much as my Master does. And I am coming to feel my Master is not the most reliable teacher." As it should turn out, only one of those statements was true. But let's not get ahead of ourselves.
+
+Your lovely actor nodded. "Well, you are wiser than most wizards then." he says. "But suppose I am not convinced of all these airy theories..."
+
+A terrible spirit took you then---one which would set your fate. "Are you proposing..." you said, as coyly as you could manage, "that we put them to the test?"
 
