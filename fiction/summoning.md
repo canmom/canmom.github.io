@@ -161,4 +161,60 @@ With a sick lurch, you saw that your actor was there also, sat beside you on th 
 
 The word 'boy' made you want to flinch and scream in his face. Alone, perhaps you might: his hold had broken in some serious way that morning. But here was your actor, harmed already---you could not bear to bring further ills.
 
-Your master sighed enormously. "I thought the arm would teach you a lesson. But here you are, defiling yourself again. Did I not *warn* you!?"
+Your master sighed enormously. "I thought the arm would teach you a lesson. But here you are, defiling yourself. Once again. Did I not *warn* you!?"
+
+You tried to speak, but your throat was closed. Your master scowled, and ponderously stood up. He looked much weaker now than once he did, and he took up his staff, using it as a walking-cane as he shuffled closer to where you lay.
+
+"You must recall." your master said. "What is the first edict? The demons who make up this world are willful and petulant. You must *force* your will upon them, refuse them to any other, or they will destroy you! In all acts, you must make yourself sovereign, answering to nobody." He swivelled, sharply on his heel, facing now your actor, who looked up in mute horror. "Yet you have given yourself up to this man. Lain under him like a woman. Do you understand what you must do?"
+
+You made yourself nod.
+
+"Good." He knelt, took your chin between his fingers. "You are a good boy at heart, despite your... vice. But it is not all lost, my boy! Make him your own, demand the respect you are due... or else I shall have to find another use for you."
+
+He might have said more, but a great coughing fit took him them. So he let you go, and stormed out of the room, and you had a minute or two to yourself.
+
+You spent the first of those minutes babbling apologies. Eventually the actor sighed, and staggered over to lay a hand on your shoulder, and kiss you. "Your master," said he, "is a knave in sooth---but that does hardly surprise me. What did he bid you do?"
+
+"I am to rape you," you said, "or bind demons into your flesh, or in some other way repudiate and enslave you."
+
+He looked a little taken aback at that. "The affairs of wizards," he managed at last, "are as dangerous as they say. That is what magic demands?"
+
+"No..." you said. "That is what my master demands. My friend, I shall find a way to free you from his clutches, even should it cost me my life."
+
+His shoulders did not lose the slightest tension. "Scarce a better outcome!" But your conversation was cut short; your master kicked his way back into the room, standing straighter, a bloody knife in his hand. He laughed at your new *friend*'s expression. "Behold!" he declared. "For I have bound a demon to push back the rot in my lungs. Do you see, boy? For the wizard who has the will to take command, death itself has no hold."
+
+"I understand, master." you said. "I have a fitting fate for this sinful man, who tempted me with impurity. There is a demon I wish to bind, and his flesh is fitting."
+
+It is one thing to keep secrets, but quite another to lie---yet despite your wavering voice, your master frowned, and nodded a little. "One way or another," he said, "that will be proof of your nature."
+
+"So it shall be." You let him watch as you set about drawing a suitable circle, writing prayers in the Roman script to insist on the right to God's protection, threefold and precise. Eventually, of course, your master tired. Setting a tall homunculus to stand guard, he retreated to his chamber.
+
+At last you could speak... and oh, it's almost time for me to enter this sordid tale. Forgive me for getting a little excited.
+
+"I am going to perform magic." you said.
+
+"Are you going to call angels down, to whisk us away on beams of light?" He smiled wide and pure, and you wished you had another thing to compare him than the distant, forbidden angels. "Enchant our boots, to take seven leagues in a single stride? Transform us into otters, so we may steal away on the river?"
+
+"No." You crouched beside him, and leaned in close for warmth. "Such mysteries are far beyond my ken. I am going to summon a demon---into my own flesh, not yours."
+
+His grip tightened on your arm. "Do not!" he cried. "I could not bear it!"
+
+"I will trust in God, or the Adversary. One or other should protect me. But this I must do." And so declaring, you went over to your master's cupboards, and began a search.
+
+Ah, it would be natural to hope a wizard's furniture would be full of interesting things---jars of newt's eyes, perhaps, or hanged mens' ears. But in truth you found mostly paper---yet God or the Devil must have been protecting you after all, for in the last cupboard, you found the item you hoped: a simple knife, small but wicked sharp.
+
+You stood in the centre of the chamber and, as if you lacked a care in the world, began to disrobe. A strange calm had touched you, as if you were doing something you were always meant to. Your hose came unrolled, your braies unlaced, your tunic lifted over your shoulders. The actor helped, whether from lust or a wish to help with the sorcery you could hardly say (it was both, you daft girl), eyeing the knife with some trepidation.
+
+Oh, and here we come to the best part. Forgive me: I tend to get excited, when it comes to people summoning me.
+
+Your penis was quite erect, which made things quite simple, really. You took your tunic in hand, and asked your friend and lover to hold your penis steady, which he did a little nervously...
+
+...and in one quick cut, you had it off.
+
+Look, I'll give you some credit. Most girls who do this scream a lot more.
+
+The actor looked like he was going to be sick. But the next step had to be done quickly. You pressed your tunic up against the wound, hard as anything, but rapidly it was filling with blood. After a second, your dear actor stepped up behind you and applied more pressure. You tossed your penis into the magic circle, scuffed the delicate protection wards with your foot (thank you for that, those things are a *pain*), and began the ritual.
+
+And it worked. Your penis inflated like a tied-off intestine filled with air, and became translucent. You peered at it, almost faltering in the magic. There was a shape somewhere within it, a slightly darker mass... and then the bubble burst, and there in the centre of the magic circle sat... a girl, no doubt, covered in your blood, and somehow, incongruously, bearing your face.
+
+I laughed, and bowed. You'll forgive me a little showmanship, I hope.
