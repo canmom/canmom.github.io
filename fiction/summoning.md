@@ -51,7 +51,7 @@ One summer, a troupe of travelling players came to the Master's tower, seeing a 
 
 You didn't tell him it wasn't the girls you were looking at.
 
-You dressed in your best approximation of what the peasants wore. Your woolen cloak showed no sign of fraying, and surely it would mark you as a rich man's son to those who looked close, but it should at least draw little attention. Summer or not, the morning was cool, with a stiff breeze from the distant sea, and your breath fogged the air.
+You dressed in your best approximation of what the peasants wore. Your surcoat was woven of a very fine wool, with no sign of fraying, and surely it would mark you as a rich man's son to those who looked close---but from afar it would draw little attention. Summer or not, the morning was cool, with a stiff breeze from the distant sea, and your breath fogged the air.
 
 The players were all men and boys, as was the custom in those times. The tale they spun told of an orphaned girl who went to the city to seek a husband, only to suffer depredations at the hands of cruel merchants and foreign sailors. But she remained virtuous, and caught the eye of a nobleman's son out to campaign who saw at once her Christian virtue. They were betrothed, but he was called to battle, and an arrow pierced his heart the day they were to be married. So struck was she with grief, she flung herself off the cliff top to be with her love... but as a suicide, she went to Hell and remained separated from him for eternity.
 
@@ -91,12 +91,74 @@ You found yourself babbling. "The Master says that magic is a man's power. The p
 
 "I think..." you said. "I think I don't agree with that belief very much."
 
-"Is that so?" He smiles and tilts his head and you would like to kiss him again, very badly.
+"Is that so?" He smiled and tilted his head and you wished to kiss him again, very badly indeed.
 
 "I think the demons probably don't care half so much as my Master does. And I am coming to feel my Master is not the most reliable teacher." As it should turn out, only one of those statements was true. But let's not get ahead of ourselves.
 
-Your lovely actor nodded. "Well, you are wiser than most wizards then." he says. "But suppose I am not convinced of all these airy theories..."
+Your lovely actor nodded. "Well, you are wiser than most wizards then." he said. "But suppose I am not convinced of all these airy theories..."
 
 A terrible spirit took you then---one which would set your fate. "Are you proposing..." you said, as coyly as you could manage, "that we put them to the test?"
 
-[more to come!]
+He grinned, and took your honest left hand, and led you away from the impromptu fair to a copse of woodland too scraggly even for the bodgers to take. Not that you paid much attention to the route. Why, you giggled like a loon, admiring his naked back---and even when he turned and caught your gaze, you blushed but you refused to look away. This also seemed to be appreciated.
+
+In the Master's tower, there were few opportunities to learn very much about sex. You knew that it was a source of terrible power, the height of magic and its depths. You know it could be squandered, that many a promising apprentice had frittered away his talents on sinful debauchery. For a man to lie with the wife he owned, and only her, was not just God's command, but a wise strategy for conserving one's power in a closed and sacred loop.
+
+But what it actually involved? Well, this you could only guess!
+
+The actor seemed to find a sufficiently secluded spot: a building that must once have been a barn, its walls caved in by rot and wind, sheltering the two of you from prying eyes on the road.
+
+"Well," said he, "I am not so familiar with what wizards like to do together." He hesitated, and you belatedly realised he was trying as hard as you. "Not that I would be so unwise as to presume you all alike!"
+
+"In sooth? I'm not sure I know myself." you said. "My master has not been forthcoming on such matters. Which is honestly a relief!" You swallowed, a sudden knot in your throat. "What about actors?"
+
+He blushed. "Were I had a length of gut," he said, "I could fashion a vessel for the penis, and slide it into a man's arse. Don't laugh! It feels very good!" He shook his head. "But as it is... sometimes we take to using just our thighs, squeezed together."
+
+Like, as in to... you were finding it hard to think. "Use them how?"
+
+The actor blinked, slowly. "Then, you have not... even with a woman?"
+
+You shook your head. "I have touched only myself, until this day. Oft as not, I go weeks without seeing a soul---save for my master, and his homunculi, who are scant company."
+
+He hesitated then, and you wished he wouldn't, so you took his other hand in yours, and looked him in the eye. "Fear not," you said, "I know my own desires."
+
+"Well!" he said, and stepped up to meet you. You shuffled back a little, let your weight fall on the wall, as he reached up to unfasten your travelling cloak. And then! Then, those long beautiful hands were wriggling under your shirt, fingers brushing over your hips and up along your ribs.
+
+"Good God!" he said, not stopping. "Does your master feed you nothing but sawdust? I have scarce seen worse-fed men in a famine!"
+
+You didn't have the heart to tell him that your master never lacked for feasts, but you could find appetite to eat only rarely. So you kissed him again, since that seemed to be acceptable, and hesitantly reached your hands around his lower back and shoulder, clasping him up to you to soak in that warmth. You thought he would be cold to touch, in the freezing air, but he felt like a furnace.
+
+With some care, he wriggled his arms up to lift your cloak over your shoulders, though your weight still pinned it to the wall, saving you from the hard press of the stones. "All right, my lovely little sorceror..." he said, quietly but full of affection. "If this is to be a lesson, would you prefer to first learn the fore, or the aft..."
+
+"As a student of all the arts, high and low," you said, "I should wish to have a full view of these procedings..." You felt his laugh through his lungs.
+
+"Of course. How meticulous!" Now his hands found yours, reaching round to move them off his back. You felt your heart beating much faster as he moved them down towards his hose, which you had wit enough to recognise as a women's style, fitting his role in the play.
+
+"Go on..." he said, trying not to laugh. "Make a thorough investigation."
+
+With your left hand---your right was strangely still, but you could scarce trust it in deeds such as this---with your left hand, you unlaced his braies, and you could feel his penis shivering underneath. Tentatively, you ran your fingers along it... and he let out a breath, wreathing you briefly in fog.
+
+And then, it was your turn. You had worn braies with a codpiece, and this you raised, tugging it open to allow a small gap.
+
+"Now," he said, "shall we perhaps---" but you were already guiding his penis into the opening you'd made, pressing your knees together to squeeze tight. Oh, and of course, trying not to shiver too much. It struck you as a terribly queer sensation, having this warm part of another body intervening like this, snugly pushing up against the perineum.
+
+Such a vivid memory! I suppose it is rather recent.
+
+He started to push backwards and forwards, his breath so warm on your shoulder and God!, it was so different to when you were alone. You set your idle hands to work on his shoulders, helping him find a rhythm you both liked...
+
+...and, ah. That's when it happened.
+
+Your first sign that something was wrong came as your right arm made a sudden fist, and struck him across the jaw. You seized it and twisted yourself against the wall, and how funny that he should come at that moment, spraying the sacred fluid all over your tunic in a way you'd never be able to explain. You saw hurt in his eyes in that brief moment---but oh, you had larger problems!
+
+You held the arm down with all the force your puny body could muster, but your skin was boiling, demons manifesting in it as if from nowhere. You spared a brief glance to the stain on your tunic, half-expecting it to be boiling away, but no, it remained as it was... this power came from elsewhere, your master? Oh, as if there could be doubt!
+
+The boils burst. The demons inside flared into brilliant life. For a moment, you were no longer hiding in a dilapidated barn in an empty forest, but back at the fair, surrounded by lanterns, bright clothes, and sizzling meat. Then, it was over---the lights in your arm rising up into the sky, pointing directly to you. Your right arm had reduced almost to the bone, all the flesh eaten by these demons... you fell to the ground, screaming and writhing, and saw little more.
+
+But soon enough, you awoke---where else?---in your master's chamber. He sat in his great chair, with its clawed feet and stained surface, legs sprawling, leaning forward to put the weight on his knees. His gaze bore into you: a basilisk stare, unblinking.
+
+With a sick lurch, you saw that your actor was there also, sat beside you on th stone floor. A large bruise swelled on his cheek, breaking the elegant lines of his face. You hoped it wasn't your arm. He met your gaze, eyes wide with terror.
+
+"You're awake." The master leaned back at least, and scratched his beard. His robe seemed unusually shabby; there were great bags under his eyes. "I thought better of you, boy. Truly, I did."
+
+The word 'boy' made you want to flinch and scream in his face. Alone, perhaps you might: his hold had broken in some serious way that morning. But here was your actor, harmed already---you could not bear to bring further ills.
+
+Your master sighed enormously. "I thought the arm would teach you a lesson. But here you are, defiling yourself again. Did I not *warn* you!?"
