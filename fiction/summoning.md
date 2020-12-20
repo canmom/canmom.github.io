@@ -1,8 +1,10 @@
 ---
-title: A wizard's apprentice (WIP)
+title: Against All Wizards
 layout: wormqueen
 category: fiction
 ---
+# Against All Wizards
+
 Two months into your apprenticeship, the Master bound demons into your shoulders. They erupted in immense boils, which the master methodically lanced; you screamed into a strip of leather, shuddering against the ropes holding you to your chair.
 
 The demons were small, and each one was placed in a bottle and taken somewhere out of sight. Their inhuman keening, not vocal cords but tendons, were almost as pitiful as your own whimpers. These were demons of arm flesh, and they had no eyes to see by; the flesh was not potent, and their lives would be short even without the Master's experiments.
@@ -205,16 +207,82 @@ Ah, it would be natural to hope a wizard's furniture would be full of interestin
 
 You stood in the centre of the chamber and, as if you lacked a care in the world, began to disrobe. A strange calm had touched you, as if you were doing something you were always meant to. Your hose came unrolled, your braies unlaced, your tunic lifted over your shoulders. The actor helped, whether from lust or a wish to help with the sorcery you could hardly say (it was both, you daft girl), eyeing the knife with some trepidation.
 
-Oh, and here we come to the best part. Forgive me: I tend to get excited, when it comes to people summoning me.
-
-Your penis was quite erect, which made things quite simple, really. You took your tunic in hand, and asked your friend and lover to hold your penis steady, which he did a little nervously...
+Oh, and here we come to the best part! Your penis was quite erect, which made things quite simple, really. You took your tunic in hand, and asked your friend and lover to hold your penis steady, which he did a little nervously...
 
 ...and in one quick cut, you had it off.
 
-Look, I'll give you some credit. Most girls who do this scream a lot more.
+Some credit is certainly due, here. Most girls who do this scream a lot more. You must have been afraid of the Master, to keep in in---and oh, indeed, you had the presence of mind to cast a glimpse at his homunculus, but perhaps for lack of imagination, it only stared, placidly, at the appalling scene.
 
-The actor looked like he was going to be sick. But the next step had to be done quickly. You pressed your tunic up against the wound, hard as anything, but rapidly it was filling with blood. After a second, your dear actor stepped up behind you and applied more pressure. You tossed your penis into the magic circle, scuffed the delicate protection wards with your foot (thank you for that, those things are a *pain*), and began the ritual.
+Your lovely actor looked like he was going to be sick. You wanted to hug him, assure him this was all according to your design... but the next step had to be done quickly or you'd pass out. You pressed your tunic up against the wound, hard as anything, but all the same it soaked rapidly with blood blood. After a second, the actor stepped up behind you and applied more pressure. You tossed your penis into the magic circle, scuffed the delicate protection wards with your foot (thank you for that, those things are a *pain*), and began the ritual.
 
 And it worked. Your penis inflated like a tied-off intestine filled with air, and became translucent. You peered at it, almost faltering in the magic. There was a shape somewhere within it, a slightly darker mass... and then the bubble burst, and there in the centre of the magic circle sat... a girl, no doubt, covered in your blood, and somehow, incongruously, bearing your face.
 
-I laughed, and bowed. You'll forgive me a little showmanship, I hope.
+And there I was! You asked, and I came. I do hope you're satisfied.
+
+---
+
+In the anxiety of that moment, it is your actor who speaks first.
+
+"God's wounds... did you just..."
+
+You nod, peering down at me, a shirtless skinny girl tottering due to blood loss, but still *determined* to see this through. Oh, I like you.
+
+"If I am not mistaken," you announce, "we are in the company of the Demoness Lilith, the first woman on God's earth!" I can hear the relish---you're savouring the chance to declare that---and the desperation. You were planning this so long...
+
+"The very same. A delight..?"
+
+You might take this as a flagrant attempt to fish for a name, for naming things is power. Actually, since you used your own flesh, I don't need it: your name, and all your secrets, are known to me now. And the wizards would rather impose names than receive them. No, I'm just being courteous!
+
+So you introduce yourself, and the young actor, tongue-tied as he is. He is trying so hard to put on a brave face, which is sweet. Poor boy---scarce could he have known where you would tempt him!
+
+"Well-met then, my friends..." I say, in a salacious little whisper. Laying it on a little thick, perhaps, but everyone expects a little melodrama when they summon a demon. "You have sent a princely offering indeed. No wonder your master has been so keen to preserve you!"
+
+A step too far. You grimace, understandably, and trip over your next words.
+
+"My master," you say, "is a wicked man. He bade me murder my--- my dear friend, here. Powerless was I to help him, save by the most drastic means..."
+
+"Indeed, 'tis plainly so." I already have an inkling, at this point, of who your master is, and who *you* are---how the two of you might be remembered, in future generations I have seen. "But scarce would I have come just to harm a wicked man, for there are wicked men in every generation. It is another desire I am called to fulfil..."
+
+You try to step away from me then, but the actor is still behind you, and you almost trip. Perhaps I press too hard... so I wait. Your wish is plain as day, but I would have you say it.
+
+"I would... God has seen fit to make me a man." you say, quite incorrectly. "My master says that makes me powerful, that I carry the will to dominate. Powerful! Yet I have seen the nature of such power, and..."
+
+...and it gets a bit much, and you start to cry. Oh, oof! That actor---he really is a sweetheart, I can see why you like him!---helps you to the floor, and supports you. "I would have you unmake me." you declare. "To erase me from the world, in flesh and memory and deed, along with my master. With all that I have seen and done, I am no doubt bound for Hell, but I *beg* you, Lady Lilith, let the damage we have caused end---on this night, at this hour! Grant me that small mercy!"
+
+Oh, no no no no no. That's not where I'm going with this *at all*.
+
+"Sweetie." I say, stepping carefully out the magic circle (barbaric things) to come and touch your knee, gently. I made a hash of that, honestly. Now, I hope I'm not being overly familiar, too soon. I have just seen all of your life, from the eye of your penis---yet to you, still I am a stranger. I must remember this.
+
+I continue, pausing too long. "Such thoughts do not become a girl like you." Your brow furrows, cutely. "There is a future for you, if you want to take it."
+
+"A girl like... oh," you say, and for a moment you have hope in your eyes, like never before---but then, damn it all, a terribly sad expression strikes you. "So that's it. What a fool I am. You come tempt me with the flesh... was my master right? So defiled I am, the demons toy with me..."
+
+For God's sake. (What? You think a demon can't swear by YHWH?) "My dear. Honestly! I won't deny it was pretty hot when you two were, oh how do you say it in this century, patting each other about the loins?" The phrase breaks you out of your little self-pity circle long enough to blink, almost giggle, I think. Another century then? Alas. Works well enough. "If you want to go down that road... recall, you opened up the circle! I can go wheresoever I wish. But right now, I'm here. Because, well..."
+
+Because once, I was where you were. God *likes* playing this game.
+
+The actor reaches out, and places his hand on mine. "I do not pretend to understand magic, but give him---" (sigh) "---time. If he---" (sigh) "---has a woman's soul, he, or she, is among friends. But too much pressure---"
+
+Oh, to be lectured on such matters by a baby thespian! "Yes. Thank you." I turn back to you. "Please, let us start on a different foot. Alas, I am no God, to strike down this tower. If we are to destroy your master, we do so as one being."
+
+You cast your eyes down at the no-doubt throbbing wound, blood soaking the insides of your legs and dribbling from your thighs onto the floor. You've lost a lot. You must be hardly thinking. "Oh! So you ask to return..." You look crestfallen. "I would have a penis again. Even here, even here I fail..."
+
+"Hey. Look at me." You're having trouble focusing, I can see. I grab your hand and guide it in.
+
+Your eyes widen a little.
+
+"Yeah, I got one. I'm a woman. So are you. If you want to be, I mean, and I dare say you do... Well, it's nothing to do with me. That's your magic to cast, sweetheart."
+
+You nod, slowly. Something has connected, I can see it. A glimpse of your master's curses... not all magic is physical, not all magic is pretty little demons like me.
+
+And then you're staring at me, grey as ash, but sharp as you ever were. "Very well then." you say. "I apologise for that outburst. I have chosen a course, and the Fates will carry me."
+
+"Oh..? And where do they carry you?" 
+
+"Let God and his Adversary witness: I have called you, Lilith, and let us now be bound." Really you ought to say it in Latin, if you were being really proper with it, but with me, it really is the thought that counts. So I do what I could have done before, as a demon unbound and uncommanded, but not without ceasing to be who I am. I reach out to join your flesh. It draws me in, warm and red and *alive* with fire and potential... oh! that's good...
+
+Hello, there. We're sharing this one now.
+
+Don't worry, you're in charge---oh, but you don't mind if I make myself at home, do you? Maybe some breasts? Oh, dear me, you *do* like that. Hey, your actor's right here... you know what I like to do after an experience like this?
+
+Exactly. Just like that.
