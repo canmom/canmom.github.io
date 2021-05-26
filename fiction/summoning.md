@@ -257,7 +257,7 @@ I continue, pausing too long. "Such thoughts do not become a girl like you." You
 
 "A girl like... oh," you say, and for a moment you have hope in your eyes, like never before---but then, damn it all, a terribly sad expression strikes you. "So that's it. What a fool I am. You come tempt me with the flesh... was my master right? So defiled I am, the demons toy with me..."
 
-For God's sake. (What? You think a demon can't swear by YHWH?) "My dear. Honestly! I won't deny it was pretty hot when you two were, oh how do you say it in this century, patting each other about the loins?" The phrase breaks you out of your little self-pity circle long enough to blink, almost giggle, I think. Another century then? Alas. Works well enough. "If you want to go down that road... recall, you opened up the circle! I can go wheresoever I wish. But right now, I'm here. Because, well..."
+For God's sake. (What? You think a demon can't swear by Him?) "My dear. Honestly! I won't deny it was pretty hot when you two were, oh how do you say it in this century, patting each other about the loins?" The phrase breaks you out of your little self-pity circle long enough to blink, almost giggle, I think. Another century then? Alas. Works well enough. "If you want to go down that road... recall, you opened up the circle! I can go wheresoever I wish. But right now, I'm here. Because, well..."
 
 Because once, I was where you were. God *likes* playing this game.
 
