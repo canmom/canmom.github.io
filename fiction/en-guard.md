@@ -12,11 +12,11 @@ tags:
 {% assign path = "/img/embed/en-guard/page-" %}
 In Nov. 2006, a 14-year-old then going by 'Z-Axis' started a webcomic 'En Guard' on the free hosting site SmackJeeves. The concept was wholly derivative: an attempt to copy the formula (and art style) of <cite>The Order of the Stick</cite> and apply it to Warhammer 40k, much like a few other such comics arising out of the <cite>Giant in the Playground</cite> forums in that era.
 
-The resulting comic was, predictably, "cringe" in every single way you would expect a 14-year-old's webcomic. I could reel off a list of its flaws, but it seems mean-spirited; it was a sincere expression of a desire to create, in a totally scattershot adhd-ful way. These efforts continued for about two years, producing a grand total of... 13 pages, reinventing itself from the ground up every two or three.
+The resulting comic was, predictably, "cringe" in every single way you would expect a 14-year-old's webcomic. I could reel off a list of its flaws, but it seems mean-spirited; it was a sincere expression of a desire to create, in a totally scattershot adhd-ful way. These efforts continued for about two years, producing a grand total of... 13 pages, reinventing itself from the ground up after every two or three.
 
-But for all its flaws it was *my* comic. After the demise of ImageShack and SmackJeeves, I had presumed it lost to the ages... but recently, I was combing my old desktop, and happened on a certain folder called `C:\Users\bryn\Documents\backup\MyDocumentsBackup2\My Documents\USB stick contents\27 August 2007\Stick 1\Work experience\En Guard`. There it was! The first ten strips, and all their working files! The eleventh meanwhile was lucky enough to be preserved on archive.org. 
+But for all its flaws it was *my* comic. After the demise of ImageShack and SmackJeeves, I had presumed it lost to the ages... but recently, I was combing my old desktop, and happened on a certain folder called `C:\Users\bryn\Documents\backup\MyDocumentsBackup2\My Documents\USB stick contents\27 August 2007\Stick 1\Work experience\En Guard`. There it was! The first ten strips, and all their working files! The eleventh meanwhile was lucky enough to be preserved on archive.org. (Though the images have mostly been deleted, the rest of the site is preserved [here](https://web.archive.org/web/20180703050436/http://enguard.smackjeeves.com/comics/).)
 
-Which means, for the second time ever, I can present the first eleven pages of <cite>En Guard</cite>, with their original captions.
+Which means, for the second time ever, I can present the first eleven pages of <cite>En Guard</cite>! With their original captions, because the endless apologies and insecurities are as much a part of the comic as the images themselves.
 
 ## Never Trust the Adjutant (23 November 2006)
 
