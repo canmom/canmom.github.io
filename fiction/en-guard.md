@@ -228,3 +228,7 @@ Any citizen who opens a door will be shot. Do not suffocate before justice has b
 THE EMPEROR PROTECTS. 
 
 </figcaption>
+
+As the captions suggest, the last two comics saw a significant art 'upgrade'---which is to say, I redesigned the characters to be busy with detail and overly complex cel-shading, and started using 3D graphics. This wasn't really what the comic needed, but I do think this presentation is missing something without them. So I hope one day I find them in some dusty digital corner.
+
+In any case; this was <cite>En Guard</cite>. Thank you for reading.
