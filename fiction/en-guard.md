@@ -179,7 +179,7 @@ Thanks to Ichneumon from the Giant in the Playground forums for a great Secret S
 ## Pseudoscience (4 August 2008)
 
 <figure>
-The image has been lost.
+<img src="{{ path }}12.png" alt="Page 12 of En Guard. The comic has a new, more detailed art style with many mechanical details in the background. The Techpriest reveals he was working on a powerful weapons system, but it only affects Orks, much to the Adjutant's disappointment. Some servo-skulls appear to make joking asides.">
 <figcaption markdown="1">
 The unthinkable has happened, and the hiatus has ended.
 
