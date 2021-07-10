@@ -58,9 +58,6 @@ By 3631, The androids, as the only survivors of humanity, organise under a gover
 
 The last Project Gestalt report in <cite>Automata</cite> discusses the collapse of the project:
 
-<details markdown="1">
-<summary>full quote></summary>
-
 > December 31, 3361
 > 
 > [Summary]
@@ -70,8 +67,6 @@ The last Project Gestalt report in <cite>Automata</cite> discusses the collapse 
 > New countermeasures and development intended to serve as a replacement to Project Gestalt are scheduled to be transferred to the Next Generation Preservation Project Preparation Committee. As for this report, it will serve as a collected record of both Project Gestalt and the Committee. For information about the development plans for new android models and the refinement of existing models, please refer to the attached sheet.
 > 
 > Furthermore, we have received approval to consider the disposal of the "Devola" and "Popola" observer models at a later date.
-
-</details>
 
 Then the aliens show up!
 
