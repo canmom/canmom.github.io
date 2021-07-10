@@ -5,7 +5,6 @@ layout: article
 categories: nier
 tags:
 - nier
-redirect_from: "/nier/nier-timeline"
 date: 2021-05-02 01:00:00 +0100
 ---
 It's been more than a year since I last worked on this series! In the meantime, <cite>Nier Replicant ver.1.22474487139...</cite> has been released, the <cite>YoRHa: Dark Apocalypse</cite> raid series has drawn to a suitably confusing conclusion, and in Japan, players have got their hands on dubious gacha spinoff <cite>NieR Reincarnation</cite>! All very exciting for the kind of someone who writes a series like this, and once I've finished the new version of Replicant, I will go ahead and update the previous article. But for now, let's keep our focus on the bridge between <cite>Replicant/Gestalt</cite> and <cite>Automata</cite>...
