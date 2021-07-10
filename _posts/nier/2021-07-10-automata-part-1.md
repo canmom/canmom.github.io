@@ -11,6 +11,8 @@ It's been more than a year since I last worked on this series! In the meantime, 
 
 Inevitably, this will contain major spoilers for <cite>NieR: Automata</cite>.
 
+{% include hiddentoc.md %}
+
 ## Another quick recap
 
 <details markdown="1">
