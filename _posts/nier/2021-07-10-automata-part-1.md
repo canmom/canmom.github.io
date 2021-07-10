@@ -36,7 +36,9 @@ Eventually Replicant Nier makes it to the castle of Gestalt Nier, and---supporte
 
 Replicant Nier confronts Gestalt Nier alongside Kainé and a failing Weiss, and is victorious. Gestalt Yonah chooses to leave the body of Replicant Yonah and die alongside Gestalt Nier. But the joy of victory will be short-lived: the shade inside Kainé, named Tyrann, starts to take over her body. To save her, Nier may choose to submit to a magic ritual which will erase him from everyone's memories (in gameplay terms, deleting the player's save file).
 
-But regardless of his choice, the death of Gestalt Nier means all the surviving gestalts are doomed to eventual relapse. Their replicants will catch the Black Scrawl and die, and the rest will gradually die out too, lacking any independent ability to reproduce (reproduction being traditionally handled by androids recreating a gestalt from a replicant), so they will die too. Before too long, all of humanity will die out except for Emil.</details>
+But regardless of his choice, the death of Gestalt Nier means all the surviving gestalts are doomed to eventual relapse. Their replicants will catch the Black Scrawl and die, and the rest will gradually die out too, lacking any independent ability to reproduce (reproduction being traditionally handled by androids recreating a gestalt from a replicant), so they will die too. Before too long, all of humanity will die out except for Emil.
+
+</details>
 
 So everyone will die. Is that the end of the story? Not remotely!
 
@@ -339,6 +341,7 @@ N2 reveals one final little detail: each YoRHa is essentially a bomb, with their
 But No. 2 survives. She tears out the parts of her body, like the bomb, which connect her to Command, and fights on as one woman against the Machines. Eventually she discovers that Anemone is still alive, and now leads a faction of the Resistance...
 
 In a stinger at the end of the play, we see that Futaba and Yotsuba have had their memories reset, so they will no longer be insubordinate. Now cheerful and upbeat, she fulfils her roles in closing off the mission. Then, as the Commander leaves, we see N2 infiltrate the Bunker once again. The Red Girls delete a report of No. 2's survival, giving her a chance to fight on... 'Androids are so interesting, huh?' she remarks. The musical ends with an incredibly choreographed sequence of No. 2 fighting off waves of machines.
+
 </details>
 
 <details markdown="1">
@@ -390,12 +393,15 @@ No. 6 confronts the Instructor, successfully - but the Instructor manages to act
 And No. 2, slowly dying of the Virus, confesses his jealousy to No. 9---who has a straightforward purpose as a healer, rather than  an assassin of his own side. He requests that No. 9 delete his data and grant him a final death. But when No. 9 attempts this, he is forbidden.
 
 In the end, the survivors are No. 4, No. 9, No. 22 Cactus and the two other members of the Resistance. A final voiceover from Commander White explains that the M unit performed largely as expected, but is deemed too uncooperative to be used for combat roles. For this reason, "male" YoRHa will henceforth only be scanners... creating the situation we see in the game. Meanwhile, the Gunner and Attacker roles will be merged into a new Battler role, superseding all these Attackers and Gunners. The final scene shows No. 9 sobbing as he listens to a posthumous message from No. 2...
+
 </details>
 
 <details markdown="1">
 <summary>I want the short version!</summary>
 
-The M unit link up with a small unit of resistance, and attempt to flee on a stolen aircraft. However, several become infected with the Logic Virus, and under its influence attempt to stage a mutiny and defect. The aircraft crashes and the M unit largely kill each other, acting out their various tensions and traumas. In the end, only three survive. Disappointed with their ability to cooperate, Commander White orders that the new Battler type units will be designated "female" only, and future "male" YoRHa will only be scanners.</details>
+The M unit link up with a small unit of resistance, and attempt to flee on a stolen aircraft. However, several become infected with the Logic Virus, and under its influence attempt to stage a mutiny and defect. The aircraft crashes and the M unit largely kill each other, acting out their various tensions and traumas. In the end, only three survive. Disappointed with their ability to cooperate, Commander White orders that the new Battler type units will be designated "female" only, and future "male" YoRHa will only be scanners.
+
+</details>
 
 ### The all-female version, Shōjo YoRHa v1.1a
 
