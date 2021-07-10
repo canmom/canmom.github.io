@@ -11,7 +11,7 @@ Hail to She who bears their blessing!
 
 Hail to the false Worm-Queen, and her ever-unfaithful Consort!
 
-## ONE: Abywydyn fails as a diplomat
+## ONE: Abwydyn fails as a diplomat
 
 Let me tell you a story... a story of a time long before, whose ruins are now buried with the worms.
 
