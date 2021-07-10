@@ -1,0 +1,33 @@
+<article class="film">
+    {% if include.url %}<a href='{{ include.url }}'>{% endif %}<h1><cite>{{ include.title }}</cite></h1>{% if include.url %}</a>{% endif %}
+    {% if include.trailer %}
+    {% include youtube.html id=include.trailer %}
+    {% elsif include.thumb %}
+    {% include figure.html src=include.thumb alt="Still" %}
+    {% endif %}
+    <dl>
+        <dt>Year</dt>
+        <dd>{{ include.year }}</dd>
+
+        {% if include.duration %}
+        <dt>Duration</dt>
+        <dd>{{ include.duration }}</dd>
+        {% endif %}
+
+        <dt>Director</dt>
+        <dd>{{ include.director }}</dd>
+
+        <dt>Country</dt>
+        <dd>{{ include.country }}</dd>
+
+        {% if include.style %}
+        <dt>Style</dt>
+        <dd>{{ include.style }}</dd>
+        {% endif %}
+
+        {% if include.synopsis %}
+        <dt>Synopsis</dt>
+        <dd>{{ include.synopsis }}</dd>
+        {% endif %}
+    </dl>
+</article>

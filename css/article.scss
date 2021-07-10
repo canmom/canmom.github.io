@@ -475,6 +475,27 @@ ol.poem li li {
     padding-left: 0;
 }
 
+article.film {
+    border: 1px solid $border-colour;
+    margin: 0 0 20px 25px;
+}
+
+article.film h1 {
+    padding: 20px 0 15px 20px;
+    font-size: 18px;
+    margin: 0
+}
+
+article.film h1 cite {
+    font-style: normal;
+}
+
+article.film figure {
+    margin: 0 0 20px 0;
+}
+
+
+
 /* ===============
     ALL: IE Fixes
    =============== */
@@ -533,6 +554,22 @@ ol.poem li li {
 
     main figure.float figcaption {
         text-align: center;
+    }
+
+    article.film dl {
+        margin-left: 40px;
+        display: grid;
+        grid-template-columns: [start] max-content [mid] 1fr [end];
+    }
+
+    article.film dt {
+        grid-column-start: start;
+        grid-column-end: mid;
+    }
+
+    article.film dd {
+        grid-column-start: mid;
+        grid-column-end: end;
     }
 }
 
