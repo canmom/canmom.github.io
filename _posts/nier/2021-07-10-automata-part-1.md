@@ -139,7 +139,7 @@ and Shota Okui's
 > We are making our way outside.\\
 > To hold our promise to you.\\
 > We are alive.\\
-> Just like you.\\
+> Just like you.
 > 
 > We sing. We sing. We sing.
 > 
@@ -153,6 +153,8 @@ and Shota Okui's
 > From the wistful Machines,\\
 > their song and only their song,\\
 > resounds throughout space.
+> 
+> <footer><cite>Shota Okui</cite></footer>
 
 </details>
 
