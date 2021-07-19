@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+  <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <style>
+body {
+  font-family: "Crimson Text", serif;
+  background-color: #999;
+  background-image: linear-gradient(#999 60%,#bbb);
+  color: #111;
+  font-size: 15pt;
+}
+main {
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #eee;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+h1 {
+  font-family: 'IM Fell English SC', serif;
+  font-size: 400%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 150%;
+}
+
+hr {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  border: none;
+  border-top: 1px solid black;
+  width: 10em;
+}
+
+a {
+  text-decoration: none;
+  background-color: #ccc;
+  font-weight: bold;
+  color: black;
+}
+
+a:hover {
+  background-color: #444;
+  color: white;
+}
+
+  </style>
+</head>
+
+<body>
+<main>
+{{content}}
+</main>
+</body>
+</html>

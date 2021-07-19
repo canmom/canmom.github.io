@@ -1,11 +1,11 @@
 ---
-title: "The NieR story, part 7: first contact!?"
+title: "The NieR story, part 8: first contact!?"
 excerpt: "At first glance, Automata is a sequel with almost no connection. But dig a little deeper..."
 layout: article
 categories: nier
 tags:
 - nier
-date: 2021-05-02 01:00:00 +0100
+date: 2021-07-14 02:00:00 +0100
 ---
 It's been more than a year since I last worked on this series! In the meantime, <cite>Nier Replicant ver.1.22474487139...</cite> has been released, the <cite>YoRHa: Dark Apocalypse</cite> raid series has drawn to a suitably confusing conclusion, and in Japan, players have got their hands on dubious gacha spinoff <cite>NieR Reincarnation</cite>! All very exciting for the kind of someone who writes a series like this, and once I've finished the new version of Replicant, I will go ahead and update the previous article. But for now, let's keep our focus on the bridge between <cite>Replicant/Gestalt</cite> and <cite>Automata</cite>...
 
@@ -560,21 +560,21 @@ The story [<cite>Memories of a Songstress</cite>](https://nier.fandom.com/wiki/M
 
 (In reality, the existentialist philosphers Jean-Paul Sartre and Simone de Beauvoir had a polyamorous relationship, with jealousy going the other way.)
 
-### Hegel
-
-Hegel is, by the time of <cite>Automata</cite> a colony of flying, multi-legged orbs lying inactive in the desert area. Similar machines are seen throughout the YoRHa stage plays. There's basically no further information on him.
-
-Hegel is named after [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel), whose work (best known for his framework of 'dialectics') proved incredibly influential in 19th-century philosophy and onwards.
-
 ### Kierkegaard and the 'Religious Order of Divinity through Death'
 
 A group of machine lifeforms dressing in pseudo-Catholic robes form a death cult inside the Abandoned Factory. Exactly when this takes place is unclear---there's no sign of them in the early game, but they seem rather well established later. The player can find [some of their propaganda](https://nier.fandom.com/wiki/A_Pious_Robot%27s_Will). They seem to be getting along well enough, but they're getting ready for a mass ritual suicide...
 
 Kierkegaard is named after early existentialist philosopher [Søren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard). Kierkegaard in reality died of tuberculosis. He [wrote on Cato's suicide](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard#cite_note-41) in relation to forgiveness but did not especially seem to advocate it!
 
+### Hegel
+
+Hegel is, by the time of <cite>Automata</cite> a colony of flying, multi-legged orbs lying inactive in the desert area. Similar machines are seen throughout the YoRHa stage plays. There's basically no further information on him.
+
+Hegel is named after [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel), whose work (best known for his framework of 'dialectics') proved incredibly influential in 19th-century philosophy and onwards.
+
 ### So-shi, Boku-shi, Ko-shi, and Ro-shi
 
-These four machines share extremely similar bauplans as ball-shaped multi-legged models which can climb walls, equipped with some combination of blades and missiles. The other thing they have in common is being named after Chinese philosophers:
+These four machines share extremely similar bauplans as ball-shaped multi-legged models which can climb walls, equipped with some combination of blades and missiles. They're sized similarly to the individual nodules of Hegel. The other thing they have in common is being named after Chinese philosophers:
 
 [So-Shi](https://nier.fandom.com/wiki/So-Shi)
 : 荘子, [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) or Zhuangzi
@@ -592,10 +592,10 @@ None of these machines speak to the player, or really reveal much of their subje
 
 ### Adam and Eve
 
-Do not exist yet... but they've been in the works for some time.
+Do not exist yet... but they've been in the works for some time!
 
 ## The 243rd Descent Operation
 
-The attack of the four Engels units urgently an answer... and this comes in the form of new Flight Units, essentially mecha operated by a single YoRHa. NieR Automata begins <i>in media res</i>, with 2B, 9S and a squad of other androids descending towards Earth, hoping to destroy Engels. None of them are prepared for how weird things are about to get in the next few months: an escalating series of events that blows the whole YoRHa conspiracy wide open, destroy the Bunker, and bring an end to the Machine War altogether, at the cost of all kinds of suffering for our three protagonists.
+The attack of the four Engels units urgently an answer. This comes in the form of new Flight Units, essentially mecha operated by a single YoRHa. NieR Automata begins <i>in media res</i>, with 2B, 9S and a squad of other androids descending towards Earth, hoping to destroy Engels. None of them are prepared for how weird things are about to get in the next few months: an escalating series of events that blows the whole YoRHa conspiracy wide open, destroys the Bunker, and brings an end to the Machine War altogether, at the cost of all kinds of suffering for our three protagonists and many others.
 
-We'll join them next time in <cite>NieR: Automata</cite>!
+Ready for another Yoko Taro trauma spiral? Let's join them next time in <cite>NieR: Automata</cite>!
