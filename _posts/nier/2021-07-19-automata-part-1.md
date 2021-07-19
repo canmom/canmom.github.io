@@ -440,13 +440,17 @@ One is that this one takes place in a genderflipped universe; the YoRHa squad, C
 
 To quickly run down the changes: Accord (of DoD3 fame) is present, taking over the role of weapons-obsessed resistance members who appear in the other versions. This is the only 'on screen' appearance of Accord in the NieR world, although we find a flyer mentioning her in <cite>Automata</cite> and she is briefly mentioned in one of Yonah's diary entries in the <cite>Replicant</cite> remake. There are a few other adjustments: the Resistance members are deserters, Anemone is replaced by Jackass, the two red girls are combined into one red boy (Terminal Omega) and the operators Futaba and Wakaba are combined into just one Wakaba. You can read more about it in detail [on Rekka's slite](http://firesanctuary.com/yorha-ver13aa/).
 
+1.3a can be torrented [here on Nyaa](https://nyaa.si/view/1352601), though at time of writing, there are no English subtitles available.
+
 ## Equal opportunity evil experimentats: the M002 unit
 
 {% include figure.html src="/embed/nier/ShounenYorhaIllus.webp" alt="Drawing of the cast of the YoRHa boys play from the official novelisation." class="float right" %}
 
 Following the 'success' of this first YoRHa experiment, the project continues in a similar research phase. The next major YoRHa deployment introduces the 'M002' unit, which experiments with 'male' personality models. (Of course, we could argue about what exactly gender means in this context, but for whatever historical reason, the YoRHa organisation upholds a gender division on a pretty deep level, from uniforms down to what roles androids are permitted to perform---indeed, considerably more so than the broader android forces!)
 
-This is the subject of the stage play <cite>YoRHa Boys</cite> (<ruby lang="ja">少年ヨルハ<rp> (</rp><rt>Shōnen YoRHa</rt><rp>)</rp></ruby>). It doesn't have <cite>quite</cite> as many versions as the original <cite>YoRHa</cite> musical, but it has a few: the original v1.0 of the play performed alongside v1.2 of <cite>YoRHa</cite>, a novelisation of this play by Eishima Jun which has been released in English, and a genderflipped version called <cite>YoRHa Girls</cite> (<ruby>少女ヨルハ<rp> (</rp><rt>Shōjo YoRHa</rt><rp>)</rp></ruby>) v1.1a was recently released, with official English subs no less! You can watch the first part of it [here](https://www.youtube.com/watch?v=jZV1FaE9pPE) on the official channel.
+This is the subject of the stage play <cite>YoRHa Boys</cite> (<ruby lang="ja">少年ヨルハ<rp> (</rp><rt>Shōnen YoRHa</rt><rp>)</rp></ruby>). It doesn't have <cite>quite</cite> as many versions as the original <cite>YoRHa</cite> musical, but it has a few: the original v1.0 of the play performed alongside v1.2 of <cite>YoRHa</cite>, a novelisation of this play by Eishima Jun which has been released in English, and a genderflipped version called <cite>YoRHa Girls</cite> (<ruby>少女ヨルハ<rp> (</rp><rt>Shōjo YoRHa</rt><rp>)</rp></ruby>) v1.1a which came out a few months ago.
+
+You can torrent the original play [here](https://nyaa.si/view/1108062), with subtitles linked in the comments.
 
 ### But... what if... stay with me here, what if... what if androids were *boys?*
 
