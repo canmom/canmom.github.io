@@ -344,9 +344,9 @@ The original play/musical has seen four different productions. Versions 1.0 and 
 
 The plays are really quite a spectacle---my personal favourite version is 1.2, which [may be torrented here](https://nyaa.si/view/1079045), and there is a fan subtitle linked in the comments. An English-subtitled version sometimes surfaces on Youtube, but at time of writing, none are available.
 
-Let me give you a taste, though! Here's the performance of <cite>Normandy</cite> at the beginning:
+Let me give you a taste, though! Here's the intro, <cite>Normandy</cite>:
 
-{% include youtube.html id="CG0ZN0HqUzQ" %}
+{% include youtube.html id="8NrHIWbnhzw" %}
 
 It's an unbelievably stylish musical, and I wish we could see an official English-subbed release one day.
 
