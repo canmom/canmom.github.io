@@ -346,7 +346,7 @@ The plays are really quite a spectacle---my personal favourite version is 1.2, w
 
 Let me give you a taste, though! Here's the performance of <cite>Normandy</cite> at the beginning:
 
-{% include youtube.html id="https://www.youtube.com/watch?v=CG0ZN0HqUzQ" %}
+{% include youtube.html id="CG0ZN0HqUzQ" %}
 
 It's an unbelievably stylish musical, and I wish we could see an official English-subbed release one day.
 
