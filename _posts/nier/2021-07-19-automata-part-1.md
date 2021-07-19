@@ -477,7 +477,7 @@ No. 6 gives in to his sadistic tendencies, and starts tormenting the Resistance 
 
 In the aftermath of Cactus's escape, No. 6 confronts the Instructor, successfully - but the Instructor manages to activate a modified version of the scan, causing him to lose control of his body. Meanwhile, No. 2, slowly dying of the Virus, confesses his jealousy to No. 9---who has a straightforward purpose as a healer, rather than an assassin of his own side.
 
-{% include figure.html src="/embed/nier/ShounenYoRHa1.webp" alt="Promotional image of No. 6 fighting the Instructor on a pink-lit stage." %}
+{% include figure.html src="/embed/nier/ShounenYoRHa2.webp" alt="Promotional image of No. 6 fighting the Instructor on a pink-lit stage." %}
 
 In the end, the survivors are No. 4, No. 9, No. 22, Cactus and the two other members of the Resistance. No. 9 attempts to fulfil 2's final request, but it is denied... and a final voiceover from Commander White explains that the M unit performed largely as expected, but is deemed too uncooperative to be used for combat roles. For this reason, "male" YoRHa will henceforth only be scanners... creating the situation we see in the game. Meanwhile, the Gunner and Attacker roles will be merged into a new Battler role, superseding all these Attackers and Gunners. The final scene shows No. 9 sobbing as he listens to a posthumous message from No. 2 asking him to delete his data... something he cannot do.
 
