@@ -20,6 +20,8 @@ Inevitably, this will contain major spoilers for <cite>NieR: Automata</cite>.
 
 In 2003, an unexpected incursion of magical creatures from another timeline creates a plague that threatens to wipe out humanity, in the form of the <dfn>maso</dfn>, the demonic element. The powers that be---acting through the 'Hamelin Organisation'---resort to a desperate plan to preserve some small portion of humans: separating their souls, or 'gestalts', from their bodies, and then creating 'replicant' bodies from these gestalts, who are immune to the corrupting power of maso. In this form, the humans can wait out the apocalypse, while androids and replicants purge the world of maso. So far so... straightforward? Hmm, I may have lost calibration there.
 
+{% include figure.html src='embed/nier/BrotherNierRemakeOld.webp' alt='The older version of Brother Nier, as illustrated in the remake of Replicant. He now has long arm-guards, a fur lining around his neck, and bunch longer boots also lined with fur, and holds a very long sword.' class='float left' wraptight=true %}
+
 Their plan almost fails, because the gestalts prove to be terribly unstable, prone to 'relapse' that causes them to decay to a berserk, mindless state and infects their corresponding replicant with a disease dubbed the 'Black Scrawl'. The only way they can be preserved is the special 'stable' maso produced by a boy or man (depending on edition) named Nier, who is discovered by a disingenuous scheme to hand out copies of a magic book to war refugees that will forcibly gestaltise its holder.
 
 Unfortunately, Nier's sister/daughter Yonah is not nearly so lucky as him; when she touches her copy of the book, her gestalt almost immediately relapses. The Hamelin Organisation, desperate to control the one person who can hold up their survival plan, promise they will save Yonah if Nier provides stable maso for a thousand years. Of course, they are lying, and have no way to save her.
@@ -28,11 +30,15 @@ Over that time, the plan suffers another hiccup. The replicants, supposed to be 
 
 The gestalts, along with the android overseers of the project such as Devola and Popola, panic; their only solution is to use the two magic book devices, Grimoire Noir and Grimoire Weiss, to forcibly return every gestalt into their replicant bodies at once, effectively genociding the replicants to save the gestalts. However, this plan requires Weiss to be powered up by collecting things called 'sealed verses'. Dev and Pop hatch a scheme to trick Replicant Nier, who lives a hard life trying to find money to support his Yonah, into acquiring the sealed verses.
 
+{% include figure.html src='embed/nier/KaineRemake.webp' alt='Kainé, as illustrated in the remake of Replicant. She has white hair done up in a complex braid and decorated with a white flower (a Lunar Tear). Her outfit is basically skimpy white lingerie, covering her torso but not much else. She carries two long serrated swords. Her left arm and leg are tightly wrapped in bandages.' class='float right' wraptight=true %}
+
 Over the course of this quest, Nier encounters various societies: notably the masked city of Façade. He becomes close friends with two outcasts: Kainé, ostracised both for her intersex status and the sociopathic Shade possessing half her body; and Emil, an immortal experimental weapon from before the apocalypse who lives on top of the lab which manufactured him and his sister.
 
 Meanwhile, Gestalt Nier---who has adopted the edgy moniker of 'Shadowlord'---finally catches on that they're tricking him, and resolves to take matters into his own hands to save Yonah. He attacks the village where Replicant Nier lives along with some loyal Gestalts, attempting to seize control over Grimoire Weiss. But Grimoire Weiss has grown so close to Nier, Emil and Kainé that he resists control; Gestalt Nier resorts to flying off with Replicant Yonah so he can at least restore her gestalt to her body.
 
 Desperate to recover Yonah, Replicant Nier continues to fight, becoming far stronger than Devola and Popola can control any longer. He passes through a number of tragic stories, killing shades without recognising their nature---notably for today's story, Emil absorbs his sister Halua's powers (to save Kainé), in the process turning into a skeleton with a huge spherical head; and the gang kill an unusually strong P-33 robot called 'Beepy' or 'P-chan' which cares for a gestalt child.
+
+{% include figure.html src='embed/nier/PopolaRemake.webp' alt="Popola artwork for the remake. She looks very similar to Devola, but has much neater hair, and a more reserved pose." class="float left" wraptight=true %}
 
 Eventually Replicant Nier makes it to the castle of Gestalt Nier, and---supported by the people of Façade---fights his way up to the top, where he is confronted by Devola and Popola, who reveal their true nature---and the trauma of working the gestalt program through the centuries. Nier kills Popola, and Devola goes berserk; to save his friends from their magic, Emil unleashes a destructive spell that appears to kill him, but his head is actually flung far away.
 
@@ -54,7 +60,7 @@ Later, Square Enix released a translation of the short story collection <cite>A 
 
 The <cite>NieR Automata Strategy Guide</cite> presents a timeline of the period leading up to Automata, which [has been helpfully translated](https://theark.wiki/w/Strategy_Guide/Timeline) by an anonymous 4chan user and archived on the Ark wiki.
 
-By 3631, The androids, as the only survivors of humanity, organise under a government termed the Human Heritage Reclamation Management Organisation (bit of a mouthful!), which tasks itself with preserving the remnants of the Old World. The gestalts gradually die out through this time, with the last making it more than 500 years to 4198. The androids start to give up, closing factories; a faction develops within them termed the 'Indpendists' who have no loyal to humanity, and emigrate to Australia after a brief struggle. So far, much as you'd expect.
+By 3631, the androids, as the only survivors of humanity, organise under a government termed the Human Heritage Reclamation Management Organisation (bit of a mouthful!), which tasks itself with preserving the remnants of the Old World. The gestalts gradually die out through this time, with the last making it more than 500 years to 4198. The androids start to give up, closing factories; a faction develops within them termed the 'Independists' who have no loyal to humanity, and emigrate to Australia after a brief struggle. So far, much as you'd expect.
 
 ### Project Gestalt Report 11
 
@@ -76,7 +82,9 @@ Then the aliens show up!
 
 <cite>NieR Automata</cite>, you may have heard, concerns a war between humans and aliens. Yet so far there have been no aliens whatsoever! In 5012, they finally make their appearance.
 
-The story comes, as is now traditional I guess, as a kind of joke track in the Drama CD. You can listen to it on Youtube [here](https://www.youtube.com/watch?v=QqumP4OIE88&list=PL6qLzIEXCzmqnStYOgcPPFdvConxY5bkT&index=3), and read Rekka Alexiel's translation alongside [here](http://nier2.com/blog/2015/12/13/nier-drama-cd-the-space-war/). (The remainder of the tracks on the Drama CD comprise a non-canon high school AU, translated [here](http://firesanctuary.com/blog/2014/12/13/nier-drama-cd-replicant-private-high-school/).)
+{% include figure.html src="/embed/nier/Alien.webp" alt="An alien corpse, looking like a sort of tentacled blob, allegedly similar to a catfish." capt="A dead alien, as seen in <cite>Automata</cite>." %}
+
+The story comes, as is now traditional I guess, as a kind of joke track in the Drama CD. You can listen to it on Youtube [here](https://www.youtube.com/watch?v=QqumP4OIE88&list=PL6qLzIEXCzmqnStYOgcPPFdvConxY5bkT&index=3), and read Rekka Alexiel's translation alongside [here](http://firesanctuary.com/blog/2015/12/13/nier-drama-cd-the-space-war/). (The remainder of the tracks on the Drama CD comprise a non-canon high school AU, translated [here](http://firesanctuary.com/blog/2014/12/13/nier-drama-cd-replicant-private-high-school/).)
 
 In brief, Emil---who has now developed a substantial robotic body---accidentally gets in a fracas with a group of wild animals, including a boar, only to be interrupted by an 'Adamski-style' UFO manifesting (referring to [the 1952 UFO hoax by George Adamski](https://en.wikipedia.org/wiki/George_Adamski#/media/File:George_Adamski_ship_1.jpg)---think of the classic 'flying saucer' design). The UFO opens fire on the animals around Emil, infuriating him:
 
@@ -88,15 +96,21 @@ Determined to protect "Nier, Weiss and Kainé's planet", Emil returns fire using
 
 Despite the efforts of the 'Emil Corps', the aliens continue their attack. The androids finally have a purpose again, and within a year step up production of 'combat model androids', creating an 'Army of Humanity'---at first a loose communications network, but it gradually develops into a unified military command.
 
+{% include figure.html src="/embed/nier/MachineConcept.webp" alt="A drawing of some possible variants of Machine Lifeforms, with round heads on which there are two simple circular eyes, a slightly hunched back, and cylindrical bodies with various attachments. One variant with tires did not make it into the game." capt="One of Hisayoshi Kijima's concept sketches for the Machine Lifeforms." contentsrc="https://www.platinumgames.com/official-blog/article/9863" %}
+
 The aliens make grounds in the Americas, which are in the dark part of the tidally locked planet (the Kingdom of Night). Here, the aliens begin manufacturing 'Machine Lifeforms' (<ruby lang="ja">機械生命体<rp>( </rp><rt>kikai seimaitai</rt><rp>)</rp></ruby>) as a weapon against the androids in 5024. The androids rapidly lose ground against these new enemies, but manage to create an outpost on the moon, where they store records of humanity as it used to be. Here, they begin constructing various military bases.
 
 By 5204 a pattern is established: the Army of Humanity possesses 12 satellite bases, from which they launch 'descent operations' to attempt to take back the Earth. These, by and large, fail, leaving a scattered collection of android survivors fighting guerilla wars against the Machine-held Earth.
+
+{% include figure.html src="/embed/nier/Bunker.webp" alt="The Bunker, a circular space station, seen in Automata." %}
 
 In 6230 the Army of Humanity deploys a new weapon, termed 'Dragon'. This entry prompted a great deal of fan speculation about whether these 'Dragons' are precisely the dragons in Drakengard... which [was unexpectedly later confirmed by Yoko Taro in an interview](http://firesanctuary.com/blog/2020/04/03/new-revelations-about-accord/). So we have at last come full circle to the beginning of Drakengard 3. Though exactly what circumstances led to the Cathedral City getting transported into the DoD world, or the reasons for the creation of the Flower... all that remains unknown!
 
 From then on the war progresses as a deadlock. Until the incident in 7645.
 
 ## The Fire of Prometheus
+
+{% include figure.html src="/embed/nier/FireofPrometheus.webp" alt="A drawing of Kalil illustrating 'The Fire of Prometheus'." class="float right" wraptight=true %}
 
 This story was originally published in <cite>Drag-on Dragoon INSIDE WORLD</cite>, then later republished in <cite>A Short Story</cite>. I know of three translations: the official one in <cite>Short Story Long</cite> translated by Shota Okui; what is probably [the most idiomatic one, by Kho-Dazat](https://nier.fandom.com/wiki/The_Fire_of_Prometheus); and [Rekka's translation of the first five parts](https://web.archive.org/web/20190909201448/http://nier2.com/blog/2014/09/14/novella-the-fire-of-prometheus/) (archive link since she's taken it down on her site), or the official translation in <cite>Short Story Long</cite>. The original story renders the robot phrases in katakana, which is variously translated with e.g. ALL-CAPS-WITH-DASHES or leetspeak.
 
@@ -175,6 +189,8 @@ While the main sphere of Beepy seems to have departed into space, we can presume
 
 Eventually, the newly awakened Machine Lifeforms turn on their creators. The androids are unaware of this until the confrontation with Adam during <cite>NieR Automata</cite>. But per the timeline, the machine rebellion takes place in the 11000s, and the aliens are extinct as of 11306, a few hundred years before <cite>Automata</cite>.
 
+{% include figure.html src="/embed/nier/MachineConcept2.webp" alt="A rough drawing of a large machine lifeform with long piston arms." capt="Another Hisayoshi Kijima concept sketches for the Machine Lifeforms." contentsrc="https://www.platinumgames.com/official-blog/article/9863" %}
+
 What were the machines up to in the meantime? Per the [<cite>Machine Research Report</cite>](https://nier.fandom.com/wiki/Machine_Research_Report), penned by the android Jackass and released to the player only after completing Route C/D/E of <cite>Automata</cite>, they were attempting to reconcile the simple command given by the aliens as a raison d'etre with their own ongoing existence:
 
 > - At this point, machine lifeforms recognized that the goal of "defeating the enemy" actually REQUIRED an enemy. In order to maintain this singular objective, they reached the contradictory conclusion that their current enemies⁠—the androids⁠—could not be annihilated completely, lest they no longer have an enemy to defeat.
@@ -213,6 +229,8 @@ Let's return to Jackass's report. The machines take in records of Project Gestal
 > - Meanwhile, the deficient network began repeating the process of self-repair while incorporating surrounding information, until it finally reached a fixed state as a new form of network. Traces of information regarding human memories from the quantum server of the old model were discovered, indicating that it had integrated them during the final stages of its growth process. Said server contained a record of the discarded "Project Gestalt," as well as information on the human who was the first successful example of the Gestalt process.
 > 
 > - Having acquired information regarding humanity, the network's structure changed once more, becoming what might better be called a meta network (or a "concept", to borrow the words of the machines). This led directly to the formation of the ego we identify as N2.
+
+{% include figure.html src="/embed/nier/RedGirls.webp" alt="Two angles on the Red Girl. She wears a simple red dress, and has long flowing black hair with a red headband. Plus tiny little red boots." class="float right" wraptight=true %}
 
 N2, also known as the 'Red Girls', is the personification of the Machine Network. She displays a sadistic streak, and her design is heavily reminiscent of Manah from DoD 1---especialily when she goes into creepy grin/deep voice mode. However, not all the machines are loyal to N2, and their various experimental offshoot societies sometimes make peace with the androids.
 
@@ -253,6 +271,8 @@ A few of these machines crop up at specific points in the timeline:
 > Mother! Mother! Mother! ...Mother...\\
 > But his voice never reached his mother.
 
+{% include figure.html src="/embed/nier/Grun.webp" alt="Concept art of the huge sea monster machine Grün." class="float left" contentsrc="https://www.creativeuncut.com/gallery-31/na-key-art.html" %}
+
 The [unit description](https://nier.fandom.com/wiki/Gr%C3%BCn) gives a more explicit account:
 
 > A machine lifeform of extreme size that was developed specifically to annihilate androids. however, due to its tendency to also destroy its fellow machines, it was eventually discarded into the sea. The part that was initially thought to be its entire body turned out to be merely its head, causing this colossus to reach over 1,000 meters into the sky when standing.
@@ -262,6 +282,8 @@ Per the timeline, Grün (the 'Behemoth-class' machine lifeform) was first sighte
 Grün is apparently most likely named after obscure socialist [Karl Theodor Ferdinand Grün](https://en.wikipedia.org/wiki/Karl_Theodor_Ferdinand_Gr%C3%BCn), who clashed with the young Marx in the Young Hegelians, making him one of the most obscure philosopher allusions.
 
 ### Immanuel, Ernst and the Forest Kingdom
+
+{% include figure.html src="/embed/nier/Ernst.webp" alt="Painting of 2B standing face to face with the body of Ernst, a large Machine Lifeform now heavily overgrown. Behind her loom enormous trees." class="float right" contentsrc="https://www.creativeuncut.com/gallery-31/na-key-art.html" %}
 
 In 11689, a group of machines led by a large one named Ernst (likely after the Marxist [Ernst Bloch](https://en.wikipedia.org/wiki/Ernst_Bloch)) found a pseudo-medieval society, centred on a ruined but carefully preserved castle bordering Pascal's village. A record of its founding myth can be found in the [<cite>Letter to the Forest King</cite>](https://nier.fandom.com/wiki/Letter_to_the_Forest_King). By the time of <cite>Automata</cite>, Ernst has died (in 11817), and this kingdom has become fanatical, defending [a baby machine](https://nier.fandom.com/wiki/Immanuel) called Immanuel (after [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)), yet unable to discern why he will not grow. Immanuel speaks his first words 120 years later in 11937, but remains baby sized.
 
@@ -298,6 +320,8 @@ Exactly how many androids are in on the deception is unclear. Commander White, a
 
 ## Paranoia priorities: <cite>A Much Too Silent Sea</cite>
 
+{% include figure.html src="/embed/nier/Pods.webp" alt="Artwork of Pods 042 and 153, two box-shaped machines with dangling arms." class="float right" wraptight=true %}
+
 Naturally, every aspect of the YoRHa operation is steeped in extreme secrecy and paranoia. The YoRHa androids are all kept in the dark as much as possible about their mission, and special 'E' units are tasked with killing any individuals who discover too much. Keeping a lid on this secret seems to occupy a great deal of YoRHa resources.
 
 One awkward loose end is operating the human base on the moon. This task is assigned to an android named 10H, and a network of Pods (small flying robots). The Pods appear to know what's really going on, but 10H is told that she is in a deep underwater base. Her story is related in <cite>A Much Too Silent Sea</cite> in <cite>A Short Story</cite>; there is a fan translation by Merutan [here on the Ark](https://theark.wiki/w/A_Much_Too_Silent_Sea), and an official translation by Shota Okui in the <cite>Short Story Long</cite> book.
@@ -308,7 +332,11 @@ It's safe to say that YoRHa has a few problems functioning as a military organis
 
 ## The Pearl Harbour descent: YoRHa gets traumatised for the first time
 
-The very first story performance of anything related to <cite>NieR Automata</cite> was the <cite>YoRHa</cite> musical (<ruby lang="ja">音楽劇 ヨルハ<rp> (</rp><rt>ongaku geki YoRHa</rt><rp>)</rp></ruby>). Its subject has now been represented in, well, a whole lotta ways! Narratively, the events begin on December 8th, 11941, the 10000 year anniversary (in Japanese time) of the historical attack on Pearl Harbour, Hawaii that marked Japan's entry into WWII. (Yoko Taro loves to insert echoes of historical dates; perhaps we should read this as drawing a parallel between the hyper-paranoid, revanchist, often fascistic YoRHa and the historical Imperial Japan? Then again, other dates appear to associate YoRHa with the allies, so maybe don't read too much into that!)
+{% include figure.html src="/embed/nier/A2.webp" alt="Illustration of A2 as of Automata. She has been heavily damaged by battle, so cracks are showing through her skin, and there are places where it does not cover the underlying black material at all. For clothing, she just has a black scrap of YoRHa uniform. Her arms resemble long gloves. She has loose white hair down to her waist." class="float right" wraptight=true %}
+
+The very first story performance of anything related to <cite>NieR Automata</cite> was the <cite>YoRHa</cite> musical (<ruby lang="ja">音楽劇 ヨルハ<rp> (</rp><rt>ongaku geki YoRHa</rt><rp>)</rp></ruby>). Its subject has now been represented in, well, a whole lotta ways!
+
+Narratively, the events begin on December 8th, 11941, the 10000 year anniversary (in Japanese time) of the historical attack on Pearl Harbour, Hawaii that marked Japan's entry into WWII. (Yoko Taro loves to insert echoes of historical dates; perhaps we should read this as drawing a parallel between the hyper-paranoid, revanchist, often fascistic YoRHa and the historical Imperial Japan? Then again, other dates appear to associate YoRHa with the allies, so maybe don't read too much into that!)
 
 ### Stage plays
 
@@ -328,7 +356,9 @@ The story is also related in a novelisation by Eishima Jun as <cite>YoRHa v1.05<
 
 ### Manga 
 
-Recently the 1.2 version of the play has started being adapted into manga by Megumu Soramichi, titled <cite>YoRHa Pearl Harbor Descent Mission Record</cite> (<ruby lang="ja">ヨルハ 真珠湾降下作戦記録<rb> (</rb><rt>YoRHa Shinjuwan Kouka Sakusen Kiroku</rt><rb>)</rb></ruby>). This can be read on various scan sites, e.g. [here](https://mangakakalot.com/manga/sx925217), or you could watch a fanmade video version of the first chapter with audio from the musical [here](https://www.youtube.com/watch?v=9xe89Zwfcns).
+{% include figure.html src="/embed/nier/A2YoRHaManga.webp" alt="Large splash panel from the YoRHa manga, depicting A2 cutting through a machine." %}
+
+Recently the 1.2 version of the play has started being adapted into manga by Megumu Soramichi, titled <cite>YoRHa Pearl Harbor Descent Mission Record</cite> (<ruby lang="ja">ヨルハ 真珠湾降下作戦記録<rp> (</rp><rt>YoRHa Shinjuwan Kouka Sakusen Kiroku</rt><rp>)</rp></ruby>). This can be read on various scan sites, e.g. [here](https://mangakakalot.com/manga/sx925217), or you could watch a fanmade video version of the first chapter with audio from the musical [here](https://www.youtube.com/watch?v=9xe89Zwfcns).
 
 ### So what happens?
 
@@ -341,11 +371,15 @@ The Pearl Harbour descent is the first major deployment of YoRHa models.
 
 The YoRHa squad are tasked with infiltrating a machine server at Mt. Ka'ala, linking up with a group of non-YoRHa resistance units from a previous invasion hundreds of years earlier. Descending towards Pearl Harbour, they come under fire from the Machines, killing the squad's trusted leader No. 1. Commander White orders a satellite strike to save them, but only four androids are able to land safely: Attacker types No. 2 (who assumes command) and No. 4, Gunner type No. 16, and Scanner type No. 21. They are rapidly swarmed by machines, but saved through the intervention of a group of android resistance fighters led by Captain Rose.
 
-The exact list of Resistance members varies with the portrayal, but all of them but 1.3a feature one Anemone; an android who is initially distrustful but grows to accept the YoRHa after Scanner No. 21 is able to cleanse a resistance android of the Logic Virus. (In 1.3a, she is replaced with the pyromaniac Jackass, who also appears in Automata.)
+{% include figure.html src="/embed/nier/Anemone.webp" alt="Artwork of Anemone, a member of the Resistance, as she appears in Automata." class="float right" wraptight=true %}
+
+The exact list of Resistance members varies with the portrayal, but all of them except 1.3a feature one Anemone; an android who is initially distrustful but grows to accept the YoRHa after Scanner No. 21 is able to cleanse a resistance android of the Logic Virus. (In 1.3a, she is replaced with the pyromaniac Jackass, who also appears in Automata.)
 
 ### Logic what?
 
 The machines have one especially potent weapon: the Logic Virus. Under its influence---stop me if you've heard this one before!---the androids' eyes grow red, and they are overwhelmed with berserk hostility, letting out all of their inner sadism. Which means... yeah, it's the exact same symptoms as the Red Eye Disease in DoD. Whether this is because the Machine Lifeform network is actually connected to the evil God of this universe is unclear, but it certainly has a penchant for sharing imagery with the Church of the Angels (to give some foreshadowing: the Red Girls resembling Manah, the symbol of the Church later appearing on Eve, and the events of <cite>YoRHa: Dark Apocalypse</cite> all suggest a link).
+
+{% include figure.html src="/embed/nier/YoRHaPlay1.webp" alt="A subtitled still from the 1.2 version of the YoRHa play. No. 21 intervenes to stop a summary execution, saying 'Stop! You can't do this! You can't just let your friend die!'" %}
 
 For the Resistance androids, the Logic Virus is uncurable; upon seeing signs of infection, the only remedy is to put the infected party to death. So they are naturally pretty awed by the arrival of someone who can cure it! Unfortunately, this advantage does not last, and the machines soon adapt...
 
@@ -361,6 +395,8 @@ In the 1.0, 1.05 and 1.1 versions of the play, No. 2 remembers her companion in 
 
 In all except 1.3a, Commander White's two Operator underlings, Futaba and Yotsuba, rankle against the callous treatment of the YoRHa. Each time, she rebukes them sternly. (In 1.3a, these are merged into a single character.)
 
+{% include figure.html src="/embed/nier/YoRHaPlay2.webp" alt="A still from the 1.2 version of the YoRHa play. A group of androids fire guns up at a large projected screen showing a giant Machine Lifeform.'" %}
+
 With increasing desperation, and casualties mounting, the Resistance equip themselves for a final mission. Most of the Resistance, and Gunner No. 16, stage a distraction... while the remaining small group fight to the summit of Mt. Ka'ala to find a lift that should lift will take them to the machines' server room. At the entrance, No. 21 stays behind, realising she's infected by the Logic Virus, and Anemone, quick to catch on, stays behind to execute her before the infection takes hold... while No. 2, No. 4 and a few survivors of the Resistance descend into the server room.
 
 The outside group is gradually overwhelmed by the machines, unable to stop them pursuing No. 2's group towards the mountain. As a last ditch measure, they wire their reactors together to overcharge No. 16's weapon at the cost of their lives. In 1.2, an extra cruel twist is added: the defensive model, Daisy, survives, and sobs over the bodies of her comrades before two incarnations of N2 (the 'Red Girls', here named Terminals Alpha and Beta) appear and infect her with the Logic Virus.
@@ -370,6 +406,8 @@ At the top of the mountain, Anemone executes No. 21 with great difficulty, but f
 ### The reveal
 
 And the confrontation in the server room? Is ugly! Of course! The Red Girls know much more about the YoRHa mission than the girls themselves---notably that their deaths were part of the design from the start. So, too, were the extreme conditions: ultimately, the Mt. Ka'ala server is strategically irrelevant; the mission is really an experiment to place the YoRHa in a desperate situation and provoke evolution, filtering out which personalities are most useful for future models.
+
+{% include figure.html src="/embed/nier/YoRHaPlay3.webp" alt="A still from the 1.2 version of the YoRHa play. Rose points her gun at Margaret's head, while No. 2 and No.4 look on, and the Red Girls laugh in the background." %}
 
 In 1.2, also---and perhaps other versions of the play---Commander White attempts, despite knowing the sacrificial nature of the plan, for intervention on behalf of the YoRHa. She is once again refused; and furthermore lectured for her insubordination in firing the satellite laser to land the YoRHa in the first place. Futaba and Yotsuba arrive, reporting the deaths of almost all the YoRHa.
 
@@ -388,6 +426,8 @@ In a stinger at the end of the play, we see that Futaba and Yotsuba have had the
 
 The YoRHa are an experimental group of androids deployed to test out potential personality variants. Though they are nominally going to attack a Machine Lifeform network server on Mt. Ka'ala, their mission is sacrificial: the target actually has no strategic importance. Only four YoRHa survive the descent from space; these link up with a group of Resistance members who survived from a previous descent mission, led by Rose. Refused reinforcement or support at every turn, they make a desperate attack on Mt. Ka'ala, during which almost all of the characters are killed. The Machine Lifeform network personification N2 toys with the last few survivors.
 
+{% include figure.html src="/embed/nier/YoRHaPlay3.webp" alt="A still from the 1.2 version of the YoRHa play. Rose points her gun at Margaret's head, while No. 2 and No.4 look on, and the Red Girls laugh in the background." %}
+
 Ultimately the mountain is destroyed by the fusion bombs implanted in each of the YoRHa, one of which explodes when No. 4 is killed inside the server room. One YoRHa, Attacker No. 2 (A2), survives the explosion, and one Resistance member, Anemone, escapes to a safe distance, intending suicide by enemy forces---but ends up surviving. Betrayed and traumatised, A2 breaks off contact with Command and sets out on a one woman extermination campaign against the Machine Lifeforms; N2 permits her to live out of curiosity..
 
 </details>
@@ -401,6 +441,8 @@ One is that this one takes place in a genderflipped universe; the YoRHa squad, C
 To quickly run down the changes: Accord (of DoD3 fame) is present, taking over the role of weapons-obsessed resistance members who appear in the other versions. This is the only 'on screen' appearance of Accord in the NieR world, although we find a flyer mentioning her in <cite>Automata</cite> and she is briefly mentioned in one of Yonah's diary entries in the <cite>Replicant</cite> remake. There are a few other adjustments: the Resistance members are deserters, Anemone is replaced by Jackass, the two red girls are combined into one red boy (Terminal Omega) and the operators Futaba and Wakaba are combined into just one Wakaba. You can read more about it in detail [on Rekka's slite](http://firesanctuary.com/yorha-ver13aa/).
 
 ## Equal opportunity evil experimentats: the M002 unit
+
+{% include figure.html src="/embed/nier/ShounenYorhaIllus.webp" alt="Drawing of the cast of the YoRHa boys play from the official novelisation." class="float right" %}
 
 Following the 'success' of this first YoRHa experiment, the project continues in a similar research phase. The next major YoRHa deployment introduces the 'M002' unit, which experiments with 'male' personality models. (Of course, we could argue about what exactly gender means in this context, but for whatever historical reason, the YoRHa organisation upholds a gender division on a pretty deep level, from uniforms down to what roles androids are permitted to perform---indeed, considerably more so than the broader android forces!)
 
@@ -425,9 +467,13 @@ The main action comes when the M unit, along with the resistance members, hatch 
 
 But the mutiny only results in the plane crashing somewhere deep in a forest, and it emerges 21 has been infected with the Logic Virus. Scattered by the crash, the androids square off against each other.
 
+{% include figure.html src="/embed/nier/ShounenYoRHa1.webp" alt="No. 21, played by Murata Hisashi, leers after being infected by the Logic Virus." capt="No. 21 (Murata Hisashi) gives in further to the Logic Virus." %}
+
 No. 6 gives in to his sadistic tendencies, and starts tormenting the Resistance members, but Cactus manages to save them by elaborately staging a suicide. 3 and 4 fight a duel. No. 4 refuses to infect 3 with the logic virus, hoping to prove himself stronger at last.
 
 In the aftermath of Cactus's escape, No. 6 confronts the Instructor, successfully - but the Instructor manages to activate a modified version of the scan, causing him to lose control of his body. Meanwhile, No. 2, slowly dying of the Virus, confesses his jealousy to No. 9---who has a straightforward purpose as a healer, rather than an assassin of his own side.
+
+{% include figure.html src="/embed/nier/ShounenYoRHa1.webp" alt="Promotional image of No. 6 fighting the Instructor on a pink-lit stage." %}
 
 In the end, the survivors are No. 4, No. 9, No. 22, Cactus and the two other members of the Resistance. No. 9 attempts to fulfil 2's final request, but it is denied... and a final voiceover from Commander White explains that the M unit performed largely as expected, but is deemed too uncooperative to be used for combat roles. For this reason, "male" YoRHa will henceforth only be scanners... creating the situation we see in the game. Meanwhile, the Gunner and Attacker roles will be merged into a new Battler role, superseding all these Attackers and Gunners. The final scene shows No. 9 sobbing as he listens to a posthumous message from No. 2 asking him to delete his data... something he cannot do.
 
@@ -441,6 +487,8 @@ The M unit link up with a small unit of resistance, and attempt to flee on a sto
 </details>
 
 ### The all-female version, Shōjo YoRHa v1.1a
+
+{% include figure.html src="/embed/nier/ShoujoYorha.webp" contentsrc="http://firesanctuary.com/yorhagirls-ver11a/" %}
 
 Over in the 'a' genderflipped version of the story, the broad events are the same, but there are a fair few changes in the details. Rather than a forest in Madagascar, the play takes place in the ruins of Shinjuku where it all began. There's an extended ad-libbed character scene in the middle of the play, and the uniforms are much more like sailor fuku, rather than the trenchcoats worn by the boys, or the the gothic lolita dresses worn by android girls in the main timeline. The Resistance members on the other hand wear some rather flashy white coats, and are explicitly deserters. The SS in this version is more like a smartphone, and has the male voice of Pod 042 instead of the female voice of Pod 153.
 
@@ -464,6 +512,8 @@ I figured those dates were probably important, and sure enough, June 5 1944 saw 
 
 ## Introducing our heroes
 
+{% include figure.html src="/embed/nier/2B.webp" alt="Illustration of 2B, in her distinctive black dress, split at the side with detailed patterned lace over an opening the bust, puffed sleeves, and long black heeled boots. She has a heads-up display that resembles a black blindfold, and a black headband over white hair cut in a bob." class="float right" wraptight=true %}
+
 <cite>NieR Automata</cite> centres on three characters: No. 2 type B[attler], No. 9 type S[canner], and No. 2 type A[ttacker]; 2B, 9S and A2. We met A2 in the YoRHa play, but what about 2B and 9S?
 
 So their dynamic is like this. 9S is a Scanner type, designed to gather information on the machines. 2B is his taciturn, dutiful companion unit... but she is secretly 2E, an Executioner type designed to execute 9S if he pokes his nose where he's not supposed to. This happens very often, and each time, a new 9S is instantiated as, essentially, a factory reset. 2B, however, does not get her memory's reset.
@@ -480,6 +530,8 @@ The very first sortie with the pair comes in <cite>Memory Cage</cite> [[Ark tran
 
 Not surprisingly, 2B completely fails to stay distant from 9S in his subsequent incarnations. Many more executions follow in the concert drama <cite>A Repeating Prayer</cite>, depicting 2B killing 9S again and again and again, getting ever more traumatised each cycle: each time, getting to know him, building a rapport, having the secrets of the Bunker and her true identity discovered, and executing him, or seeing him kill himself to spare her the trouble. You can read it [here](https://theark.wiki/w/A_Repeating_Prayer) on the Ark.
 
+{% include figure.html src="/embed/nier/9S.webp" alt="Illustration of 9S. He has a black uniform consisting of a jacket embossed with the YoRHa emblem at the bottom, gloves, shorts, and boots. He wears a small green satchel. Like 2B, he has white hair and wears a HUD resembling a blindfold." class="float right" wraptight=true %}
+
 ### "Is this a curse? Or some kind of punishment?"
 
 The sequel to <cite>Memory Cage</cite> is another story called <cite>Memory Thorn</cite> [[Ark translation](https://theark.wiki/w/Memory_Thorn)]. This time, they're in a building once surrounded by water, containing a large tree. It is presumably the Lost Shrine, the entrance to the Shadowlord's castle.
@@ -491,6 +543,8 @@ This time, 2B becomes infected with the Logic Virus, and 9S dives in to attempt 
 The concert drama <cite>Beasts of Slaughter</cite> introduces the third side of the triangle. 2B and 9S, it turns out, have frequently been dispatched to kill the rogue A2, now fighting for herself independent of Command. The more times they attack her, the more she learns of their strategies; 9S on the other hand, thanks to his constant personality resets, cannot evolve in the same way.
 
 Their final meeting takes place during <cite>Automata</cite>, so we'll come back to that later!
+
+{% include figure.html src="/embed/nier/Operator.webp" alt="Artwork of Operator 21O. She wears a form-hugging black uniform with long heeled boots, and a veil." class="float left" wraptight=true %}
 
 ### "...and wonder if I'll ever get the chance to kill him."
 
@@ -509,6 +563,8 @@ Per the timeline, this intrusion likely happened on February 10th, 11945. Though
 The story <cite>Small Flowers</cite> [[Ark](https://theark.wiki/w/Small_Flowers)] portrays a Machine Lifeform who becomes obsessed with growing and observing a plant, even after being almost destroyed in a large-scale battle with Machine Lifeforms. We meet many other machines with a particular obsession: fighting, speed, philosophical considerations that lead them to suicide... but some machines definitely have more influence. Generally speaking, they are the bosses of the game. Many of them have become active only recently...
 
 ### Plato 1728
+
+{% include figure.html src="/embed/nier/AmazarashiCover.webp" alt="Cover of the Amazarashi single 'Deserving of Life', featuring 2B and 9S standing on a destroyed machine lifeform." class="float right" %}
 
 Plato 1728 is the subject of the <cite>3C3C1D119440927</cite> DLC for <cite>Automata</cite> and the tie-in [Amazarashi](https://en.wikipedia.org/wiki/Amazarashi) single <cite>Deserving of Life</cite>. (The name of this DLC breaks down as "3 Costumes, 3 Coliseums, 1 Dream" and a date 27th September 11944, which is when these events take place in the timeline.)
 
@@ -542,17 +598,23 @@ All I can say is, o7 godspeed you wonderful little weirdo...
 
 So, that big unit called Engels I mentioned. There are two parts here: a giant crane with a saw arm called Marx seems to be able to act independently; Engels himself is a vast, oil-rig like walking machine with two Marx arms and a suite of missiles named Engels. Engels seems to have been completed in 11944 since we see him in Plato's memories; [you get a record of his creation showing four being made in total, at least in that batch](https://nier.fandom.com/wiki/Engels_110-B_Record_0005). More Engels units seem to have been discovered later. Engels seems to be something of a contemplative sort, at least after his defeat, but let's come back to that...
 
+{% include figure.html src="/embed/nier/EngelsConcept.webp" alt="Rough sketches of Engels, a huge machine that resembles an oil rig." contentsrc="https://www.platinumgames.com/official-blog/article/9863" %}
+
 These four Engels units first appear in August 3rd 11943, and prove quite effective, killing 11,345 androids in an attack in the Phillipines. Is this a WWII thing? Doesn't seem to be: the US was defeated by Japan in the Phillipines in 1941-42, but there's no significance to August 3rd that I can find.
 
 Engels is of course named after Friedrich Engels, and Marx after Karl Marx. He is able to be carried by flying machine units, since he's pretty slow moving under his own power.
 
 ### Pascal and the pacifist village
 
+{% include figure.html src="/embed/nier/MachineConcept.webp" alt="Artwork of Pascal, a complex machine design with a smaller cylindrical head, and an engine module on his back. He's holding a white flower which may be a Lunar Tear." class="float right" wraptight=true %}
+
 Pascal is the leader of a group of pacifist machine lifeforms, with individual minds disconnected from the Machine network. He manages to establish peaceful relations and trade with resistance leader Anemone. The machines in this village act out various versions of what they perceive as human life, adopting the roles of nuclear family members---parents and children---in a huge variety of shapes. It's not clear exactly when Pascal broke from the Network, or make peace with Anemone, but it's evidently gone on for some time.
 
 Pascal is named after Blaise Pascal, though his story has less to do with the real Pascal's theological and epistemological concerns so much as parental grief. At one point in the game, he's seen reading a passage from Nietzsche, which he quickly dismisses.
 
 ### Simone
+
+{% include figure.html src="embed/nier/Simone.webp" alt="Concept art of Simone, illustrating how her body fits together." %}
 
 In the Amusement Park area, there is a breakway group of pacifist clown-like machines, but one of them is distinctly not pacifist: the large machine lifeform Simone, who became infatuated (like many others) with the arrogant machine Jean-Paul in Pascal's village. (In the Japanese release and others, they are directly named 'de Beauvoir' and 'Sartre' in keeping with the overall naming convention, but the English release changed their names to avoid upsetting the estates of those people afaiu.)
 
@@ -561,6 +623,8 @@ The story [<cite>Memories of a Songstress</cite>](https://nier.fandom.com/wiki/M
 (In reality, the existentialist philosphers Jean-Paul Sartre and Simone de Beauvoir had a polyamorous relationship, with jealousy going the other way.)
 
 ### Kierkegaard and the 'Religious Order of Divinity through Death'
+
+{% include figure.html src="embed/nier/Kierkegaard.webp" alt="Concept art of Kierkegaard, showing him with and without his head on his throne." %}
 
 A group of machine lifeforms dressing in pseudo-Catholic robes form a death cult inside the Abandoned Factory. Exactly when this takes place is unclear---there's no sign of them in the early game, but they seem rather well established later. The player can find [some of their propaganda](https://nier.fandom.com/wiki/A_Pious_Robot%27s_Will). They seem to be getting along well enough, but they're getting ready for a mass ritual suicide...
 
