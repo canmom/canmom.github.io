@@ -76,7 +76,47 @@ The last Project Gestalt report in <cite>Automata</cite> discusses the collapse 
 > 
 > Furthermore, we have received approval to consider the disposal of the "Devola" and "Popola" observer models at a later date.
 
-Then the aliens show up!
+### Devolapopola
+
+So what exactly is the disposal of the Devola and Popola models? Although the specific Devola and Popola from Nier's village were destroyed by Emil in the battle at the Shadowlord's castle, there are other Devolas and Popolas overseeing different regions of Replicants across the world.
+
+In the wake of the collapse of the Gestalt System, they were collectively assigned the blame for wiping out humanity. Near the end of <cite>Automata</cite> Pod 153 [lays it out explicitly to 9S](https://nier.fandom.com/wiki/Devola_%26_Popola's_Memories):
+
+> The failure to manage the area... resulted in the collapse of the Gestalt System, which led to the decimation of the human race. Due to the discovery of its instability, the Twin System was removed from future android production designs.
+>
+> Following the incident, the Devola and Popola models were not dismantled. However, in order to prevent unexpected behavior, they underwent a memory wipe. Furthermore, they were reprogrammed to generate constant feelings of guilt.
+
+Just before this, you get the opportunity to delve into one particular Devola and Popola pair's memories:
+
+{% include youtube.html id="zNMcS68a8zU?start=223" %}
+
+The story sees them struggling to cross a desert, from Popola's point of view. Her Devola is damaged, and she does her best to care for her. Flashbacks show the breakdown of Project Gestalt: the gestalts, gradually relapsing without Nier's stabilising maso, cause the replicants to suffer the Black Scrawl at an ever increasing rate.
+
+And even before that, she reflects on the trauma of seeing generations of Replicants die of the Black Scrawl.
+
+> Did the humans see this coming? Is that why they made a twin model?
+> 
+> Were they really so clever? ...Were they really so cruel?
+> 
+> I couldn't have done this by myself. I would have descended into madness.
+> 
+> I simply couldn't bear such a burden all alone.
+
+Many thousands of years after the collapse of the Gestalt System, Devolas and Popolas are still shunned by the other androids, and still carry the guilt of their unknown crime.
+
+Dev and Pops were also the ones who sent the Replicant data to the moon:
+
+> With the original Gestalt lost, humanity was doomed to an inevitable extinction.
+> 
+> Knowing this, we gathered what remaining Replicant data we could find and launched it ot the surface of the moon.
+> 
+> And though success was as unlikely as finding a lost sand grain in the desert, we still had to attempt it. We still had to try.
+> 
+> We were androids, you see. Protecting humanity was our instinct.
+
+For a long time, Devola and Popola are persecuted by the other androids. We see this Devola's leg get smashed after she talks back to another android, and Popola is ready to attack, but she backs down when Devola smiles to her. They flee across the desert, their bodies steadily breaking down.
+
+And that would be that: a steady decay, or perhaps the androids creating something new in the ruins of humanity. But then the aliens show up!
 
 ## The Space War (<cite>NieR Replicant Drama CD</cite>) ([translation](http://nier2.com/blog/2015/12/13/nier-drama-cd-the-space-war/))
 
@@ -442,7 +482,7 @@ To quickly run down the changes: Accord (of DoD3 fame) is present, taking over t
 
 1.3a can be torrented [here on Nyaa](https://nyaa.si/view/1352601), though at time of writing, there are no English subtitles available.
 
-## Equal opportunity evil experimentats: the M002 unit
+## Equal opportunity evil experiments: the M002 unit
 
 {% include figure.html src="/embed/nier/ShounenYorhaIllus.webp" alt="Drawing of the cast of the YoRHa boys play from the official novelisation." class="float right" %}
 
@@ -520,7 +560,7 @@ I figured those dates were probably important, and sure enough, June 5 1944 saw 
 
 <cite>NieR Automata</cite> centres on three characters: No. 2 type B[attler], No. 9 type S[canner], and No. 2 type A[ttacker]; 2B, 9S and A2. We met A2 in the YoRHa play, but what about 2B and 9S?
 
-So their dynamic is like this. 9S is a Scanner type, designed to gather information on the machines. 2B is his taciturn, dutiful companion unit... but she is secretly 2E, an Executioner type designed to execute 9S if he pokes his nose where he's not supposed to. This happens very often, and each time, a new 9S is instantiated as, essentially, a factory reset. 2B, however, does not get her memory's reset.
+So their dynamic is like this. 9S is a Scanner type, designed to gather information on the machines. 2B is his taciturn, dutiful companion unit... but she is secretly 2E, an Executioner type designed to execute 9S if he pokes his nose where he's not supposed to. This happens very often, and each time, a new 9S is instantiated as, essentially, a factory reset. 2B, however, does not get her memories reset.
 
 A2, meanwhile, is now living as a rogue unit; she's reconnected with Anemone, but largely spends her time fighting the machines as a one-woman army. By this point, her uniform and much of her skin have eroded away, and she's a lot more aggressive and cynical than when we saw her in the play.
 
@@ -661,6 +701,31 @@ None of these machines speak to the player, or really reveal much of their subje
 ### Adam and Eve
 
 Do not exist yet... but they've been in the works for some time!
+
+## Our Devolapopola
+
+A Devola and Popola pair show up in <cite>Automata</cite>---the ones whose memories we saw earlier. So what of the present?
+
+At some point, most of the Devola and Popola models are rounded up and killed, but this pair made their way to Anemone's resistance camp. They still seem to be viewed with a little suspicion, but accepted for their skill as medics and technicians.
+
+As Pod 153 described, [they have no memory of overseeing the Gestalt system anymore](https://www.youtube.com/watch?v=aGQrnKcH-74), and they're wracked with guilt for a long-forgotten crime, kept alive merely as 'lab rats':
+
+{% include figure.html src="/embed/nier/PopolaAutomata.webp" class="float left" alt="Popola as of Nier Automata. She now wears knee pads and heavier black boots instead of the loose leggings she wore in Replicant/Gestalt, and has removed the sleeves of her dress." wraptight=true %}
+{% include figure.html src="/embed/nier/DevolaAutomata.webp" class="float right" alt="Devola as of Nier Automata. She is dressed very similarly to Popola, but her hair is much looser." wraptight=true %}
+
+> <b>Devola:</b> Apparently we were put here to oversee some kind of large-scale system that was put in place.
+> 
+> <b>9S:</b> Apparently? What does that mean?
+> 
+> <b>Devola:</b> We don't know. All the records from that era have been deleted.\\
+> Our model kinda went nutso at some point in the past. It ended badly.
+> 
+> <b>Popola:</b> Most of our kind were disposed of after that.\\
+> But we were spared.\\
+> They used us as a sort of control group in order to ensure such a thing couldn't happen again.
+> 
+> <b>Devola:</b> So yeah, we're lab rats. But at least we get to be here helping out friends.\\
+> I like to think we're atoning in some way for our past sins.
 
 ## The 243rd Descent Operation
 
