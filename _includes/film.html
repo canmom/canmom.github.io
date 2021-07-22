@@ -2,6 +2,8 @@
     {% if include.url %}<a href='{{ include.url }}'>{% endif %}<h1><cite>{{ include.title }}</cite></h1>{% if include.url %}</a>{% endif %}
     {% if include.trailer %}
     {% include youtube.html id=include.trailer %}
+    {% elsif include.vimeotrailer %}
+    {% include vimeo.html id=include.vimeotrailer %}
     {% elsif include.thumb %}
     {% include figure.html src=include.thumb alt="Still" %}
     {% endif %}
