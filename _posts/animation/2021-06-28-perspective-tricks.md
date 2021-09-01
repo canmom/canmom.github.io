@@ -6,7 +6,7 @@ category: animation
 tags:
     - animation notes
     - perspective
-date: 2021-08-30 00:00:04 +01:00
+date: 2021-09-01 22:22:00 +01:00
 ---
 
 Whoops, it's been a long time since I updated this series! More than a year, in fact.
