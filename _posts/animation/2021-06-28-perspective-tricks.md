@@ -1,7 +1,7 @@
 ---
 title: "Perspective! 4: the bag of tricks"
 layout: article
-excerpt: How do you make sure two things are the same height? How do you move things around on a plane? We start to build up a bag of tricks for perspective-wrangling.
+excerpt: How do you make sure two things are the same height? How do you move things around on a plane? And, especially, how do you cast shadows? We start to build up a bag of tricks for perspective-wrangling.
 category: animation
 tags:
     - animation notes
