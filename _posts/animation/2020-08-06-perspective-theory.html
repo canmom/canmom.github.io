@@ -78,7 +78,7 @@ date: 2020-08-09 00:00:01 +01:00
 
 <p>In other words, imagine your eye can shoot out laser beams. Each point on a perspective drawing represents a possible direction the laser can go.</p>
 
-<p>Lets grab some language from computer graphics. Objects in the 3D world exist in <b><dfn>world space</dfn></b>. The drawing, meanwhile, lives in <b><dfn>canvas space</dfn></b> (usually called screen space, for graphics). The angle between directions represented by opposite sides of the drawing is the drawing’s <b>field of view</b>, which is measured as an angle. (We can measure it horizontally or vertically in a rectangular picture.)</p>
+<p>Lets grab some language from computer graphics. Objects in the 3D world exist in <b><dfn>3D space</dfn></b>. The drawing, meanwhile, lives in <b><dfn>canvas space</dfn></b> (usually called screen space, for graphics). The angle between directions represented by opposite sides of the drawing is the drawing’s <b>field of view</b>, which is measured as an angle. (We can measure it horizontally or vertically in a rectangular picture.)</p>
 
 <p>As long as the set of view angles represented by a perspective drawing is small enough, it will still look <em>pretty much</em> right when viewed from somewhere near to, but not exactly on, the centre of projection. Once you get to the wider angles, though, it’s much more important to view from the centre of projection. Otherwise, the image will look strangely distorted…</p>
 
@@ -88,7 +88,7 @@ date: 2020-08-09 00:00:01 +01:00
 
 <p>This image of three cubes was rendered with a 90-degree field of view, meaning the angle between the left and right sides of the picture is 90 degrees. I’ve marked each circle with the field of view it represents. (This is twice the angle between that circle and the centre of the image)</p>
 
-<p>The image represents a 90 degree wide pyramid of <b>world space</b>, projected onto a square in <b>canvas space</b>. This pyramid shape, with its ends cut off, is known as a <dfn>frustum</dfn> in 3D graphics. You don’t need to know that to draw perspective, it’s just a cool word.</p>
+<p>The image represents a 90 degree wide pyramid of <b>3D space</b>, projected onto a square in <b>canvas space</b>. This pyramid shape, with its ends cut off, is known as a <dfn>frustum</dfn> in 3D graphics. You don’t need to know that to draw perspective, it’s just a cool word.</p>
 
 <figure>
   <img alt="A view of the same three cubes from outside the camera, and the part of the world the camera can see." src="{{ site.url }}/img/embed/animation/perspective/5-distortions-outside.png">
@@ -100,6 +100,6 @@ date: 2020-08-09 00:00:01 +01:00
 
 <p>Yet despite this, the other two cubes near the centre of the image still look pretty much fine! This is the strange power of perspective drawing, at least for someone like us who’s acculturated to it: <em>even when we’re not at the centre of projection, it gives a convincing impression of how far away things are</em>, drawing on our experience of looking at photos and other perspective drawings as much as our actual experience of the world.</p>
 
-<p>I picked 90 degrees for a reason. If you have two perpendicular surfaces in <b>world space</b>, their <em>vanishing points</em> are 90 degrees apart. So a 90 degree-fov perspective drawing could contain both vanishing points of a cube.</p>
+<p>I picked 90 degrees for a reason. If you have two perpendicular surfaces in <b>3D space</b>, their <em>vanishing points</em> are 90 degrees apart. So a 90 degree-fov perspective drawing could contain both vanishing points of a cube.</p>
 
 <p>Now hold on, what <em>is</em> a vanishing point? Well, let’s get into the actual practicalities of drawing shit in perspective!</p>

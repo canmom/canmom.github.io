@@ -109,13 +109,6 @@ For example, suppose we add a ground plane to the drawing we just made, and we w
 
 <!-- This probably isn't true, needs more evidence: Here's a slightly surprising fact: the angle between the two planes' vanishing lines in <b>canvas space</b> is equal to the angle between the planes in <b>world space</b>. So if you've got two perpendicular planes, their vanishing lines meet at right angles. -->
 
-## The esoteric alchemy segment
-
-The following made sense to me when I first wrote it, but in retrospect I was too deep in the mysteries of perspective to really communicate effectively! It's preserved for posterity, but at some point I intend to clean it up and give it a clearer treatment. For now, you will lose nothing if you skip on to the next article.
-
-<details markdown="1">
-<summary>Get ready for a lot of confusing Blender gifs</summary>
-
 ## Where does the vanishing line go in the picture?
 
 A vanishing line represents a set of parallel planes, sure. But where do we place a vanishing line? How do we interpret its position and orientation?
@@ -172,6 +165,13 @@ and the key point:
  - <b>as a plane rotates</b> around an axis parallel to the image plane, going from parallel to our gaze to perpendicular to our gaze, its vanishing line moves from the principal point, out to infinity, and back again.
    - the vanishing point of its normal does the opposite, following the plane's vanishing line through the principal point
 
+## The esoteric alchemy segment
+
+The following made sense to me when I first wrote it, but in retrospect I was too deep in the mysteries of perspective to really communicate effectively! It's preserved for posterity, but at some point I intend to clean it up and give it a clearer treatment. For now, you will lose nothing if you skip on to the next article.
+
+<details markdown="1">
+<summary>Get ready for a lot of confusing Blender gifs</summary>
+
 ## A simple rotation
 
 Let's observe this with an animation! I've taken a rotating square which has, for simplicity's sake, one pair of edges parallel to the image plane, so it only has at most one vanishing point.
@@ -203,7 +203,7 @@ Look at that vanishing line dance! What the heck is going on there?
 Here's a few features we can spot in this image:
 
  - the vanishing points that aren't on the horizon line trace out <em>hyperbolas</em>. (You can prove this by working out where a ray with a particular pair of polar angles intersects the image plane, and compare the result with the parametric equation of a hyperbola. That's kind of fiddly, and there may be a more elegant proof.)
- - the vanishing line of the plane is tangent to the path of the red vanishing point. (This one's still puzzling me. It's obviously true, but I can't think why. Or why it's *not* parallel to the path of the blue vanishing point.)
+ - the vanishing line of the plane is tangent to the path of the red vanishing point. (what if it was instead following the green vanishing point? then the plane would be sloping in the opposite direction. but i'm not quite sure why this is)
  - when the vanishing line goes through the centre of the plane, the plane itself disappears entirely into the vanishing line, much as we'd expect
  - when one of the vanishing points of the plane gets infinitely far away, the vanishing line flattens out---in this case, parallel to the horizon line. This is basically the same case as the previous animation.
 
@@ -229,4 +229,4 @@ I know this article got pretty dense and heavy on the geometry, but that's becau
 
 </details>
 
-In the next article, we'll see how they're <em>useful</em>. We have everything we need to start building our 'bag of tricks'---methods we can use to make sure everything in a perspective drawing fits together at the appropriate sizes.
+In the next article, we'll see how they're <em>useful</em>. We have everything we need to start building our 'bag of tricks'---methods we can use to make sure everything in a perspective drawing fits together at the appropriate sizes. If this article was confusing, it may be worth returning to once you've seeen the uses of a vanishing line...
