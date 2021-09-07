@@ -237,7 +237,7 @@ Anyway, using the methods discussed above, I spaced out regular slabs and placed
 
 {% include figure.html alt="A steeply sloping riverbank divided into regular slabs. One figure stands by the water, a second at the top of the bank." src="embed/animation/perspective/64-figures-on-riverbank.png" %}
 
-Now, we want these figures to cast shadows. So let's put the sun somewhere in our picture---and make sure it's above the plane's vanishing line so the plane is not fully in shadow! (When the sun is close to this vanishing line, you'll get long, dramatic shadows. When it's far away---outside the picture area, generally---you'll get smaller shadows.) We also need to know the direction of the plane's normal. If you go to the effort of constructing it, the vanishing point of the normal is a long way outside the picture plane, but I drew some example normals so you get an idea where it is.
+Now, we want these figures to cast shadows. So let's put the sun somewhere in our picture---and make sure it's above the plane's vanishing line so the plane is not fully in shadow! (When the sun is close to this vanishing line, you'll get long, dramatic shadows. When it's far away---outside the picture area, generally---you'll get smaller shadows.) We also need to know the direction of the plane's normal. If you go to the effort of constructing it, the vanishing point of the normal is a long way outside the picture frame, but I drew some example normals so you get an idea where it is.
 
 {% include figure.html alt="The same riverbank, now with the sun located near the top of the picture, above the vanishing line of the riverbank." src="embed/animation/perspective/65-riverbank-sun-normal.png" %}
 
@@ -247,7 +247,7 @@ So, we first need to connect the vanishing line of our riverbank to the sun, in 
 
 But, we can't just draw a line through the head and feet like last time, because the figures are not standing normal to the riverbank! (These inclined planes really are a pain huh.) We need to do a bit of extra work: first extend a line in the river bank plane through the base of the figure, then connect it to the head of the figure with a normal line. Finally we can draw in the shadow baseline, and extend a shadow ray to meet it. Here's an animation:
 
-{% include figure.html alt="An animation showing how to construct the position of the shadow of the head." src="embed/animation/perspective/66-riverbank-baseline-vp.png" %}
+{% include figure.html alt="An animation showing how to construct the position of the shadow of the head." src="embed/animation/perspective/shadow-project-on-bank.gif" %}
 
 We've constructed the location of the head's shadow; but to get a sense of how the proportions break down, we can construct other landmarks, like the neck and waist. This can be done in exactly the same way. Here's an animation of how this construction traces out the line of the shadow:
 
