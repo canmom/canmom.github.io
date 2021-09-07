@@ -39,7 +39,7 @@ Now comes the fun part. Here’s the two useful facts:
 
 With that in mind, we just need to figure out the right lines to draw in order to clone our railway sleepers.
 
-There are actually multiple approaches to this. The most common method I see is to "draw a line through the midpoint". It goes like this: first, you draw a cross between 
+There are actually multiple approaches to this. The most common method I see is to "draw a line through the midpoint". It goes like this... 
 
 <figure>
   <img alt="Two sleepers, with a cross connecting corresponding corners. This is shown from above, and in perspective" src="{{ site.url }}/img/embed/animation/perspective/44-new-railway-cross-from-above.png">
@@ -207,7 +207,7 @@ Turn off the construction lines and throw in a few more values and you get somet
 
 We can apply the same method to cast shadows of objects that are not upright, or even floating above the ground. The tricky part is that we need to know about a point on the plane directly underneath the point whose shadow we're trying to project.
 
-Let's say our two figures on a plane are visited by an octahedron. (Any resembles to angels living or dead are purely coincidental.) We know two of its vanishing points on the horizon line.
+Let's say our two figures on a plane are visited by an octahedron. (Any resemblance to angels living or dead are purely coincidental.) We know two of its vanishing points on the horizon line.
 
 {% include figure.html alt="A blue octahedron is placed in the scene with the two figures. It doesn't yet have a shadow but it is above the ground." src="/embed/animation/perspective/67-ramiel-no-shadow.png" %}
 
