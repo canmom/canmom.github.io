@@ -3,8 +3,6 @@ title: "We did not come to relieve suffering"
 layout: article
 excerpt: On Rachel Pollack's incredible novel <cite>Unquenchable Fire</cite>
 category: crit
-tags:
-    - 
 date: 2021-09-01 22:22:00 +01:00
 ---
 I recently finished reading Rachel Pollack's novel <cite>Unquenchable Fire</cite>, on the recommendation of the ever-brilliant and insightful [@lyravelocity](https://lyravelocity.tumblr.com/). I thought it was excellent, so here's a post about it---something in the vicinity of a review, commentary, or simply a recommendation.
