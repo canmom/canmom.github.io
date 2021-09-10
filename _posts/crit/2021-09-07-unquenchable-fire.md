@@ -53,19 +53,11 @@ The book is incredibly rich in these kinds of suggestive, expressive details: th
 > 
 > When the verdict came in ‘Not guilty’ Mary Landis appeared on a local breakfast radio show to announce she would give an offering, her ‘fee’ as she put it, to the Benign One who had guided the jurors to the truth. Most people expected a donation, or a decorous pilgrimage (the <cite>Poughkeepsie Journal</cite> suggested a trip to the thieves’ sanctuary in Nevada). Some thought she might do a ‘shame Enactment’ dressed as the Being who supposedly had possessed her (various non-accredited Speakers and card and coin Workers offered to track down the demon). Instead, Mary Landis had decided, as she later told Newsweek, ‘to hang myself before the people my possessed soul victimised.’
 
-So supernatural events are now somewhat commonplace; when Jennie is walking down the street in New York only to be struck by a manifestation of a flaming ferris wheel with the founder Li Ku Unquenchable Fire attached to it, this is treated as unusual but not unprecedented, documented as an 'Occurrence' by the SDA cops who shop up in the aftermath. When she receives a prophetic dream early in the story, her first instinct is to go to an office to register it in the system which contains every documented variant of spiritual dream...
-
-> Inside the glass doors Jennie turned left to the stairs, too impatient to wait for the elevator. The ground floor belonged to the Motor Vehicle Bureau, the second to the computers and file systems and giant bound books of the Records Office. On the third Jennie walked down a corridor with closed doors on either side until she came to a green metal door marked, ‘National Oneiric Registration Agency.’ Inside, a woman sat behind a wooden counter, reading a newspaper. ‘Good morning,’ Jennie said.
-> 
-> The woman continued to read. Feeling silly, Jennie sat down on one of the two wooden chairs set against the wall. The woman’s stool must have been quite high because Jennie found herself looking up at her. After a while she said, ‘Excuse me, I’d like to do a dream search.’
-> 
-> The woman sighed. ‘Obviously,’ she said, and tossed the paper on the counter. A thin woman, about twenty or a little older, with a slightly curved spine, she made a face and grunted softly as she tried to reach to the side for something. ‘Damn,’ she said finally, and got off the stool. She bent down, then came up with a long sheet of paper. ‘Fill this out,’ she said, and jumped back on her seat to pick up her newspaper.
-
-When her dream is not found in the system, she's derisively treated as a liar and sent away.
+So supernatural events are now somewhat commonplace; when Jennie is walking down the street in New York only to be struck by a manifestation of a flaming ferris wheel with the founder Li Ku Unquenchable Fire attached to it, this is treated as unusual but not unprecedented, documented as an 'Occurrence' by the SDA cops who shop up in the aftermath. When Jennie receives a prophetic dream early in the story, her first instinct is to go to an office to register it in the system which contains every documented variant of spiritual dream. But when her dream is not found in the system, she's derisively treated as a liar and sent away.
 
 Intertwined with this narrative, we hear a number of the stories, or 'Pictures', first delivered by the Founders and then recited on various ceremonial occasions by Tellers, who live in their own kind of collegiate/lodge society. The role of 'stories' in the metaphysics of the revolutionary religion seems to be very important; without stories, the world becomes brittle and fragile:
 
-> I’ve gone deaf Lightstorm thought, I’ve gone deaf. But he knew the emptiness was not in his drums or neurons. It lay in the street, in the cars and the people. They looked frail, almost transparent. Even the huge buildings so beloved of tourists, you could put a hand, a finger, right through them. His sight slid up the garish front of Trump Tower. Something had emptied out the Sun. No heat remained in it, though it shone bright enough to hurt his eyes. He squinted. It wasn’t the heat that had left.
+> <i>I’ve gone deaf</i> Lightstorm thought, <i>I’ve gone deaf</i>. But he knew the emptiness was not in his drums or neurons. It lay in the street, in the cars and the people. They looked frail, almost transparent. Even the huge buildings so beloved of tourists, you could put a hand, a finger, right through them. His sight slid up the garish front of Trump Tower. Something had emptied out the Sun. No heat remained in it, though it shone bright enough to hurt his eyes. He squinted. It wasn’t the heat that had left.
 > 
 > The stories are gone, thought Allan Lightstorm. Something had emptied all the stories, cleaned out the people, the city, even the sky and the Earth. He could stamp his foot and it would go right through the crust.
 
@@ -185,7 +177,7 @@ Alongside the everyday world, the post-revolutionary religion acknowledges somet
 
 > He knew he should speak the ‘standard formula of recognition’ on encountering a Bright Being. ‘Ferocious One. I beg you to release me. I know that nothing I have done deserves your evil intervention.
 
-Late in the book, this dualistic system is described (in an excerpt from <cite>The Lives of the Founders</cite>) as an indulgence of human moralism by one of the Founders, Alessandro Clean Rain. Two different versions of the story are presented. In one, the 'moralists' are a minority, and by purging the 'sludge' that was 'preventing their hearts from puming revelation through their bodies', Clean Rain ended up creating the raw material for the spirits. In the other, 'the people refused to live in the dance of good and evil', so Clean Rain recruited spirits to the cause.
+Late in the book, this dualistic system is described (in an excerpt from <cite>The Lives of the Founders</cite>) as an indulgence of human moralism by one of the Founders, Alessandro Clean Rain. Two different versions of the story are presented. In one, the 'moralists' are a minority, and by purging the 'sludge' that was 'preventing their hearts from puming revelation through their bodies', Clean Rain ended up creating the raw material for the spirits. In the other, 'the people refused to live in a world not shaped by the dance of good and evil', so Clean Rain recruited spirits to the cause.
 
 > When first hired, the Devoted Ones, and the Ferocious Ones took up their tasks with great dedication. They harangued people constantly, attacking or saving them until their targets lost all track of what was happening. The Beings waited on street corners and bus stops, they appeared as faces in mirrors and soda bubbles. Each year they chose some unfortunate man or woman for their championship. One man, who later swore he had done nothing to antagonise either side, found his business ruined, his wife and children dead, his body a playground of disease and all his friends replaced by Malignant Ones who told him he was only getting what he deserved. Then the Benign Ones came to drive away the false friends, heal his body, arrange a loan for him to start a new business, set him up with a wife who promised him seven sons and three daughters, and finally appear to him in a whirlwind to assure him the whole exercise was of great value and would instruct future generations.
 
@@ -484,6 +476,64 @@ Which leads to lots of interesting overlapping dimensions. In terms of its view 
 
 So both of them make a kind of break or refusal to completely comply with the Living World; yet it is Jennie's break which is considered desired and productive. We can wonder---was it *actually* part of the grand plan to use Mike to shuffle Jennie out to Poughkeesie, and then get rid of him? Or is this a story she cooked up, with the Bright Beings just grabbing someone convenient with the right attitude? Later, we see many people blame Jennie's supposed possession for their failed relationships, rather than take responsibility themselves...
 
+## Beverly
+
+The other major figure in Jennie's life is her mother, Beverley, from whom she is quite estranged. Bev is an avant-garde composer and artist; as a child she placed, and continued to place, a great deal of pressure on Jennie to also be an artist, which (in keeping with her general feeling on autonomy!) Jennie resisted.
+
+> And as for her mother…Jennie knew very well what Beverley thought of Jennie’s hopes of scholarship. Mommy had expected (still expected, against all the evidence and Jennie’s insistence) that Jennifer would follow in her Mommy’s footsteps and become a musician. Or at least an artist or a writer. Never mind that Jennifer had gone to college. Never mind that she dropped out only to betray all sanity by getting a suburban husband, a suburban house, and a suburban job, and then, when she lost the first, keeping the other two. In Beverley’s eyes, it was all just ‘sleepwalking.’
+
+For Jennie, the feeling that she has disappointed her mother is a source of ongoing pain; before her dream, she imagines that Allan Lightstorm's Picture-telling will inspire her to "throw so much love at Beverley she'd have to love Jennie in return".
+
+We only get glimpses of Bev's artworks, which feel like a parody of pretentious artists who Pollack might have known...
+
+> ‘Wonderful. I’m working on a new piece. It explores the sound possibilities in traditional women’s work. It’s called “Improvisation for Alto Saxophone, Clothes-pegs, and Amplified Washing Machine.” How are you?’
+
+So how does Bev fit into the themes of like, relation to religiosity? She's definitely very much doing her own thing in comparison to Mike; yet it could be argued the same hollowness exists there in the rituals of the art world; her plays at novelty don't have the same 'ecstatic' fervour that Jennie ultimately craves. The contrast between Bev and Mike most opens up when they argue over ideas for the wedding:
+
+> Beverley wanted a ‘contemporary recreation’ of ‘Dustfather and Mothersnake’, the Prime Picture Ingrid Burning Snake had told at the mass wedding held after the liberation of New York. She wanted to hold the event in her own house, planning to rope off the street and fill it with giant terra cotta dolls signifying the characters in the picture. She wanted Mike and Jennie to go up on the roof and throw down more dolls to smash them on the pavement, a ‘direct incarnation’ as she called it, of Dustfather’s dismemberment. She wanted tapes played on loudspeakers all through the house and even in the street. Some of the tapes would recite the tale, but out of synch, with each other, producing an outward chaos, while subconsciously the Picture would ‘drench’ the participants. Other tapes (she never got around to specifying how many tape decks she would need) would blast each other with instruments, cars, trucks, thunder, recorded earthquakes, and wrecking machines (to represent Mothersnake’s revenge on the city after her husband’s death). The noises would slowly build ‘to a density of sorrow’ until the moment of Dustfather’s song in the nursery. Then everything would stop until a single electronic voice emerged from the destruction.
+> 
+> Mike, on the other hand, wanted a traditional wedding, held in a hall, with Burning-snake’s picture recited by a local Teller (he suggested importing his family’s neighbourhood Teller from Poughkeepsie). He wanted himself and the bride painted in simple, literal images of the key moments. He wanted groups of children in giant gold-painted cardboard boxes equipped with horns and ratchets for the children to chase away the Hooded Man whenever his name was mentioned.
+
+Jennie, though she doesn't get a say, wants something much more raw and unhygienic:
+
+> Six weeks before the wedding Mike entered the East Side Hospital of the Inner Spirit, where a healer in a black hood circumcised him. The hospital invited Jennie to take part by laying gloved hands on her anaesthetised fiancé. She refused, allowing Mike and the hospital administrators to think it was squeamishness. In fact, a strange longing had taken hold of her. She had found herself wishing for a genuine Enactment, the kind they used to hold in the Time of Fanatics, when the bride would actually circumcise her husband and throw the foreskin from the roof. She tried to banish the idea—it was unsafe and barbaric, not to mention ruining the wedding night—but it kept coming back, entering her thoughts at odd moments. She found herself wondering if a gust of wind—‘Mothersnake’s shout’ they used to call it—would lift the foreskin into the sky.
+
+Yet in a sense Bev may be right that Jennie is 'sleepwalking', given that the climax of the book sees her coming into her own as an orator.
+
+Jennie stays with Beverley during the New York segment, interrupting an artsy sex rite when she arrives. While she's there, Beverley is overcome with a strange state of mind, raving about dead people without any regard for Jennie. Shortly thereafter Jennie receives a vision showing that babies and stories both come from the land of the dead.
+
+> ‘That’s the trouble with dead people,’ Beverley said. ‘They always think you owe them something.’ She giggled. ‘You remember that time they stole Annie’s dress. Ripped it right off her back that day she went to visit the refugee camp.’
+
+Annie is not mentioned anywhere else in the book, incidentally.
+
+Afterwards, Jennie goes to the roof and receives a vision of a kind of paradise state, where her mother gives up her instruments to be there for her.
+
+> And then a woman stood up, and it was Beverley, and at her feet Jennie saw a pile of smashed instruments. ‘I love you, Jennie,’ her mother said. ‘I’ve always loved you. I love you more than anything in the world.’ Then they all came and stood together, hugging and laughing and crying, while behind them the waiters came, bringing all Jennie’s favourite dishes.
+
+In the aftermath, she meets Beverley again, while lying in the bath---and it's probably at this point that Beverley realises Jennie is preggers. Ahem. Pregnant.
+
+> Beverley looked away a moment, pressing her lips. ‘Jen,’ she said, ‘if you ever need anything, any help, will you come to me?’
+> 
+> Jennie nodded, then said ‘Yes.’
+> 
+> ‘Do you promise?’
+> 
+> ‘I promise.’
+> 
+> Jennie could see a pink glow of light around her mother’s face. Beverley said, ‘I love you, Jennifer.’
+> 
+> Do you? Jennie thought. <i>Do you really? Or is this just some kind of reward?</i>
+> 
+> (...)
+> 
+> Jennie said, ‘I love you, Mommy.’
+> 
+> Beverley walked back to kneel beside the tub. ‘I love you too, Jen,’ she said. Jennie wrapped her wet arms around the blue silk. For a long time she hugged her mother. When Beverley left the room Jennie lay back, weeping into the water.
+
+This chapter, just three pages long, is the last appearance of Beverley until the epilogue. And it seems to be the first moment of genuine connection between Jennie and Beverley in the novel, signifying perhaps Jennie's acceptance of her role.
+
+What to make of that? Unclear...
+
 ## The stories within
 
 ### <cite>The Place Inside</cite>
@@ -678,12 +728,12 @@ So this story works on us in a kind of meta sense, I guess. I finish the story a
 
 So. The Founders, and the Bright Beings, did not come to relieve suffering; but I think they definitely did come to *disrupt* the vitiated 'end of history' that seemed to exist in 80s capitalism. The story they created was one of dramatic social change, people making breaks with social systems to consciously refuse 'rationality' and insist on their own ways of making meaning.
 
-But if the society depicted in this book venerates the Revolution, it completely fails to understand it: all of it has slotted neatly into the symbol manufacturing machines of late capitalism, the spectacle and all of that. The counterrevolution---whether begun by that capitalist fiend Rebecca Rainbow or in the years since---has completely recapitulated and erased that sense of a decisive break, and turned it into a set of empty gestures; hence the contempt shown by Jennie, Valerie and eventually the first 'neo-Fanatic', Allan towards the legal demand that they perform Enactments.
+But if the society depicted in this book venerates the Revolution, it completely fails to understand it: all of it has slotted neatly into the symbol manufacturing machines of late capitalism, the spectacle and all of that. The counterrevolution---whether begun by that capitalist fiend (shakes fist) Rebecca Rainbow, or in the years since---has completely recapitulated and erased that sense of a decisive break, and turned it into a set of empty gestures; hence the contempt shown by Jennie, Valerie and eventually the first 'neo-Fanatic', Allan towards the legal demand that they perform Enactments.
 
 But there's more to it than that. Because the book's sympathies with the 'Neo-Fanatics' is... certainly not absolute; it comes across like a huge historical force, a war or (indeed!) revolution, sweeping up people in its flow however they might feel about it with all the force of sexual violence. A permanent attitude of religious fervour and proximity to death is not actually sustainable, as we saw in the story of Miguel Miracle of the Green Earth and his cakes. All the willful madness of the Founders becomes slightly farcical when placed against well, everyday existence; maintaining relationships, working to sustain existence, dealing with all the tiny struggles of living.
 
-So this book deals with the interplay between these 'two things that exist': the simple, ongoing suffering and the moments of 'ecstasy' which structure it and give it meaning. Is there a third pole there, 'love', as Jennie says, or does that belong to the 'Tomb World'? I think we are left sympathising with Jennie: maybe this 'love' she names is indeed a kind of suffering, but who even gives a shit which box you put it in? It does as much if not more than the religious ecstasy to impart significance; it is an especially compelling story.
+So this book deals with the interplay between these 'two things that exist': the simple, ongoing suffering and the moments of 'ecstasy' which structure it and give it meaning. Is there a third pole there, 'love', as Jennie says, or does that belong to the 'Tomb World'? I think we are left sympathising with Jennie: maybe this 'love' she names is indeed a kind of suffering, but who even gives a shit which box you put it in? It does as much if not more than the religious ecstasy to impart significance; it is an especially compelling story. Jennie's character development comes through resolving two of her major relationships: finally for good losing Mike, and making a small connection with her mother.
 
-I don't really share Pollack's background in Tarot and new agey stuff---it was a kind of background radiation growing up in Glastonbury, and the stories that have given me the most meaning have dealt much more directly with the scientific worldview I internalised and the incoherent world of modernity. But this story is just as relevant if your ideological system of choice is like, communism or something; perhaps even more so for these younger ideologies.
+I don't really share Pollack's background in Tarot and new agey stuff---it was a kind of background radiation growing up in Glastonbury, and the stories that have given me the most meaning have dealt much more directly with the scientific worldview I internalised and the incoherent world of modernity. But this story is just as relevant if your ideological system of choice is like, communism or something; perhaps even more so for these younger ideologies. It is all too easy for a narrative which on the surfaces pushes towards painful transformation to become rote, another set of rules. Is that 'the message' of the book? No, that's far too simple.
 
 Over and over, people ask "do you understand?" I don't think I do necessarily, but I know this little semiotic knot is going to have a nice little place in my orbit of concepts for a fair long while yet, and you can't really ask for more from a book...
