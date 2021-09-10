@@ -1,5 +1,5 @@
 ---
-title: "We did not come to relieve suffering"
+title: "We will not come to relieve suffering"
 layout: article
 excerpt: On Rachel Pollack's incredible novel <cite>Unquenchable Fire</cite>
 category: crit
