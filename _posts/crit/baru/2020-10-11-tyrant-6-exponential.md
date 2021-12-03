@@ -90,7 +90,7 @@ We have a few topics to (re)introduce: complex numbers, exponential functions, t
 
 ### The first ingredient: exponential functions and calculus
 
-To begin: a little more on the 'number of interest'. We spoke of the breeding elephants: but to understand what makes $$e^x$$ special compared to, say, $$2^x$$, we need to deal with not discrete, but continuous functions.
+To begin: a little more on the 'number of interest'. We spoke of the splitting bacteria: but to understand what makes $$e^x$$ special compared to, say, $$2^x$$, we need to deal with not discrete, but continuous functions.
 
 So let's follow the path of Jacob Bernoulli, studying compound interest in 1683. We imagine a bank account, accruing interest over time. Let's imagine an extremely generous bank awards interest at 100%. If you have £100 in your bank account, at the end of the year, they give you 100% more money, and you have £200.
 
@@ -104,7 +104,7 @@ Now, you can imagine slicing up the year into smaller and smaller slices, until 
 
 $$£100 \times \left(1+\frac{1}{N}\right)^i$$
 
-{% include plot.html name="compoundinterest" data="[{fn: `exp((floor(x*${slider.value})/${slider.value}) * log(1.2))`, range : [0,1], graphType: 'polyline'}]" extraOptions="disableZoom: true" domain="[0,1]" range="[0,3]" slider="Interest payments" slidermin="1" slidermax="15" sliderdefault="5" %}
+{% include plot.html name="compoundinterest" data="[{fn: `exp((floor(x*${sliderValue})/${sliderValue}) * log(1.2))`, range : [0,1], graphType: 'polyline'}]" extraOptions="disableZoom: true" domain="[0,1]" range="[0,3]" slider="Interest payments" slidermin="1" slidermax="15" sliderdefault="5" %}
 
 And the limit of getting "infinitely small payments all the time" gives you a special, smooth curve. In this limit, by the end of the first year, the money has grown by a factor of
 
