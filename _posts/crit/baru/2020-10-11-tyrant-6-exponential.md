@@ -283,7 +283,7 @@ These new numbers mean that we're no longer just working with the set of natural
 
 $$\mathbb{Z}=\{\dots,-3,-2,-1,0,1,2,3,\dots\}$$
 
-Suitably armed with these new numbers, we can solve all equations along the line of "if $$a+x=b$$, what is $$x$$?"---at least, assuming $$a$$ and b$$ are all integers. Good trick. But you know that's not the only kind of numbers.
+Suitably armed with these new numbers, we can solve all equations along the line of "if $$a+x=b$$, what is $$x$$?"---at least, assuming $$a$$ and $$b$$ are all integers. Good trick. But you know that's not the only kind of numbers.
 
 Turns out you can build the entire number system wtih variants on this one weird trick!
 
@@ -376,7 +376,7 @@ So we have our ingredients:
  - Taylor series
  - complex numbers
 
-From here, it's easy. Plug an imaginary number---let's say $$i\theta$$ where $$theta$$ is some real number---into the power series for the exponential function, and apply the rule that $$i^2=-1$$:
+From here, it's easy. Plug an imaginary number---let's say $$i\theta$$ where $$\theta$$ is some real number---into the power series for the exponential function, and apply the rule that $$i^2=-1$$:
 
 $$e^{i\theta}=1+i\theta - \frac{\theta^2}{2} - i \frac{\theta^3}{6} + \frac{\theta^4}{24} + i \frac{\theta^5}{120} \dots$$
 
@@ -429,7 +429,7 @@ Although we've talked about how bacterial growth gives rise to economic growth, 
 
 [One of the simplest models](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) involves a population of predators, and a population of prey animals. We can model this as a coupled system of differential equations: the population of predators rises as their food source increases, but predation wipes out the prey, and the starving predators die out. This video discusses a stripped down version of the problem:
 
-{% include youtube.html id='https://www.youtube.com/watch?v=M0nRWcF1WJw' %}
+{% include youtube.html id='M0nRWcF1WJw' %}
 
 Mathematicians have a tool for analysing this kind of problem: they move to a 'phase space', not so different from the complex numbers we've explored so far. One axis represents the number of prey, the other the number of predators, and the system 'moves' through phase space as the two populations vary.
 
@@ -437,11 +437,13 @@ Many choices of parameter result in orbits around a 'fixed point'. At the 'fixed
 
 When we humans want to control a population of animals---for example, of deer---one of the most effective ways we've found is to introduce a population of predators to the region. And when we humans disrupt these cycles by, for example, killing off wolves for the sake of agriculture, the cycles of the ecosystem are disrupted.
 
-Unfortunately, it's rarely as simple as this simple, two-component system. The explosion of prey populations will affect all the things the prey eat. One fascinating example is the [reintroduction of wolves into Yellowstone](https://www.yellowstonepark.com/things-to-do/wolf-reintroduction-changes-ecosystem). Prior to the reintroduction of wolves, elk populations had grown rapidly, threatening the reproduction of the things the elks ate, such as aspen trees. The failure of the aspen crashed the beaver population, and the lack of beaver dams caused further effects, increasing the variability of water runoff and removing places for fish to breed.
+Unfortunately, it's rarely as simple as this simple, two-component system. The explosion of prey populations will affect all the things the prey eat. A popular story tells of the [reintroduction of wolves into Yellowstone](https://www.yellowstonepark.com/things-to-do/wolf-reintroduction-changes-ecosystem). Prior to the reintroduction of wolves, elk populations had grown rapidly, threatening the reproduction of the things the elks ate, such as willow trees. The failure of the willow crashed the beaver population, and the lack of beaver dams caused further effects, increasing the variability of water runoff and removing places for fish to breed.
 
-Reintroducing the wolves, on the other hand, made the elk start moving around a lot more---to avoid getting eaten! The aspen could bounce back, the beavers could bounce back, and so on; the effect was termed a 'trophic cascade'. The ecosystem started to edge back towards its rhythm of self-reproduction.
+Reintroducing the wolves, on the other hand, made the elk start moving around a lot more---to avoid getting eaten! The willow could bounce back, the beavers could bounce back, and so on; the effect was termed a 'trophic cascade'. The ecosystem started to edge back towards its rhythm of self-reproduction.
 
-So, then, in this rather strained metaphor, the Masquerade's economic engine is like the population of elk. But there is no predator to keep it in check... not yet, anyway.
+It's a very neat story, and one I totally believed. [The truth is inevitably much more complex](https://www.accuweather.com/en/weather-news/scientists-debunk-myth-that-yellowstone-wolves-changed-entire-ecosystem-flow-of-rivers/349988). The reduction of the elk population cannot solely be attributed to wolves, the elk only avoid wolves when they're active, and the willow has grown taller but not spread to a larger area. The ecosystem is apparently still considered far from fully restored. Nevertheless, the amount of predation *is* significant. You can read more about it [on page 70 of this PDF](https://www.nps.gov/yell/learn/upload/YELLOWSTONE-SCIENCE-24-1-WOLVES.pdf), which briefly summarises the state of scientific debate about 'trophic cascades'. Essentially, the Yellowstone 'experiment' had too many confounding variables to conclusively prove that the wolves get credit.
+
+Even so, in this rather strained metaphor, the Masquerade's economic engine is like the population of elk. But there is no predator to keep it in check... not yet, anyway.
 
 ## The danger of over-abstraction
 
