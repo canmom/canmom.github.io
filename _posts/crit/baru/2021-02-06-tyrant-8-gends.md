@@ -1,9 +1,9 @@
 ---
-title: "Horse-Archers and Anti-Mannism (on <cite>The Tyrant Baru Cormorant</cite>, part 7)"
+title: "Horse-Archers and Anti-Mannism (on <cite>The Tyrant Baru Cormorant</cite>, part 8)"
 layout: article
 tags:
  - baru cormorant
-excerpt: "Whoops, I left that a while. Time to tackle the big one: how Baru's plan all depends on topping Tain Hu."
+excerpt: "Baru's plan all depends on having topped Tain Hu. No, really. We approach one of the most powerful egregores, gender and the sexual imaginary, as seen in a defamiliarised lens..."
 categories:
  - crit
  - baru
