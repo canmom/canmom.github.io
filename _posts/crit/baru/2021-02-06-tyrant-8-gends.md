@@ -15,6 +15,8 @@ Hello again, dear readers. It has now been more than a year since I last wrote a
 
 But I won't abandon the effort. After all, this next subject is very close to the heart: the question of *gender*.
 
+{% include hiddentoc.md %}
+
 Gender is, although only sometimes discussed directly, a very important component of the <cite>Masquerade</cite> series. This is obvious from the premise: Baru is a lesbian, she comes from a homophobic dystopia. But it's also closely related to the broader themes of the book. All that stuff we said about self-replicating systems and means of social control---after all what is gender if not that?
 
 ## All right then lady, what *is* gender?
@@ -170,7 +172,7 @@ But the Stakhieczi way is just one. You may have noticed that rather unfamiliar 
 
 ## And The Genders
 
-Many years ago, I wrote an article about gender in science fiction and fantasy novels. [You can read it here](https://canmom.github.io/crit/the-radch-the-mirror-empire-the-genders). I criticised the two books---the <cite>Imperial Radch</cite> series by Ann Leckie, and <cite>The Mirror Empire</cite> by Kameron Hurley---for treating gender very superficially: the language may express a variety of 'genders' but the *social* meaning was either hopelessly vague, or an unsatisfying inversion of the familiar terms of patriarchy. Having read many more books and developed my thinking since then, I am much less with <cite>Imperial Radch</cite> than I used to be (oh, a tea-sipping space empire called the Raj? and we mostly take their pov?), including its treatment of gender.
+Many years ago, I wrote an article about gender in science fiction and fantasy novels. [You can read it here](https://canmom.github.io/crit/the-radch-the-mirror-empire-the-genders). I criticised the two books---the <cite>Imperial Radch</cite> series by Ann Leckie, and <cite>The Mirror Empire</cite> by Kameron Hurley---for treating gender very superficially: the language may express a variety of 'genders' but the *social* meaning was either hopelessly vague, or an unsatisfying inversion of the familiar terms of patriarchy. Having read many more books and developed my thinking since then, I am much less enamored with <cite>Imperial Radch</cite> than I used to be (oh, a tea-sipping space empire called the Raj? and we mostly take their pov?), including its treatment of gender.
 
 In some ways, this article is intended as an update of Wot I Think About Gender; but we can also ask: how does <cite>Baru Cormorant</cite> fare in this arena of constructing fictional gender systems?
 
@@ -214,7 +216,7 @@ However, we do get to find out a little about the 'traditional' role of lamen el
 > 
 > The men of Prince Hill were all love-struck, and the women of Prince Hill all thoughtful. It was up to Tau, as it had been up to the lamen in ancient and more traditional days, to mediate.
 
-The narration almost pointedly avoids telling us Tau's genital configuration (I was gonna say CASAB, but hooray, they don't have that in the Mbo). Nevertheless, we see characters from other cultures react in various ways. Baru is pretty chill since lamen often came to hang out on Taranoke, but Svir has trouble:
+The narration carefully avoids telling us Tau's genital configuration (I was gonna say CASAB, but hooray, they don't have that in the Mbo). Nevertheless, we see characters from other cultures react in various ways. Baru is pretty chill since lamen often came to hang out on Taranoke, but Svir has trouble:
 
 > The laman seemed to make Apparitor uncomfortable too, or, at least, self-conscious: his eyes skittered over their hips and up their soft proud throat, where they had painstakingly reapplied the golden paint of their station. Baru remembered Apparitor saying, a man can become a woman, or a woman a man, depending on how they dress and act—but what we hate, in the Mansions, is a liar.
 
