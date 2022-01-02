@@ -130,7 +130,7 @@ Procht concerns politics, secrets, and lies. It is generally disliked, but it's 
 > 
 > “Of staying in the arena.” He sighed. She said that a lot. When it came out of her mouth—unbound by manly honor, unconstrained by the fear of procht—it made sense.
 
-For fear of Procht, our Necessary King will do some stupid shit indeed:
+For fear of procht, our Necessary King will do some stupid shit indeed:
 
 > “We care for the eunuch,” Ochtanze snapped, “because he knows secrets no one else can tell us.”
 > 
@@ -246,7 +246,7 @@ Tau's jealousy is largely to do with feeling left out of a feeling of connection
 > 
 > They prodded at the thought like a bee sting and it made them sick with jealousy—not for sexual want of one or the other of them, but for jealousy of this secret Kinda and Abdu had. Listen to them! Listen to those curious secret sounds, those answers to questions they had asked each other in the past months, with odd silences and shy hesitations. Listen to them becoming less alone.
 
-But when they do expression attraction in the narrative, it is primarily towards Kindalana, invoking to a certain degree a love-triangle dynamic. But we are reminded fairly often that these kids are not hetero; here is Abdumasi commenting on Cosgrad Torrinde:
+But when they do express attraction in the narrative, it is primarily towards Kindalana, invoking to a certain degree a love-triangle dynamic. But we are reminded fairly often that these kids are not hetero; here is Abdumasi commenting on Cosgrad Torrinde:
 
 > “Oh,” Abdumasi said, disappointed. “What a waste! Have you seen him? He’s like one of those bulls whose muscles are too big for their skin! Tau, do you ever,” and he lowered his voice to a conspiratorial hush, “I know he’s quite a bit older, but do you ever, you know, get to peek?”
 
@@ -384,6 +384,8 @@ The metaphor here is well, pretty straightforward. In our world, the early femin
 
 A century later and feminism developed a bewilderingly complex array of movements and waves---and many of them continued to carry the poisons of the dominant society. Some were laced with Catholic moralism, some were basically just cults, some focused narrowly on the interests of bosses. One particuarly unfortunate strain that has gained a great deal of power in this country has basically fully ended up almost identical with fascism: bioessentialism, fearmongering over sexual threat created by trans women, great replacement conspiracy theories, extreme controlling behaviour towards children.
 
+And while this is not a major theme of the book, I appreciated the defamiliarising angle: the attempt to imagine how a similarly broken feminism could occur within a similar-but-different gender system.
+
 This all comes to a head when Iscend Comprine provokes an unfulfilled, horny, former banker (until he was ruined by Baru) Bel Latheman into suicide by tickling his masculinity:
 
 > “Yes,” she says, tensely, “people think I’m too good at my job, and therefore that I’m a plant.”
@@ -445,8 +447,6 @@ Aminata's own particular attitude towards sex work is shaped by her rather fraug
 > “Kindalana? Don’t tell me you didn’t want to fuck her. Everyone goes for important Oriati women. They’re so unattainable.”
 > 
 > A tremble of passion across his broad face. It took a moment for him to master himself. “You seem quite attainable,” he said. His eyes had gone casually dead, neither eager nor fearful, simply resigned. Aminata realized, with a soiled thrill, that he must be a whore of some kind. He’d said he was a womanizer, yes. Was he ashamed? Was he debased that she’d recognized him as wanton? She liked that a little. Men had strange reasons to proposition her, racialized and fraught. Whores did it for sex and money, which were much safer.
-> 
-> Anyway, it's not a major theme of the book, but I appreciated the defamiliarising angle; the attempt to imagine how a similarly broken feminism could occur within a similar-but-different gender system.
 
 The encounter is mostly shaped by well, Aminata's resemblance to Kindalana, which is remarked on on several occasions; it's entirely possible that Aminata is her daughter (in which case Cosgrad has now had sex with both generations!), though I rather hope that's *not* the case because it kind of invites the <cite>Star Wars</cite> problem where every important person in the world is part of one tiny little family lol.
 
@@ -508,7 +508,7 @@ Jackie once wrote [an excellent article on gender socialisation](https://stupid.
 
 This memo has naturally failed to reach the powers of Falcrest, who are determined to understand the deterministic, behaviourist model of human behaviour so that they can engineer a perfect society. So much of it has to do with violently punishing gender crimes, especially in the newly colonised areas.
 
-Back in <cite>Traitor</cite>, Baru observed a torture facility run by Xate Yawa, which attempts to use operant conditioning to shape the sexual subjectivity of Falcresti citizens:
+Back in <cite>Traitor</cite>, Baru observed a torture facility run by Xate Yawa, which attempts to use means of conditioning to shape the sexual subjectivity of Falcresti citizens:
 
 > “She volunteered for fidelity conditioning to repair her marriage,” the functionary explained. “Wise. Two of her social proximates reported on her behavior. She could have been found responsible for hedonic sociopathy or hereditary misconjugation.”
 > 
@@ -542,7 +542,7 @@ This theory largely reflects, to my limited understanding, the existing psycholo
 
 The thing is of course that, as a way to suppress the inherent instability of gender and heterosexuality, this *does not work*. Comprehensively: Baru's overt lesbianism shoots through every line of the book. What it does do, however, is traumatise the living shit out of her. So much of the whole series is Baru struggling to overcome this deep set belief that she has been trained into: homosexuality will always end in disater, for her and her lover.
 
-And this shapes her sexuality a lot. She refuses to express her desire to Tain Hu until the very last minute, where she *knows* that the impending betrayal will separate them forever and thus need not fear it. She struggles in her relatively healthy relationship with Ulyu Xe, despite attraction, but finds it easily to slip into a relationship with the condescending racist trapped in prison, and their sexual encounters are very much oriented around power:
+And this shapes her sexuality a lot. She refuses to express her desire to Tain Hu until the very last minute, where she *knows* that the impending betrayal will separate them forever and thus need not fear it. She struggles to enjoy sex in her relatively healthy relationship with Ulyu Xe, despite attraction, but finds it so much easier when she slips into a much less mutually respectful relationship with the condescending racist she trapped in prison, Shao Lune. Their sexual encounters are very much oriented around power:
 
 > “Let me breathe.”
 > 
@@ -676,7 +676,7 @@ One of the achievements here is that, at this point in the story, the narration 
 > 
 > Oh no. Barhu did not even remember having aunts and uncles, except as vague presences around her parents. She was reasonably certain in retrospect that one “uncle” had been a man her father Solit was either sleeping with, or who shared with Solit an obsession with ancient arrowheads.
 
-The encounter is inevitably very brief, and [as we discussed](/crit/baru/tyrant-4-wound) ends with Baru exiled from her culture in a far more definitive way. But it provides a melancholic contrast to our previous visit to this group of Taranoki people, in that they are getting along a lot better in this new world, pursuing their own projects of resistance...
+The encounter is inevitably very brief, and [as we discussed](/crit/baru/tyrant-4-wound) ends with Baru exiled from her culture in a far more definitive way. But it provides a melancholic contrast to our previous visit to this group of Taranoki people, in that they are now getting along a lot better in this new world than at the moment of conquest, pursuing their own projects of resistance...
 
 Now, it would not be right to say the Taranoki have solved everything about gender and sexuality by any means (and the book would be worse if they had!). But they're certainly a lot closer to being on a 'reasonable' track than, well, pretty much everyone except perhaps the Oriati: their "extended kinship structure" appears to remove a lot of the concerns around inheritance that play a large part in motivating reproductive control, and as such they can cheerfully fuck around. Neither appearance really breaks it down in much detail---in one, Baru is a child and then increasingly indoctrinated by the Masquerade, the other she views it through a nostalgic lens and isn't especially concerned with teaching the reader.
 
@@ -704,9 +704,9 @@ Here are Salm ('shield-bearer', the Taranoki term for a soldier, particularly on
 
 > Watching their reflections, Baru saw Solit take Salm’s shoulder, callused hand pressed against his husband’s bare strength. Each man wore his hair braided, Solit’s burnt short for the smithy, Salm’s an elaborate waist-length fall—for glory in the killing circle, against the plainsmen.
 
-In Baru's eyes, a lot of her view of her parents seems to have to do with them being active, powerful presences in her life; despite her estrangement, or perhaps especially because of it, they still loom very large. For her dads, a lot of her description emphasises physical strength. One could imagine that living with such impressive and decisively actaualised parents would perhaps even be kind of overbearing; no wonder perhaps that Baru is as proud and desperate to show off her own talents. But as powerful as they are, they are eclipsed and displaced by the Masquerade over the course of the first chapter, against which Pinion is helpless.
+In Baru's eyes, a lot of her view of her parents seems to have to do with them being active, powerful presences in her life; despite her estrangement, or perhaps especially because of it, they still loom very large. For her dads, a lot of her description emphasises physical strength. One could imagine that living with such impressive and decisively actualised parents would perhaps even be kind of overbearing; no wonder perhaps that Baru is as proud and desperate to show off her own talents. But as powerful as they are, they are eclipsed and displaced by the Masquerade over the course of the first chapter, against which Pinion is helpless.
 
-As fictional characters, I love how vividly they're drawn. Despite the brief time they're in <cite>Tyrant</cite>, they really steal the scene---I think many people I've spoken to in the fandom react with absolute delight when they reach this part.
+As fictional characters, I love how vividly they're drawn. Despite the brief time they're in <cite>Tyrant</cite>, they really steal the scene--and so many people I've seen reading this book react with absolute delight when they reach this part!
 
 Anyway, let's see if we can speculate a little, given the limited information. We know well the Taranoki's mode of life is largely in profitable trade and farming; we know there are two groups, we might call moieties, who occasionally fight---but this has been heavily ritualised with duels of champions standing in for battle. Baru belongs to the harborside people, but there are also the 'plainsmen' from further inland, and this division is exploited by the Masquerade.
 
@@ -787,7 +787,7 @@ The problem is of course this is mostly speculation: we have no clear record of 
 
 Nevertheless I believe it can---and I desperately hope, will---be defeated. And speculative fiction has at least some role in attempting to construct a horizon of what it would be like to live free of gender, regardless of the fact that there is no way we can be confident of any predictions.
 
-Unfortunately this theme seems to be visited only rarely, and attempts to push beyond it are met with a sickening transmisogynist hostility, as recent events have illustrated too painfully. Le Guin's <cite>The Left Hand of Darkness</cite> is probably the best known example of scifi that has a go at life without gender, but although Le Guin was an exceptionally skilled and insightful writer, and the book is deeply compelling on a character level, her ungendered society is still shot through with unexamined vestiges of bioessentialism which end up weakening the thought experiment.
+Unfortunately this theme seems to be visited only rarely, and attempts to push beyond the very shallow state of writing on gender in science fiction are met with a sickening transmisogynist hostility, as recent events have illustrated too painfully. Le Guin's <cite>The Left Hand of Darkness</cite> is probably the best known example of scifi that has a go at life without gender, but although Le Guin was an exceptionally skilled and insightful writer, and the book is deeply compelling on a character level, her ungendered society is still shot through with unexamined vestiges of bioessentialism which end up weakening the thought experiment.
 
 This is not a project that is within <cite>Baru</cite>'s remit. The disintegration of gender is not really on the cards in Baru's world, any more than it was in our 17th century, except in the dark sense of genocide and one model displacing the others. But it works very well for the book's project to capture an oblique picture of what the enemy is. Sometimes declaring for an unknown future is all we can manage, after all; there are many pitfalls in trying to draw a map of the future utopia.
 
