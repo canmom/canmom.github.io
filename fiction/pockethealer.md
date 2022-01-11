@@ -117,8 +117,6 @@ I rub the essence into her shoulders, and turns her head to nuzzle into me, a st
 
 I don't answer.
 
-Perhaps we'll be doing this forever. One day we'll be old, like the one-eyed woman. Will they replace us? Perhaps they have a way to make us young?
-
 A native orderly appears at the entrance to the room. Quietly, they place a a crisply folded new uniform on the shelf. They glance at me, and their eyes narrow. Out the room in a hurry, no doubt swallowing some cutting remark.
 
 My people do not like me much more than the soldiers.
@@ -213,7 +211,7 @@ My brother charged with a knife. She knocked it aside, twisted the blade from hi
 
 "Never!" my brother said. "You can kill us, you can burn our lands, but you'll never take---"
 
-I reached out with my nascent Art and clumsily snapped his cartoid artery. It was easy: he was my twin, so we shared the same flesh. He collapsed in seconds, gurgling.
+I reached out with my nascent Art and clumsily snapped his cartoid artery. It was easy: he was my twin, so we shared the same flesh. He collapsed in seconds, gurgling. Better to spare him this.
 
 "I want to live." I said.
 
@@ -227,13 +225,14 @@ She seemed a little disturbed by how easily I had killed my own flesh and blood.
 
 "Aren't you an interesting one." she said, which was my only answer. Then she fucked me. I tried to be as compliant as possible, which she seemed to like. Afterwards, she did not shoot me, like I still somewhat expected, but took me back to her camp.
 
-I am drawn back to the present by the tunnel giving way, revealing two large drums covered in interlocking teeth. Tank has fallen partway down, clinging to the walls of the tunnel to try not to fall in further. Her legs are just stumps, ending above the knee. The drums are coated with gore. Some of it flew back as far as me.
+I am drawn back to the present by the tunnel giving way, revealing two large drums covered in interlocking teeth. Tank has fallen partway down, clinging to the walls of the tunnel to try not to fall in further. Her legs are just stumps, ending above the knee. The drums are coated with gore. Some of it flew back as far as me. I think anyone else would have quickly been swallowed up into the grinder. But not my Tank.
 
-This is unfortunate: the lower legs are not in a state I can easily recover. I pull the rest of Tank backwards, away from the grinder, and seal the wounds before she loses more blood.
+Still, the situation is unfortunate: the lower legs are not in a state I can easily recover. I pull the rest of her backwards, away from the grinder, and seal the wounds before she loses more blood.
 
 I will have to make her some new legs. This might be easy or difficult, depending on my materials. The further its nature from human legs, the more work it will take to purge the memory of its old form and train it in anew. A tree root pierces the tunnel, and I consider it. But no: better to regrow directly from the stumps. She has enough excess fat and muscle to make it viable.
 
-I will have to be close. I crawl up behind her and place my hand on her thigh. She shivers. I've negated most of her pain, but she's still reeling from the shock. I start to make my rearrangements, growing the familiar forms outside the shattered stumps, stitching nerves and weaving muscles. Her thighs get thinner. It's OK. I'll be able to flesh her out again later.
+I will have to be close. I crawl up behind her and place my hand on her thigh. She shivers. I've negated most of her pain, but she's still reeling from the shock. I don't like seeing her in such a state, but there is a fascination. The body can bear so much, with a little help.
 
-Once she has recovered, we destroy the grinder with explosives, pack the hole with earth, and crawl on.
+I start to make my rearrangements, growing the familiar forms outside the shattered stumps, stitching nerves and weaving muscles. Her thighs get thinner.
 
+It's OK. I'll be able to flesh her out again later.
