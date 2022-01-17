@@ -29,7 +29,7 @@ Thank you for this blessing!
 
 I reach out to the fresh, hot life inside him. His chest craters, his blood hangs in the air before flying towards Tank. She is lucky. Her body will accept all types.
 
-Tank's skin knits together, and the threads connecting me to the inside are breaking. But all seemed to be well. I crouch on top of her, push my ear up to her mouth, waiting for the wet, hot breath that will confirm I've done my duty.
+Tank's skin knits together, and the threads connecting me to the inside are breaking. But all seemed to be well. I crouch on top of her, push my ear up to her mouth, waiting for the wet breath that will confirm I've done my duty.
 
 There...
 
@@ -45,7 +45,7 @@ But now? My Tank's turn. Oh, look at her go.
 
 Tank has stepped forward. Between the soldiers and the Enemy, ignoring the bullets whipping just over her head. The Enemy's blind face pays her no heed... but then she raises her insectoid abdomen, clumsily sutured to her hips, and screams. Her pheromone gland starts to spray, colourless, undetectable to me.
 
-But to the Enemy... this stench must overwhelm even the gunpowder. It abandons its advance on the soldiers. It surgest towards Tank, a wheel of white lance-legs.
+But to the Enemy... this stench must overwhelm even the gunpowder. It abandons its advance on the soldiers. It surges towards Tank, a wheel of white lance-legs.
 
 And I can't help but call on my Art to peer inside. Just where I expected the human---a nameless boy, barely an adult, his ribcage split open to admit new alien organs. But it's his face I want to see...
 
@@ -123,7 +123,7 @@ My people do not like me much more than the soldiers.
 
 Tank sniffs. Perhaps I can do more for her. I climb onto her knees. She likes to touch me---likes to find the places where my body is soft, when hers has to be so hard.
 
-It suits me. I don't mind her touching me.
+It suits me. I don't mind her touching me, now that she's mine.
 
 She holds my wrist in her rough hands. So gentle. People don't imagine that Tank is gentle, when they see her tearing the Enemies apart. It is one of the things that only I know about Tank, just like the weight of her lungs on her diaphragm, and the expression she made when she killed my family.
 
@@ -145,7 +145,7 @@ They will poke around in my brain, and when they're finished, I will still be lo
 
 Another expedition.
 
-The cave we cleared has given us access to a long, narrow tunnel that the natives have drilled. (My people are very ingenious and familiar with the inside things. It's all the same Art.)
+The cave we cleared has given us access to a long, narrow tunnel that the natives have drilled. (My people are very ingenious and familiar with the inside of things. It's all the same Art.)
 
 Of course, it is full of traps: cutting filaments, explosives, grinders and fire. It would take months to disarm them all, by which time the rebels at the other end would have evacuated.
 
@@ -201,7 +201,7 @@ My mother refused to abandon me, so she volunteered to join the partisans. My br
 
 The enemy did not deign to send their flying castles. They conquered us the old-fashioned way: by finding us in our hiding places and shooting us. We had not yet found tactics appropriate to this new enemy. In the end, we must have bought less than a week.
 
-Tank found the three of us in an old cellar. She was alone. Very young. About the age of my brother and I.
+Tank found the three of us in an old cellar. She was alone. Young---but still visibly older than me and my brother.
 
 The first thing she did on entering the room was shoot my mother. The bullet entered her abdomen, bounced off her ribcage, passed through most of her intestines, and came to rest in the hip. With my current skills, I could certainly have repaired it. But in that time, all I could do was stop her heart.
 
@@ -236,3 +236,209 @@ I will have to be close. I crawl up behind her and place my hand on her thigh. S
 I start to make my rearrangements, growing the familiar forms outside the shattered stumps, stitching nerves and weaving muscles. Her thighs get thinner.
 
 It's OK. I'll be able to flesh her out again later.
+
+## SIX
+
+When the soldier who raped me returned to the camp, she took me to a large white tent. "To describe you." was her only explanation. Only later when I had made some progress picking up their language did I understand that I had been registered as war spoils. Category of <dfn>catamite</dfn>. The soldier exchanged some curt words, and received a length of chain with a shackle on it.
+
+I expected cold stares as she led me into the camp, but the only ones I received were from my own people, the ones tasked already tasked with carrying boxes for the invaders. Not the weapons, of course---but there were only so many homunculi, even then.
+
+We passed squat machines, like rough-cut metal beetles, with guns protruding like pustules. I had seen them before, along a street thick with smoke. I wondered what they were called.
+
+In her tent, she attached the shackle to the central post. "You won't spy." she said. She did the shackle too tightly, and I feel my foot going numb. Afterwards, she walked back and forth around the tent for a minute, and then a distant bell rang and she left to pursue some sort of soldier business.
+
+Severing my foot was not so easy as I had imagined. My Art was clumsy, and I wanted to reattach it after, so I was trying to contain the damage. I would cut the muscles, fiber by fiber. Take great care around the nerves.
+
+Now, I wonder what I hoped to achieve. I was alone, a stranger to my people, in the enemy's camp. No doubt this woman was not the only rapist among their ranks. Was I really in such a hurry to go through that again?
+
+I never got to find out, because the soldier returned before I got much further than stripping the skin. She grabbed my neck, one hand reaching across the points of my jaw, and lifted me off the floor.
+
+I had killed the nerves in my foot. Just a numb weight. Blood seeped along it like a delta, pooled at the end of my toe, dripped down.
+
+She laughed, prodding at my injury. "You will... {sacrifice}. Everything." The word 'sacrifice' was in her language, not mine, and I had to ask her to explain. It was the first word of the invaders' language I learned.
+
+She dropped me, and released the shackle. "You are a beautiful {insect}. And you are mine. So I will forgive you." She laughed, a great easy laugh. I did not understand how she could laugh so freely. But I decided to laugh too.
+
+She watched me, laughing away. Her smile disappeared. She grabbed me by the waste, and forced to sit down on the hard military cot. Peered into my eyes.
+
+My laugh had died down to a soft giggle. But I wouldn't stop.
+
+"Shut up." she said, and hit me with the back of her hand. She pushed me back across the cot, and I thought she might fuck me again, but she just climbed in alongside and lay there with her back turned for the rest of the night.
+
+I had injured myself twice now, and she was not hurt at all. But I still felt that I had won this exchange.
+
+## SEVEN
+
+Tank's light illuminates the face of an Enemy.
+
+It is not a large monster like the one we fought before. In fact, I think it may be a child. Their old head is covered: a human skull sitting under large compound eyes and silky chitin.
+
+She fumbles for her revolver. The Enemy scampers away and disappears into a side tunnel.
+
+The invaders called my people insects from the very first, before what was called the New Strategy. Of course, they only did so more afterwards.
+
+By the time the Strategy was devised, I was of course not privy to such decisions. But the logic is very simple. My people had no weapons that could break their metal armour and alchemical wards. We had no supply chains, no {petroleum}, no {tanks}. But we had our bodies.
+
+The lone Enemy must have thought they were safe, out of sight, and they stop for breath. Perhaps planning an escape route, to warn their comrades. But I can sense them with my Art, and as vague as my impression is, it is not so difficult to sever the tendons at the back of the knee and inside of the groin. I decide not to kill them. I am somewhat curious how far they will go.
+
+We must have passed beyond the traps now, into a space wide enough to stand (Tank still has to stoop). The tunnel is clear. Tank has absorbed its abuses. I have rolled a long line of telephone wire behind me, and now I prepare to send a message.
+
+A roaring, a wave of pressure. Dust clogs the air.
+
+I look back. The tunnel behind me has collapsed, completely. The telephone handset is dead in my hands.
+
+Tank gasps. A faint gurgle. I can't see her through the dirt.
+
+I realise I can no longer feel my legs.
+
+I am working before I have even considered it. My body has been partly crushed by the weight of dirt, partly lacerated by metal rods.
+
+I have enough control.
+
+I reconnect the nerves at the base of my spine, and a flood of pain confirms my success. My legs are hardly salvageable. I disconnect them: burst the muscles, shatter the bones, pull myself fowards. I am in a tiny pocket, a slab of concrete overhead. I can sense that Tank is alive; little more.
+
+I liquify the remains of my legs. Suck the meat slurry forwards. It's my flesh, easy to work. The bottle of semen from earlier provides the fuel, and I drink the precious fluid without hesitation. First rebuild the bones, stretch out the muscles to hook on to their points of attachment, squeeze fat into the relevant places. No doubt a few errors in there. But I can move. I will not have any phantom limbs to distract me.
+
+The pain releases me.
+
+It's too narrow to go forwards. But I have an idea. With my fingers, I reach up, and attempt to grip my eyeball. I have not played with the optic nerve before, and now I regret this oversight. Still, I find I can start to spool it out. I feel dizzy for a second, and hurriedly shut my other eye. It's still nauseating to feel my gaze swing so wildly. The nerve is delicate, so I wrap it in a sheathe of fat and skin. Briefly, I consider severing one of my hands to crawl forwards with it. But reconnecting the nerves seems far too complicated, so I burn more of the semen and carry it forwards with my Art.
+
+I find Tank.
+
+Once I see her, I'm almost afraid that I'm too late. But no! Movement, breath; Death has not taken her. Tank is still mine.
+
+With my eye extended like this, so too is the sense of my Art. Some alchemists, they say, are attuned to all the life within dozens of metres, sensing its precise position and working its nature, even with their eyes closed and their ears stopped with wax. I am not so talented. For all that I have tried, I can catch only a blur. Enough to damage. Not enough to heal.
+
+Tank's left lung is pierced, collapsed by a shard of rebar. I cannot move the rebar, so I cut an opening and slide her sideways, letting the metal pass between her ribs. Other than that, the damage is superficial. The lung is easy to stitch shut and squeeze out the fluid.
+
+I make a decision: better to leave her nerves intact. Chemicals are more delicate: I transform some spare fat into poppy milk, and she noticeably relaxes.
+
+At last, I run out of fixes. We're alive.
+
+For a while, the tiny space contains only the sound of ragged breathing.
+
+## EIGHT
+
+I had found a project for myself.
+
+The invaders had ordered me to go to a classroom each day. I would walk into a sparse room with rows of desks with a line of my countrymen, all of us in the same clothes with shortened hair and badges declaring the sponsor who owned us. There, a young man would give lessons. Mostly, they concerned language, and rules. But the most interesting were Political Education.
+
+The so-called were not really invaders, said the invaders. They were descended from the same old empire, before the world was broken. Now they are rebuilding it, piece by piece. How do we know that they are the rightful descendents? They have three of the pieces of God, which we had foolishly named flying castles. They have an unbroken line of descent to the Two Queens. And, of course, they were here by invitation: our own Queen, who was in fact merely a Governor all along, had asked for their support to quell insurrection.
+
+I wondered who the lesson was for. None of us seemed to believe it mattered, even if it was true. I think the young man could tell, because he went to greater and greater lengths to prove the story to us. Each week, he seemed to get more tired.
+
+It seemed strange to me to go to such effort. The invaders had simply taken us through force. But the invaders seemed to be very concerned with propriety. If they took something, they had to tell each other that they had taken it properly.
+
+Political Education had more information than these curious lies. I learned about other countries, far away in the infinite ocean between the firmaments. Some of them had been conquered by the invaders also.
+
+"Most humans are {insects}." the young man had earnestly explained. I had heard the word before, but now I learned what it meant. Insects did not think for themselves: they simply worked for the mind of the colony. But with enough Political Education, we might cease to be insects, and become people instead. "I was an insect too, once. Then I saw the truth, and thought for myself instead of following crazy old traditions. Now I'm here!"
+
+Succeeding in Political Education was not my project. All the same, it was useful. I could study how the invaders' thought. And they would show me how the world worked.
+
+The invaders believed in taking things. They had taken the land, and put soldiers with guns. But they still didn't really have it, because they needed bodies to work the land. So they wanted to take our minds as well.
+
+This was an interesting idea.
+
+I knew I shouldn't set my ambitions too high. I did not have soldiers and guns and flying castles which were once part of God. I should start with one thing that was in reach, and take it from the invaders.
+
+I watched her sleep. I noticed when her eyes flicked towards me---when I said something confusing, or surprisingly alert. I dressed provocatively. When she was away, I practiced the Art. Sometimes on rats or insects, sometimes on myself.
+
+One night, she came to fuck me. I let her pull my breeches down, waited for her hands to move towards me. Then I placed my hand on her breast and reached inside and twisted and wrenched at all the nerves I could sense.
+
+She gasped, and tears came to her eyes, and her legs lost their strength so she fell to the floor. I climbed out of the bed and stepped lightly onto her collarbones, just one foot. She reached up to claw at my leg, anger in her eyes, so I broke the tendons of the humerus and coracobrachialis. Her arms collapsed, limp.
+
+She stared up at me. Perhaps she thought she was going to die. But she did not plead and did not look away.
+
+I stayed there for a while, and studied her. I had not gotten a good look at her like this, fully aware, looking back at me. It was intoxicating. I reached in with my Art, and tried activating various nerves, and watched her jump around like I was cracking a whip.
+
+She yelped and moaned. At one point she attempted to scream, so I crushed her voicebox. From that point, she made only pitiful squeaks.
+
+My experiments that night were not elaborate. For all my practice, I still lacked confidence on a full human body. I tried reattaching the muscles I had broken, and prodded at her nerves, and was gratified to see her reach up... hesitate, and lower her arm again.
+
+"Good." I said. I stepped off of her collarbone, and she rolled to the side, still squeaking.
+
+"If I give you your voice back," I said, "will you scream?"
+
+She shook her head.
+
+As gently as I could, I brushed my fingers down her neck. Sweat was seeping out of every pore. She was shaking a little. I placed my hand on her throat---an unnecessary gesture---and reached inside to put the delicate cartilage back in the places I remembered.
+
+She swallowed several times. I waited, patiently.
+
+"What was---" Several coughs. She thought better of the question. "What do you want?" My language.
+
+"Do you understand what I mean," I said, "if I said 'you are mine'?" I said this in hers.
+
+She nodded. Tears mingly with the sweat.
+
+"I am going to do this again, sometimes. You will not tell anyone. I will repair you. Do you understand these instructions?"
+
+She surprised me then. The slightest of smiles. She whispered something unintelligible, and passed unconscious.
+
+I must have pushed her too hard. Regretfully, I lifted her back into the bed, and set about cleaning up the visible signs of harm.
+
+I still refused to learn her name.
+
+## NINE
+
+I try to estimate the amount of air we have left.
+
+My lamp illuminates only shattered stone and dirt. An old dream sidles in: humans with leaves, subsisting on sunlight, making their own air. It is a poor idea. A vast area of leaves would be needed to support even a sedentary lifestyle; in essence, I have reinvented a tree.
+
+Always the sad truth: we must take from others to survive. For all their faults, the invaders understood this.
+
+Tank remains stable. I consider retracting my long eyeball. The lamp will no doubt outlast our air, but my reserves of alchemical force are almost spent. But if I am about to see my last hours...
+
+Well, I don't want to be alone.
+
+I am spared the decision by the sound of grinding. Ahead of Tank: the Enemy side. Abruptly, a phosphorus-white light enters the tiny space. I cannot close my extended eyeball. Only the Art remains to sense what is happening.
+
+I hear voices. Muffled---and the language is one I have not heard in a long time. Perhaps they are surprised? I sense three bodies---four. Some show the signs of modification: carapaces and the like. Others are bare. "Unmolested."
+
+They surround Tank. Help her up. She's awake, then. My vision is returning, but all I can see are blurry silhouettes. I could try to grow an eyelid. But I really want an ear.
+
+They're saying something to Tank. I can say that much. She's... cooperating? Allowing herself to be shackled. Someone takes something from her hip---her gun, then. The figures move towards the exit.
+
+Tank stops. She turns around, as if searching the cave. Then---no doubt of it---she finds my eyeball.
+
+Her boot comes down. I can see no more.
+
+## TEN
+
+Just days into my new relationship with Tank, the New Strategy began.
+
+We were now in a freshly built barracks in the plains, so I must have been among the first heard the story. A garrison high in the mountains had fallen out of contact. Reinforcements were sent. A column of the metal beetles, which were called tanks, and a company of cavalry.
+
+They found the garrison deceased, with flowers growing out of their bodies: eye sockets and mouths and split open chests. It caused great alarm. Alchemical weapons were supposed to be obsolete.
+
+Later, they found the children. Eleven were found, of which only two survived to be captured. Each one was covered in leaves and petals, and spat seeds which rapidly expanded in the body of any living animal, consuming it to make more flowers. Before long these flowers would bloom and produce seed pods, which would explode when a new host came near.
+
+The invaders' alchemists analysed the flowers and the children, and before long, they found an inoculation. But they were tense. New soldiers arrived, and a flying castle appeared on the horizon.
+
+The next attack used livestock. Far away, towards the coast, in a busy dockyard. A shipment of long llamas had, as if responding to an unseen signal, fallen on each other in a frenzy of biting and rending. The handlers had rushed in, and separated the offending animals. An official ordered them put to death and buried in lime to prevent the spread of disease.
+
+As soon as the animals were slaughtered, and opened up, it became apparent that almost all of their flesh was tightly packed with worms. The worms exploded across the floor of the slaughterhouse, killing nearby workers and burrowing into the foundations of the building. Much like the flowers, the worms proved contagious. Alchemists were rushed in, who commanded the building set alight and machineguns used to kill anyone who tried to escape.
+
+The tactic was clear. The bodies of the soldiers were protected. But anything nearby could become an alchemical weapon.
+
+Such sporadic attacks continued. One morning, while waiting in line for the class, I saw one of my classmates led away by Military Police. I thought I would not see him again, but he returned a month later, missing several teeth and a great deal of weight.
+
+The next day, another classmate disappeared before I even arrived.
+
+Meanwhile, I continued to work on Tank.
+
+I had shown her pain, and now I wanted to show her pleasure. Before long, I thought I would mediate all of her most powerful sensations, so that the world without me would seem grey and empty. Alas, creating a pleasurable stimulus proved considerably more difficult in my own experiments.
+
+Tank, however, took a turn to surprise me. She did not, as I still reasonably expected, run to report me to her superiors. In fact, the next night, I returned from Political Education to find her staring at me intently---perhaps even expectantly.
+
+Would I do it again?
+
+I had been intending to start on the next experiment, but now I found myself hesitating. I lay down to rest. Before long, I heard her breathing shift---she was masturbating! Fascinating. I had never once seen her do it alone, when I was there to serve her pleasures.
+
+A few minutes later, I saw her reach out a hand towards my hip, and hesitate, and pull back... and then reach out to grab me anyway. I jabbed her ulnar nerve, and she flinched, and then started going even harder. What a quandary! I had found a way to hurt her, make her obey me---and here she was, taking it right back and making it hers again.
+
+I didn't like this, so I exploded her penis.
+
+To my satisfaction, she bit down the scream. She stared at me, whimpering, hands soaked with gore.
+
+I ignored her, and went to sleep. She didn't bother me all night, which I appreciated---so in the morning, I spent half an hour putting it back together while she watched with bloodshot, sleepless eyes.
