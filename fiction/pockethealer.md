@@ -259,7 +259,7 @@ She laughed, prodding at my injury. "You will... {sacrifice}. Everything." The w
 
 She dropped me, and released the shackle. "You are a beautiful {insect}. And you are mine. So I will forgive you." She laughed, a great easy laugh. I did not understand how she could laugh so freely. But I decided to laugh too.
 
-She watched me, laughing away. Her smile disappeared. She grabbed me by the waste, and forced to sit down on the hard military cot. Peered into my eyes.
+She watched me, laughing away. Her smile disappeared. She grabbed me by the waist, and forced me to sit down on the hard military cot. Peered into my eyes.
 
 My laugh had died down to a soft giggle. But I wouldn't stop.
 
@@ -295,7 +295,9 @@ I am working before I have even considered it. My body has been partly crushed b
 
 I have enough control.
 
-I reconnect the nerves at the base of my spine, and a flood of pain confirms my success. My legs are hardly salvageable. I disconnect them: burst the muscles, shatter the bones, pull myself fowards. I am in a tiny pocket, a slab of concrete overhead. I can sense that Tank is alive; little more.
+I reconnect the nerves at the base of my spine, and a flood of pain confirms my success. My legs are hardly salvageable. I disconnect them: burst the muscles, shatter the bones, pull myself fowards.
+
+I am in a tiny pocket, a slab of concrete overhead. I can sense that Tank is alive; little more.
 
 I liquify the remains of my legs. Suck the meat slurry forwards. It's my flesh, easy to work. The bottle of semen from earlier provides the fuel, and I drink the precious fluid without hesitation. First rebuild the bones, stretch out the muscles to hook on to their points of attachment, squeeze fat into the relevant places. No doubt a few errors in there. But I can move. I will not have any phantom limbs to distract me.
 
@@ -323,7 +325,7 @@ I had found a project for myself.
 
 The invaders had ordered me to go to a classroom each day. I would walk into a sparse room with rows of desks with a line of my countrymen, all of us in the same clothes with shortened hair and badges declaring the sponsor who owned us. There, a young man would give lessons. Mostly, they concerned language, and rules. But the most interesting were Political Education.
 
-The so-called were not really invaders, said the invaders. They were descended from the same old empire, before the world was broken. Now they are rebuilding it, piece by piece. How do we know that they are the rightful descendents? They have three of the pieces of God, which we had foolishly named flying castles. They have an unbroken line of descent to the Two Queens. And, of course, they were here by invitation: our own Queen, who was in fact merely a Governor all along, had asked for their support to quell insurrection.
+The so-called invaders were not really invaders, said the invaders. They were descended from the same old empire as us, before the world was broken. Now they are rebuilding it, piece by piece. And how are we to know that they are the rightful descendents? It is simple: they have three of the pieces of God, which we had foolishly named flying castles. They have an unbroken line of descent to the Two Queens. And, of course, they are here by invitation: our own Queen, who was in fact merely a Governor all along, had asked for their support to quell insurrection.
 
 I wondered who the lesson was for. None of us seemed to believe it mattered, even if it was true. I think the young man could tell, because he went to greater and greater lengths to prove the story to us. Each week, he seemed to get more tired.
 
@@ -345,7 +347,7 @@ I watched her sleep. I noticed when her eyes flicked towards me---when I said so
 
 One night, she came to fuck me. I let her pull my breeches down, waited for her hands to move towards me. Then I placed my hand on her breast and reached inside and twisted and wrenched at all the nerves I could sense.
 
-She gasped, and tears came to her eyes, and her legs lost their strength so she fell to the floor. I climbed out of the bed and stepped lightly onto her collarbones, just one foot. She reached up to claw at my leg, anger in her eyes, so I broke the tendons of the humerus and coracobrachialis. Her arms collapsed, limp.
+She gasped, and tears came to her eyes, and her legs lost their strength so she fell to the floor. I climbed out of the bed and stepped lightly onto her collarbones, just one foot. She reached up to claw at my leg, anger in her eyes, so I broke the tendons of the pectoral and coracobrachialis. Her arms collapsed, limp.
 
 She stared up at me. Perhaps she thought she was going to die. But she did not plead and did not look away.
 
@@ -393,7 +395,7 @@ Well, I don't want to be alone.
 
 I am spared the decision by the sound of grinding. Ahead of Tank: the Enemy side. Abruptly, a phosphorus-white light enters the tiny space. I cannot close my extended eyeball. Only the Art remains to sense what is happening.
 
-I hear voices. Muffled---and the language is one I have not heard in a long time. Perhaps they are surprised? I sense three bodies---four. Some show the signs of modification: carapaces and the like. Others are bare. "Unmolested."
+I hear voices. Muffled---and the language is one I have not heard in a long time. Perhaps they are surprised? I sense three bodies---four. Some show the signs of modification: carapaces and the like. Others are bare. What they call 'unmolested'.
 
 They surround Tank. Help her up. She's awake, then. My vision is returning, but all I can see are blurry silhouettes. I could try to grow an eyelid. But I really want an ear.
 
