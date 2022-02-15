@@ -494,6 +494,13 @@ article.film figure {
     margin: 0 0 20px 0;
 }
 
+dd p {
+    margin-left: 0;
+}
+
+dd p:first-child {
+    margin-top: 0;
+}
 
 
 /* ===============

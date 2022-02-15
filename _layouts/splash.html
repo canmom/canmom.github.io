@@ -16,6 +16,7 @@
                     <p>Sometimes, she emits posts, and stories, and other little knots of words.</p>
                     <p>Sometimes, her creations wash up here.</p>
                     <address>
+                        <a href="{{ '/art/commission' | absolute_url}}">Art commissions</a>
                         {% for detail in page.contact_details %}
                         <a id="{{ detail.id }}" href='{{ detail.href }}'>{{ detail.text }}</a>
                         {% endfor %}
