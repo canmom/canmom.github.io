@@ -7,7 +7,7 @@ excerpt: "One of the constants throughout <cite>Baru Cormorant</cite> is nasty t
 categories:
  - crit
  - baru
-date: 2021-12-06 15:00:00 -0800
+date: 2022-03-14 02:00:00 +0100
 ---
 This is the ninth part of a series of articles on <cite>The Tyrant Baru Cormorant</cite>---part review, part meta, part commentary. For intro and links to the others, go [here](/crit/baru/tyrant-1-intro)!
 
