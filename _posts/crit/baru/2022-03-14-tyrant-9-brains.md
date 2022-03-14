@@ -430,11 +430,15 @@ I don't have much more to say here beyond making this link. However, it is worth
 
 There is another way that the characters in Baru (and also in the real world!) frequently modify their minds by adjusting the physical qualities of the brain. That is putting external chemicals into the soup of neurotransmitters and chemical cycles that flow amidst all those neurons; in short, to take 'drugs'.
 
-Drugs (psycoactive substances) have been a part of human society just about forever, whether incorporated into spirituality or just taken for fun. Their prohibition by states has also formed a major part of human history. Wikipedia [credits](https://en.wikipedia.org/wiki/Prohibition_of_drugs#History) the first attempt to suppress psychoactive drugs to 7th-century Sharia law, although I don't know if there are earlier instances; an exception was however made for hashish, at least in some contexts. However, I can also find discussions of [Roman law](https://recipes.hypotheses.org/7844) mildly prohibiting the distribution of certain drugs. Limitation on alcohol trade (but not outright banning) can also be found in the <cite>Code of Hammurabi</cite>. Opium, alcohol and cannabis to have been among the earliest drugs to see major trade.
+Drugs (psycoactive substances) have been a part of human society just about forever, whether incorporated into spirituality or just taken for fun. Their prohibition by states has also formed a major part of human history. Wikipedia [credits](https://en.wikipedia.org/wiki/Prohibition_of_drugs#History) the first attempt to suppress psychoactive drugs to 7th-century Sharia law, which drew an exception for hashish. However, that seems rather late; I can also find discussions of [Roman law](https://recipes.hypotheses.org/7844) mildly prohibiting the distribution of certain drugs. Limitation on alcohol trade (but not outright banning) can also be found all the way back in the <cite>Code of Hammurabi</cite>.
 
-Of course, ancient states had nothing like sufficient control of their subjects lives to ban drugs. Once they got the opportunity, however, states soon started building up massive apparatuses of terror built ostensibly around protecting people from the harmful effects of drugs---I'll brush over the details bc this isn't really the focus here! In some cases, this was instead a contest of power between states; the Opium Wars saw the Qing attempting to push the British out of the highly profitable colonial wealth extraction that was their sale of opium. The British responded by starting a war, in which they seized Hong Kong and made it a colony.
+As for which drugs? Some rarely see use today, but opium, alcohol and cannabis to have been among the earliest drugs to see major trade, and remain some of the major categories of drug that see use today...
 
-In modern Britain, the culture where I currently write this, two major drugs are considered broadly socially acceptable with only limited restriction (mostly concerning sale to children), alcohol and nicotine. But people routinely take other drugs. In an echo of the United States and its 'War on Drugs', the state attempts to terrify children out of using substances; later it enforces laws against ownership and sale of drugs somewhat selectively as a means to maintain the hierarchies of race and class.
+Of course, ancient states had nothing like sufficient control of their subjects lives to ban drugs. Once they got the opportunity, however, states soon started building up massive apparatuses of terror built ostensibly around protecting people from the harmful effects of drugs---I'll brush over the details bc this isn't really the focus here!
+
+In some cases, exercising control over drug trade was instead a contest of power between states; the Opium Wars saw the Qing attempting to push the British out of the highly profitable colonial wealth extraction that was their sale of opium. The British responded by starting a series of wars, in which they seized Hong Kong and made it a colony and forced the Qing to humilitating terms.
+
+In modern Britain, the culture where I currently write this, two major drugs are considered broadly socially acceptable with only limited restriction (mostly concerning sale to children), alcohol and nicotine. But people routinely take other drugs. In the long echo of the United States and its 'War on Drugs', the state attempts to terrify children out of using substances; later it enforces laws against ownership and sale of drugs somewhat selectively as a means to maintain the hierarchies of race and class.
 
 So we learn a curious relation to drugs: first introduced as an overwhelming threat, then gradually perhaps learning to see a more grounded view of the risks and benefits that drug-taking gives. There is a blurry line between medical and 'recreational' drug use; certainly many drugs are used illicitly to treat pain but we can also think of them as helping to manage trauma, and people can use them in safe and controlled ways or develop dependence like just about any intense experience. Unfortunately, prohibition and social atomisation makes everything about this much worse; people rarely have the support to learn to use drugs safely, and the threat of legal sanction introduces many extra ways for people to turn drug use into a source of power and control.
 
@@ -453,6 +457,8 @@ Later one is named as 'ant juice', although I'm not able to identify this as a r
 It sounds like a stimulant similar to amphetamines, though I'm not sure of any stimulants that come from the body of crushed ants. There are [news](https://www.thenationalnews.com/uae/youth-smoking-ants-to-get-high-1.228542) [reports](https://gulfnews.com/general/teens-smoke-crushed-ants-to-get-high-1.1466609) about teenagers crushing ants to get high, often migrant labourers, in the United Arab Emirates, written with stern warnings about the risks of formic acid.
 
 However, I am advised by fellow readers that it is possible to get phosphorus from ants, and this can be used in the synthesis of meth. But it might also just be 'a mixture of ant venom and formic acid'.
+
+Regardless, this is definitely a striking introduction to the view of drugs in Falcrest. The drugs are taken to compete harder and get ahead, in pursuit of the esteem of a savant and polymath...
 
 ### Drugs for use in conditioning and torture: the 'dream-hammer'
 
@@ -484,9 +490,11 @@ In <cite>Tyrant</cite>, Yawa considers using the dream-hammer on Baru, but decid
 
 In general Yawa is not overly concerned with the side effects of these treatments.
 
+In this case we see a drug that, though dangerous, has been used in our world in a relatively 'positive' spiritual context (at least prior to European colonisation, where it became romanticised to tourists instead), now turned to a tool of control.
+
 ### Just straight-up cocaine: 'mason dust'
 
-Although I titled one of these essays ['Mason dust in the wound'](/crit/baru/tyrant-4-wound), I didn't actually say very much to describe 'mason dust'. But it's basically cocaine: a white powder taken nasally which creates a sense of overwhelming confidence. Baru spends a couple of chapters on mason dust, and it changes the tone of the narration significantly.
+Although I titled one of these essays ['Mason dust in the wound'](/crit/baru/tyrant-4-wound), I didn't actually say very much to describe 'mason dust'. But it's basically cocaine: a white powder taken nasally which creates a sense of overwhelming confidence and antsiness. Baru spends a couple of chapters on mason dust, and it changes the tone of the narration significantly.
 
 Here's how mason dust is introduced:
 
@@ -494,7 +502,7 @@ Here's how mason dust is introduced:
 
 Notably Falcrest does not prohibit the drug, but actually sells it, hoarding the secret of production for the sake of profit. Shao Lune cites the use of mason dust among the Cancrioth as evidence of Falcresti superiority.
 
-Once she's taken it, Baru immediately starts getting overconfident delusions:
+Once she's taken it, Baru immediately starts getting overconfident delusions, and her thoughts rattle on in long run-on sentences and tangents:
 
 > Baru thought they must be sailing badly undercrewed, and she was confident in her assessment. Shao Lune’s marvelous mason dust had her feeling like the old days again, like bright autumn mornings in Treatymont, waking up to a draft under the door and a saber-blade of sunlight through the window, Muire Lo setting out coffee on her desk downstairs. Snorting mason dust was better than drinking coffee for the first time! Yawa must have known all along that it was a treatment for Baru’s dark moods—but Yawa wanted her weak.
 
@@ -522,6 +530,8 @@ Later, during the final battle:
 
 > They stood their ground, blood pounding, terrified and exhilarated and urine-soaked and drug-crazed each to their own degrees, stirred by the drums, by Pinjagata’s relayed words, by the longbowmen still firing over their heads even as hwacha fire closed in return.
 
+I don't think we see these getting taken by Falcresti marines---no doubt they are not conducive to control.
+
 ### So how's this depicted?
 
 These books are not shy about the negative effects of drugs. But they are also not prissy about the reasons why people may still nevertheless take them---or force them on others.
@@ -534,9 +544,9 @@ This ideology is spelled out explicitly when Tau takes a bunch of hallucinogens 
 
 > “Oh, I’ve done what Cosgrad told me to do.” They curled up on their side and smiled at the moon. “Cosgrad told me that if I ever lost all hope, I should use his ideas, and change my flesh to change my thoughts. Drugs, he said, entheogenic drugs, ergot and psilocin mushrooms”—the Womb groaned loudly at that—“they are all known to relieve the Oriati Emotional Disease, to transform the wounded personality. ‘Don’t be arrogant, Tau,’ he told me, ‘you’re wise enough to know you need help in every other part of your life, so don’t pretend you can force yourself back to sanity all alone.’
 
-The 'Oriati Emotional Disease' is the Falcresti term for depression, which is naturally racialised. (Aminata intervenes so Tau is treated, as in real drug overdoses, using activated charcoal to absorb the active drug molecules and emetics to flush the stomach.)
+The 'Oriati Emotional Disease' is a Falcresti term seemingly analogous to depression, but very overtly racialised and narrativised as being a uniquely Oriati response to social isolation. (Aminata intervenes so Tau is treated, as in real drug overdoses, using activated charcoal to absorb the active drug molecules and emetics to flush the stomach.)
 
-'Change your flesh to change your thoughts'! Isn't that just the statement of this article's whole theme?
+Anyway, there it is: 'change your flesh to change your thoughts'! Isn't that just the statement of this article's whole theme?
 
 As with all efforts towards Falcresti conditioning, it is much less effective than they imagine; a relationship to drugs characterised by arrogance, callousness and delusion. 'Ant juice' does not make its recipient smarter, though its stimulant effects and false clarity are clearly addicting. What Tau needs---and gets, thankfully!---is social support and understanding in a moment of crisis, not a last ditch desperate attempt to hammer their psyche back into shape.
 
@@ -544,17 +554,19 @@ But, for all their misguided use of drugs, the story easily avoids the standard 
 
 I have taken very few drugs in my life out of a great sense of fear at how irrationally I might behave under the influence of something (as if I was so rational without them!)---really only trying weed and alcohol in the last few months in very mild doses, under the guidance of trusted friends. I know other people who have gotten very into overusing drugs, usually in periods of abandonment and isolation; I also know far too many people for whom drugs are the only available support for getting on with life in the midst of chronic pain and severe trauma. And I know how my society draws a line around 'addicts', and blames them for their own isolation which makes heavy drug use so tempting. I have seen people---all young Black men---stopped by police around me and taken away to an unknown incarceration in the 'justice' system for the sake of a tiny quantity of weed, one of the least harmful drugs to exist.
 
-The thing that strikes me at the end of all of this is the profound sense of undetermination and possibility. We barely know what our brains are capable of, or what strange pleasures this flesh is capable of experiencing. We are a world of billions of people who are, to varying degrees traumatised, atomised, and put into survival mode between little islands of connection and fulfilment, taunted with narratives of success and power and the games of the great egregores that run through our heads. Many of those people use drugs for what society deems 'good' and 'bad' reasons; this is just part of the general evolving behaviour of organisms, not some special abberation. So it is in Baru's world, so it is here.
+So although the books treat drugs with a certain wariness, it is mostly with a view of pragmatism. We are a world of billions of people who are, to varying degrees traumatised, atomised, and put into survival mode between little islands of connection and fulfilment, taunted with narratives of success and power and the games of the great egregores that run through our heads. We barely know what our brains are capable of, what strange experiences this flesh is capable of witnessing; using drugs and not using them carries no real moral value. Many of those people use drugs for what society deems 'good' and 'bad' reasons; this is just part of the general evolving behaviour of organisms, not some special abberation. So it is in Baru's world, so it is here.
 
-## Putting fun stuff in the brain: the Cancrioth
+## Putting more fun stuff in the brain: the Cancrioth
 
 We have discussed so far mostly a variety of things happening to brains that are firmly rooted in the real world, but now let us move to the slightly stranger end. I discussed the Cancrioth before, in [article 3](/crit/baru/tyrant-3-wizards). As mentioned, they believe memories can be carried by transmissible cancers, and as such a life may persist through different bodies.
 
-On the face of it, this is a mistaken belief. We presently understand memories as being somehow encoded into the structure of neural connections in the brain, referred to as an [engram](https://en.wikipedia.org/wiki/Engram_(neuropsychology)). I thought this was better-understood than it seems to be, and this was understood as changes of the strength of the link between neurons, but this seems less evident than I thought. Still, the concept has been used in computer system designs to create 'neural networks', where a behaviour is encoded by the strength of links between 'cells'.
+On the face of it, this is a mistaken belief. We presently understand memories as being somehow encoded into the structure of neural connections in the brain, referred to as an [engram](https://en.wikipedia.org/wiki/Engram_(neuropsychology)). I thought this was better-understood than it seems to be, and this was understood as changes of the strength of the link between neurons, but this seems less evident than I thought. Still, the concept has been used in computer system designs to create 'neural networks', where a behaviour is encoded by the strength of links between nodes in a graph, essentially creating a very complicated multivariable polynomial function.
 
-The Cancrioth do not favour this explanation, if ever they had heard it. They believe memories may live in the 'immortata', immortal cell lines which are passed down a 'line' of receptive individuals. These tumours prefer various parts of the body, such as the stalks of the 'Eye', but the one we're going to look at now is of course the Brain.
+The idea that memories could be stored outside the brain is currently viewed with great skepticism, especially after iatrogenic 'body memory' was invoked in the late 20th century as a way to supposedly reveal repressed memories of satanic child abuse cults. There is some sympathy now towards the view of 'extended cognition' which may include tools like reminders we use to keep information to hand, but this tends to be treated mostly as a philosophical exercise I think.
 
-The Brain kills herself at the end of the book, but not before passing her cancer on, as part of an ambition to incite a massive war against Falcrest which will plunge the world into ruin. To receive her cancer, she has been trepanned, which Baru sees as an exquisitely dangerous procedure. (Trepanation is a fascinating topic beyond the scope of this article, but maybe I'll talk about it if I ever write about the manga <cite>Homunculus</cite>...)
+The Cancrioth, scientists as they may be, do not favour this account of memory. They believe memories may also be passed down the 'immortata', immortal cell lines which are passed down a 'line' of receptive individuals. These tumours prefer various parts of the body, such as the stalks of the 'Eye', or the Womb's womb, but the one we're going to look at now is of course the Brain.
+
+The Brain kills herself at the end of the book, but not before passing her cancer on, as part of an ambition to incite a massive war against Falcrest. To receive her cancer, she has been trepanned, which Baru sees as an exquisitely dangerous procedure. (Trepanation is a fascinating topic beyond the scope of this article, but maybe I'll talk about it if I ever write about the manga <cite>Homunculus</cite>...)
 
 Let's get to know her! The Brain has an unusual perception of time, which she attributes to being an immortal being:
 
@@ -622,7 +634,7 @@ I look forward to seeing how the new Brain will act in book 4...
 
 ## Plasticity
 
-At the end of the book, Baru has survived meningitis, incomplete lobotomy, many strong drug trips, not to mention an endless parade of traumatic experiences and her head injury in book 1. But despite everything, she's doing better than she ever did since the Masquerade came to Taranoke: surrounded by genuine friends and allies (they even celebrate her birthday), she's made a breakthrough on how she feels about sexuality, she's got her abuser in prison and she's about to embark on what she imagines will be her masterstroke, to subvert one of the worst empires her world has seen and rewrite the entire future.
+At the end of the book, Baru has survived meningitis, incomplete lobotomy, many strong drug trips, not to mention an endless parade of traumatic experiences and her head injury in book 1. But despite everything, she's doing better than she ever did since the Masquerade came to Taranoke: surrounded by genuine friends and allies (they even celebrate her birthday), she's made a breakthrough on how she feels about sexuality, she's got her abuser under her thumb in prison ready to dismantle his life, and she's about to embark on what she imagines will be her masterstroke, to subvert one of the worst empires her world has seen and rewrite the entire future.
 
 A brain injury, a lobotomy, are supposed to be completely disabling. We can recover from them in many cases, but they are supposed to ruin your life; this is a major narrative. Yet for Baru they are all vital steps in shaking her out of her terribly misguided path.
 
@@ -630,15 +642,15 @@ This is strangely consonant to me. When I attempted to do a physics degree, I pu
 
 Despite that, there is an odd sense where I see those years as part of a necessary 'break' from the socially mandated path. Perhaps objectively I am an isolated transsexual with unpredictable ability to get out of bed and no confidence I'll have enough rent beyond the next month, let alone help my friends and partners with what troubles them... but at least I'm not what I had tried to become! Through my disability I became, however painfully, a much more full human now than I ever was back then. So I tell myself, anyway.
 
-I think often about this 'break' from the machinery of replication. Is there another possibility, where I had a little more support at university, enough to stay the course? Is there a life where I didn't transition and found myself working on physics, as distant as ever? I could imagine it, and I think I would be very unhappy and never know why. But I chose a certain course and that led me to interact with the world in a certain way, which pushed me further. The old ['self-exciting instability'](/theory/self-exciting-gender-instability). Honestly, the trans part is much more important than thet woman part.
+I think often about this 'break' from the machinery of replication. Is there another possibility, where I had a little more support at university, enough to stay the course? Is there a life where I didn't transition and found myself working on physics, never knowing what it's like to actually feel anything? I could imagine it, and I think I would be very unhappy and never know why. But I chose a certain course and that led me to interact with the world in a certain way, which pushed me further. The old ['self-exciting instability'](/theory/self-exciting-gender-instability). Honestly, the trans part, and the break it represents, is much more important than the woman part to me.
 
 Many people rack themselves over anxiety over whether they are 'really' what they think they could be---especially us trans girls. We feel that we must have a license to act on our shameful desires, a decisive proof of who we 'really' are. "Well, doctor in my head, I was playing with dolls when I was six, you see. Well, TERF in my head, I was abused in this way as a child, you see. I'm Valid!"
 
-However, I think we have an incredible ability to become different things. The physical side of it is called [neuroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity). Like any neural network this adaptation depends on the continual interaction with the environment; a gradual process of adaptation. I may have chosen to pursue transition but everything that happened since I started acting on that has surely shaped my brain into a "trans woman".
+However, I think we have an incredible ability to become different things. The physical side of it is called [neuroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity). Like any biological system, such as bones or muscles, this adaptation depends on the continual interaction with the environment; a gradual process of reshaping to applied stimulus. I may have chosen to pursue transition, but everything that happened since I started acting on that has surely shaped my brain into a "trans woman".
 
 And yet, once these divergences take hold, they are as resilient as life itself. If I tried to detransition, as I have seen others attempt, I have seen how it would be intensely traumatic, and not even spare me harassment. My friend who became connected to a plural community may have chosen to start playing with the idea of whether her psychosis experiences fit the bill of plurality, but she surely defined a new mind in there that might have only been vague before, and her effort to suppress it proved incredibly destructive to her life.
 
-At this point we are really hardly talking about Baru anymore, are we? And yet we're still sitting in the themes of these books...
+At this point we are really hardly talking about Baru anymore, are we? And yet we're still sitting in the themes of these books... assimilating their stories them into structures somewhere deep inside the mysterious brain.
 
 ## An ending
 
