@@ -74,13 +74,13 @@ raytracer:
   path: /programming/graphics/raytracer
   display: raytracer
 theory:
-  path: /theory/
+  path: /theory
   display: theory
 animation:
-  path: /animation/
+  path: /animation
   display: animation
 hidden:
-  path: /hidden/
+  path: /hidden
   display: hidden
 baru:
   path: /crit/baru
@@ -88,3 +88,8 @@ baru:
 annecy:
   path: /crit/annecy
   display: Annecy
+films:
+  path: /films
+animation-night:
+  path: /films/animation-night
+  display: animation night
