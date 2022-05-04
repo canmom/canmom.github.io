@@ -44,7 +44,7 @@ Eventually Replicant Nier makes it to the castle of Gestalt Nier, and---supporte
 
 Replicant Nier confronts Gestalt Nier alongside Kainé and a failing Weiss, and is victorious. Gestalt Yonah chooses to leave the body of Replicant Yonah and die alongside Gestalt Nier. But the joy of victory will be short-lived: the shade inside Kainé, named Tyrann, starts to take over her body. To save her, Nier may choose to submit to a magic ritual which will erase him from everyone's memories (in gameplay terms, deleting the player's save file).
 
-But regardless of his choice, the death of Gestalt Nier means all the surviving gestalts are doomed to eventual relapse. Their replicants will catch the Black Scrawl and die, and the rest will gradually die out too, lacking any independent ability to reproduce (reproduction being traditionally handled by androids recreating a gestalt from a replicant), so they will die too. Before too long, all of humanity will die out except for Emil.
+But regardless of his choice, the death of Gestalt Nier means all the surviving gestalts are doomed to eventual relapse. Their replicants will catch the Black Scrawl and die, and the rest will gradually die out too, lacking any independent ability to reproduce (reproduction being traditionally handled by androids recreating a replicant from a gestalt), so they will die too. Before too long, all of humanity will die out except for Emil.
 
 </details>
 
@@ -394,7 +394,7 @@ It's an unbelievably stylish musical, and I wish we could see an official Englis
 
 The story is also related in a novelisation by Eishima Jun as <cite>YoRHa v1.05</cite>, which is printed in <cite>A Short Story</cite>; Shota Okui's translation is in <cite>Short Story Long</cite>. Additionally, in <cite>Automata</cite>, we can read Anemone's side of it in her in-game novellas: [<cite>Encounter</cite>](https://nier.fandom.com/wiki/Anemone:_Encounter), [<cite>Understanding</cite>](https://nier.fandom.com/wiki/Anemone:_Understanding), and [<cite>Separation</cite>](https://nier.fandom.com/wiki/Anemone:_Separation).
 
-### Manga 
+### Manga
 
 {% include figure.html src="/embed/nier/A2YoRHaManga.webp" alt="Large splash panel from the YoRHa manga, depicting A2 cutting through a machine." %}
 

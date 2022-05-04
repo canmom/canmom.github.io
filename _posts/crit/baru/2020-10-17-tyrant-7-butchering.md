@@ -122,10 +122,10 @@ At the end of the book, while listing the scientific basis for their various ide
 
 > The economic power of Baru’s notional trade concern is hardly exaggerated. Nor is the possibility of the near-total destruction of an imperial economy by mismanagement on the part of a powerful few: interested readers may look into John Law’s time in France and the neighboring South Sea bubble in England.
 
-Well, I am an interested reader. Let's find out more. (With apologies for people who aren't concerned with 17th-century economics.)
+Well, I am an interested reader. Let's find out more. (With apologies for people who aren't concerned with 18th-century economics.)
 
 <details markdown="1">
-<summary>But I know <em>you</em> like to read about 17th century economic bubbles...</summary>
+<summary>But I know <em>you</em> like to read about 18th century economic bubbles...</summary>
 
 ### John Law in France
 
