@@ -16,6 +16,7 @@ header.page-header {
     align-items: baseline;
     flex-wrap: wrap;
     background-color: rgba($border-colour,0.4);
+    margin-bottom: 10px;
 }
 
 h1.title {
@@ -141,10 +142,6 @@ main blockquote blockquote {
 
 main .highlighter-rouge {
     font-size: 80%;
-}
-
-main p:first-child {
-    margin-top: 20px;
 }
 
 nav.tags {
