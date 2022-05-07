@@ -1,6 +1,7 @@
-<form id="commentform" action="https://canmom-art-comments.herokuapp.com/v3/entry/github/canmom/canmom.github.io/master" autocomplete="on" method="POST">
+<form id="commentform" action="https://canmom-art-comments.herokuapp.com/v3/entry/github/canmom/canmom.github.io/master/comments" autocomplete="on" method="POST">
 
 <input name="options[slug]" type="hidden" value="{{page.id | slugify}}">
+<input name="options[redirect]" type="hidden" value="https://canmom.art">
 <fieldset>
 <legend>Add a comment</legend>
 <div><input name="fields[name]" type="text" aria-label="name" placeholder="name"></div>
