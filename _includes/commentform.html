@@ -1,0 +1,13 @@
+<form id="commentform" action="https://canmom-art-comments.herokuapp.com/v3/entry/github/canmom/canmom.github.io/master" autocomplete="on">
+
+<input name="options[slug]" type="hidden" value="{{page.id | slugify}}">
+<fieldset>
+<legend>Add a comment</legend>
+<div><input name="fields[name]" type="text" aria-label="name" placeholder="name"></div>
+<div><input name="fields[tripcode]" type="text" aria-label="tripcode" placeholder="tripcode"></div>
+<div>
+    <textarea name="fields[comment]" autocomplete="off" placeholder="what do you have to say?" cols="40" rows="10"></textarea>
+</div>
+<input type="submit" value="Submit comment">
+</fieldset>
+</form>

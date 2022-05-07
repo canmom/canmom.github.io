@@ -436,6 +436,7 @@ main details[open] > summary {
 }
 
 @import "chat";
+@import "comments";
 
 /* Umineko styles */
 .red {
@@ -475,6 +476,7 @@ ol.poem li li {
     padding-left: 0;
 }
 
+/* Information on films*/
 article.film {
     border: 1px solid $border-colour;
     margin: 0 0 20px 25px;

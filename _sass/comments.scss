@@ -1,0 +1,17 @@
+form#commentform div {
+    margin-bottom: 0.5em;
+}
+
+form#commentform label {
+    width: 0;
+    display: inline-block;
+}
+
+form#commentform fieldset {
+    border: 1px solid $border-colour;
+    padding: 1em;
+}
+
+form#commentform legend {
+    font-family: "Lato", sans-serif;
+}
