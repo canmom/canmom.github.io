@@ -9,8 +9,8 @@
     <p><b>{{comment.name}}</b> {% if comment.tripcode %}<span class="tripcode">({{comment.tripcode}})</span>{% endif %}</p>
     <time datetime="{{comment.date | date_to_xmlschema}}">{{comment.date | date: "%Y-%m-%d %H:%M"}}</time>
 </header>
-<section class="comment-text" markdown="1">
-{{comment.comment}}
+<section class="comment-text">
+{{comment.comment | markdownify }}
 </section>
 </article>
 
