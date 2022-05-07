@@ -1,14 +1,55 @@
 <form id="commentform" action="https://canmom-art-comments.herokuapp.com/v3/entry/github/canmom/canmom.github.io/master/comments" autocomplete="on" method="POST">
 
 <input name="options[slug]" type="hidden" value="{{page.id | slugify}}">
-<input name="options[redirect]" type="hidden" value="https://canmom.art">
+<input name="options[redirect]" type="hidden" value="{{page.url | absolute_url}}">
 <fieldset>
 <legend>Add a comment</legend>
-<div><input name="fields[name]" type="text" aria-label="name" placeholder="name"></div>
-<div><input name="fields[tripcode]" type="text" aria-label="tripcode" placeholder="tripcode"></div>
+<div><input name="fields[name]" type="text" aria-label="Name" placeholder="name"></div>
+<div><input name="fields[tripcode]" type="text" aria-label="Tripcode" placeholder="tripcode"> <a class="explanation" title="If provided, the MD5 hash of this value will be displayed with your comment. This makes it more difficult for another poster to impersonate you.">[?]</a></div>
 <div>
-    <textarea name="fields[comment]" autocomplete="off" placeholder="what do you have to say?" cols="40" rows="10"></textarea>
+    <textarea name="fields[comment]" autocomplete="off" placeholder="what do you have to say?" cols="45" rows="10"></textarea>
 </div>
-<input type="submit" value="Submit comment">
+<div>
+<input type="submit" value="Submit">
+</div>
 </fieldset>
+
+<div id="submitted-cover" class="hidden">
+<p>Your comment has been submitted! It is now in moderation.</p>
+<p>If approved, it will appear soon…</p>
+</div>
 </form>
+
+<script>
+let unfinishedComment = false;
+
+const form = document.getElementById("commentform");
+
+window.addEventListener("beforeunload", (event) => {
+    if (!unfinishedComment) return;
+
+    event.preventDefault();
+    event.returnValue = "";
+})
+
+form.addEventListener('change', () => {
+    unfinishedComment = true;
+})
+
+form.addEventListener('submit', (event) => {
+    const form = event.target;
+    const url = new URL(form.action || window.location.href);
+    const formData = new FormData(form);
+    const searchParameters = new URLSearchParams(formData);
+    const options = {
+        method: 'post',
+    };
+    options.body =
+        form.enctype === 'multipart/form-data' ? formData : searchParameters;
+
+    fetch(url,options);
+    unfinishedComment = false;
+    document.getElementById("submitted-cover").classList.remove("hidden");
+    event.preventDefault();
+})
+</script>

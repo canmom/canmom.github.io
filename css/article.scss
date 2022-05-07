@@ -153,7 +153,7 @@ nav.tags {
 }
 
 .tagnav {
-    margin: 10px auto;
+    margin: 0 auto 5px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr;
@@ -179,6 +179,7 @@ nav.tags {
 .tagnav .next, .tagnav .tagname, .tagnav .previous {
     grid-row: 0;
     text-align: center;
+    align-self: center;
 }
 
 .tagnav a {
@@ -587,6 +588,12 @@ dd p:first-child {
 /* ===============
     Maximal Width
    =============== */
+
+    nav.tags.floating {
+        width: 300px;
+        float: right;
+        margin: 0 -100px 0 20px;
+    }
 
     .column {
         width: 900px; /* 1000px - 10% for margins */

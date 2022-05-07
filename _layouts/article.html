@@ -2,23 +2,26 @@
 layout: page
 ---
 <main>
-  <footer>
-    <nav class="tags">
-      {% for tag in page.tags %}
-        {% include tag.html tag=tag url=page.url %}
-      {% endfor %}
-    </nav>
-    {% if page.origin %}
-    {% include origin.html url=page.origin %}
-    {% endif %}
-  </footer>
+  <nav class="tags floating">
+    {% for tag in page.tags %}
+      {% include tag.html tag=tag url=page.url %}
+    {% endfor %}
+  </nav>
+  {% if page.origin %}
+  {% include origin.html url=page.origin %}
+  {% endif %}
   {{ content }}
+  {% if page.noComments %}
+  {% else %}
+  {% include comments.md %}
+  {% include commentform.html %}
+  {% endif %}
+  <nav class="tags">
+    {% for tag in page.tags %}
+      {% include tag.html tag=tag url=page.url %}
+    {% endfor %}
+  </nav>
   <footer>
-    <nav class="tags">
-      {% for tag in page.tags %}
-        {% include tag.html tag=tag url=page.url %}
-      {% endfor %}
-    </nav>
     {% if page.suppressLicense %}
     {% else %}
     <div id="license"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><p>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a></p></div>

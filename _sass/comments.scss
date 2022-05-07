@@ -1,17 +1,62 @@
+form#commentform {
+    position: relative;
+}
+
 form#commentform div {
-    margin-bottom: 0.5em;
-}
-
-form#commentform label {
-    width: 0;
-    display: inline-block;
-}
-
-form#commentform fieldset {
-    border: 1px solid $border-colour;
-    padding: 1em;
+    margin-top: 7px;
 }
 
 form#commentform legend {
     font-family: "Lato", sans-serif;
+}
+
+form#commentform p.explanation {
+    font-size: 80%;
+    margin-bottom: 12px;
+    margin-left: 0;
+}
+
+form#commentform div#submitted-cover {
+    margin: 0;
+    position: absolute;
+    width: calc(100% - 27px);
+    height: calc(100% - 21px);
+    background-color: rgba(255,255,255,0.9);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 20px;
+    left: 26px;
+    z-index: 10;
+}
+
+form#commentform div#submitted-cover.hidden {
+    display: none;
+}
+
+form#commentform div#submitted-cover p {
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+}
+
+
+article.comment, form#commentform fieldset {
+    border: 1px solid $border-colour;
+    margin: 0 0 20px 25px;
+    padding: 10px;
+}
+
+article.comment header {
+    display: flex;
+    justify-content: space-between;
+}
+
+article.comment header p {
+    margin: 0;
+}
+
+article.comment header .tripcode {
+font-size: small;
+font-style: italic;
 }

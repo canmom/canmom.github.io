@@ -6,7 +6,7 @@
       {% if forloop.first == false %}
         {% assign prev_ind = forloop.index0 | minus: 1 %}
         {% assign prev = posts[prev_ind] %}
-        <a href="{{ prev.url | absolute_url}}">&larr; previous</a>
+        <a href="{{ prev.url | absolute_url}}">&larr; </a>
       {% endif %}
     </span>
     <span class="tagname">{{ include.tag }}</span>
@@ -14,7 +14,7 @@
       {% if forloop.last == false %}
         {% assign nxt_ind = forloop.index0 | plus: 1 %}
         {% assign nxt = posts[nxt_ind] %}
-        <a href="{{ nxt.url | absolute_url}}">next &rarr;</a>
+        <a href="{{ nxt.url | absolute_url}}"> &rarr;</a>
       {% endif %}
     </span>
     {% assign next = forloop.index0 | plus: 1 %}
