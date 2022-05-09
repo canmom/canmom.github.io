@@ -11,16 +11,16 @@ layout: page
   {% include origin.html url=page.origin %}
   {% endif %}
   {{ content }}
-  {% if page.noComments %}
-  {% else %}
-  {% include comments.md %}
-  {% include commentform.html %}
-  {% endif %}
   <nav class="tags">
     {% for tag in page.tags %}
       {% include tag.html tag=tag url=page.url %}
     {% endfor %}
   </nav>
+  {% if page.noComments %}
+  {% else %}
+  {% include comments.md %}
+  {% include commentform.html %}
+  {% endif %}
   <footer>
     {% if page.suppressLicense %}
     {% else %}
