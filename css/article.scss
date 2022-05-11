@@ -10,13 +10,24 @@
     margin: 0 5%;
 }
 
-header.page-header {
+header {
+    margin-bottom: 10px;
+}
+
+.page-header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
     flex-wrap: wrap;
     background-color: rgba($border-colour,0.4);
-    margin-bottom: 10px;
+}
+
+header time {
+    font-size: 80%;
+    display: block;
+    text-align: right;
+    float: right;
+    margin-top: 5px;
 }
 
 h1.title {
@@ -145,7 +156,7 @@ main .highlighter-rouge {
 }
 
 nav.tags {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-left: 25px;
 }
 
@@ -538,7 +549,7 @@ dd p:first-child {
 
     main {
         width: 691px;
-        margin: 0 auto;
+        margin: 25px auto 0 auto;
     }
 
     main figure.float {
@@ -589,7 +600,7 @@ dd p:first-child {
     nav.tags.floating {
         width: 300px;
         float: right;
-        margin: 0 -100px 0 20px;
+        margin: 20px -100px 0 20px;
     }
 
     .column {
