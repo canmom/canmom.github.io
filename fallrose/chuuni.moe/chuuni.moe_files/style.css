@@ -1,0 +1,55 @@
+body {
+	display: block;
+	background-color: #000000;
+	color: #ffbdde;
+	font-size: 1.5em;
+}
+
+img.banner {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+
+div.lineone {
+	display: block;
+	margin-left: 40%;
+}
+
+img.slowweb {
+	display: inline;
+}
+
+img.lina {
+	display: inline;
+}
+
+p.lefttrail {
+	display: block;
+	margin-left: 40%;
+}
+
+p.righttrail {
+	display: block;
+	margin-left: 45%;
+}
+
+div.linetwo {
+	display: block;
+	margin-left: 40%;
+}
+
+img.yaoi {
+	display: inline;
+}
+
+img.Lchan {
+	display: inline;
+}
+
+img.lolno {
+	display: block;
+	margin-left: 50%;
+	margin-right: 50%;
+}

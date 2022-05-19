@@ -1,0 +1,128 @@
+---
+---
+$background-colour: #111;
+$border-colour: #8e3c65;
+$link-colour: #ff59ac;
+$accent-colour: #ff7fdf;
+$text-colour: #ffbdde;
+$column-background-colour: #000;
+$blockquote-background-colour: #000;
+$title-colour: #ff8cc6;
+
+html {
+    font-size: 25px;
+    background-color: $background-colour;
+    color: $text-colour;
+}
+
+h1.title {
+    font-size: 40px;
+    color: $title-colour;
+    font-family: "Sawarabi Mincho", "Linux Libertine", serif;
+}
+
+main h2, main h3, main h4 {
+    font-size: 28px;
+    color: $title-colour;
+    margin-left: 0;
+}
+
+main {
+    margin: 25px 0 0 0;
+    width: 100%;
+}
+
+.column {
+    margin: 0;
+    width: 100%;
+}
+
+main a, header nav a {
+    color: $link-colour;
+}
+
+header nav a {
+    border-bottom: 4px solid $border-colour;
+    color: $text-colour;
+}
+
+header nav a:hover {
+    color: $accent-colour;
+    border-color: $accent-colour;
+    background-color: rgba($accent-colour, 0.2);
+}
+
+main a:hover {
+    color: $accent-colour;
+    background-color: $blockquote-background-colour;
+    text-shadow: 0 0 10px $accent-colour;
+}
+
+main p {
+    margin-left: 0;
+}
+
+main blockquote {
+    background-color: $blockquote-background-colour;
+    border-left: 3px solid $border-colour;
+}
+
+blockquote.centered {
+    text-align: center;
+}
+
+.page-header {
+    background-color: $blockquote-background-colour;
+}
+
+::selection {
+    background: #333;
+    color: #fff;
+}
+
+@media only screen and (min-width: 900px) {
+    main {
+        width: 900px;
+        margin: 25px auto 0 auto;
+    }
+
+    .column {
+        width: 900px;
+        margin: 0 auto;
+    }
+
+    iframe#chuunimoe {
+        width: 900px;
+    }
+}
+
+main hr {
+    width: 60%;
+    margin: 20px auto;
+    border-top: 3px solid $text-colour;
+}
+
+form#commentform fieldset {
+    margin-left: 0;
+}
+
+form#commentform textarea {
+    background-color: $blockquote-background-colour;
+}
+
+form#commentform input {
+    background-color: $blockquote-background-colour;
+}
+
+form#commentform input[type=submit] {
+    border: none;
+    background-color: $title-colour;
+    color: #000;
+    font-family: "Lato", sans-serif;
+    font-size: 25px;
+    padding: 5px 20px;
+}
+
+form#commentform input[type=submit]:hover {
+    background-color: $link-colour;
+}

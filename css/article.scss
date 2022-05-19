@@ -160,6 +160,10 @@ nav.tags {
     margin-left: 25px;
 }
 
+nav.tags:empty {
+    display:none;
+}
+
 .tagnav {
     margin: 0 auto 5px auto;
     display: grid;
