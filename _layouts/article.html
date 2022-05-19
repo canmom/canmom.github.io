@@ -2,11 +2,13 @@
 layout: page
 ---
 <main>
+  {% if page.tags.size > 0 %}
   <nav class="tags floating">
     {% for tag in page.tags %}
       {% include tag.html tag=tag url=page.url %}
     {% endfor %}
   </nav>
+  {% endif %}
   {% if page.origin %}
   {% include origin.html url=page.origin %}
   {% endif %}
