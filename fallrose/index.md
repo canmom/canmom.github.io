@@ -241,7 +241,7 @@ But here at least we can say: I am her friend. Jackie and Laevos are her girlfri
 
 Here's a cute thing Fall made...
 
-Once, Jackie was making a website, which became [stupid.tw](https://stupid.tw). She started teaching herself web design on the spot, rushing to get it finished before the release of her and charity's zine, [<cite>Runescape Teen Brothel</cite>](https://porpentine.itch.io/runescape). Jackie told Fall about this, and the result was Fall creating her own website, a tribute to the oldschool geocities style she adored. She put it online at, where else? [chuuni.moe](https://chuuni.moe/).
+In March this year, Fall started building a webserver, hoping to host things like Pidgin chat and YGoPro (a Yu-Gi-Oh engine) to share with Jackie. To start with, she went to make a website, taking inspiration from Jackie's site [stupid.tw](https://stupid.tw), and Jackie's own inspiration, the Situationist website [notbored.org](http://notbored.org). Her site was a tribute to the oldschool geocities style she adored. She put it online at, where else? [chuuni.moe](https://chuuni.moe/).
 
 One day soon I'm afraid they'll shut down the server on her desk. So here's a copy that can live forever:
 
