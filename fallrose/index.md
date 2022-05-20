@@ -6,7 +6,7 @@ custom_css: fallrose
 ---
 This page exists to commemorate my dear friend Fall Rose, also known by Rose Padgett, who passed away on <time datetime="2022-05-12">12 May, 2022</time>.
 
-She was, and is still, beloved girlfriend to [Jackie](https://stupid.tw) and [Laevos](https://laevos.com) and a close friend of [Charity](https://xrafstar.monster), as well as a light to so many people involved in translating manga and visual novels. Below, I've compiled some things we've all written about her. Think of this as a shrine to hold her memories.
+She was, and is still, beloved girlfriend to [Jackie](https://stupid.tw) and [Laevos](https://laevos.com), as well as a light to so many people involved in translating manga and visual novels. Below, I've compiled some things we've all written about her. Think of this as a shrine to hold her memories.
 
 ---
 
