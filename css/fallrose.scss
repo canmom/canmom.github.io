@@ -126,3 +126,10 @@ form#commentform input[type=submit] {
 form#commentform input[type=submit]:hover {
     background-color: $link-colour;
 }
+
+form#commentform div#submitted-cover {
+    width: calc(100% - 2px);
+    left: 1px;
+    top: 24px;
+    background-color: rgba(0,0,0,0.7);
+}
