@@ -193,6 +193,10 @@ Jackie [wrote a beautiful post about her memory of Fall](https://baeddel.tumblr.
 
 ---
 
+My friend Charity [wrote a beautiful post about her memories of Fall](https://xrafstar.monster/blog/?p=817). "The mundane stupid things that make up a friendship". I'm so grateful to read about them.
+
+---
+
 For most of her life Fall worked as a manga translator. At work, she went by the name Rose Padgett, and you can see her Anime News Network page [here](https://www.animenewsnetwork.com/encyclopedia/people.php?id=191852). She started to teach herself Japanese at school, and eventually studied it formally at university to a high level. She became aware of the possibility of working in translation sometime before 2016, through a ruthlessly exploitative middleman agency. Eventually she realised the raw deal she was getting and became a freelance translator in 2016.
 
 Translation is a sacred art in my mind, and translators should be celebrated everywhere. But in practice, translating manga is instead a terrible industry. The publishers will still give translators little pay, tight deadlines and often no credit - against which they have little recourse since much like animation, most are on short-term freelance contracts and reputation is everything. Translators must work under the shadow of intense surveillance, ordered to maintain such strict NDAs that often they are not even allowed to know who else is working alongside them. Lines of a visual novel will be presented without context in a spreadsheet, leaving the translator to make their best guesses as to how everything must fit together.
