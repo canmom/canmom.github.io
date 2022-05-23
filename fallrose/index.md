@@ -243,6 +243,16 @@ But here at least we can say: I am her friend. Jackie and Laevos are her girlfri
 
 ---
 
+My friend [Frog](https://twitter.com/yurirando/) wanted to share something she made with Fall:
+
+> one of the last conversations we had at any length was when i was doing those pixel sigils. she wanted me to do one about Sarazanmai and the general concept of interpersonal connection. i think it represented her connections to others, the ways in which we were connected to each other, and so on. hard to explain it exactly, in the way it's hard to explain weird magic stuff
+>
+> i was thinking i wanted to make another one to commemorate her, but (a) it seems impossible and (b) that one communicates everything i have left to say anyway
+
+{% include figure.html src="embed/SIGIL-8-CONNECTION-400.png" alt="A pixel art sigil in white, pink and green on a black background. Horizontal green double-bars cross the figure, separating it into thirds. There are white vertical bars at the top and bottom, and more complex pink shapes in the middle, as well as top left and right. A few smaller green bars sit in the centre." %}
+
+---
+
 Here's a cute thing Fall made...
 
 In March this year, Fall started building a webserver, hoping to host things like Pidgin chat and YGoPro (a Yu-Gi-Oh engine) to share with Jackie. To start with, she went to make a website, taking inspiration from Jackie's site [stupid.tw](https://stupid.tw), and Jackie's own inspiration, the Situationist website [notbored.org](http://notbored.org). Her site was a tribute to the oldschool geocities style she adored. She put it online at, where else? [chuuni.moe](https://chuuni.moe/).
