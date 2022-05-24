@@ -249,7 +249,7 @@ My friend [Frog](https://twitter.com/yurirando/) wanted to share something she m
 >
 > i was thinking i wanted to make another one to commemorate her, but (a) it seems impossible and (b) that one communicates everything i have left to say anyway
 
-{% include figure.html src="embed/SIGIL-8-CONNECTION-400.png" alt="A pixel art sigil in white, pink and green on a black background. Horizontal green double-bars cross the figure, separating it into thirds. There are white vertical bars at the top and bottom, and more complex pink shapes in the middle, as well as top left and right. A few smaller green bars sit in the centre." %}
+{% include figure.html src="embed/fallrose/SIGIL-8-CONNECTION-400.png" alt="A pixel art sigil in white, pink and green on a black background. Horizontal green double-bars cross the figure, separating it into thirds. There are white vertical bars at the top and bottom, and more complex pink shapes in the middle, as well as top left and right. A few smaller green bars sit in the centre." %}
 
 ---
 
