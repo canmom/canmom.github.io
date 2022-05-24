@@ -57,11 +57,34 @@ nav .articles h2 a {
 	display: inline;
 }
 
-img.fall {
+.fall {
 	float: right;
 	max-width: 20%;
 	clear: left;
 	width: 200px;
+}
+
+.crossfadecontainer {
+	display:grid;
+	isolation: isolate;
+}
+
+.crossfadecontainer > * {
+	grid-area: 1 / 1;
+	transition: opacity 0.2s ease-in-out;
+}
+
+.crossfadecontainer .blendto {
+	mix-blend-mode: plus-lighter;
+	opacity: 0;
+}
+
+.crossfadecontainer:hover .blendfrom {
+	opacity: 0;
+}
+
+.crossfadecontainer:hover .blendto {
+	opacity: 1;
 }
 
 @import "listing";
@@ -79,7 +102,7 @@ img.fall {
 		display: inline-block;
 	}
 
-	img.fall {
+	.fall {
 		clear: none;
 	}
 }

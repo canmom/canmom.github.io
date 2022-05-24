@@ -10,7 +10,10 @@
         <main>
             <img src="img/splash-photo.png" alt="Site author photo: a smiling trans woman with red hair." class="splash-photo">
             <a href="{{ '/fallrose' | absolute_url}}">
-                <img src="{{ '/img/embed/fallrose/bellnutcel.png' | absolute_url }}" class="fall" alt="In memory of Fall Rose, my friend.">
+                <div class="fall crossfadecontainer">
+                    <img src="{{ '/img/embed/fallrose/bellnutcel.png' | absolute_url }}" class="blendfrom" alt="In memory of Fall Rose, my friend.">
+                    <img src="{{ '/img/embed/fallrose/bellnutblend.png' | absolute_url }}" class="blendto" alt="">
+                </div>
             </a>
             <section id="container">
                 <header>
