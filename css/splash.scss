@@ -3,7 +3,7 @@
 
 @import "base";
 
-img {
+img.splash-photo {
 	max-width: 20%;
 	float: left;
 	shape-outside: url(/img/splash-photo.png);
@@ -57,6 +57,13 @@ nav .articles h2 a {
 	display: inline;
 }
 
+img.fall {
+	float: right;
+	max-width: 20%;
+	clear: left;
+	width: 200px;
+}
+
 @import "listing";
 
 @media only screen and (min-width: 800px) {
@@ -70,5 +77,9 @@ nav .articles h2 a {
 		break-inside: avoid;
 		margin-right: 50px;
 		display: inline-block;
+	}
+
+	img.fall {
+		clear: none;
 	}
 }
