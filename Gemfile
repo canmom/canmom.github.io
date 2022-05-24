@@ -7,3 +7,4 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-seo-tag'
 
 gem 'rouge'
+gem "webrick", "~> 1.7"
