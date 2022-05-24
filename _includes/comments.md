@@ -6,7 +6,7 @@
 
 <article class="comment">
 <header>
-    <p><b>{{comment.name}}</b> {% if comment.tripcode %}<span class="tripcode">({{comment.tripcode}})</span>{% endif %}</p>
+    <p><b>{{comment.name}}</b> {% if comment.tripcode != "" %}<span class="tripcode">({{comment.tripcode}})</span>{% endif %}</p>
     <time datetime="{{comment.date | date_to_xmlschema}}">{{comment.date | date: "%Y-%m-%d %H:%M"}}</time>
 </header>
 <section class="comment-text">
