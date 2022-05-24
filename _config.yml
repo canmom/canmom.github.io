@@ -8,7 +8,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-description: The world is a trauma engine, but at least you can be gay.
+description: a record of existence // Bryn's writing and art archive
 lang: en_GB
 logo: /android-chrome-512x512.png
 twitter:
