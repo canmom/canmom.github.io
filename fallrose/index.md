@@ -3,6 +3,7 @@ title: In memory of Fall Rose
 layout: article
 excerpt: Memorial to a dear friend.
 custom_css: fallrose
+id: fallrose
 ---
 This page exists to commemorate my dear friend Fall Rose, also known by Rose Padgett, who passed away on <time datetime="2022-05-12">12 May, 2022</time>.
 
