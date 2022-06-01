@@ -4,10 +4,10 @@
 <input name="options[redirect]" type="hidden" value="{{page.url | absolute_url}}">
 <fieldset>
 <legend>Add a comment</legend>
-<div><input name="fields[name]" type="text" aria-label="Name" placeholder="name"></div>
+<div><input name="fields[name]" type="text" aria-label="Name" placeholder="name" required></div>
 <div><input name="fields[tripcode]" type="text" aria-label="Tripcode" placeholder="tripcode"> <a class="explanation" title="If provided, the MD5 hash of this value will be displayed with your comment. This makes it more difficult for another poster to impersonate you.">[?]</a></div>
 <div>
-    <textarea name="fields[comment]" autocomplete="off" placeholder="what do you have to say?" cols="45" rows="10"></textarea>
+    <textarea name="fields[comment]" autocomplete="off" placeholder="what do you have to say?" cols="45" rows="10" required></textarea>
 </div>
 <div class="visuallyhidden">
     <textarea name="fields[h]" autocomplete="off" placeholder="Comment" cols="1" rows="1"></textarea></div>
