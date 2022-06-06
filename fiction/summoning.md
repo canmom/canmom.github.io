@@ -1,5 +1,5 @@
 ---
-title: Against All Wizards
+title: A Summoning
 layout: wormqueen
 category: fiction
 ---
