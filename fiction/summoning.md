@@ -183,7 +183,7 @@ He looked a little taken aback at that. "The affairs of wizards," he managed at 
 
 "No..." you said. "That is what my master demands. My friend, I shall find a way to free you from his clutches, even should it cost me my life."
 
-His shoulders did not lose the slightest tension. "Scarce a better outcome!" But your conversation was cut short; your master kicked his way back into the room, standing straighter, a bloody knife in his hand. He laughed at your new *friend*'s expression. "Behold!" he declared. "For I have bound a demon to push back the rot in my lungs. Do you see, boy? For the wizard who has the will to take command, death itself has no hold."
+His shoulders did not lose the slightest tension. "Scarce a better outcome!" But your conversation was cut short; your master kicked his way back into the room, standing straighter, a bloody knife in his hand. He laughed at your new *friend*'s expression. "Behold!" he declared. "For I have bound a demon to push back the rot in my lungs. Do you see, boy? For the wizard who has the will to take command, death itself has no hold. Not even plague or famine will slay me now!"
 
 "I understand, master." you said. "I have a fitting fate for this sinful man, who tempted me with impurity. There is a demon I wish to bind, and his flesh is fitting."
 
@@ -201,7 +201,7 @@ At last you could speak... and oh, it's almost time for me to enter this sordid 
 
 "No." You crouched beside him, and leaned in close for warmth. "Such mysteries are far beyond my ken. I am going to summon a demon---into my own flesh, not yours."
 
-The homunculus twitched, apparently deeming this contact innocuous. It had the eyes of a sheep. A problem.
+The homunculus twitched, apparently deeming this contact innocuous. It had the wide eyes of a sheep, capturing the whole room. A problem.
 
 His grip tightened on your arm. "Do not!" he cried. "I could not bear it!"
 
@@ -209,9 +209,9 @@ His grip tightened on your arm. "Do not!" he cried. "I could not bear it!"
 
 The homunculus intervened. A pitiful creature, with no place in God's order, but that made it kin, did it not? Yet your master had made it your enemy. You went straight for its windpipe, and drove it into the wall with your good left elbow. The homunculus smacked you down, a bony forearm smashing into your ear, hot blood trickling onto your neck. You were on the floor, it drew back its head to screech, it would waken the master and all would be lost---
 
-But then your actor was upon it, a wine bottle in hand. It smashed over the homunculus's head, and before the creature could react, there went his thumbs, straight into those sheep's eyes. They wrestled, bouncing off the furniture---the master stirred in his sleep---and you saw the skin-carved circle holding the creature in the world. With a shattered piece of glass, you pierced it, and the homunculus withered, its shattered throat forlornly wheezing a final breath.
+But then your actor was upon it, a wine bottle in hand. It smashed over the homunculus's head, and before the creature could react, there went his thumbs, straight into those sheep eyes. They wrestled fierce, staggering against the furniture---the master stirred in his sleep---and then you saw the skin-carved circle holding the creature in the world. With a shattered piece of glass, you pierced it, and the homunculus withered. A final breath wheezed from its shattered throat.
 
-With this sacrifice, the cupboard was yours. You stole a wary glance to the Master, but he had found no ensorcelment to conquer sleep, and the commotion had failed to rouse him. Would that you could go elsewhere, but here in the study, all things should be decided.
+With this endearing sacrifice, the cupboard was yours. You stole a wary glance to the Master, but he had found no ensorcelment to conquer sleep, and the commotion had failed to rouse him. Would that you could go elsewhere, but here in the study, all things should be decided.
 
 Ah, it would be natural to hope a wizard's furniture would be full of interesting things---jars of newt's eyes, perhaps, or hanged mens' ears. But in truth you found mostly paper---yet God or his Adversary must have been protecting you after all, for in the last cupboard, you found the item you hoped: a simple knife, small but wicked sharp.
 
@@ -365,9 +365,9 @@ Your mouth is open. Time is still frozen.
 
 There remains another possibility. You have learned the hateful magic of command. You could force me not to occupy *your* body, but that of your lover, just as your master commanded. Oh, how wretchedly he'd suffer and cry! But he could not resist us if he tried.
 
-Thus he and I would become your slaves. With such a powerful homunculus obeying you, you might just be able to slay your master. you could take over in your master's stead, assume his host of demons as your own, and keep this beautiful boy's body around---as a toy. Perhaps take others! Not interested? Ah, my apologies. Perhaps more to the point: you could destroy the tower, destroy yourself, all those things you wished for.
+Thus he and I would become your slaves. With such a powerful homunculus obeying you, you might just be able to slay your master. You could burn his bright, vivid life all at once in a shield to pierce the old man's heart. Yes, it would be enough. You could destroy the tower, destroy yourself, all those things you wished for.
 
-Still a hateful possibility, I'm sure. It would go against everything you believe. Why even bring it up?
+Still a hateful possibility, I'm sure. It would go against everything you believe to use him so. Why even bring it up?
 
 I said just now that your master was not always such a terrible man. There came a time when he and I stood where you now stand, a tryst discovered, calling on the deliverance of a demon to escape our punishment. Like you, he would not dare use *my* body to further *his* aims, and invited the demon into his own flesh, giving him the strength of ten men.
 
@@ -407,11 +407,11 @@ Ah, but after I tell you this, perhaps you think once again of suicide. Well, I 
 
 I am a demon of life.
 
-So if you want me to go against my nature, you'll have to force me. And the price will be him.
+So if you want me to go against my nature, you'll have to force me. The price will be him. And if you choose to live, well, you might find more in common with your master than you thought!
 
 ---
 
-So, my new friend. Your master is already starting to move again. Are you still committed?
+So, my new friend. I have been scruplously honest. Your master is already starting to move again. Are you still committed?
 
 You are? Well, go on then.
 
