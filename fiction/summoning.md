@@ -309,6 +309,8 @@ And then you're staring at me, grey as ash, but sharp as you ever were. "Very we
 
 You open your mouth...
 
+...and lest you make this decision rashly, let me tell you everything.
+
 ---
 
 This is what you will say. "Let God and his Adversary witness: I have called you, Lilith, and let us now be bound." Don't bother saying it in Latin, the King's English shall do just fine. And when you do this, I will accept your offer, and I will reach out to join your flesh. It will draw me in, warm and red and *alive* with fire and potential... oh! that's good...
@@ -363,9 +365,9 @@ Your mouth is open. Time is still frozen.
 
 There remains another possibility. You have learned the hateful magic of command. You could force me not to occupy *your* body, but that of your lover, just as your master commanded. Oh, how wretchedly he'd suffer and cry! But he could not resist us if he tried.
 
-Thus he and I would become your slaves. With such a powerful homunculus obeying you, you might just be able to slay your master. You could destroy the tower, destroy yourself, all those things you wished for. Or you could take over in your master's stead, assume his host of demons as your own, and keep this beautiful boy's body around---as a toy. Perhaps take others!
+Thus he and I would become your slaves. With such a powerful homunculus obeying you, you might just be able to slay your master. you could take over in your master's stead, assume his host of demons as your own, and keep this beautiful boy's body around---as a toy. Perhaps take others! Not interested? Ah, my apologies. Perhaps more to the point: you could destroy the tower, destroy yourself, all those things you wished for.
 
-A hateful possibility, I'm sure. It would go against everything you believe. Why even bring it up?
+Still a hateful possibility, I'm sure. It would go against everything you believe. Why even bring it up?
 
 I said just now that your master was not always such a terrible man. There came a time when he and I stood where you now stand, a tryst discovered, calling on the deliverance of a demon to escape our punishment. Like you, he would not dare use *my* body to further *his* aims, and invited the demon into his own flesh, giving him the strength of ten men.
 
@@ -405,8 +407,12 @@ Ah, but after I tell you this, perhaps you think once again of suicide. Well, I 
 
 I am a demon of life.
 
+So if you want me to go against my nature, you'll have to force me. And the price will be him.
+
 ---
 
-So, my new friend. Your master is already starting to move again.
+So, my new friend. Your master is already starting to move again. Are you still committed?
 
-Make your choice!
+You are? Well, go on then.
+
+You know the words.
