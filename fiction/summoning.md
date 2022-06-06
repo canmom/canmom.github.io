@@ -291,7 +291,7 @@ Because once, I was where you were. God *likes* playing this game.
 
 The actor reaches out, and places his hand on mine. "I do not pretend to understand magic, but give him---" (sigh) "---time. If he---" (sigh) "---has a woman's soul, he, or she, is among friends. But too much pressure---"
 
-Oh, to be lectured on such matters by a baby thespian! "Yes. Thank you." I turn back to you. "Please, let us start on a different foot. Alas, I am no God, to strike down this tower. If we are to destroy your master, we do so as one being."
+Oh, to be lectured on such matters by a baby thespian! "Yes. Thank you." I turn back to you. "Please, let us start on a different foot. Alas, I am no God, to strike down this tower. If we are to accomplish anything, it must be as one being."
 
 You cast your eyes down at the no-doubt throbbing wound, blood soaking the insides of your legs and dribbling from your thighs onto the floor. You've lost a lot. You must be hardly thinking. "Oh! So you ask to return..." You look crestfallen. "I would have a penis again. Even here, even here I fail..."
 
@@ -299,7 +299,7 @@ You cast your eyes down at the no-doubt throbbing wound, blood soaking the insid
 
 Your eyes widen a little.
 
-"Yeah, I got one. I'm a woman. So are you. If you want to be, and it rather seems that you do... simply declare it. The simplest magic, no incantations or candles. Say what you are and it shall be so."
+"Yeah, I got one. I'm a woman. So are you, if you want to be, and it rather seems that you do. Simply declare it. The simplest magic, no incantations or candles. Say what you are and it shall be so."
 
 You nod, slowly. Something has connected, I can see it. A glimpse of your master's curses... not all magic is physical, not all magic is pretty little demons like me.
 
