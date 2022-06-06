@@ -409,4 +409,4 @@ I am a demon of life.
 
 So, my new friend. Your master is already starting to move again.
 
-What's it going to be?
+Make your choice!
