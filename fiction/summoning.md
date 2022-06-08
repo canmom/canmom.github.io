@@ -13,11 +13,21 @@ He spoke seldom during the procedure, but after the last of the demons was safel
 
 You never found out what became of the demons. That night you cried softly in your cold cell, and then a strange urge took you and you masturbated onto the sheets, and for want of a way to hide the seed---so precious and potent in magic---that the Master might not take this as well, you swallowed it. This became a nightly ritual.
 
-Five months into your apprenticeship, your master found you wearing a dress you had stolen, your face carefully made up using ritual inks. You weren't even doing anything, just sitting in it, tense and shaking, but convinced you were alone with your terrible secret. What you are doing is the darkest blasphemy of the order, the act that could destroy all hope of you ever becoming a wizard.
+That was the second-worst day of your apprenticeship, but there were many more that were simply bad. The Master's rituals were exacting. Err in the placement of a rune, and he would strike you, sharply, with a wooden rod. One strike, but enough to send you sprawling, wheezing and weeping. The old man was impossibly strong.
 
-So naturally he just walked in.
+Then, of course, were the offerings. Demons take root in flesh, and for the lesser demons such as you were permitted to see, common farm animals would suffice. Cats were common---the Master had made it known that, should a litter face the drowning-sack, he would pay well to see them to his workshop instead. No doubt there were families whose livelihood came from supplying the Master his cats. At first you would lie awake, recalling their plaintive voices as the demons took root under fur, but eventually you became numb to such things. So, too, the squeal of dying pigs, the fearful gasps of lambs.
 
-He said nothing the entire time. He took the dress, of course. And he went to the knife rack, and came back with a large cleaver, polished---like all tools in the house---by a homunculus which tottered after him, leering up at the knife, tiny hands holding a sponge almost the same size as its head. He placed a chopping board, and grabbed you by the back of the head, and you felt your body go completely limp as he stretched out your arm and slammed the cleaver down, severing it in one stroke. Blood sprayed across the room, but then you felt a heavy pressure as he leaned his full weight on it, staunching the bleeding for now.
+One time the Master even bade you implant demons in a horse. The beast was untamable, they said, and when you approached it kicked you hard enough to shatter a leg. The Master tutted, and uncorked a lesser demon to repair you, and another to stupefy the horse; you held it steady as the Master worked his way around, carving the words of power into its flanks. So tamed by magic, it whickered and nuzzled you, utterly ignorant of its impending death.
+
+The demon the Master called granted it legs by the dozen, and split its head down the middle, and worst of all it spoke clearly, whispering praises from the ruined face of the horse. Each night for weeks after you lay soaked in sweat, and would come to the day's rigours grey-faced and stupid, flinching at the slightest movement.
+
+So it went for three years of your life. But none of those were the worst day.
+
+A year and five months into your apprenticeship, your master found you wearing a dress you had stolen, your face carefully made up using ritual inks. You weren't even doing anything, just sitting in it, tense and shaking, but convinced you were alone with your terrible secret. What you are doing is the darkest blasphemy of the order, the act that could destroy all hope of you ever becoming a wizard.
+
+So of course, he just walked in. Inevitable. Would God have it otherwise?
+
+He said nothing the entire time. He took the dress, of course. And he went to the knife rack, and came back with a large cleaver, polished---like all tools in the house---by a homunculus which tottered after him, leering up at the knife, tiny hands holding a sponge almost the same size as its head. He placed a chopping board, and grabbed you by the back of the head, and you felt your body go completely limp as he stretched out your arm and slammed the cleaver down, severing it in one stroke. Blood sprayed across the room, but then you felt a heavy pressure as he leaned his full weight on it, staunching the bleeding for a time.
 
 Still not speaking, he jammed a finger into the bleeding stump of your arm, and drew a small magic circle. Another stroke of the cleaver removed a finger from your already-dead arm; he dropped this into the circle, and held his hand over it, and it rippled and grew into a small sac. With the subtlest of motions, your Master peeled it open and revealed the tiny, curled body inside. This he raised to his lips, and whispered commands you could not hear; and then he touched it to your open vein, and pushed the arm back where it had been, and miraculously the blood vessels and tendons were knitting together... encasing forever the demon born from your finger.
 
@@ -27,23 +37,13 @@ Your Master took your wrist, and carefully raised your arm, nodded once at his h
 
 That night, when it came to do your 'ritual', your arm would not cooperate. You could imagine the demon inside, forbidding sinful acts. All your rebellions would now have to come from your left hand only.
 
-These were the worst days, but there were many more that were simply bad. The Master's rituals were exacting. Err in the placement of a rune, and he would strike you, sharply, with a wooden rod. One strike, but enough to send you sprawling, wheezing and weeping. The old man was impossibly strong.
-
-Then, of course, were the offerings. Demons take root in flesh, and for the lesser demons such as you were permitted to see, common farm animals would suffice. Cats were common---the Master had made it known that, should a litter face the drowning-sack, he would pay well to see them to his workshop instead. No doubt there were families whose livelihood came from supplying the Master his cats. At first you would lie awake, recalling their plaintive voices as the demons took root under fur, but eventually you became numb to such things. So, too, the squeal of dying pigs, the fearful gasps of lambs.
-
-One time the Master even bade you implant demons in a horse. The beast was untamable, they said, and when you approached it kicked you hard enough to shatter a leg. The Master tutted, and uncorked a lesser demon to repair you, and another to stupefy the horse; you held it steady as the Master worked his way around, carving the words of power into its flanks. So tamed by magic, it whickered and nuzzled you, utterly ignorant of its impending death.
-
-The demon the Master called granted it legs by the dozen, and split its head down the middle, and worst of all it spoke clearly, whispering praises from the ruined face of the horse. Each night for weeks after you lay soaked in sweat, and would come to the day's rigours grey-faced and stupid, flinching at the slightest movement.
-
-So it went for three years of your life.
-
 Not all of the Master's sacrifices, of course, were mere animals. The most potent demons could only be summoned in a human host, and occasionally you would oversee a scrawny, hungry-faced mother or father appear at the threshold of the tower, a sobbing infant tugging at the hem of their cloak. The Master would seize the infant by the wrist, and draw out a jingling sack of coin that seemed to him just a trifle; the parent would hurry back into the darkness, not looking back at their shame.
 
 On many of those nights, storms lashed the tower, as if God wanted to punish the Master for his blackguardery.
 
 You did not see what became of the children; such rituals were too dangerous to be entrusted to a mere 'prentice. But now and then you would see a face on one of the homunculi that seemed a little familiar.
 
-Of the Master's ultimate design... well, that remained unfathomable. As the years wore on, you saw him less and less, and he would be quicker to strike you or upbraid you. You had always flinched at his coming, but now the dread filled your lungs like a second demon, snatching away your breath. Yet some days, he would emerge from the workshop with a softer mood... he would look upon you with a sad smile, and lavish praise on your progress in the Arts.
+Yet despite all these sins, your Master's ultimate design remained unfathomable. As the years wore on, you saw him less and less, and he would be quicker to strike you or upbraid you. You had always flinched at his coming, but now the dread filled your lungs like a second demon, snatching away your breath. Yet some days, he would emerge from the workshop with a softer mood... he would look upon you with a sad smile, and lavish praise on your progress in the Arts.
 
 No divination could pierce his moods. You would sometimes lie wondering if your true parents would treat you thus, and find that you could scarce remember their faces.
 
@@ -103,17 +103,17 @@ A terrible spirit took you then---one which would set your fate. "Are you propos
 
 He grinned, and took your honest left hand, and led you away from the impromptu fair to a copse of woodland too scraggly even for the bodgers to take. Not that you paid much attention to the route. Why, you giggled like a loon, admiring his naked back---and even when he turned and caught your gaze, you blushed but you refused to look away. This also seemed to be appreciated.
 
-In the Master's tower, there were few opportunities to learn very much about sex. You knew that it was a source of terrible power, the height of magic and its depths. You know it could be squandered, that many a promising apprentice had frittered away his talents on sinful debauchery. For a man to lie with the wife he owned, and only her, was not just God's command, but a wise strategy for conserving one's power in a closed and sacred loop.
+In the Master's tower, there were few opportunities to learn very much about sex. You knew that it was a source of terrible power, the height of magic and its depths. You know it could be squandered, that many a promising apprentice had frittered away his talents on sinful debauchery, and for such reason, women were forbidden from the tower. For a man to lie with the wife he owned, and only her, was not just God's command, but a wise strategy for conserving one's power in a closed and sacred loop.
 
 But what it actually involved? Well, this you could only guess!
 
-The actor seemed to find a sufficiently secluded spot: a building that must once have been a barn, its walls caved in by rot and wind, sheltering the two of you from prying eyes on the road.
+The actor seemed to find a sufficiently secluded spot: a building that might once have been a barn, its walls caved in by rot and wind. A pile of stones more than a dwelling, but yet enough to shelter the two of you from prying eyes on the road.
 
-"Well," said he, "I am not so familiar with what wizards like to do together." He hesitated, and you belatedly realised he was trying as hard as you. "Not that I would be so unwise as to presume you all alike!"
+"Well," said he, "I am not so familiar with what wizards like to do together." He hesitated, and you belatedly realised he was trying as hard as you. "Not that I would be so unwise as to presume you all alike!" Out of the sun, you could get a sense of how he looked beyond 'gleaming'; a soft face, large deep eyes, but perhaps that was the makeup drawing you in. And now you could enjoy his scent, as well: a hint of sweat from the performance, yet a pleasant smell, one that felt warm.
 
-"In sooth? I'm not sure I know myself." you said. "My master has not been forthcoming on such matters. Which is honestly a relief!" You swallowed, a sudden knot in your throat. "What about actors?"
+"In sooth? I'm not sure I know myself." you said, taking a little too long to reply. "My master has not been forthcoming on such matters. Which is honestly a relief!" You swallowed, a sudden knot in your throat. "What about actors?"
 
-He blushed. "Were I had a length of gut," he said, "I could fashion a vessel for the penis, and slide it into a man's arse. Don't laugh! It feels very good!" He shook his head. "But as it is... sometimes we take to using just our thighs, squeezed together."
+He blushed. "Were I had a length of gut," he said, "I could fashion a vessel for the penis, and slide it into a man's arse. Don't laugh! It feels very good!" A shake of his head; his hair, tied back in a woman's style, just a moment delayed. "But as it is... sometimes we take to using just our thighs, squeezed together."
 
 Like, as in to... you were finding it hard to think. "Use them how?"
 
@@ -121,13 +121,15 @@ The actor blinked, slowly. "Then, you have not... even with a woman?"
 
 You shook your head. "I have touched only myself, until this day. Oft as not, I go weeks without seeing a soul---save for my master, and his homunculi, who are scant company."
 
-He hesitated then, and you wished he wouldn't, so you took his other hand in yours, and looked him in the eye. "Fear not," you said, "I know my own desires."
+He hesitated then, and you wished he wouldn't, so you took his other hand in yours; not so soft as yours. His fingers, very long, felt very comfortable. And you looked back into those wide eyes, and said: "Fear not, I know my own desires."
 
-"Well!" he said, and stepped up to meet you. You shuffled back a little, let your weight fall on the wall, as he reached up to unfasten your travelling cloak. And then! Then, those long beautiful hands were wriggling under your shirt, fingers brushing over your hips and up along your ribs.
+"Well!" he said, and stepped up to meet you. You shuffled back a little, let your weight fall on the rough-cut wall, as he reached up to unfasten your cloak. And then! Then, those long beautiful hands were wriggling under your shirt, fingers brushing over your hips, up along your ribs. So different from your own hands: unpredictable, the rough texture absorbing all concentration.
+
+You felt a shiver, and leaned in close.
 
 "Good God!" he said, not stopping. "Does your master feed you nothing but sawdust? Even 'midst the famine, I've scarce seen a worse-fed man!"
 
-You didn't have the heart to tell him that your master never lacked for feasts, but you could find appetite to eat only rarely. So you kissed him again, since that seemed to be acceptable, and hesitantly reached your hands around his lower back and shoulder, clasping him up to you to soak in that warmth. You thought he would be cold to touch, in the freezing air, but he felt like a furnace.
+You didn't have the heart to tell him that your master never lacked for feasts, but you could find appetite to eat only rarely. So you kissed him again, since that seemed to be acceptable, and hesitantly reached your loyal left hand around his lower back and up to his shoulder, clasping him up to you to soak in that warmth. You thought he would be cold to touch, in this winter, but he felt like a furnace. The curve of his hips felt especially lovely, and you let your hand rest there, fingers curling round to the sacrum. Wished you did not know the nature of the demons that could be summoned into each part of his body.
 
 With some care, he wriggled his arms up to lift your cloak over your shoulders, though your weight still pinned it to the wall, saving you from the hard press of the stones. "All right, my lovely little sorceror..." he said, quietly but full of affection. "If this is to be a lesson, would you prefer to first learn the fore, or the aft..."
 
@@ -139,23 +141,27 @@ With some care, he wriggled his arms up to lift your cloak over your shoulders, 
 
 With your left hand---your right was strangely still, but you could scarce trust it in deeds such as this---with your left hand, you unlaced his braies, and you could feel his penis shivering underneath. Tentatively, you ran your fingers along it... and he let out a breath, wreathing you briefly in fog.
 
-And then, it was your turn. You had worn braies with a codpiece, and this you raised, tugging it open to allow a small gap.
+You pushed your fingers against the sides, testing the firmness, the way it would bounce. You started to move the skin up and down a little, like you would with your own, and he giggled, but laid a hand on your chest.
+
+So it was your turn. You had worn braies with a codpiece, and this you raised, tugging it open to allow a small gap.
 
 "Now," he said, "shall we perhaps---" but you were already guiding his penis into the opening you'd made, pressing your knees together to squeeze tight. Oh, and of course, trying not to shiver too much. It struck you as a terribly queer sensation, having this warm part of another body intervening like this, snugly pushing up against the perineum.
 
 Such a vivid memory! I suppose it is rather recent.
 
-He started to push backwards and forwards, his breath so warm on your shoulder and God!, it was so different to when you were alone. You set your idle hands to work on his shoulders, helping him find a rhythm you both liked...
+He started to push backwards and forwards, his unsteady breath so hot on your shoulder and God!, it was so different to when you were alone. You set your idle hands to work on his shoulders, helping him find a rhythm you both liked... you could a smile playing across his face, almost a disbelief that could be happening, as if to echo your own feelings.
 
-...and, ah. That's when it happened.
+...and, ah. That's when *that* happened.
 
 Your first sign that something was wrong came as your right arm made a sudden fist, and struck him across the jaw. You seized it and twisted yourself against the wall, and how funny that he should come at that moment, spraying the sacred fluid all over your tunic in a way you'd never be able to explain. You saw hurt in his eyes in that brief moment---but oh, you had larger problems!
 
-You held the arm down with all the force your puny body could muster, but your skin was boiling, demons manifesting in it as if from nowhere. You spared a brief glance to the stain on your tunic, half-expecting it to be boiling away, but no, it remained as it was... this power came from elsewhere, your master? Oh, as if there could be doubt!
+You held the arm down with all the force your puny body could muster, but your skin was boiling, demons manifesting in it as if from nowhere. You spared a brief glance to the stain on your tunic, half-expecting it to turn to smoke as its magic was exhausted, but no, it remained as it was... which meant this power came from someone else. The master.
 
-The boils burst. The demons inside flared into brilliant life. For a moment, you were no longer hiding in a dilapidated barn in an empty forest, but back at the fair, surrounded by lanterns, bright clothes, and sizzling meat. Then, it was over---the lights in your arm rising up into the sky, pointing directly to you. Your right arm had reduced almost to the bone, all the flesh eaten by these demons... you fell to the ground, screaming and writhing, and saw little more.
+The boils burst. The demons inside flared into brilliant life. For a moment, you were no longer hiding in a dilapidated barn in an empty forest, but back at the fair, surrounded by lanterns, bright clothes, and sizzling meat. Then, it was over---the lights born from your arm rising up into the sky, pointing directly to you. Your right arm had reduced almost to the bone, all the flesh eaten by these demons... you fell to the ground, screaming and writhing, and saw little more.
 
-But soon enough, you awoke---where else?---in your master's chamber. He sat in his great chair, with its clawed feet and stained surface, legs sprawling, leaning forward to put the weight on his knees. His gaze bore into you: a basilisk stare, unblinking.
+---
+
+And soon enough, you awoke---where else?---in your master's chamber. He sat in his great chair, with its clawed feet and stained surface, legs sprawling, leaning forward to put the weight on his knees. His gaze bore into you: a basilisk stare, unblinking.
 
 With a sick lurch, you saw that your actor was there also, sat beside you on the stone floor. A large bruise swelled on his cheek, breaking the elegant lines of his face. You hoped it wasn't your arm. He met your gaze, eyes wide with terror.
 
@@ -181,13 +187,13 @@ You spent the first of those minutes babbling apologies. Eventually the actor si
 
 He looked a little taken aback at that. "The affairs of wizards," he managed at last, "are as dangerous as they say. That is what magic demands?"
 
-"No..." you said. "That is what my master demands. My friend, I shall find a way to free you from his clutches, even should it cost me my life."
+"No..." you said. "That is what my master demands." He looked so pitiful there, and you felt so sick, that by your hand this lovely boy could have been drawn into this place of monsters. "My friend," you whispered. "Hold on, my friend. I shall find a way to free, e'en should it cost me my life."
 
 His shoulders did not lose the slightest tension. "Scarce a better outcome!" But your conversation was cut short; your master kicked his way back into the room, standing straighter, a bloody knife in his hand. He laughed at your new *friend*'s expression. "Behold!" he declared. "For I have bound a demon to push back the rot in my lungs. Do you see, boy? For the wizard who has the will to take command, death itself has no hold. Not even plague or famine will slay me now!"
 
 "I understand, master." you said. "I have a fitting fate for this sinful man, who tempted me with impurity. There is a demon I wish to bind, and his flesh is fitting."
 
-It is one thing to keep secrets, but quite another to lie---yet despite your wavering voice, your master frowned, and nodded a little. "One way or another," he said, "that will be proof of your nature."
+It is one thing to keep secrets, but quite another to lie---yet despite your wavering voice, your master frowned, and nodded a little. "One way or another," he said, "that will be proof of your nature. You know the way. Show me!"
 
 "So it shall be." You let him watch as you set about drawing a suitable circle, writing prayers in the Roman script to insist on the right to God's protection, threefold and precise. Your master's stern gaze burned a hole in your back. You fetched books, insisting that everything must be done properly---had he not told you of the risks? By the time all was done, red evening light was filtering through the window, and your master had tired at last.
 
@@ -197,7 +203,7 @@ At last you could speak... and oh, it's almost time for me to enter this sordid 
 
 "I am going to perform magic." you said.
 
-"Are you going to call angels down, to whisk us away on beams of light?" He smiled wide and pure, and you wished you had another thing to compare him than the distant, forbidden angels. "Enchant our boots, to take seven leagues in a single stride? Transform us into otters, so we may steal away on the river?"
+"Are you going to call angels down, to whisk us away on beams of light?" He smiled wide and pure, and you wished you had another thing to compare him than those distant, forbidden angels. "Enchant our boots, to take seven leagues in a single stride? Transform us into otters, so we may steal away on the river?"
 
 "No." You crouched beside him, and leaned in close for warmth. "Such mysteries are far beyond my ken. I am going to summon a demon---into my own flesh, not yours."
 
@@ -229,7 +235,7 @@ Some credit is certainly due, here. Most girls who do this scream a lot more. Yo
 
 Your lovely actor looked like he was going to be sick. You wanted to hug him, assure him this was all according to your design... but the next step had to be done quickly or you'd pass out. You pressed your tunic up against the wound, hard as anything, but all the same it soaked rapidly with blood. After a second, the actor stepped up behind you and firm hands pressed it harder still, and his warmth was there to surround you, whispering sweet reassurances, so very softly.
 
-You tossed your penis into the magic circle, scuffed the delicate protection wards with your foot (a kindly favour, thank you), and still in the arms of your love, whispered your entreaty, over and over.
+You tossed your penis into the magic circle, scuffed the delicate protection wards with your foot (a kindly favour, thank you), and still in the arms of your lover, whispered your entreaty, over and over.
 
 Your penis inflated like a tied-off intestine filled with air, and became translucent. You peered at it, almost faltering in the magic. There was a shape somewhere within it, a slightly darker mass... and then the bubble burst, and there in the centre of the magic circle sat... a girl, no doubt, covered in your blood, and somehow, incongruously, bearing your face.
 
@@ -249,17 +255,17 @@ You nod, peering down at me, a shirtless skinny girl tottering due to blood loss
 
 You might take this as a flagrant attempt to fish for a name, for naming things is power. Actually, since you used your own flesh, I don't need it: your name, and all your secrets, are known to me. And the wizards would rather impose names than receive them. No, I'm just being courteous!
 
-So you introduce yourself, and the young actor, tongue-tied as he is. "I played you once..." he says, eyes wide, staring at me as if he can hardly believe I am real. He is trying so hard to put on a brave face, which is sweet. Poor boy---scarce could he have known where you would tempt him!
+So you introduce yourself, and the young actor, tongue-tied as he is. "The terrible Lilith... I played as you once..." he says, eyes wide, staring at me as if he can hardly believe I am real. He is trying so hard to put on a brave face, which is sweet. Poor boy---scarce could he have known where you would tempt him!
 
 "Well-met then, my friends..." I say, in a salacious little whisper. Laying it on a little thick, perhaps, but everyone expects a little melodrama when they summon a demon. "You have sent a princely offering indeed. No wonder your master has been so keen to preserve you!" A wind from the other world spills out from my broken circle, swirling the scattered papers into the air and scattering the candles.
 
 In this moment, all this declaiming and shouting is finally enough to rouse the gentleman himself. He blinks his crusted eyes, and comprehension dawns.
 
-"Blackguard! Coistrel!" screams your master, fear tinging his voice. "Madman! What have you done!?"
+"And here is my master," you spit, rounding on him. "A wicked man!"
 
-"And here is my master," you spit, rounding on the man. "A wicked man!"
+"Blackguard! Coistrel!" the wizard screams, fear tinging his voice. "Madman! What have you done!?"
 
-"Indeed, 'tis plainly so." I am looking about with curiosity. How ingenious, these experiments of his.
+"Indeed, 'tis plainly so." I am looking about with curiosity. How ingenious, these experiments of his. How strangely familiar.
 
 Your master is standing now, leaning heavily on his staff, fury contorting his face. "Where are my servants!" he cries. "Where are they! To me, to me, the enemy has come!"
 
@@ -309,7 +315,93 @@ And then you're staring at me, grey as ash, but sharp as you ever were. "Very we
 
 You open your mouth...
 
-...and lest you make this decision rashly, let me tell you everything.
+...and my spell ends. Time comes flooding back, the papers whirling once more like leaves.
+
+Your master staggers, as if struck. He stares at me.
+
+"Lilith!" he cries. "It is you, is it not?"
+
+And at last, I recognise him. Your master.
+
+My dear pagan husband.
+
+---
+
+Your master is a terrible man, of this we both have no doubt. But I cannot bring myself to hate him. For he is, in his way, the reason I am a demon.
+
+My friend, I've recounted your story. Perhaps allow me to tell you mine.
+
+A great many years ago, he and I were soldiers on a trail far from home. Of what nation, what lord did we serve? It hardly matters. Our enemies were every bit the same. We did our best to avoid fighting, not for kindness but simply self-preservation.
+
+In that time, men like your master did not hide themselves in towers, but served King and Country like the rest. After each battle, we were among those would search for survivors in the offal, and escort prisoners to the tents where the magician waited.
+
+Perhaps you do not find it so hard to imagine how I could find a love in my heart for my one companion in such sordid affairs. Who else could ever understand us? At first, he would not lie with a man, but I told him a secret truth: I had a woman's soul, and started dressing myself as one of the women of the tross. It pleased him greatly. He was like a man possessed, and each night he would bare his ass--- oh, it pains you to imagine him so, of course! Forgive me. I am a demon, after all.
+
+Such deeds as ours were forbidden in the eyes of God, but we were already defiled, so what did it matter? No priest would so much as look at us. We wore the stolen clothes of corpses, spent our sorcerer's coin on what leftovers the army would spare, and laughed long into the night. Who could have what we had? Who could even imagine?
+
+I took the name Lilith, after the one you know. My husband became that other villain, Cain. Quite the pair we were.
+
+But there came a day when my husband made a friend among the soldiers. A kindly sort who looked past the stink of death that followed us everywhere. "Come now," said he, "You're a man of this company too, are you not? Come sit by the fire."
+
+I was afraid of course. He was leaving our world in the darkness. Now my husband went more often to sit with the men, sharing in their drinks and eating the meat they were given. He started walking differently, too. Surely, I could have joined him? Certainly he invited me, but each time I made my excuses. And I sat there in our shabby tent, wearing my ill-fitting dress, hoping this night he would come home early.
+
+And after a few months, I realised the look in his eyes had changed. When he looked at me, it was with pity.
+
+I could not stand it. I screamed at him, and fled the tent, and burned that stolen dress. "Let him leave, let him have his soldiers, and let me stay here, in the dark."
+
+And had it ended there, perhaps all would have been well. But neither of us could stay away. That connection we shared would not evaporate so easily. So even as he lived among the soldiers, and learned to speak like them, and even marry a real woman of the tross... we would meet at night, amidst the midden, to make merry and fuck.
+
+And of course, there came a day when our tryst was discovered. At first, they laughed, and called my husband an adulterer in a tone near congratulation---"one not enough for you, eh?"---but then the details of the scene became evident.
+
+Was it that I was a man in their eyes? Or was it that my husband received my seed, and not the other way round? Either way, it was not to be borne by these men. A curse would lie on the company, they whispered. Fear and suspicion in each man's eyes.
+
+I held his hand and asked him to flee with me. And he...
+
+...he turned away from my gaze. And he led me over to the men, who beat me with their spears and left me to die.
+
+I refused!
+
+[THIS BIT STILL NEEDS EDITING....]
+
+He came back to find me eventually. Nursed me to health with strips of meat and black bread. Neither of us spoke in that time. It seemed his betrayal had brought him little, for now the soldiers jeered him, and he joined me once more on the fringes, carrying the prisoners and dying to the most hideous death imaginable.
+
+The war dragged on, and before long our army was routed. The generals were put to the sword, and the survivors turned their coats or became mere brigands.
+
+We were beneath notice. But our service did not go unrewarded. The wizard took a liking, and bid us follow him on the road. He reinvented himself, as a medicine-man, and we became his bodyguards.
+
+So we learned a little of magic. Not so wise in its ways as you, I suspect. Gradually the wounds of the past faded. I was his creature to protect, and he swore he would not err the same way twice. He started to play the gallant knight, and who could gainsay him?
+
+We took a home in some nameless village, buying our acceptance by treating wounds. A strange group, to be sure, but all that could be overlooked if they can rid someone of pox or guarantee the life of a child.
+
+There came a drought, and years of famine.
+
+The grain market emptied, and the farmers kept their measly harvests hidden away, or spent it to pay mercenaries to guard their holdings. The forests swiftly emptied of game. No alms would ever come from far-off lords, coffers drained by the war.
+
+Some of those peasants turned to brigandry, or fled in pursuit of rumours of food, but soon came word of these villages collapsing under a wave of hungry mouths, and the lords closing the roads to contain us. There was nowhere to go, and nothing to be done. Suspicion spread alongside the plagues. The wizard disappeared one night, who knows where? Now we were just useless mouths, and we found ourselves driven from a home once again.
+
+Gradually the roadsides filled with the dead and dying. With hunger comes a simple despair. There was nothing to do but wait in the sun to die.
+
+Then one day, I made a request, and he prepared me a bowl of hot stew, tough but slightly resembling pork in flavour. I couldn't hold it down, at first. But eventually my stomach accepted it. I was a little less feverish. I could kiss him goodnight.
+
+It was not enough, and that night, the plague killed me.
+
+I knew full well where the meat came from. Indeed, I often caught him looking at the others on that roadside, mouth slightly open, and heard him whisper. "I could save her. But I don't have the strength." I gave him that strength---I gave him permission. All of this---the tower, your tortures---it flows from there. From me.
+
+I died with the meat of a human being fresh on my tongue, by my own request, so I became a demon of temptation, and have served many masters since, as my power grew. (It helps that I share a name with someone famous.) Did you doubt this, since I seem so kind? This is the way to secure life after death. This is the cost.
+
+And I kept an eye on him.
+
+With my death he was torn in two by grief. "I was too afraid" he would say to himself. "I failed as a man, and God punished me. Never again." He killed more and more---they called him the Ogre. After a time, soldiers came and chased him to the mountains. And there he aged, and his strength waned, so he started trying to bind demons into the bodies of others. Each time they opened their eyes, he would say my name.
+
+I could have gone back to him then. And yet I did not.
+
+At first he said my name with hope, and then it became perfunctory. Then he started saying it with disgust. "'Lilith!'" he would say. "He was just a boy who defiled himself. An object I used for pleasure. I don't need him! I alone rule my fate."
+
+Thus he became a wizard. The very same man as my darling knight. Was this in him all along?
+
+What awaits us on that road, when we leave this tower? Perhaps it is delicious food and warm companionship and intimate sex under the moonlight in strange beautiful lands. But perhaps one day I'll have you eating someone at the side of the road. Your life sustains me, just as mine sustains you.
+
+But you aren't going to hesitate.
 
 ---
 
@@ -358,56 +450,6 @@ Your spit will strike the side of your master's nose and spray straight into his
 With my power, he will never find you. Perhaps you will join the circus after all---you certainly have some tricks to show after all this, one-armed conjurer. Perhaps you will change the shape of your body, perhaps you will take a new name. And perhaps you and your lover will live together for many years and see many strange lands, or perhaps you will quarrel and part ways one day. I can see only so far.
 
 This is the future I offer. Humble, perhaps. But you will live.
-
----
-
-Your mouth is open. Time is still frozen.
-
-There remains another possibility. You have learned the hateful magic of command. You could force me not to occupy *your* body, but that of your lover, just as your master commanded. Oh, how wretchedly he'd suffer and cry! But he could not resist us if he tried.
-
-Thus he and I would become your slaves. With such a powerful homunculus obeying you, you might just be able to slay your master. You could burn his bright, vivid life all at once in a shield to pierce the old man's heart. Yes, it would be enough. You could destroy the tower, destroy yourself, all those things you wished for.
-
-Still a hateful possibility, I'm sure. It would go against everything you believe to use him so. Why even bring it up?
-
-I said just now that your master was not always such a terrible man. There came a time when he and I stood where you now stand, a tryst discovered, calling on the deliverance of a demon to escape our punishment. Like you, he would not dare use *my* body to further *his* aims, and invited the demon into his own flesh, giving him the strength of ten men.
-
-So we fled. He was very gallant, and swore he would protect me: from the house we left behind, from wolves, from brigands. I have no doubt he would. He made me feel worth protecting: a beautiful young lady in sooth, and her knight!
-
-There came a drought, and years of famine.
-
-The grain market emptied, and the farmers kept their measly harvests hidden away, or spent it to pay mercenaries to guard their holdings. The forests swiftly emptied of game. No alms would ever come from far-off lords. Some of us turned to brigandry, or fled in pursuit of rumours of food, but soon came word of these villages collapsing under a wave of hungry mouths, and the lords closing the roads to contain us. So there was nowhere to go, and nothing to be done.
-
-Gradually the roadsides filled with the dead and dying. With hunger comes a simple despair. There is nothing to do but wait in the sun to die.
-
-I fell ill, then, too weak to fight off the plague. My dear, gallant fool could not hope to best this foe, yet all the same he nursed me in a hollow at the side of the road, sheltered by an upturned cart---no doubt he would have caught it too, but for the demon already filling his flesh.
-
-Then one day, I made a request, and he prepared me a bowl of hot stew, tough but slightly resembling pork in flavour. I couldn't hold it down, at first. But eventually my stomach accepted it. I was a little less feverish. I could kiss him goodnight.
-
-It was not enough, and that night, the plague killed me.
-
-I knew full well where the meat came from. Indeed, I often caught him looking at the others on that roadside, mouth slightly open, and heard him whisper. "I could save her. But I don't have the strength." I gave him that strength---I gave him permission. All of this---the tower, your tortures---it flows from there. From me.
-
-I died with the meat of a human being fresh on my tongue, by my own request, so I became a demon of temptation, and have served many masters since, as my power grew. (It helps that I share a name with someone famous.) Did you doubt this, since I seem so kind? This is the way to secure life after death. This is the cost.
-
-And I kept an eye on him.
-
-With my death he was torn in two by grief. "I was too afraid" he would say to himself. "I failed as a man, and God punished me. Never again." He killed more and more---they called him the Ogre. After a time, soldiers came and chased him to the mountains. And there he aged, and his strength waned, so he started trying to bind demons into the bodies of others. Each time they opened their eyes, he would say my name.
-
-I could have gone back to him then. And yet I did not.
-
-At first he said my name with hope, and then it became perfunctory. Then he started saying it with disgust. "'Lilith!'" he would say. "He was just a boy who defiled himself. An object I used for pleasure. I don't need him! I alone rule my fate."
-
-Thus he became a wizard. The very same man as my darling knight. Was this in him all along?
-
-What awaits us on that road, when we leave this tower? Perhaps it is delicious food and warm companionship and intimate sex under the moonlight in strange beautiful lands. But perhaps one day I'll have you eating someone at the side of the road. Your life sustains me, just as mine sustains you.
-
-This is who you will invite to share your body. I think you should know!
-
-Ah, but after I tell you this, perhaps you think once again of suicide. Well, I won't do it for you. If you accept me into your body as an ally, we're going to live. You will live fully, with all the pleasure and all of the pain---and whatever the cost.
-
-I am a demon of life.
-
-So if you want me to go against my nature, you'll have to force me. The price will be him. And if you choose to live, well, you might find more in common with your master than you thought!
 
 ---
 
