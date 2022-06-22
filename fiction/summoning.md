@@ -313,95 +313,7 @@ And then you're staring at me, grey as ash, but sharp as you ever were. "Very we
 
 "Oh..? And where do they carry you?"
 
-You open your mouth...
-
-...and my spell ends. Time comes flooding back, the papers whirling once more like leaves.
-
-Your master staggers, as if struck. He stares at me.
-
-"Lilith!" he cries. "It is you, is it not?"
-
-And at last, I recognise him. Your master.
-
-My dear pagan husband.
-
----
-
-Your master is a terrible man, of this we both have no doubt. But I cannot bring myself to hate him. For he is, in his way, the reason I am a demon.
-
-My friend, I've recounted your story. Perhaps allow me to tell you mine.
-
-A great many years ago, he and I were soldiers on a trail far from home. Of what nation, what lord did we serve? It hardly matters. Our enemies were every bit the same. We did our best to avoid fighting, not for kindness but simply self-preservation.
-
-In that time, men like your master did not hide themselves in towers, but served King and Country like the rest. After each battle, we were among those would search for survivors in the offal, and escort prisoners to the tents where the magician waited.
-
-Perhaps you do not find it so hard to imagine how I could find a love in my heart for my one companion in such sordid affairs. Who else could ever understand us? At first, he would not lie with a man, but I told him a secret truth: I had a woman's soul, and started dressing myself as one of the women of the tross. It pleased him greatly. He was like a man possessed, and each night he would bare his ass--- oh, it pains you to imagine him so, of course! Forgive me. I am a demon, after all.
-
-Such deeds as ours were forbidden in the eyes of God, but we were already defiled, so what did it matter? No priest would so much as look at us. We wore the stolen clothes of corpses, spent our sorcerer's coin on what leftovers the army would spare, and laughed long into the night. Who could have what we had? Who could even imagine?
-
-I took the name Lilith, after the one you know. My husband became that other villain, Cain. Quite the pair we were.
-
-But there came a day when my husband made a friend among the soldiers. A kindly sort who looked past the stink of death that followed us everywhere. "Come now," said he, "You're a man of this company too, are you not? Come sit by the fire."
-
-I was afraid of course. He was leaving our world in the darkness. Now my husband went more often to sit with the men, sharing in their drinks and eating the meat they were given. He started walking differently, too. Surely, I could have joined him? Certainly he invited me, but each time I made my excuses. And I sat there in our shabby tent, wearing my ill-fitting dress, hoping this night he would come home early.
-
-And after a few months, I realised the look in his eyes had changed. When he looked at me, it was with pity.
-
-I could not stand it. I screamed at him, and fled the tent, and burned that stolen dress. "Let him leave, let him have his soldiers, and let me stay here, in the dark."
-
-And had it ended there, perhaps all would have been well. But neither of us could stay away. That connection we shared would not evaporate so easily. So even as he lived among the soldiers, and learned to speak like them, and even marry a real woman of the tross... we would meet at night, amidst the midden, to make merry and fuck.
-
-And of course, there came a day when our tryst was discovered. At first, they laughed, and called my husband an adulterer in a tone near congratulation---"one not enough for you, eh?"---but then the details of the scene became evident.
-
-Was it that I was a man in their eyes? Or was it that my husband received my seed, and not the other way round? Either way, it was not to be borne by these men. A curse would lie on the company, they whispered. Fear and suspicion in each man's eyes.
-
-I held his hand and asked him to flee with me. And he...
-
-...he turned away from my gaze. And he led me over to the men, who beat me with their spears and left me to die.
-
-I refused!
-
-[THIS BIT STILL NEEDS EDITING....]
-
-He came back to find me eventually. Nursed me to health with strips of meat and black bread. Neither of us spoke in that time. It seemed his betrayal had brought him little, for now the soldiers jeered him, and he joined me once more on the fringes, carrying the prisoners and dying to the most hideous death imaginable.
-
-The war dragged on, and before long our army was routed. The generals were put to the sword, and the survivors turned their coats or became mere brigands.
-
-We were beneath notice. But our service did not go unrewarded. The wizard took a liking, and bid us follow him on the road. He reinvented himself, as a medicine-man, and we became his bodyguards.
-
-So we learned a little of magic. Not so wise in its ways as you, I suspect. Gradually the wounds of the past faded. I was his creature to protect, and he swore he would not err the same way twice. He started to play the gallant knight, and who could gainsay him?
-
-We took a home in some nameless village, buying our acceptance by treating wounds. A strange group, to be sure, but all that could be overlooked if they can rid someone of pox or guarantee the life of a child.
-
-There came a drought, and years of famine.
-
-The grain market emptied, and the farmers kept their measly harvests hidden away, or spent it to pay mercenaries to guard their holdings. The forests swiftly emptied of game. No alms would ever come from far-off lords, coffers drained by the war.
-
-Some of those peasants turned to brigandry, or fled in pursuit of rumours of food, but soon came word of these villages collapsing under a wave of hungry mouths, and the lords closing the roads to contain us. There was nowhere to go, and nothing to be done. Suspicion spread alongside the plagues. The wizard disappeared one night, who knows where? Now we were just useless mouths, and we found ourselves driven from a home once again.
-
-Gradually the roadsides filled with the dead and dying. With hunger comes a simple despair. There was nothing to do but wait in the sun to die.
-
-Then one day, I made a request, and he prepared me a bowl of hot stew, tough but slightly resembling pork in flavour. I couldn't hold it down, at first. But eventually my stomach accepted it. I was a little less feverish. I could kiss him goodnight.
-
-It was not enough, and that night, the plague killed me.
-
-I knew full well where the meat came from. Indeed, I often caught him looking at the others on that roadside, mouth slightly open, and heard him whisper. "I could save her. But I don't have the strength." I gave him that strength---I gave him permission. All of this---the tower, your tortures---it flows from there. From me.
-
-I died with the meat of a human being fresh on my tongue, by my own request, so I became a demon of temptation, and have served many masters since, as my power grew. (It helps that I share a name with someone famous.) Did you doubt this, since I seem so kind? This is the way to secure life after death. This is the cost.
-
-And I kept an eye on him.
-
-With my death he was torn in two by grief. "I was too afraid" he would say to himself. "I failed as a man, and God punished me. Never again." He killed more and more---they called him the Ogre. After a time, soldiers came and chased him to the mountains. And there he aged, and his strength waned, so he started trying to bind demons into the bodies of others. Each time they opened their eyes, he would say my name.
-
-I could have gone back to him then. And yet I did not.
-
-At first he said my name with hope, and then it became perfunctory. Then he started saying it with disgust. "'Lilith!'" he would say. "He was just a boy who defiled himself. An object I used for pleasure. I don't need him! I alone rule my fate."
-
-Thus he became a wizard. The very same man as my darling knight. Was this in him all along?
-
-What awaits us on that road, when we leave this tower? Perhaps it is delicious food and warm companionship and intimate sex under the moonlight in strange beautiful lands. But perhaps one day I'll have you eating someone at the side of the road. Your life sustains me, just as mine sustains you.
-
-But you aren't going to hesitate.
+You open your mouth... and oh, you poor thing. You don't know what to say. So let me paint you a picture... the future I can give you.
 
 ---
 
@@ -413,7 +325,7 @@ As this takes place, time will return to the room. The wind will fade. Your mast
 
 But your actor will stand at your shoulder, his arm wound around your waist. He will be smiling. No doubt all this appeals very much to his sense of drama, and he'll figure out his role.
 
-You will face each other, then. A hairy old man, a coward who would burn any other precious life before exposing his own, surrounded by the fruits of a lifetime of selfish sorcery. The door will open and in shall come his servants: a mass of agonised flesh of all statures, united in purpose by the master's simple hatred. Against him, you will be but an emaciated young lady, her right arm withered and limp, yet still held softly by your lover.
+You will face each other, then. A hairy old man, a coward who would burn any other precious life before exposing his own, surrounded by the fruits of a lifetime of selfish sorcery. The door will open and in shall come his servants: a mass of agonised flesh of all statures, united in purpose by the master's simple hatred. Against him, you will be but an emaciated young lady, her right arm withered and limp. Held softly by your lover, the only mercy.
 
 Would that we might split this tower to its foundation and tear out your master's heart. Would that he would see the truth in your eyes, plead for your mercy, and throw himself to his many victims in supplication. But the laws of this world are rarely so kind, or so romantic.
 
@@ -439,13 +351,19 @@ I will hear those words. Recognition will come. I will tell you in a moment of t
 
 "You know you cannot cross that threshold."
 
-You will lift your actor out of the door. He will spit up blood, but his wounds are closing. He will be scarred, but he will live. He'll think the scars are very dashing.
+The doorway. It is right there, but as you push against it, the empty space which never once gave resistance will become as hard as a wall. Worse, it will feel like pushing into a bed of knives. Your skin will flay, or blossom in milky pustules.
 
-Now, cross the threshold and take us away. Do not turn and face your master one last time. Do not try to make your swollen, bruised tongue utter some parting witticism.
+But you will lift your actor out of the door. He will spit up blood, but his wounds are closing. He will be scarred, but he will live. I imagine he'll think the scars are very dashing.
+
+"You cannot cross! You are in my domain, Lilith, and my will is absolute. Do not think you can defy me twice!" Your master's voice will echo through the room. Your actor is scarce three feet away, but he might as well be in Rome.
+
+But it is not hopeless. He underestimates you. I cannot carry you across this threshold, but if you bear me that far, I will see that you walk away.
+
+So cross the threshold and take us away. Do not turn and face your master one last time. Do not try to make your swollen, bruised tongue utter some parting witticism. Conserve your strength. It is painful enough.
 
 But I cannot command you to do that. You will face him. In the lines of that face, behind the scowling patriarch, I will see the eyes of someone who once spoke to me with sincerity. A friend, a comrade---and, yes, a lover.
 
-Your spit will strike the side of your master's nose and spray straight into his eye. He will blink, and seize your withered right arm in his hand, and the suture where it was rejoined will fail---and he will be left holding it as you fall into the arms of the actor, and the two of you will hold each other and stumble down the thousand steps into night beyond while he howls and sobs behind you.
+Your spit will strike the side of your master's nose and spray straight into his eye. He will blink, and seize your withered right arm in his hand, and the suture where it was rejoined will fail---and he will be left holding it as you fall into the arms of the actor, soaking the both of you in fresh hot blood, and the two of you will hold each other and stumble down the thousand steps into night beyond while your master howls and sobs behind you.
 
 With my power, he will never find you. Perhaps you will join the circus after all---you certainly have some tricks to show after all this, one-armed conjurer. Perhaps you will change the shape of your body, perhaps you will take a new name. And perhaps you and your lover will live together for many years and see many strange lands, or perhaps you will quarrel and part ways one day. I can see only so far.
 
@@ -453,7 +371,7 @@ This is the future I offer. Humble, perhaps. But you will live.
 
 ---
 
-So, my new friend. I have been scruplously honest. Your master is already starting to move again. Are you still committed?
+So, my new friend. I have been scrupulously honest. Your master is already starting to move again. Are you still committed?
 
 You are? Well, go on then.
 
