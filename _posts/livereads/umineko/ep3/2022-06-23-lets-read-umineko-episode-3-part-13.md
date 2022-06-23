@@ -84,7 +84,7 @@ And that was where I left it.
 
 We can observe a few other factors. Beato's emotions always run close to the surface; she has quite a petulant and childlike demeanour. And while she's still quick to boast and gloat, she's been surprisingly affectionate and excitable towards Battler recently, especially when inviting him to give her a new name. And she seems quite unperturbed to cede her name status as Endless Witch to a new person. Meanwhile, it seems that Eva will have to perform the same series of murders to 'resurrect' and take form as Beato did, so the slaughter on Rokkenjima won't end so easily!
 
-We also have a general sense here that a 'witch' in the world of <cite>When They Cry</cite> is always something that used to be a person, and ascended to the status of witch by some yet unclear means. Whether *all* the witchers began life as alters of someone else, or just Eva Beatrice, is also unclear---though it is notable that most of the witches are also children!
+We also have a general sense here that a 'witch' in the world of <cite>When They Cry</cite> is always something that used to be a person, and ascended to the status of witch by some yet unclear means. Whether *all* the witches began life as alters of someone else, or just Eva Beatrice, is also unclear---though it is notable that most of the witches are also children!
 
 So, we've definitely received some hefty clues as to What Is Going On In All This. But it remains to parse them...
 
@@ -293,9 +293,9 @@ Kinzo grew up in Taiwan, which in Japanese (and Chinese for that matter!) is 中
 
 This does not actually get us very far, since I don't think any of those kanji occur in the riddle. Rather, we need to identify the 'river'---something that is metaphorically a river, perhaps even uses the kanji 川. Ideas that occur to me here: a road, a wind current, a trade route.
 
-At this point, I think I'm stuck. I could try coming up with sets of six characters to delete at random from the riddle, but if I do this I don't imagine I'll be likely to know when I've found the solution!
+At this point, I think I'm stuck. I could try coming up with sets of six characters at random to delete from the riddle, but if I do this I don't imagine I'll be likely to know when I've found the solution!
 
-How unfortunate... I imagined that I could solve the riddle with a bit of help from a Japanese dictionary to help fill me in on unusual meanings, but this might have been hubris.
+How unfortunate... I imagined that I could solve the riddle with a bit of help from a Japanese dictionary to help fill me in on unusual meanings, but this might have been hubris. Who'd have thought that *geography* would be my downfall?
 
 So let's press on and read some new material and see if, perhaps, a little more information comes to light...
 
@@ -317,7 +317,7 @@ Cut to Eva, whose fever has gotten much worse! This is actually a new background
 
 {% include figure.html src="embed/umineko/ep3/218-new-guest-room.png" alt="A painting of a simple bedroom, like a hotel room. The bed where Eva would be is made up." %}
 
-Hideyoshi is taking good care of her, talking about his 'magic hand'. This is one thing I do appreciate a lot, actually---even characters who are often cruel will have a context in which they display this kind of tenderness. (Hideyoshi's just a goofball regardless, but this episode seems to be about fleshing out Eva's emotional range.)
+Hideyoshi is taking good care of her, talking about his 'magic hand' which takes away the pain. This is one thing I do appreciate a lot, actually---even characters who are often cruel will have a context in which they display this kind of tenderness. (Hideyoshi's just a goofball regardless, but this episode seems to be about fleshing out Eva's emotional range.)
 
 Their conversation echoes others about magic. Even though Hideyoshi privately thinks he's simply providing a placebo, he says that magic works if you believe in it...
 
@@ -325,7 +325,19 @@ Their conversation echoes others about magic. Even though Hideyoshi privately th
 
 Notable that here this is explicitly connected to religious belief. Eva meanwhile says that when she was young she used magic to get ahead: 'if (she) wished strongly and tried hard, it came true every time.' So for her, this 'magic' is kind of a 'The Secret' style of thing, power of suggestion.
 
-Eva continues, telling Hideyoshi about her alter. She credits young!Eva with the good things in her life, even meeting Hideyoshi. But now she's afraid that, provoked by Beatrice, the witch inside her is going to get stronger and stronger, and 'swallow her up'...
+It's notable here that the idea of magic---or for that matter, religion---as something that only works if you believe in it is a distinctly *modern* attitude towards the subject. It is a question that only arises when faced with scientific epistemology and, in particular, a world of technologies that require no belief whatsoever. With science making a territorial claim over 'what' and 'how', magic has had to retreat to the domain of 'why'. I am reminded of (drink) <cite>Baru Cormorant</cite>'s discussion of magic, discussed in [this artice](/crit/baru/tyrant-3-wizards); the words of Ulyu Xe in particular.
+
+> Xe rolled onto her back and squirmed out of her skirtwrap. “When a witch raises a rabbit with the same name as a man, and kills and skins the rabbit, and then pisses through the rabbit’s skin into a pit of gravel, and the man gets kidney stones. The witch never touched the man. She never acted upon him. She only touched symbols of him.”
+> 
+> “Oh, fine.” Barhu crossed her arms and glared. “So magic doesn’t work except when it can be disguised as the coincidence of symbolic manipulation and natural occurrence? That’s very powerful.”
+> 
+> “The most powerful thing in the world,” Xe said, untying her strophium and sliding deeper into the water.
+
+Magic here exists in the domain of narrative; extremely fitting for such a metafictional story. The strength of the magical 'explanations' of the events on Rokkenjima are not that they are especially parsimonious, or procede naturally from simple assumptions; it is that they make a good story, full of strong emotions and dramatic turns.
+
+Does it mean then that to 'believe in magic' is to accept your role in a story? I'm not sure.
+
+In any case, Eva continues, telling Hideyoshi about her alter though he does not much understand. She credits young!Eva with the good things in her life, even meeting Hideyoshi. But now she's afraid that, provoked by Beatrice, the witch inside her is going to get stronger and stronger, and 'swallow her up'...
 
 Hideyoshi hears the ruckus with Maria, and goes outside to tell them to keep the noise down. So we see Rosa drag Maria to the lobby to take her away from Eva. This isn't looking good! At this point, assuming the resurrection ritual continues on schedule from the second twilight, we have two candidates now for 'the two who are close'.
 
@@ -335,7 +347,7 @@ The sad cello comes in as Maria attempts to convince Rosa to let her go see the 
 
 Rosa, who still believes the morning's murders were fake because of the outlandish locked-room puzzle, reluctantly agrees.
 
-Battler reaches the same conclusion as me, and panics, realising he is powerless to affect the narrative playing out. He shouts for someone to notice. Beato is here, and cackles about it in her inimicable way.
+Battler reaches the same conclusion as me, and panics, realising he is powerless to affect the narrative playing out. He shouts for someone to notice. Beato is here, and cackles about it in her inimitable way.
 
 She raises the point that, per Battler's hypothesis that the culprit in the first twilight died in an accident, there should be nobody left to do more murders. But as much as Battler's role is to provide rational explanations, he can't escape noticing the way the plot of these games always goes...
 
@@ -361,7 +373,7 @@ And in return, Eva Beatrice says something very interesting:
 
 > The concept of death does not exist for a Golden Witch. The names of the Golden Witch and Beatrice will be handed down for all eternity.
 
-Which means... when we talk about Beatrice being a 1000-year-old witch, is it more that it's a 1000-year-old *inherited title*!?
+Which means... when we talk about Beatrice being a 1000-year-old witch, is it more that it's a 1000-year-old *inherited title*!? Ironically, that's a lot easier to accomodate in a non-magical worldview.
 
 Eva Beatrice asks Ronove for advice, and he explains she can basically do anything now---so she decides to begin her course of sacrifices by slaughtering Rosa and Maria.
 
@@ -377,7 +389,7 @@ She's gonna fit right in.
 
 Eva Beatrice immediately starts ramping the magic up some more, creating a full-on candy apocalypse: ocean of jelly and a rain of orange juice. This is conveyed by a series of hue filters over the ocean BG. Eva Beatrice dunks her in the jelly to a depth where she is crushed into a 'meatball' by the pressure, comprable to the Marianas Trench. Another resurrection, and Rosa gets crushed under a mountain of cake. The next death sees her transformed into a butterfly and killed in a spiderweb. But none of this wipes her memories, and Rosa is on her way to getting fully mindbroken.
 
-The use of the spider's web here is interesting, since previously a spider web was shown to be the 'natural enemy' of witches. Eva Beatrice seems to have no such fear.
+Like the earlier magic battle, most of these showy effects seem to be taking place in some sort of pocket dimension---none of the orange juice rain or mountains of cake seem to be catching the attention of the other charactes indoors. The use of the spider's web here is actually a little interesting, since previously a spider web was shown to be the 'natural enemy' of Beatrice. Eva Beatrice seems to have no such fear.
 
 {% include figure.html src="embed/umineko/ep3/225-onomatopoeia-maxxing.png" alt="Rosa, over an inverted blood splatter: Hiiiiiiiiiiiigaaaaaaaaaaaaaaahhhgigyeeehhhgpgyaaghwagaghhgggggergorblahgehmolgeeaarggaagagaga-ga-...ga-......gyuboh!" %}
 
@@ -401,13 +413,13 @@ Remarkably, Beato responds not with anger, but trying to make excuses.
 
 {% include figure.html src="embed/umineko/ep3/227-alls-well-that-ends-well.png" alt="Beato, in Purgatorio: ......I-it's not like I completely don't see where you're coming from, ...but this is nothing more than an innocent prank, right...? No matter how she kills, that person will be brought back to life in the end, right? ...Aren't humans creatures that are fine with anything as long as it ends well......?!" %}
 
-She turns to Virgilia, who also decides to stop existing for a bit until all the body smashing is over. Beato is left alone, still trying to justify herself. Hey, I feel you Beatrice.
+She turns to Virgilia, who also decides to stop existing for a bit until all the body smashing is over. Beato is left alone, still trying to justify herself. Hey, I feel you Beatrice. Sometimes you're into messed up shit and it's hard to put the reasons into words.
 
 Ronove is still here in Purgatorio despite being assigned to Eva Beatrice in the narrative. So Beato gets to confide in him. She seems genuinely put out that Battler hates her so much---such an about face. In fact, she actually starts to cry!
 
 {% include figure.html src="embed/umineko/ep3/228-romantic-subplot-go.png" alt="Beato: ...He doesn't have to accept that I'm a witch. Because the point of hte game is to compete over that. But still, saying he won't look at my face, that he won't talk to me, ......surely ignoring me is going too far... Am I really hated that muuuuuuch......!" %}
 
-Honestly, for all that I've joked about Beato being totally horny over Battler kissing her feet and stuff, I wasn't really expecting a full-on romance subplot! What do ya know! It's just the way he says 'dame da, zenzen dame da...' That muscular chessboard flip...
+Honestly, for all that I've joked about Beato being totally horny over Battler kissing her feet and stuff, I wasn't really expecting a full-on romance subplot! What do ya know! It's just the look in his eyes when he says 'dame da, zenzen dame da...' That muscular chessboard flip...
 
 Honestly, the way she's acting here, it's kind of clear that '1000 year old witch' or not, Beato seems to be emotionally pretty much a teenager. Given that we have now observed that witches seem to be stuck in whatever stage of development they are when they ascend, this doesn't seem too surprising. Beato, it increasingly seems, is still fundamentally the young woman in the garden at Kuwadorian, who received the name and powers of the Endless Witch and let it go to her head.
 
@@ -417,7 +429,7 @@ So, since Beato alone seems to be able to cross between the narrative and Purgat
 
 {% include figure.html src="embed/umineko/ep3/229-slam-the-brakes.png" alt="Beato, to Eva Beatrice: ......Umm, well. Isn't that enough for the sacrifices of the second twilight? ...Of course, it isn't specified how you kill them, but, umm, ......maybe you shouldn't toy with them any more than that..." %}
 
-Eva Beatrice of course isn't going to be persuaded so easily. "I wonder if I can be cruel in my own pop, cute, style?!" she says---we can perhaps trace the artistic lineages of witches. In the art of murder.
+Eva Beatrice of course isn't going to be persuaded so easily. "I wonder if I can be cruel in my own pop, cute, style?!" she says---we can perhaps trace the artistic lineages of murder witches.
 
 Beato makes some weaksauce attempts to persuade---but "I might have gone too far" is honestly a pretty big step for her! She appeals to elegance...
 
@@ -437,7 +449,7 @@ The medulla oblongata comes back again!! I've missed that guy.
 
 She scolds Eva Beatrice and tells her to follow orders until her resurrection, despite proving herself to be a total stick in the mud in her eyes it seems. What a great dynamic omfg.
 
-She summons Ronove and Lucifer, and rather awkwardly stammers out an order to be graceful and quick in the subsequent killings. Ronove happily promises to be on his best behaviour. Then, unable to continue, Beato ducks out.
+She summons Ronove and Lucifer, and rather awkwardly stammers out an order to be graceful and quick in the subsequent killings. Ronove happily promises to be on his best behaviour. Then, unable to continue, Beato ducks out and Eva Beatrice essentially calls her a square.
 
 This is so fucking funny wtf. That's the end of the chapter. Goddamn what a ride.
 
