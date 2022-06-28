@@ -1,7 +1,7 @@
 ---
 title: "Let’s read Umineko! - episode 3 - part 14"
 layout: article
-date: 2022-06-23
+date: 2022-06-27
 categories:
  - livereads
  - umineko
