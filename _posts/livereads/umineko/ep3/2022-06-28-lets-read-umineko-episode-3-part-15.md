@@ -448,7 +448,7 @@ It turns out, Eva has told him about her alter, so he is able to work out the na
 
 I guess Hideyoshi is the Battler of this realm!
 
-{% include figure.html src="embed/umineko/ep3/266-adorable-beato.png" alt="Hideyoshi, to Eva Beatrice: You dolt!! Don't act like you're cruel, not when you're really a coward and a wealklin'! I'll keep you on the straight and narrow, you wicked woman!! You dumbo! Nitwit!!" %}
+{% include figure.html src="embed/umineko/ep3/267-so-thats-what-evas-into.png" alt="Hideyoshi, to Eva Beatrice: You dolt!! Don't act like you're cruel, not when you're really a coward and a wealklin'! I'll keep you on the straight and narrow, you wicked woman!! You dumbo! Nitwit!!" %}
 
 Damn, this is revealing more than I really expected about Eva and Hideyoshi's relationship, huh.
 
