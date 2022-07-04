@@ -8,7 +8,7 @@ categories:
  - ep3
 tags:
  - umineko
-excerpt: 
+excerpt: in which Beato gets a very stern talking to
 ---
 Why hello there, welcome back to Rokkenjima! Time to embark on another chapter.
 
