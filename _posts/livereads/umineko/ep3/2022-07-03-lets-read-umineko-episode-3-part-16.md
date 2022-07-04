@@ -94,7 +94,7 @@ How nice it would be to hold on to the feeling that anything in this world holds
 
 Virgilia butts in:
 
-> <b class="name">Virgilia:</b> ..................That is why the Endless Magic is known as a black art. ...An Endless Witch has no concept of the finite. ......They have no concept of hte finite, of the end that is implied by breaking and killing.
+> <b class="name">Virgilia:</b> ..................That is why the Endless Magic is known as a black art. ...An Endless Witch has no concept of the finite. ......They have no concept of the finite, of the end that is implied by breaking and killing.
 
 It's interesting, this notion of the immortal who becomes detached from the social dogma because nothing has real consequences. (A similar character, with a similar narrative, appeared in for example <cite>Ousama Ranking</cite> which I watched recently.) I don't think I really buy it. After all, nobody is immortal, we can't actually know how an immortal being would think. It could be read perhaps as an attempt to rationalise death: to say, without that inevitability, we would become monsters, or lose our drive to struggle, so it's good really, or at least a necessary evil.
 
@@ -216,7 +216,7 @@ George wishes he could make a deal with Beatrice, same as Kinzo did. It turns ou
 
 We note that Beato has handed over most of her magical power to Eva Beatrice, but still holds on to some.
 
-{% include figure.html src='embed/umineko/ep3/275-just-the-name-huh.png' alt="Beatrice: ......Hmph. Even without the Endless Magic, I am a Great Witch whose name has thundered through a thousand years. Reviving the dead is no trouble at all." %}
+{% include figure.html src='embed/umineko/ep3/275-just-the-name-huh.png' alt="Beatrice: ......Hmph. Even without the Endless Magic, I am a Great Witch whose name has thundered through a thousand years. Reviving the dead is no trouble at all." capt="Notably we're now talking about a *name* which has thundered, not an individual person." %}
 
 This chapter is a kishōtenketsu, isn't it?
 
