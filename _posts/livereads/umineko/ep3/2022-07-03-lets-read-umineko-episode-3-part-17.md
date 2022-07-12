@@ -8,7 +8,7 @@ categories:
  - ep3
 tags:
  - umineko
-excerpt: in which Beato gets a very stern talking to
+excerpt: in which character growth belatedly arrives
 ---
 Waa, it's been more than a week since our last update? Where did all that time go? Don't worry, no more five year hiatuses in these parts.
 
