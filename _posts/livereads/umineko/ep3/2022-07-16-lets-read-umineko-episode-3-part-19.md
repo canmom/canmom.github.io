@@ -202,7 +202,7 @@ So yeah, this whole episode is just a very extended version of that one cutscene
 
 Beato goes on to joke about yanderes as well...
 
-> I've heard that villains who go <ruby>soft<rp> (</rp><rt>dere</rt><rp>)</rp></ruby> and then <ruby>crazy<rp> (</rp><rt>dere</rt><rp>)</rp></ruby> are pretty popular these daaaays...! Despite how I look, I've studied a lot of manga, anime and galge that have been popular recently, you seeee?
+> I've heard that villains who go <ruby>soft<rp> (</rp><rt>dere</rt><rp>)</rp></ruby> and then <ruby>crazy<rp> (</rp><rt>yan</rt><rp>)</rp></ruby> are pretty popular these daaaays...! Despite how I look, I've studied a lot of manga, anime and galge that have been popular recently, you seeee?
 
 <i>Galge</i> gets a little cultural note expanding it for 'gal games' for the unfamliar---a slightly broader category than dating sims. For a story set in the 80s, these fandom terms are a little anachronistic, since this story predates the rise of bishōjo games in the 90s, and the development of the term <i>moe</i> and related concepts ([see Watzky](https://fullfrontal.moe/from-lolicon-to-moe-the-adventures-of-the-bishoujo/)). But I'm pretty sure Beatrice of all people is not stuck in the 1980s! She's probably playing all the latest dōjin games from (checks) 2008.
 
