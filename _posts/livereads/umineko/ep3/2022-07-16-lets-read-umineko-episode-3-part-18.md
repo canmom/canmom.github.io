@@ -573,12 +573,33 @@ The implication would therefore have to be that somehow a blinded Jessica was ab
 
 This is an interesting claim. Are witches not 'life forms', even if they are not 'human'? As she says this, the spiderweb expands to fill more of the screen.
 
-Eva Beatrice then axiomitises a list of who's dead and alive---all the characters you'd suspect. Paraphrasing the list:
+Eva Beatrice then axiomitises a list of who's dead and alive---all the characters you'd expect. [Originally I paraphrased this list, but I was told the exact phrasing is important, so let me copy it out in full.]
+
+ - <span class="red">Kinzo is dead</span>.
+ - <span class="red">Krauss is dead</span>.
+ - <span class="red">Natsuhi is dead</span>.
+ - <span class="red">Hideyoshi is dead</span>.
+ - <span class="red">George is dead</span>.
+ - <span class="red">Rudolf is dead</span>.
+ - <span class="red">Kyrie is dead</span>.
+ - <span class="red">Rosa is dead</span>.
+ - <span class="red">Maria is dead</span>.
+ - <span class="red">Genji is dead</span>.
+ - <span class="red">Shannon is dead</span>.
+ - <span class="red">Kanon is dead</span>.
+ - <span class="red">Gohda is dead</span>.
+ - <span class="red">Kumasawa is dead</span>.
+ - <span class="red">Nanjo is dead</span>.
+
+While:
 
  - <span class="red">Battler is alive</span>.
  - <span class="red">Eva is alive</span>.
  - <span class="red">Jessica is alive</span>.
- - <span class="red">Everyone else is dead</span>.
+
+[Edited to add: The Japanese here is 「Xは死亡すている」for each dead character, and 「Xは生存すている」for alive characters. These are both ongoing verb forms (the [te-iru form](https://www.tofugu.com/japanese-grammar/verb-continuous-form-teiru/)), sort of like the gerund in English. So it could hyper-literally (and un-idiomatically) be translated as 'X is being-dead' and 'Y is living'.
+
+I am not sure how this exact phrasing has bearing on the case. The order they're listed in is essentially going down family rank order: first Kinzo, then the subfamilies in order of precedence, then the servants with 'one winged eagle' servants first, then finally Nanjo who has no direct tie.]
 
 Which means it seems like she's trying to fork Jessica being an accomplice and magic being real---Beatrice's strategy in episode 2.
 
