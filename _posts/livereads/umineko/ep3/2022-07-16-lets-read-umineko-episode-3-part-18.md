@@ -603,7 +603,7 @@ I am not sure how this exact phrasing has bearing on the case. The order they're
 
 Which means it seems like she's trying to fork Jessica being an accomplice and magic being real---Beatrice's strategy in episode 2.
 
-Have we examined Nanjo's corpse yet? Like, how was he killed, maybe he committed suicide or died by accident? And, further, while all of the other murders are premedidated, could Jessica have unintentionally killed Nanjo? She wasn't exactly in a good state of mind there.
+Have we examined Nanjo's corpse yet? Like, how was he killed, maybe he committed suicide or died by accident? And, further, while all of the other murders are premeditated, could Jessica have unintentionally killed Nanjo? She wasn't exactly in a good state of mind there.
 
 {% include figure.html src="embed/umineko/ep3/314-spiderweb-spreads.png" alt="Eva Beatrice over the chandelier backdrop with a red spiderweb. She's listing red axioms, read on." %}
 
