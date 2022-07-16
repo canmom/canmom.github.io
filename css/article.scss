@@ -516,6 +516,13 @@ dd p:first-child {
     margin-top: 0;
 }
 
+dd blockquote {
+    margin-left: 0;
+}
+
+.smallcaps {
+    font-variant: small-caps;
+}
 
 /* ===============
     ALL: IE Fixes
