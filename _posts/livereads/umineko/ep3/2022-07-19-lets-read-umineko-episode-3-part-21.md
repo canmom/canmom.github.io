@@ -18,7 +18,7 @@ This one starts off with a bang by advancing the clock past 1986 for the first t
 
 This puts us in... a hospital!
 
-{% include figure.html src='embed/umineko/ep3/341-not-white.png' alt='Background depicting a hospital bed in a curtained room with an IV drip next to it. The room has brown panelling and green curtains despite the narration saying: The theme of that room was a so-called "hygienic" emotionless white. ...It was a room of a certain university hospital.' %}
+{% include figure.html src='embed/umineko/ep3/341-not-white.png' alt="Background depicting a hospital bed in a curtained room with an IV drip next to it. The room has brown panelling and green curtains despite the narration saying: The theme of that room was a so-called 'hygienic' emotionless white. ...It was a room of a certain university hospital." %}
 
 Whoever is staying in this room is expected to stay there forever---and it's expensive. Apparently it is Eva---but she looks 'haggard and aged' to the point of unrecognisability, and stares fixedly into space. She has a bodyguard present, who announces...
 
@@ -95,7 +95,7 @@ She sounds just like Kinzo. I guess nobody tells you about all the regrets lying
 
 The fact she's so chewed up about George suggests a gap in our 'mundane' narrative. We've successfully been able to pin almost all the murders, except perhaps Nanjo, on Eva. And yet, George was killed, the one person we would expect Eva would try to keep alive at all costs. In the magical narrative, this is easy to solve, but given the collapse to a 'mundane' narrative at the end, what would be the motive for killing George?
 
-Ange says, well, just give it to charity then. Apparently she's frequently been sending for leaders of 'strange new religious cults', who largely tell her to give up her wealth. I was talking to some friends about this recently---Japan is unusual for [the number of new religious movements](https://en.wikipedia.org/wiki/Japanese_new_religions) (known as <ruby lang="jp">新宗教<rp> (</rp><rt>shinshūkyō</rt><rp>)</rp>) that developed in the 20th century and the amount of influence they have in government (e.g. [Soka Gakkai](https://en.wikipedia.org/wiki/Soka_Gakkai), whose political party [Komeito](https://en.wikipedia.org/wiki/Komeito) is in coalition with the LDP).
+Ange says, well, just give it to charity then. Apparently she's frequently been sending for leaders of 'strange new religious cults', who largely tell her to give up her wealth. I was talking to some friends about this recently---Japan is unusual for [the number of new religious movements](https://en.wikipedia.org/wiki/Japanese_new_religions) (known as <ruby lang="jp">新宗教<rp> (</rp><rt>shinshūkyō</rt><rp>)</rp></ruby>) that developed in the 20th century and the amount of influence they have in government (e.g. [Soka Gakkai](https://en.wikipedia.org/wiki/Soka_Gakkai), whose political party [Komeito](https://en.wikipedia.org/wiki/Komeito) is in coalition with the LDP).
 
 > Under the new [Constitution of Japan](https://en.wikipedia.org/wiki/Constitution_of_Japan), the Diet had the supreme authority for decision making in state affairs and all its members were elected by the people. Especially in the [House of Councillors](https://en.wikipedia.org/wiki/House_of_Councillors_(Japan)), one third of whose members were elected through nationwide vote, nationwide organizations found they could influence national policy by supporting certain candidates. Major Shinshūkyō became one of the so-called "vote-gathering machines" in Japan, especially for the conservative parties which merged into the [Liberal Democratic Party](https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Japan)) in 1955. 
 
@@ -135,7 +135,7 @@ Interestingly, she drops the 'why don't you just give up and die forever' catchp
 
 Now, we learn what the version of events presented to the public has been. An "extremely unfortunate accident" wiped out the Ushiromiya family, and only Eva escaped "as good luck would have it". But she was surrounded by suspicion, especially given her 'unnatural actions' at the time of the incident and the way she behaved after.
 
-{% include figure.html src='embed/umineko/ep3/345-rokkenjimagate.png' alt='Under pressure from the public, prosecutors attempted numerous investigations, and the media began tracing the outline of the murder plot under the name Rokkenjimagate, but in the end, they were not able to find sufficient proof that this "unfortunate accident" was a crime.' %}
+{% include figure.html src='embed/umineko/ep3/345-rokkenjimagate.png' alt="Under pressure from the public, prosecutors attempted numerous investigations, and the media began tracing the outline of the murder plot under the name Rokkenjimagate, but in the end, they were not able to find sufficient proof that this 'unfortunate accident' was a crime." %}
 
 Rokkenjimagate! Whoah. Is the -gate scandalsuffix a thing in Japan, or is this a localisation? Unfortunately, there is no voice acting to compare in this part.
 
@@ -165,7 +165,7 @@ She asks if that means she can save her family. Bernkastel is uncertain...
 > 
 > ......The only one who can oppose the <span class='smallcaps'>Beatrice</span> of 1986...is the final <span class='smallcaps'>Beatrice</span>, of 1998. .........In other words, you. Ange. <span class='smallcaps'>Ange Beatrice</span>.
 
-I've included the smallcaps here---I believe they represent katakana in game, i.e. 縁寿 to アンジ (at least going by pronunciation) [edit: got this wrong, see below for the correct spelling!]. So, that's one more to the pile of Beatrices, but also ostensibly the last one... in this fragment, maybe.
+I've included the smallcaps here---I believe they represent katakana in game, i.e. 縁寿 to エンジェ. So, that's one more to the pile of Beatrices, but also ostensibly the last one... if perhaps only in this fragment!
 
 In return, an interesting promise...
 
