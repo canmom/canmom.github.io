@@ -98,7 +98,9 @@ Anyway, Lambdadelta underlines the threat, promising to remind Beatrice what a '
 
 {% include figure.html src='embed/umineko/ep3/339-billions-of-fragment-worlds.png' alt="Lambdadelta: ...Of the billions of fragment worlds out there, ......I'll send you into the most miserable fragment and seal you there. .........You were miserable in the first place, so it'll be worth choosing a really miserable fragment. ...*giggle*giggle*giggle*giggle*giggle*" %}
 
-So, those 'bubbles' I was speculating about last time? Guess we just got a name for them: 'fragment worlds', and there are billions. Beatrice disappears, and Lambda addresses the departed Bernkastel...
+So, those 'bubbles' I was speculating about last time? Guess we just got a name for them: 'fragment worlds', and there are billions. Actually, now this came up, I think these were mentioned before in a previous tea party.
+
+Anyway, Beatrice disappears, and Lambda addresses the departed Bernkastel...
 
 > <b class="name">Lambdadelta:</b> Oh, how I love you, Bernkastel. ...Scrabble your feet in Beatrice's bird cage as much as you like, and spend a thousand years learning that you can no longer escape.
 > 
@@ -111,3 +113,7 @@ And then, with Lambdadelta's evil laughter, the episode ends!
 Not a long scene, but we learned some pretty key pieces of information, I'd reckon. I had no clue of the relationship between Beatrice and Lambdadelta, but I guess this confirms, that point when Beato ostensibly redtexted all that stuff denying witches... probably had some truth to it.
 
 So, OK, that leaves the Tea Party of the Unhuman. And then I can have a go at solving that final mystery. I feel like 'Nanjo committed suicide in front of a mirror' is a bit of a cheap answer.
+
+What is this 'perfect game board' that Beatrice ostensibly had? Was it already a 'fragment' when Lambadelta found it? In what sense is Bernkastel trapped there, anyway---she only seemed to show up at the very end of the first episode, so was it just like... bait to snare her? If it wasn't a fragment, was it just a scenario in the 'real world' with the right properties to 'fragmentise'?
+
+Anyway, we haven't got all the information disclosed in this episode yet. So let's check out the final section.
