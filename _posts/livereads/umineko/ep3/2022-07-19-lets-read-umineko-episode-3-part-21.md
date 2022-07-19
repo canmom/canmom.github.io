@@ -340,13 +340,20 @@ So, the rather cheap pedantic idea I had back then was that Nanjo still committe
 
 So here's a different theory. Remember that Kinzo's special 'furniture' servants from the orphanage have two names, e.g. Shannon is really called Sayo? Here, axiom 16 says Shannon is dead, but this could be interpreted metaphorically. Perhaps the personality of Shannon, the meek servant girl, 'died', but Sayo still committed the murder. We're told that 'no actions caused by Jessica's body' caused the murder, nor Battler nor Eva. But no such stipulation has been applied to the other 15 characters. The same argument could apply to Kanon... or really any 'dead' character.
 
-A second line of attack. We know that, *at the current moment in time*, everyone except Battler, Eva and Jessica are dead. This statement clearly takes place after Nanjo's murder, since per axiom 20, Nanjo is dead. However, we have not been told *when* any of these other characters died. We *think* we know when, after previous rounds of the game, but it's possible that there's a loophole somewhere and a character we thought was dead lived long enough to kill Nanjo and then die themselves.
+A second line of attack. We know that, *at the current moment in time*, everyone except Battler, Eva and Jessica are dead. This statement clearly takes place after Nanjo's murder, since per axiom 20, Nanjo is dead. However, we have not been told *when* any of these other characters died. We *think* we know when, after previous rounds of the game, but it's possible that there's a loophole somewhere and a character we thought was dead lived long enough to kill Nanjo and then promptly die themselves.
 
 Basically, Eva Beatrice's checkmate leads us to think that the only plausible culprits are Battler, Eva and Jessica, then systematically rules them out. Battler was not the culprit (26), committing a crime was 'impossible' for Eva (25), and Jessica was not involved in it either (30). So, we're left with no other culprits. Our attack vector is to find a reason that we've been deceived about one of the 'dead' characters through some weasely choice of words.
 
 Could those candidate guesses be shot down? Easily, with an appropriate red text. This is the big disadvantage we human players have in this game. For example, instead of 'is dead', we could have 'died at xyz time'. We could say 'Sayo' instead of 'Shannon'.
 
 Unfortunately, having come up with this answer, I'm unable to have it verified. I can only hope one of the later episodes comes back to review this case...
+
+### Can you give me some interesting numbers?
+
+Sure!
+
+ - This episode of the liveblog took 350 screengrabs + 4 segments of credits + a gif of John from Homestuck being named Zoosmell Pooplord.
+ - The in-game click counter is currently on 50281. Good work, mouse-kun.
 
 With that, we're done with episode 3. We'll press on to Episode 4 within the next few days, all being well! Until then...
 
