@@ -31,6 +31,9 @@ ep2:
 ep3:
   path: /livereads/umineko/ep3
   display: ep. 3
+ep4:
+  path: /livereads/umineko/ep3
+  display: ep. 4
 capital:
   path: /theory/capital
   display: capital
