@@ -95,7 +95,7 @@ She sounds just like Kinzo. I guess nobody tells you about all the regrets lying
 
 The fact she's so chewed up about George suggests a gap in our 'mundane' narrative. We've successfully been able to pin almost all the murders, except perhaps Nanjo, on Eva. And yet, George was killed, the one person we would expect Eva would try to keep alive at all costs. In the magical narrative, this is easy to solve, but given the collapse to a 'mundane' narrative at the end, what would be the motive for killing George?
 
-Ange says, well, just give it to charity then. Apparently she's frequently been sending for leaders of 'strange new religious cults', who largely tell her to give up her wealth. I was talking to some friends about this recently---Japan is unusual for [the number of new religious movements](https://en.wikipedia.org/wiki/Japanese_new_religions) (known as <ruby lang="jp">新宗教<rp> (</rp><rt>shinshūkyō</rt><rp>)</rp></ruby>) that developed in the 20th century and the amount of influence they have in government (e.g. [Soka Gakkai](https://en.wikipedia.org/wiki/Soka_Gakkai), whose political party [Komeito](https://en.wikipedia.org/wiki/Komeito) is in coalition with the LDP).
+Ange says, well, just give it to charity then. Apparently Eva's frequently been sending for leaders of 'strange new religious cults', who largely tell her to give up her wealth. I was talking to some friends about this recently---Japan is unusual for [the number of new religious movements](https://en.wikipedia.org/wiki/Japanese_new_religions) (known as <ruby lang="jp">新宗教<rp> (</rp><rt>shinshūkyō</rt><rp>)</rp></ruby>) that developed in the 20th century and the amount of influence they have in government (e.g. [Soka Gakkai](https://en.wikipedia.org/wiki/Soka_Gakkai), whose political party [Komeito](https://en.wikipedia.org/wiki/Komeito) is in coalition with the LDP).
 
 > Under the new [Constitution of Japan](https://en.wikipedia.org/wiki/Constitution_of_Japan), the Diet had the supreme authority for decision making in state affairs and all its members were elected by the people. Especially in the [House of Councillors](https://en.wikipedia.org/wiki/House_of_Councillors_(Japan)), one third of whose members were elected through nationwide vote, nationwide organizations found they could influence national policy by supporting certain candidates. Major Shinshūkyō became one of the so-called "vote-gathering machines" in Japan, especially for the conservative parties which merged into the [Liberal Democratic Party](https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Japan)) in 1955. 
 
@@ -107,11 +107,11 @@ Eva instead talks about how she might use her money to make Ange's life miserabl
 
 {% include figure.html src='embed/umineko/ep3/343-eva-ahaha.png' alt="Eva to Ange: Wouldn't that be wonderful? A lady brought up prim and proper, made to crawl around and prowl for moldy bread and muddy water. Aaah, that too would be truly glorious, *cackle*cackle*cackle*cackle*!!" %}
 
-Judging by Ange's expression, she's heard all this before far too many times. She informs Ange that she's hit on a surprisingly simple way to torment her after her death.
+Judging by Ange's expression, she's heard all this before far too many times. Eva informs Ange that she's hit on a surprisingly simple way to torment her after her death.
 
 > <b class="name">Ange:</b> I have midterms coming up. Keep it brief.
 
-The answer turns out to be: she'll do the opposite of disinherit. She'll make Ange have to inherit the fortune, and further, inflate it as much as possible until her death. And then, "Every day, from morning till night, monsters from across Japan will come to play."
+The answer turns out to be: Eva will do the opposite of disinheriting Ange. She'll make Ange have to inherit the fortune, and further, inflate it as much as possible until her death. And then, "Every day, from morning till night, monsters from across Japan will come to play."
 
 The b-word is dropped:
 
