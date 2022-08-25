@@ -54,7 +54,7 @@ So, her secret. She claims to have realised the identity of Eva Beatrice.
 
 > Ehheheheheheh! I realised who that girl actually is. Does anyone know? \*giggle\*giggle\*! There was a hint in the way she talked.
 
-Oh, this should be good. Since my current theory was that she is a 'piece' added to the game by Lambdadelta. She focuses on Eva Beatrice's 'why don't you just X forever' catchphrase (<rubly lang="jp">エバー<rp> (</rp><rt>ebaa</rt><rp>)</rp>). Which sounds like 'Eva'. So...
+Oh, this should be good. Since my current theory was that she is a 'piece' added to the game by Lambdadelta. She focuses on Eva Beatrice's 'why don't you just X forever' catchphrase (<ruby lang="jp">エバー<rp> (</rp><rt>ebaa</rt><rp>)</rp>). Which sounds like 'Eva'. So...
 
 {% include figure.html src='embed/umineko/ep3/336-this-changes-everything.png' alt="Lambdadelta: She was actually... Ushiromiya Eva!! What do you think?! Are you shocked?! Oh-hoh-hoh-hoh-hoh-ho!!" %}
 
