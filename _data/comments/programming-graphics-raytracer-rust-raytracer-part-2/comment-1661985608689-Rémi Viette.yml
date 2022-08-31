@@ -1,0 +1,26 @@
+_id: dd96c5d0-297d-11ed-936d-c5b2de35e239
+name: Rémi Viette
+tripcode: ccfdd96e4a01e671e703588b1147ff1c
+comment: >-
+  Hi!
+
+
+  First, thanks a lot for these posts!
+
+  It is so great to find someone crazy enought to want to do the exact same
+  thing as me, but wanderfull anought to indicate all the traps to avoid.
+
+
+  During my researchs, I found that the crate `num-traits` integrates a `Real`
+  trait that seams to be the "parent" of every numberish's types in rust.
+
+
+  So I just had to write `impl<T: Real> Vec3<T> { ... }` and return `T` when I
+  mean a number.
+
+
+  I'm not very experimented so maybe this behavior has some limitations. But it
+  seams to be more concise than trying to englobe the entire list of numbers
+  traits to work with them.
+h: ''
+date: 1661985608
