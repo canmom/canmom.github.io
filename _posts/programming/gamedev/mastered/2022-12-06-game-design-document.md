@@ -17,25 +17,25 @@ categories:
         <dt>Platform</dt>
         <dd>Linux and Windows native, browser</dd>
         <dt>Genre</dt>
-        <dd>Third-person grappling hook movement game</dd>
+        <dd>Third-person speedrunning game</dd>
         <dt>Target</dt>
-        <dd>Adult genre enthusiasts for movement shooters and shmups.</dd>
+        <dd>Adults; genre enthusiasts for movement shooters and shmups.</dd>
         <dt>Release date</dt>
         <dd>April 2023 (est.)</dd>
     </dl>
 </article>
 
-The player is a disposable transhuman doll' navigating zero-G 3D environments to evade obstacles and attack target point.
+The player is a disposable transhuman 'doll' navigating zero-G 3D environments to evade obstacles and attack target point.
 
 Their principal means of movement is a thruster, which rapidly pushes them towards a surface targeted by the mouse, combined with a grappling hook which lets them anchor themselves on a surface and 'orbit' that point. This is a full six-degrees-of-freedom movement system.
 
 While the player is soaring about, they must avoid being destroyed by obstacles. Over the course of the game these obstacles increase in difficulty from static bombs and walls to seeking missiles and enormous arms.
 
-Their target is located in a dangerous bioorganic space. To successfully navigate it, the player character's body must be upgraded with augmentations which improve their capacity for movement and grant cooldown abilities like slowing down time or an iframe dash.
+Their target is located in a dangerous biomechanical space. To successfully navigate it, the player character's body must be upgraded with augmentations which improve their capacity for movement and grant cooldown abilities like slowing down time or an iframe dash.
 
 ## Narrative concept
 
-A distant future where the line between technology and biology has blurred to nonexistence. The player controls a THRUST//DOLL, injected into the heart of a vast machine intelligence to destroy its core. Only their modified, superhuman body can move and react fast enough penetrate the machine's defences. As the missions get more dangerous, it must evolve to match. But the more time it spends in this alien world, the less clear the THRUST//DOLL's mission becomes...
+A distant future where the line between technology and biology has blurred to nonexistence. The player controls a disposable THRUST//DOLL, injected into the heart of a vast machine intelligence to destroy its core. Only their modified, superhuman body can move and react fast enough penetrate the machine's defences. As the missions get more dangerous, it must evolve to match. But the more time it spends in this alien world, the less clear the THRUST//DOLL's cause becomes...
 
 ## Inspirations
 
@@ -76,7 +76,7 @@ The player then has the option to access an upgrade screen, where they have the 
 
 ## Aesthetic
 
-Cyborgs in biomechanical environments. Levels are a hazy amniotic space filled with floating particles. Masamune Shirow cyborgs and ball-jointed dolls. Low poly models with elaborate shader effects.
+Cyborgs in biomechanical environments. Levels are a hazy amniotic space filled with floating particles. Masamune Shirow cyborgs and ball-jointed dolls. Low poly models with elaborate shader effects. Frequent body horror.
 
 ## Control scheme and mechanics
 
