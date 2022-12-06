@@ -209,3 +209,32 @@ The UI is minimal and embedded in the 3D world. The player should be able to kee
 - the iframe dodge charges appear at one end of the time slowdown resource meter.
 - for each shield, a faint circle is drawn around the targeting reticule. When a mucosa breaks, a brief animation shows this line turning into fragments.
 - when the core is visible, its health bar is represented by a circular arc around it, and the colour changes from white through to red.
+
+## Player animation system
+
+The doll's body is divided into 'soft' and 'hard' components. 'Soft' components are deformed by the skeleton. 'Hard' components are rigidly parented to a single bone.
+
+All animation is procedural, using inverse kinematics. Each limb will have an IK target. Specifics will be determined during implementation, but some initial concepts:
+
+- The thruster runs through the doll's chest. When the doll is moving, it points in the direction of movement. When a thrust is initiated, the doll rapidly orients the thruster to the right direction before thrusting.
+- The doll's right arm is replaced with the grappling hook. When grappling a surface, this shakes with the force.
+- The doll's left arm ends in an integrated sword. This is used when attacking the core, and when fighting another doll. When moving quickly, it dangles behind the doll.
+- When the player moves the camera, the doll's head turns as far as possible to follow the camera direction.
+- If the player is close to a wall and moving slowly, the doll will place its legs on the wall and run along it.
+- When the player acquires the digitigrade legs upgrade, bouncing off the wall involves a kicking-off animation.
+
+The doll's arms will float aimlessly when the doll is not moving for a long period.
+
+## Visual effects
+
+The amniotic fluid is thick enough to create a mist effect. Walls have a glowing effect when viewed tangentially, but they're dark when viewed face on.
+
+Inside the fluid there are small floating particles or bubbles, which are visible when near the camera. They are repelled by the player's collision sphere and by mobile enemies, but their motion is highly damped. So everything leaves trails as it moves.
+
+The player's model will have many coloured lights which shine on both the player and the nearby environment. These may or may not cast shadows depending on performance.
+
+Missiles and other dangers will also glow brightly to separate them from the backdrop.
+
+Post-processing effects such as lens flares will add to the look.
+
+When the player is closer to their grappling hook than the maximum radius, it will be distorted using multiple frequences of sinusoid to ensure the total rope length remains correct. (Realistic rope simulation is not necessary.)
