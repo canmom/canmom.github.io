@@ -15,11 +15,11 @@ categories:
     <h1>THRUST//DOLL</h1>
     <dl>
         <dt>Platform</dt>
-        <dd>Linux and Windows native, browser</dd>
+        <dd>Linux and Windows native, maybe browser</dd>
         <dt>Genre</dt>
         <dd>Third-person speedrunning game</dd>
         <dt>Target</dt>
-        <dd>Adults; genre enthusiasts for movement shooters and shmups.</dd>
+        <dd>ESRB M; genre enthusiasts for movement shooters and shmups.</dd>
         <dt>Release date</dt>
         <dd>April 2023 (est.)</dd>
     </dl>
