@@ -191,6 +191,8 @@ At the start, when the player's DOLL is hit by an enemy, they die and restart th
 
 The ABLATIVE MUCOSA upgrade adds a shield which can absorb a hit. In this case, when the player is hit, any grappling hooks disengage and a strong force is applied in the direction of the attack. The player is briefly invulnerable, indicated by the shield growing brightly, and then it disappears. Once all ABLATIVE MUCOSA are stripped, the player will die on the next hit.
 
+## User interface UI
+
 ### Upgrade screen UI
 
 The player's DOLL floats gently up and down, slightly offset from the centre of the screen to make room for the menu. Circular nodes indicate where upgrades can be applied. These may be selected using either the mouse (left click opens up a submenu, right clicking or clicking outside the submenu area closes it) or using the left analogue stick (A or X selects a node, B exits).
@@ -199,7 +201,7 @@ When selected, the camera adjusts to better frame the upgrade slot. Possible upg
 
 The player may also modify cosmetic aspects of their DOLL, such as skin colour and bioluminescence, which just involves changing material parameters. Additional purely cosmetic options may be added but this is a lower priority.
 
-## Gameplay UI
+### Gameplay UI
 
 The UI is minimal and embedded in the 3D world. The player should be able to keep their eyes close to the centre of the screen when moving and use their peripheral vision to detect threats.
 
