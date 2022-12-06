@@ -209,6 +209,7 @@ The UI is minimal and embedded in the 3D world. The player should be able to kee
 - the iframe dodge charges appear at one end of the time slowdown resource meter.
 - for each shield, a faint circle is drawn around the targeting reticule. When a mucosa breaks, a brief animation shows this line turning into fragments.
 - when the core is visible, its health bar is represented by a circular arc around it, and the colour changes from white through to red.
+- when the core is not onscreen, an indicator shows the easiest way to turn to face it.
 
 ## Player animation system
 
@@ -233,8 +234,26 @@ Inside the fluid there are small floating particles or bubbles, which are visibl
 
 The player's model will have many coloured lights which shine on both the player and the nearby environment. These may or may not cast shadows depending on performance.
 
-Missiles and other dangers will also glow brightly to separate them from the backdrop.
+Missiles and other dangers will also glow brightly to separate them from the backdrop. Missiles will leave motion trails which will gradually fade.
+
+Bombs create a spherical 'void' effect with a blueish glow around the fringes.
+
+The Core glows very brightly, casting shadows on the nearby environment.
 
 Post-processing effects such as lens flares will add to the look.
 
 When the player is closer to their grappling hook than the maximum radius, it will be distorted using multiple frequences of sinusoid to ensure the total rope length remains correct. (Realistic rope simulation is not necessary.)
+
+When the player is moving very fast, the camera will pull back and the FOV will get wider.
+
+## Sound effects
+
+Powerful 'boost' effect when thrusting. Increases in pitch before shutting off. Engine hum when idling, and 'spinning up' sound when the next boost is ready.
+
+Grappling-hook launch effect and grappling-hook contact effect.
+
+Beeping sound based on missile proximity?
+
+Sharp 'shattering' sound when impacting the core.
+
+Music: something sinister and industrial, but with a strong beat that matches the rhythm of thrusting. (Alternative idea: procedural music with a note associated with each player action?)
