@@ -55,9 +55,18 @@ programming:
 graphics:
   path: /programming/graphics
   display: graphics
+gamedev:
+  path: /programming/gamedev
+  display: game dev
+mastered:
+  path: /programming/gamedev/mastered
+  display: "mastered course"
 rasteriser:
   path: /programming/graphics/rasteriser
   display: rasteriser
+raytracer:
+  path: /programming/graphics/raytracer
+  display: raytracer
 maths:
   path: /maths
   display: maths
@@ -73,9 +82,6 @@ adventure-time:
 security:
   path: /security
   display: security
-raytracer:
-  path: /programming/graphics/raytracer
-  display: raytracer
 theory:
   path: /theory
   display: theory
@@ -88,6 +94,9 @@ hidden:
 baru:
   path: /crit/baru
   display: Baru Cormorant
+comics:
+  path: /crit/comics
+  display: comics
 annecy:
   path: /crit/annecy
   display: Annecy
