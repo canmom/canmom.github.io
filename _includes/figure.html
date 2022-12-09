@@ -2,7 +2,7 @@
 	<img src="{{ site.url }}/img/{{ include.src }}" alt="{{ include.alt }}" loading="lazy">
     {% if include.capt or include.contentsrc %}
 	<figcaption>
-		{{ include.capt }}
+		{{ include.capt | markdownify }}
 		{% if include.contentsrc %}
 		(<a href='{{ include.contentsrc }}'>source</a>)
 		{% endif %}
