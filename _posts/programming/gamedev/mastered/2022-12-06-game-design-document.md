@@ -98,6 +98,8 @@ The **left mouse button** or **L2 trigger** creates a powerful thrust towards th
 
 There is a drag force that imposes an effective terminal velocity on the player, and causes them to gradually slow to a halt if they don't thrust. I'll need to experiment a bit to figure out the right feeling---realistic drag is proportional to $$v^2$$ but we don't want the drag to feel too strong, since the emphasis is on intense speed.
 
+{% include figure.html src="embed/gamedev/thrustdoll/concept/grapple.png" alt="Rough sketch of how the grappling hook works." %}
+
 The **right mouse button** or **R2 trigger** launches the grappling hook. This attaches to a wall within range, and limits the distance the player can move from the point of attachment to the distance when they launched the grappling hook. This allows the player to make circular orbits using the thruster. Depending on preference, this can be set to a toggle system, or a hold and release system. The origin of the orbit is slightly raised from the target surface in the normal direction. The grappling hook is automatically released if the line collides with other level geometry.
 
 The **WASD keys** or **left analogue stick** may be used to make small course adjustments. The faster the player is moving, the more control they have. The direction of these adjustments is based on the orientation of the doll, so W and A always control pitch (which affects the camera's 'up' vector), and A and S always control yaw.
@@ -107,6 +109,8 @@ The **Q and E keys** or **R1 and L1 buttons** allow the player to roll the doll,
 The **R key** and the **Start** button immediately kill the current doll and restart the level.
 
 If the player enters a small sphere around the core, the camera pulls back to a brief slow-motion cinematic shot in which they slice through it, creating a cascade of fragments.
+
+{% include figure.html src="embed/gamedev/thrustdoll/concept/corestrike.png" alt="A sketch of hitting the boss." %}
 
 If this is the end of the level, this animation lasts longer; the camera then flies to frame both the player and the destroyed core as the level lighting fades, while a results screen displays statistics such as total time, number of grapples, total thruster time, hits taken, etc.
 
@@ -195,6 +199,8 @@ The ABLATIVE MUCOSA upgrade adds a shield which can absorb a hit. In this case, 
 
 ### Upgrade screen UI
 
+{% include figure.html src="embed/gamedev/thrustdoll/concept/configurator.png" alt="A sketch of the configurator screen." %}
+
 The player's DOLL floats gently up and down, slightly offset from the centre of the screen to make room for the menu. Circular nodes indicate where upgrades can be applied. These may be selected using either the mouse (left click opens up a submenu, right clicking or clicking outside the submenu area closes it) or using the left analogue stick (A or X selects a node, B exits).
 
 When selected, the camera adjusts to better frame the upgrade slot. Possible upgrades appear in a radial menu, along with their costs if not yet unlocked. Hovering over an upgrade shows a preview on the character model.
@@ -202,6 +208,8 @@ When selected, the camera adjusts to better frame the upgrade slot. Possible upg
 The player may also modify cosmetic aspects of their DOLL, such as skin colour and bioluminescence, which just involves changing material parameters. Additional purely cosmetic options may be added but this is a lower priority.
 
 ### Gameplay UI
+
+{% include figure.html src="embed/gamedev/thrustdoll/concept/hud.png" alt="A sketch of the ingame HUD." %}
 
 The UI is minimal and embedded in the 3D world. The player should be able to keep their eyes close to the centre of the screen when moving and use their peripheral vision to detect threats.
 
