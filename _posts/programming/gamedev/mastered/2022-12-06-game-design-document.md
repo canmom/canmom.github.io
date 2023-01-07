@@ -1,6 +1,6 @@
 ---
 title: THRUST//DOLL design spec
-excerpt: A design plan for the project I will be undertaking during the Mastered game development course.
+excerpt: An acrobatic 3D bullet hell speed game about disposable transhuman dolls thrown into the depths of a vast AI. Or it will be one day.
 layout: article
 categories:
  - programming
