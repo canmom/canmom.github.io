@@ -6,6 +6,8 @@ categories:
  - programming
  - gamedev
  - mastered
+tags:
+ - thrust//doll
 ---
 ## Character design screen (configurator)
 
