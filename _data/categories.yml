@@ -1,107 +1,76 @@
-physics:
-  path: /physics
+/physics/:
   display: physics
-livereads:
-  path: /livereads
+/livereads/:
   display: livereads
-animorphs:
-  path: /livereads/animorphs
+/livereads/animorphs/:
   display: animorphs
-uj:
-  path: /livereads/uj
+/livereads/uj/:
   display: unicorn jelly
-egs:
-  path: /livereads/egs
+/livereads/egs/:
   display: el goonish shive
-computer-love:
-  path: /livereads/computer-love
+/livereads/computer-love/:
   display: computer love
-ohs:
-  path: /livereads/ohs
+/livereads/ohs/:
   display: o human star
-umineko:
-  path: /livereads/umineko
+/livereads/umineko/:
   display: umineko
-ep1:
-  path: /livereads/umineko/ep1
+/livereads/umineko/ep1/:
   display: ep. 1
-ep2:
-  path: /livereads/umineko/ep2
+/livereads/umineko/ep2/:
   display: ep. 2
-ep3:
-  path: /livereads/umineko/ep3
+/livereads/umineko/ep3/:
   display: ep. 3
-ep4:
-  path: /livereads/umineko/ep3
+/livereads/umineko/ep4/:
   display: ep. 4
-capital:
-  path: /theory/capital
+/theory/capital/:
   display: capital
-crit:
-  path: /crit
+/crit/:
   display: criticism
-streams:
-  path: /streams
+/streams/:
   display: streams
-nier-automata:
-  path: /streams/nier-automata
+/streams/nier-automata/:
   display: "nier: automata"
-kingdom-hearts:
-  path: /livereads/kingdom-hearts
+/livereads/kingdom-hearts/:
   display: "kingdom hearts"
-programming:
-  path: /programming
+/programming/:
   display: programming
-graphics:
-  path: /programming/graphics
+/programming/graphics/:
   display: graphics
-gamedev:
-  path: /programming/gamedev
+/programming/gamedev/:
   display: game dev
-mastered:
-  path: /programming/gamedev/mastered
+/programming/gamedev/mastered/:
   display: "mastered course"
-rasteriser:
-  path: /programming/graphics/rasteriser
+/programming/graphics/rasteriser/:
   display: rasteriser
-raytracer:
-  path: /programming/graphics/raytracer
+/programming/graphics/raytracer/:
   display: raytracer
-maths:
-  path: /maths
+/maths/:
   display: maths
-nier:
-  path: /nier
+/nier/:
   display: NieR
-rpgs:
-  path: /rpgs
+/rpgs/:
   display: RPGs
-adventure-time:
-  path: /livereads/adventure-time
+/livereads/adventure-time/:
   display: Adventure Time
-security:
-  path: /security
+/security/:
   display: security
-theory:
-  path: /theory
+/theory/:
   display: theory
-animation:
-  path: /animation
+/animation/:
   display: animation
-hidden:
-  path: /hidden
+/hidden/:
   display: hidden
-baru:
-  path: /crit/baru
+/crit/baru/:
   display: Baru Cormorant
-comics:
-  path: /crit/comics
+/crit/comics/:
   display: comics
-annecy:
-  path: /crit/annecy
+/comics/:
+  display: comics
+/crit/annecy/:
   display: Annecy
-films:
-  path: /films
-animation-night:
-  path: /films/animation-night
+/films/:
+  display: films
+/films/animation-night/:
   display: animation night
+/comics/ghost-barrier/:
+  display: Ghost Barrier

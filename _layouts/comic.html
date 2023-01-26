@@ -1,0 +1,45 @@
+---
+layout: page
+---
+{% assign cat = page.categories[-1] %}
+{% assign posts = site.categories[cat] | reverse %}
+<main class="comic">
+<figure>
+    <img src='{{ site.url }}/img/comics/{{cat}}/{{ page.comic }}' alt='{{page.comicalt}}'>
+</figure>
+<nav class="comicnav">
+  {% for post in posts %}
+   {% if post.url == page.url %}
+    <span class="first">
+      {% if forloop.first == false %}
+        <a href="{{ posts[0] | absolute_url }}">⭰ </a>
+      {% endif %}
+    </span>
+    <span class="previous">
+      {% if forloop.first == false %}
+        {% assign prev_ind = forloop.index0 | minus: 1 %}
+        {% assign prev = posts[prev_ind] %}
+        <a href="{{ prev.url | absolute_url}}">&larr; </a>
+      {% endif %}
+    </span>
+    <span class="index"><a href="{{ site.url }}{{ site.data.categories[cat].path }}">{{ site.data.categories[cat].display }}</a></span>
+    <span class="next">
+      {% if forloop.last == false %}
+        {% assign nxt_ind = forloop.index0 | plus: 1 %}
+        {% assign nxt = posts[nxt_ind] %}
+        <a href="{{ nxt.url | absolute_url}}"> &rarr;</a>
+      {% endif %}
+    </span>
+    <span class="current">
+      {% if forloop.last == false %}
+        <a href=" {{ posts[-1] | absolute_url }}"> ⭲</a>
+      {% endif %}
+    </span>
+    {% assign next = forloop.index0 | plus: 1 %}
+   {% endif %}
+  {% endfor %}
+</nav>
+{{ content }}
+{% include comments.md %}
+{% include commentform.html %}
+</main>

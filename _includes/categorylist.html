@@ -1,0 +1,11 @@
+{%- assign excludeArr = '' | split: '' | push: site.data.categories[page.dir].display -%}
+{%- for cat in page.categories -%}
+  {%- assign catpath = page.dir | append: cat | append: "/" -%}
+  {%- assign excludeArr = excludeArr | push: site.data.categories[catpath].display -%}
+{%- endfor -%}
+{%- for post in site.categories[page.cat] reversed -%}
+  {%- assign postpath = post.categories | join: "/" | prepend: "/" | append: "/" -%}
+  {%- if postpath == page.dir -%}
+    {%- include listing.html post=post excludetags=excludeArr -%}
+  {%- endif -%}
+{%- endfor -%}
