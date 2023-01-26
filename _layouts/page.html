@@ -23,9 +23,11 @@
       <h1 class="title">{{ page.title }}</h1>
       <nav>
         <a href="{{ site.url }}">home</a>
-        {% for cat in page.categories %}
-          <a href="{{ site.url }}{{ site.data.categories[cat].path }}">{{ site.data.categories[cat].display }}</a>
-        {% endfor %}
+        {%- assign path = "/" -%}
+        {%- for cat in page.categories -%}
+          {%- assign path = path | append: cat | append: "/" -%}
+          <a href="{{ path | absolute_url }}">{{ site.data.categories[path].display }}</a>
+        {%- endfor -%}
       </nav>
     </div>
     <time>{{ page.date | date: "%-d %B %Y" }}</time>
