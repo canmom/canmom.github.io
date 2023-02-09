@@ -178,7 +178,7 @@ nav.tags:empty {
     grid-column: 1;
 }
 
-.tagnav .tagname {
+.tagnav .tagname, {
     padding-top: 5px;
     padding-bottom: 5px;
     grid-column: 2;
@@ -188,17 +188,49 @@ nav.tags:empty {
     grid-column: 3;
 }
 
-.tagnav .next, .tagnav .tagname, .tagnav .previous {
+.tagnav .next, .tagnav .tagname, .tagnav .previous, .comicnav .first, .comicnav .previous, .comicnav .index, .comicnav .next, .comicnav .current {
     grid-row: 0;
     text-align: center;
     align-self: center;
 }
 
-.tagnav a {
+.tagnav a, .comicnav a {
     padding-top: 5px;
     padding-bottom: 5px;
     display: block;
     width: 100%;
+}
+
+.comicnav {
+    margin: 0 auto 5px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    justify-items: stretch;
+    font-size: 90%;
+    background-color: rgba($border-colour,0.4);
+}
+
+.comicnav .first {
+    grid-column: 1
+}
+
+.comicnav .previous {
+    grid-column: 2
+}
+
+.comicnav .index {
+    grid-column: 3;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.comicnav .next {
+    grid-column: 4
+}
+
+.comicnav .current {
+    grid-column: 5
 }
 
 .origin {
@@ -236,6 +268,10 @@ main figure {
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+main.comic figure {
+    clear: right;
 }
 
 main figure img {
@@ -564,6 +600,12 @@ dd blockquote {
     main {
         width: 691px;
         margin: 25px auto 0 auto;
+    }
+
+    main.comic {
+        // padding: 0 25px;
+        width: 90%;
+        max-width: 1000px;
     }
 
     main figure.float {
