@@ -132,15 +132,17 @@ main ul.listing {
     margin-left: 25px;
 }
 
-main blockquote, main div.highlighter-rouge {
+main blockquote {
     margin-left: 45px;
     margin-right: 20px;
     padding-left: 15px;
     background-color: $blockquote-background-colour;
 }
 
-main code.highlighter-rouge {
+main .highlighter-rouge {
     background-color: $blockquote-background-colour;
+    padding-left: 15px;
+    font-size: 80%;
 }
 
 main blockquote p {
@@ -149,10 +151,6 @@ main blockquote p {
 
 main blockquote blockquote {
     margin-left: 0;
-}
-
-main .highlighter-rouge {
-    font-size: 80%;
 }
 
 nav.tags {
@@ -671,6 +669,11 @@ dd blockquote {
     header.page-header {
         flex-wrap: nowrap;
         align-items: flex-end;
+    }
+
+    main .highlighter-rouge {
+        margin-left: -100px;
+        margin-right: -100px;
     }
 }
 
