@@ -141,8 +141,11 @@ main blockquote {
 
 main .highlighter-rouge {
     background-color: $blockquote-background-colour;
-    padding-left: 15px;
     font-size: 80%;
+}
+
+main div.highlighter-rouge {
+    padding-left: 15px;
 }
 
 main blockquote p {
@@ -671,7 +674,7 @@ dd blockquote {
         align-items: flex-end;
     }
 
-    main .highlighter-rouge {
+    main div.highlighter-rouge {
         margin-left: -100px;
         margin-right: -100px;
     }
