@@ -286,7 +286,10 @@ As for where this is all driving... that's a tough one to puzzle out, all right!
 
 One interesting question might be if somehow Battler was able to connect his agency in purgatorio with his agency in the narrative, same as Beato. If he could *actively* investigate, taking advantage of the known rules of magic, he could place his avatar in such a way as to disrupt Beato's murders.
 
-I have unfortunately been slightly spoiled where I saw Battler deploy blue text in a screenshot, suggesting that he will at some point gain the power to axiomatise statements similar to Beato. But that raises plenty of intriguing questions, so I'm looking forward to seeing how that plays out.
+<details markdown="1">
+<summary>I have unfortunately been slightly spoiled...</summary>
+I saw Battler deploy blue text in a screenshot, suggesting that he will at some point gain the power to axiomatise statements similar to Beato. But that raises plenty of intriguing questions, so I'm looking forward to seeing how that plays out.
+</details>
 
 Is Beato's face turn going to last? If so, what will be the main antagonistic force? We've thrown some balls into the air in regards to intergenerational trauma which I think are going somewhere, but right now we're focused on the mechanics of 'what is magic', so those broader themes are to some degree on the back burner.
 
