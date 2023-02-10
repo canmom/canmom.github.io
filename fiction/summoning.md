@@ -37,9 +37,9 @@ Your Master took your wrist, and carefully raised your arm, nodded once at his h
 
 That night, when it came to do your 'ritual', your arm would not cooperate. You could imagine the demon inside, forbidding sinful acts. All your rebellions would now have to come from your left hand only.
 
-Not all of the Master's sacrifices, of course, were mere animals. The most potent demons could only be summoned in a human host, and occasionally you would oversee a scrawny, hungry-faced mother or father appear at the threshold of the tower, a sobbing infant tugging at the hem of their cloak. The Master would seize the infant by the wrist, and draw out a jingling sack of coin that seemed to him just a trifle; the parent would hurry back into the darkness, not looking back at their shame.
+Not all of the Master's sacrifices, of course, were mere animals. The most potent demons could only be summoned in a human host, and occasionally you would oversee a scrawny, hungry-faced mother or father appear at the threshold of the tower, a sobbing infant tugging at the hem of their cloak. The Master would seize the infant by the wrist, and draw out a taut sack of coin, a trifle of the wealth in the tower; the parent would hurry back into the darkness, not looking back at their shame.
 
-On many of those nights, storms lashed the tower, as if God wanted to punish the Master for his blackguardery.
+On many of those nights, storms lashed the tower, as if God wanted to punish the Master for his mischief.
 
 You did not see what became of the children; such rituals were too dangerous to be entrusted to a mere 'prentice. But now and then you would see a face on one of the homunculi that seemed a little familiar.
 
@@ -55,7 +55,7 @@ You didn't tell him it wasn't the girls you were looking at.
 
 You dressed in your best approximation of what the peasants wore. Your surcoat was woven of a very fine wool, with no sign of fraying, and surely it would mark you as a rich man's son to those who looked close---but from afar it would draw little attention. Summer or not, the morning was cool, with a stiff breeze from the distant sea, and your breath fogged the air.
 
-The players were all men and boys, as was the custom in those times. The tale they spun told of an orphaned girl who went to the city to seek a husband, only to suffer depredations at the hands of cruel merchants and foreign sailors. But she remained virtuous, and caught the eye of a nobleman's son out to campaign who saw at once her Christian virtue. They were betrothed, but he was called to battle, and an arrow pierced his heart the day they were to be married. So struck was she with grief, she flung herself off the cliff top to be with her love... but as a suicide, she went to Hell and remained separated from him for eternity.
+The players were, of course, all men and boys. The tale they spun told of an orphaned girl who went to the city to seek a husband, only to suffer depredations at the hands of cruel merchants and foreign sailors. But she remained virtuous, and caught the eye of a nobleman's son out to campaign who saw at once her Christian virtue. They were betrothed, but he was called to battle, and an arrow pierced his heart the day they were to be married. So struck was she with grief, she flung herself off the cliff top to be with her love... but as a suicide, she went to Hell and remained separated from him for eternity.
 
 It was a beautiful performance and you cried a lot.
 
@@ -187,7 +187,7 @@ You spent the first of those minutes babbling apologies. Eventually the actor si
 
 He looked a little taken aback at that. "The affairs of wizards," he managed at last, "are as dangerous as they say. That is what magic demands?"
 
-"No..." you said. "That is what my master demands." He looked so pitiful there, and you felt so sick, that by your hand this lovely boy could have been drawn into this place of monsters. "My friend," you whispered. "Hold on, my friend. I shall find a way to free, e'en should it cost me my life."
+"No..." you said. "That is what my master demands." He looked so pitiful there, and you felt so sick, that by your hand this lovely boy could have been drawn into this place of monsters. "My friend," you whispered. "Hold on, my friend. I shall find a way to free you, e'en should it cost me my life."
 
 His shoulders did not lose the slightest tension. "Scarce a better outcome!" But your conversation was cut short; your master kicked his way back into the room, standing straighter, a bloody knife in his hand. He laughed at your new *friend*'s expression. "Behold!" he declared. "For I have bound a demon to push back the rot in my lungs. Do you see, boy? For the wizard who has the will to take command, death itself has no hold. Not even plague or famine will slay me now!"
 
@@ -213,7 +213,7 @@ His grip tightened on your arm. "Do not!" he cried. "I could not bear it!"
 
 "I will trust in God, or the Adversary. One or other should protect me. But this I must do." And so declaring, you approached the master's cupboards.
 
-The homunculus intervened. A pitiful creature, with no place in God's order, but that made it kin, did it not? Yet your master had made it your enemy. You went straight for its windpipe, and drove it into the wall with your good left elbow. The homunculus smacked you down, a bony forearm smashing into your ear, hot blood trickling onto your neck. You were on the floor, it drew back its head to screech, it would waken the master and all would be lost---
+The homunculus intervened. A pitiful creature, with no place in God's order, but that made it kin, did it not? Yet your master had made it your enemy. You went straight for its windpipe, and drove it into the wall with your good left elbow. The homunculus smacked you down, a bony forearm driving into your ear, hot blood trickling onto your neck. You were on the floor, it drew back its head to screech, it would waken the master and all would be lost---
 
 But then your actor was upon it, a wine bottle in hand. It smashed over the homunculus's head, and before the creature could react, there went his thumbs, straight into those sheep eyes. They wrestled fierce, staggering against the furniture---the master stirred in his sleep---and then you saw the skin-carved circle holding the creature in the world. With a shattered piece of glass, you pierced it, and the homunculus withered. A final breath wheezed from its shattered throat.
 
@@ -321,7 +321,7 @@ This is what you will say. "Let God and his Adversary witness: I have called you
 
 Hello, there, I will say. We're sharing this one now.
 
-As this takes place, time will return to the room. The wind will fade. Your master will stagger, but find his footing. One of the candles will fallen against a stack of books, and the fruits of centuries of research will become so much ash.
+As this takes place, time will return to the room. The wind will fade. Your master will stagger, but find his footing. One of the candles will fall against a stack of books, and the fruits of centuries of research will become so much ash.
 
 But your actor will stand at your shoulder, his arm wound around your waist. He will be smiling. No doubt all this appeals very much to his sense of drama, and he'll figure out his role.
 
