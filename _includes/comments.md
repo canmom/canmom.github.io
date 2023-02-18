@@ -1,7 +1,7 @@
 <section class="comments">
 <h2>Comments</h2>
 {% assign slug = page.id | slugify %}
-{% for comment_hash in site.data.comments[slug] %}
+{% for comment_hash in site.data.comments[slug] | sort: "date" %}
 {% assign comment = comment_hash[1] %}
 
 <article class="comment">
