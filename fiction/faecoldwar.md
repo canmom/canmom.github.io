@@ -107,7 +107,7 @@ Gwyn remained kneeling. "So thought I, my King. But my investigation found it so
 
 A frown caught the corner of Oberon's mouth. He had expected Gwyn's plea would be permission to lead a personal assault on Avalon---an operation certain to fail. But to refuse him and order him to receive the Hunt without trying his hand would anger the traditionalists in the court. Instead... this was unexpected. Worse, Oberon had a suspicion of what had happened.
 
-"*If* that is so." Oberon frowned severely, the aspect of a displeased father. "We remind Gwyn ap Nudd that we now command a Commonwealth, and that he is a governor and not a seigneur. If the Isle of Avalon is so unexpectedly liberated, it belongs now to the State, to be administered as to most benefit the Fey."
+"*If* that is so." Oberon frowned severely, the aspect of a displeased father. "We remind Gwyn ap Nudd that we now command a Commonwealth, and that he is a governor and not a seigneur. If the Isle of Avalon is so unexpectedly liberated, it belongs now to the State, to be administered as to most benefit the Fey." He made a brief hand gesture, and raised a hand to his ear. His frown deepened as he listened to some private report.
 
 The Puck cackled, and capered forwards.
 
@@ -115,13 +115,13 @@ The Puck cackled, and capered forwards.
 A 'public would he build, yet sovereign he stay!"
 {: .indent}
 
-Some of the fairies giggled. Oberon's face remained steady. "You broke the meter there, Puck." he said, to a louder laugh.
+Some of the fairies giggled. Oberon's face remained steady, and he lowered his hand. "You broke the meter there, Puck." he said, to a louder laugh.
 
-Then came another figure, stepping forward from the mass of courtiers. From the neck down, he was dressed in a Modernist uniform, smart as any---yet his fierce grin and great crown of antlers made the Generalissimo of the Seelie Armed Forces quite unmistakeable.
+In the tense silence that followed came another figure, stepping forward from the mass of courtiers. From the neck down, he was dressed in a Modernist uniform, smart as any---yet his fierce grin and great crown of antlers made the Generalissimo of the Seelie Armed Forces quite unmistakeable.
 
 "If I may, my King." said Herne the Hunter. Oberon gestured for him to take the floor, and Herne stepped forward, teeth bared. "If Gwyn ap Nudd's claim can be believed, surely there is a matter more pressing than the administration of the misty Isle. If Titania has vanished from Avalon, she is at large to make mischief. Perhaps Gwyn should tell us where the trail leads, before he claims to be a conqueror!"
 
-"We welcome our Generalissimo's counsel." Oberon said. He paused significantly. To reveal what he suspected would perhaps incite panic. But to keep it secret might be worse. "But if matters are as Gwyn ap Nudd says, there may yet be a greater threat. Tell us, Gwyn ap Nudd: did you watch closely the scouts who set foot on the Isle of Avalon? Did you, yourself, ascend its shore?"
+"We welcome our Generalissimo's counsel." Oberon said. He paused significantly. To reveal what he had just been told would perhaps incite panic. To keep it secret might be worse. "But if matters are as Gwyn ap Nudd says, there may yet be a greater threat. Tell us, Gwyn ap Nudd: did you watch closely the scouts who set foot on the Isle of Avalon? Did you, yourself, ascend its shore?"
 
 Gwyn blinked. "Why, my King. I did, of course, survey the land myself, and found no trace of Titania, nor any of her Court."
 
