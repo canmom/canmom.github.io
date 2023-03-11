@@ -55,20 +55,19 @@ Amidst this fray, Oberon's diehard loyalists stood out not by their strangeness 
 
 And yonder...
 
-...yonder was the delegation from Annwn Province. Where, damn it all, the Isle of Avalon had been sighted once more.
+...yonder was the delegation from the Annwn colony. Where, damn it all, the Isle of Avalon had been sighted once more.
 
-It was getting to the point that Oberon's reluctance to hold court with the delegation would be taken as a slight. Annwn, though de jure a territory of Oberon, was a bitter frontier land, too close to the Material to be suitable for planting, even should they find some means to drive off the great deer that guarded it. Even with the Druids long gone, it was one front too many.
+It was getting to the point that Oberon's reluctance to hold court with the delegation would be taken as a slight. Annwn, though de jure a territory of Oberon, was a bitter frontier land, ruled by strange animal gods. Once, fey scholars had looked dreamily at Annwn and modelled their lives after its obtuse affairs. But with the Druids long gone, Annwn had festered, an anarchic waste, her immiserated residents preyed on daily by the other planes. So it had been, too, with the Fey---but now the Fey were strong. One day, Oberon dared to hope, Annwn would look up to the Fey instead.
 
-Still, Oberon longed to call up the Wild Hunt and chase down that deer. The Hunt had not escaped Oberon's drive for modernisation, and now they bore long rifles and <i>hwacha</i> and other exciting toys culled from the dreams of the most sadistically ingenious humans: a highly mobile magic-infantry combined-arms force to stand against any across the planes. If they moved out in force, the logic they represented would act as a poison to the Deer.
+Yes! On that longed-for day, Oberon would call up the Wild Hunt and chase down the great deer that guarded Annwn's gnarled forests. The Hunt had not escaped Oberon's drive for modernisation, and now they bore long rifles and <i>hwacha</i> and other exciting toys culled from the dreams of the most sadistically ingenious humans: a highly mobile magic-infantry combined-arms force to stand against any across the planes. If they moved out in force, tired old Annwn would collapse.
 
-But when Avalon could appear anywhere, at any time, and disgorge a swarm of guerillas into the countryside... to withdraw the Hunt would be arrant foolishness. And worse, Gwyn ap Nudd would never tolerate the intrusion.
+But then came the Civil War. Even now, Avalon could appear anywhere, at any time, and disgorge a swarm of guerillas into the countryside... to withdraw the Hunt would be arrant foolishness. And worse, Gwyn ap Nudd would never tolerate the intrusion.
 
 There was no helping it.
 
 Oberon raised a perfect hand, slender fingers gleaming against the warm autumn colours of the open veranda. The conversations began to die down. (The stricken boggle crawled away, lucky to have escaped its ordeal with the loss of just one eye. One of the elves kicked it.)
 
 Oberon's herald, the Puck, stepped forwards.
-
 
 "oh hush you all! our goodly King does speak\\
 a Chairman fair of hair and fair of hand,\\
@@ -81,7 +80,7 @@ said he, and turned to Oberon with a bow and flourish. No other fairy could spea
 
 So Oberon merely nodded. It was worthwhile to have the Puck on hand, in any case: to draw into the open the rumours that swirled in the court, where they could be beaten into submission.
 
-"We would hear the entreaties of the good Governor of Annwn Province. May he present himself before the Court."
+"We would hear the entreaties of the good Governor of Annwn Colony. May he present himself before the Court."
 
 Gwyn ap Nudd moved forwards, resplendent as always in pearl-white robes, his skin so pale as to suggest a man drained of blood. He strummed once on the harp held in his arms, and smiled a wide sardonic smile.
 
@@ -91,7 +90,7 @@ Oberon's eyes narrowed. It was one thing for the Puck to speak so, but Gwyn ap N
 
 "Avalon has risen in your domain, Gwyn." A murmur rushed through the Court; this was not yet common knowledge. "Do you come to call on the Hunt, or are you yet too proud?"
 
-Gwyn's mouth twitched slightly. In the early years of Oberon's rule, before the Civil War, he had been purged from his post as leader of the Hunt on suspicion of loyalty to Titania. For him to be forced to call on Herne's forces now would be a further humiliation.
+Gwyn's mouth twitched slightly. In the early years of Oberon's rule, before the Civil War, he had been purged from his post as leader of the Hunt on suspicion of loyalty to Titania with the pretense of assigning him a glorious colonial mission. For him to be forced to call on Herne's forces now would be a further humiliation.
 
 "My King." said he. "I have no need to call the Hunt. For when my scouts approached the Isle, they found not a trace of Titania, nor her forces. Yes!" he turned to face the court at large "Let it be said to all! The Isle of Avalon stands unguarded, its keep empty, its terraces untended. I, Gwyn ap Nudd, have found it so!"
 
@@ -119,7 +118,7 @@ Some of the fairies giggled. Oberon's face remained steady, and he lowered his h
 
 In the tense silence that followed came another figure, stepping forward from the mass of courtiers. From the neck down, he was dressed in a Modernist uniform, smart as any---yet his fierce grin and great crown of antlers made the Generalissimo of the Seelie Armed Forces quite unmistakeable.
 
-"If I may, my King." said Herne the Hunter. Oberon gestured for him to take the floor, and Herne stepped forward, teeth bared. "If Gwyn ap Nudd's claim can be believed, surely there is a matter more pressing than the administration of the misty Isle. If Titania has vanished from Avalon, she is at large to make mischief. Perhaps Gwyn should tell us where the trail leads, before he claims to be a conqueror!"
+"If I may, my King." said Herne the Hunter. Oberon gestured for him to take the floor, and Herne stepped forward, teeth bared. "If Gwyn ap Nudd's claim can be believed, surely there is a matter more pressing than the administration of the misty Isle. If Titania has vanished from Avalon, she is at large to make mischief---hiding in Annwn, there can be no doubt. Perhaps Gwyn should tell us where the trail leads, before he claims to be a conqueror!"
 
 "We welcome our Generalissimo's counsel." Oberon said. He paused significantly. To reveal what he had just been told would perhaps incite panic. To keep it secret might be worse. "But if matters are as Gwyn ap Nudd says, there may yet be a greater threat. Tell us, Gwyn ap Nudd: did you watch closely the scouts who set foot on the Isle of Avalon? Did you, yourself, ascend its shore?"
 
@@ -165,9 +164,9 @@ Behind him, Gwyn ap Nudd had curled into a foetal position, all his haughtiness 
 
 Gwyn ap Nudd whimpered. The two Cat-Sìth picked him up by the shoulders, unceremoniously, and half marched, half dragged him out of the room. Mab, meanwhile, withdrew a slim lacquered box from the pocket of her uniform, inlaid with a geometric pattern resembling a star. She snapped it open, revealing a mirrored interior and the gleam of light. Oberon pushed the shadow towards the box, and it animated once again, shrinking away---but it could not resist the king's force, and in moments, it was stuffed inside. Mab snapped the box shut.
 
-Oberon turned his gaze to Gwyn's retinue, whose faces were for the most barely disguised terror. "Who among you accompanied Gwyn ap Nudd to the Isle of Avalon?" A few uncontrolled glances gave him his answer. More Cait-Sìth melted out of the crowd, and swiftly marched the identified fey out of the room after Gwyn.
+Oberon turned his gaze to Gwyn's retinue, whose faces were for the most barely disguised terror. "Who among you accompanied Gwyn ap Nudd to the Isle of Avalon?" A few uncontrolled glances gave him his answer. More Cat-Sìth melted out of the crowd, and swiftly marched the identified fey out of the room after Gwyn.
 
-"We hereby decree: the Isle of Avalon shall to be sealed. No fey is to set foot on it. Any who have must be arrested and examined for signs of compromise. Herne, you will deploy the Seelie Armed Forces to this effect."
+"We hereby decree: the Isle of Avalon shall be sealed. No fey is to set foot on it. Any who have must be arrested and examined for signs of compromise. Herne, you will deploy the Seelie Armed Forces to this effect."
 
 Herne nodded, saluted, and walked away briskly to carry out the order. Oberon nodded, satisfied, and at last stepped back to his throne. Settling there, he leaned forward conspiratorially as Mab took up a position at his elbow. He gestured to the court...
 
