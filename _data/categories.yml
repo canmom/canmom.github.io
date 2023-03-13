@@ -38,8 +38,8 @@
   display: graphics
 /programming/gamedev/:
   display: game dev
-/programming/gamedev/mastered/:
-  display: "mastered course"
+/programming/gamedev/thrust-doll/:
+  display: "thrust//doll"
 /programming/graphics/rasteriser/:
   display: rasteriser
 /programming/graphics/raytracer/:

@@ -5,9 +5,10 @@ layout: article
 categories:
  - programming
  - gamedev
- - mastered
+ - thrust-doll
 tags:
  - thrust//doll
+redirect_from: /programming/gamedev/mastered/game-design-document
 ---
 {% include hiddentoc.md %}
 
