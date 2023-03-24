@@ -285,6 +285,15 @@ main figure figcaption {
     font-size: 90%;
 }
 
+main figure figcaption p {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+main figure figcaption p:last-child {
+    margin-bottom: 0;
+}
+
 main figure pre {
     max-width: 100%;
 }
@@ -676,6 +685,11 @@ dd blockquote {
 
     main div.highlighter-rouge.wide {
         margin-left: -100px;
+        margin-right: -100px;
+    }
+
+    main figure {
+        margin-left: -75px;
         margin-right: -100px;
     }
 }
