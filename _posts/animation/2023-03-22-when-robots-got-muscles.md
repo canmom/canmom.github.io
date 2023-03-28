@@ -5,6 +5,8 @@ origin: https://canmom.tumblr.com/post/712492038712590336/when-robots-got-muscle
 excerpt: A history of robot designs from the eighties on with a throughline of biomimesis and mechaguro.
 categories:
  - animation
+tags:
+ - animation notes
 ---
 When did robots and cyborgs go from rigid metal to flexible mechanical muscles?
 
@@ -398,7 +400,7 @@ In 2005, military robotics company Boston Dynamics starts developing a walking r
 
 In 2010, Eidos-Montréal attempted to create a  <cite>Deus Ex</cite> from 2000 with their game <cite>Deus Ex: Human Revolution</cite>. In contrast to the original <cite>Deus Ex</cite>, its plot centred on the idea that 'human augmentation', replacing limbs with cyborg parts, would become a major social issue---embodied in its protagonist, who *tragically* has extremely cool and badass cyborg limbs which can pop out swords and let him punch through walls and all sorts of shit. A very memorable trailer invoked Renaissance scientific-revolution imagery and the Icarus myth, before having him utter 'I never asked for this'...
 
-{% include youtube.html id="https://www.youtube.com/watch?v=Kq5KWLqUewc" %}
+{% include youtube.html id="Kq5KWLqUewc" %}
 
 This trailer marks a *lot* of major changes in how games are made and sold. Compare the Crysis trailer just *three years* before: now we're trying to reach for all kinds of hefty themes around transhumanism. The influence of GitS and <cite>Blade Runner</cite>, now fully established as cyberpunk touchstones, is explicit and overwhelming. Panels slide around, and guns and swords come out of unexpected places. By this point concept art has become a serious industry in its own right and you can see the fruits of that in how the cityscapes and dropships and so forth are staged.
 
@@ -406,7 +408,7 @@ But also notable is the very visible change in technological aesthetics: all the
 
 If the trailer foregrounds a lot of the coolest cyberpunk imagery, and still holds up pretty well today as far as trailers go, it also brushes over the game's weaknesses, like the weird racism lmao, or the shallow 'extremely 2010s videogame' plot. Its writing couldn't really match the density of visual ideas thrown at us here. Nevertheless, this is pretty much a definitive statement of how modern videogames would come to present the idea of 'cyberpunk'.
 
-{% include youtube.html id="https://www.youtube.com/watch?v=Wd0RJkE-ujs" %}
+{% include youtube.html id="Wd0RJkE-ujs" %}
 
 A little later in 2013 comes PlatinumGames's spinoff of the <cite>Metal Gear</cite> franchise, the cyborg ninja character action game <cite>Metal Gear Rising: Revengeance</cite>, which is one of the greatest games ever made imo. While the <cite>Metal Gear</cite> series had frequently depicted giant metallic robots, MGRR introduced the sort of DXHR-style depiction of artificial muscles to its cyborg ninja game. Full-body cyborgs are everywhere---the plot revolves around a bunch of brains in jars---and it features a fantastically designed rogue's gallery of cool cyborgs, such as 12-armed Mistral, or magnets themed Monsoon whose body splits into a bunch of flying disconnected slices for... reasons after he delivers a long speech about meme theory. Of course, best known is Senator Armstrong, a huge muscular US Senator whose 'nanomachines, jack!' give him strength and a resistant shell. You also get a friend who's a high-tech robot dog with a super-flexible tail.
 
