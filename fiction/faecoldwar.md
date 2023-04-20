@@ -154,9 +154,9 @@ The two Cat-Sìth walked upright on their back paws, each black with a white pat
 
 "Chairman." Mab said, saluting sharply, the Modernist salute with a closed fist across her chest. "A brazen move from the shadow."
 
-"I agree." Oberon looked sternly at the black mass in his hand. "Would you dispose of this? I have decided it is time to tell our Court about Edmund's dirty secret."
+"I agree." Oberon looked sternly at the black mass in his hand. "Would you dispose of this? I have decided it is time to tell our Court about Hohenheim's dirty secret."
 
-Mab nodded. The fairies behind her crowded closer---the mention of Edmund bringing out a hiss of righteous anger.
+Mab nodded. The fairies behind her crowded closer---the mention of Hohenheim bringing out a hiss of righteous anger. Few knew the details of the affair, but Oberon's propaganda made it quite clear that Hohenheim of Arcanne was the foremost enemy of the Fey, and that Titania was a traitor who colluded with him. That had been enough.
 
 Behind him, Gwyn ap Nudd had curled into a foetal position, all his haughtiness seemingly torn away with the shadow in Oberon's hand. Oberon looked at him without pity.
 
@@ -171,3 +171,41 @@ Oberon turned his gaze to Gwyn's retinue, whose faces were for the most barely d
 Herne nodded, saluted, and walked away briskly to carry out the order. Oberon nodded, satisfied, and at last stepped back to his throne. Settling there, he leaned forward conspiratorially as Mab took up a position at his elbow. He gestured to the court...
 
 "Come forward, my friends." he said, no longer speaking in the official tone, no longer a royal we. "That sordid business is done, and you see perhaps the source of my troubles. And yet, I think this threat we face shall be a boon." Oberon took a deep breath. "I am going to tell you a story---a story of the time an enemy captured me, and what he did next..."
+
+## 3. The Matter of the Fey
+
+\[from [the journal of Silene](./silenesjournal), agent of Titania, as she convalesced in the wake of her battle with the vampire Ambrose.\]
+
+Titania once hinted that Oberon bore a grudge against the mortal world. She has shown me visions of his factories and poppy-fields. The value of these poppies is unclear to me, but they appear to be the backbone of the fey economy. Titania now calls them an abomination, and Oberon a tyrant. But I get the sense she did not always see it so...
+
+Of course, Oberon and Titania were once allies, husband and wife no less, united in the same project. Although it is easy to think of them as immortal rulers, the truth seems to be that 'Oberon' and 'Titania' are fixtures of the fey world. There must *always* be an Oberon and a Titania, king and queen. The way Titania spoke of this, it seems that it is an inviolable law.
+
+Should they perish, new fae will assume their place. It might even be true that if one should die, the other will also. This marriage cannot be annulled, even when they are mortal enemies at war. But at some point, they must have been close enough to marry. Fellows of like cause.
+
+With all this in mind, I have come to suspect that the fey that became the present Oberon was the very same that lay imprisoned in Hohenheim's dungeon.
+
+I can only speculate how thoroughly this act humiliated the fey. The zeal of Oberon's project of modernisation can now easily be explained. To have been overcome so thoroughly by a mere mortal wizard---Oberon would say, *this cannot be allowed to happen again*.
+
+Now, an agent of Oberon---assuming the face of Ottily, damn them!---has accused Titania of co-creating the shadow, along-side Edmund. They have confirmed that Oberon intends to make use of the shadow. To hear them tell it, I can only hope to best my enemy under the Fairy King's thumb. Ha!
+
+If true---and while they have every reason to lie, and surely did lie by omission, I suspect in this instance they have revealed *a* truth---this information reveals another piece of the puzzle. Speculatively, I propose the following time-line...
+
+ - Edmund, a traveller between worlds, discovered a means to imprison a powerful fey in the dungeon beneath Ambrose's manse. Perhaps he was a man who made a deal for power, like myself.
+ - For reasons unknown, this fey was released, perhaps after making a deal with Edmund for considerable power. Edmund founded the art of thaumaturgy in the land of Arcanne, and assumed the grandiose name of Hohenheim.
+ - The imprisoned fey became Oberon, alongside another who became Titania. They embarked on a project of modernisation, based on the dream-poppies. But I can only assume there was some limit.
+ - Titania started to associate with Edmund, likely without the knowledge of Oberon. Together they created the Parallelogram, sparking the Geometrist's Sacred Revolution in the mortal world, and creating the Shadow in the world of the fey. The new empire has two great institutions, the Thaumaturges and the Church, but in reality both answer to Edmund.
+ - Oberon made a deal, as Samsen Meridicus discovered, to buy the dreams of this new empire in exchange for granting power to a certain house. The dreams must somehow feed the poppy fields: with this deal, Oberon could benefit from a glut of dreams, all the more as the Empire expanded.
+ - But Oberon's power had a weakness: the Empire answered to Edmund. So Oberon dispatched his agents to attempt to wrest control of the mortal Empire for himself.
+ - At some point, Titania's collusion with Edmund must have been discovered. Perhaps this is what ignited the Civil War between the fey. Oberon's side retained the upper hand, and Titania retreated, establishing the Unseelie Court in a mirror of Oberon's. She dispatched her own mortal agents, such as myself, against those of Oberon.
+
+Were all my actions on Titania's behalf simply aimed to weaken Oberon's access to the dreams?
+
+Does Titania then truly want to establish a republic and put an end to monarchies and emperors, or was that a pretty lie to a naive young girl? Clearly she is an enemy of the Shadow now---though whether the shadow *answers* to Edmund, or merely reflects his sins, is not clear!
+
+In any case, Oberon's promise of power is a poisoned chalice. Who would ever trust an agent who could be bought so easily, for so vague a promise? As a girl I could be swayed by an offer of power and importance, but now I am not so reckless. Oberon and Titania are two faces of the same bloody coin. But without the power of one or the other, I am nothing more than a mortal woman who knows too much. How, then, to worm my way out of the vice?
+
+That Oberon's agents have found my dreams means I can no longer count on obscurity. If even Ambrose could ensorcel me, I will be helpless against the fey, who are the true masters of the field. The only defence I have for now is that the fey seem to find it difficult to pass into the mortal world. Why else would they need to employ agents? But the more I trouble Oberon, the more resources he will dedicate to my destruction.
+
+I must learn to shield my dreams. I must protect my companions and allies. And we must keep going forward, for we stand at the threshold of a great truth. A rotten secret at the heart of the world.
+
+*It must be exposed.*
