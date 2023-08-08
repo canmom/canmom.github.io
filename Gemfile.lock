@@ -13,7 +13,7 @@ GEM
       execjs
     coffee-script-source (1.11.1)
     colorator (1.1.0)
-    commonmarker (0.23.9)
+    commonmarker (0.23.10)
     concurrent-ruby (1.2.2)
     dnsruby (1.70.0)
       simpleidn (~> 0.2.1)
@@ -249,7 +249,6 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
@@ -260,7 +259,6 @@ DEPENDENCIES
   github-pages
   jekyll-seo-tag
   rouge
-  wdm (~> 0.1.0)
   webrick (~> 1.7)
 
 BUNDLED WITH
