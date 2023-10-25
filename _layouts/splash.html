@@ -72,7 +72,7 @@
                         <section class="listing">
                             {% assign subcategories = site.data.livereads %}
                             {% for story in subcategories %}
-                            {% if "egs uj animorphs umineko" contains story.path %}
+                            {% if "uj adventure_time umineko" contains story.path %}
                             <article>
                             {% capture fullpath %}{% if page.categories %}/{{ page.categories | join: "/" }}{% endif %}/livereads/{{ story.path }}/{% endcapture %}
                                 <a href='/livereads/{{ story.path }}'>
