@@ -3,7 +3,7 @@ title: "<cite>Exordia</cite> Advance Review"
 layout: article
 tags:
  - baru cormorant
-excerpt: "Seth Dickinson writes a fun book as a breather. Which for Seth means darkly funny, brutally imaginative scifi cross-examination of sacrifice, genocide and the legacy of US imperialism. Let's get our fangs into <cite>Exordia</cite>..."
+excerpt: "Seth Dickinson writes a fun book as a breather. Which for Seth means a brutally imaginative scifi cross-examination of sacrifice, genocide and the legacy of US imperialism. Let's get our fangs into <cite>Exordia</cite>..."
 categories:
  - crit
  - baru
@@ -12,9 +12,9 @@ So I have just finished reading an ARC of <cite>Exordia</cite>, the latest by Se
 
 If you're in this category of my website, you'll know how deeply I became obsessed with the <cite>Baru Cormorant</cite> series. <cite>Exordia</cite> scratches every itch and then some new ones. If <cite>Baru</cite> took an elliptical path towards its subject matter, by defamiliarising and rearranging the material of history... <cite>Exordia</cite> gets straight in there.
 
-How to describe <cite>Exordia</cite>? Maybe you could call it philosophy-driven science fiction, a thought experiment about ethics. Maybe you could compare it to <cite>Arrival</cite>, but shot up with dark humour (it's a book that could make me laugh and cry, sometimes at the same time) and real tragedy (at the core is [the genocide of the Kurds](https://en.wikipedia.org/wiki/Anfal_campaign) in the late 80s, and the many betrayals and failures of American imperialism). It's got a lot of action and military details, with a good few spies and soldiers as central characters, but broadly it's one of the sharpest and most direct condemnations of the US military and its role in the world I've encountered in popular science fiction.
+How to describe <cite>Exordia</cite>? Maybe you could call it philosophy-driven science fiction, a thought experiment about ethics. Maybe you could compare it to <cite>Arrival</cite>, but shot up with dark humour (it's a book that could make me laugh and cry, sometimes at the same time) and real tragedy (at the core is [the genocide of the Kurds](https://en.wikipedia.org/wiki/Anfal_campaign) in the late 80s, and the many betrayals and failures of American imperialism). It's got a lot of action and military details, with a good few spies and soldiers as central characters, but broadly it’s one of the sharpest eviscerations of the US military and its role in the world I’ve encountered in Western science fiction.
 
-The first two thirds or so lay out a fascinating driving 'what the hell is this thing' mystery lined with all manner of juicy body horror and drama---yet the core high-concept premise is laid out almost immediately. The last third... escalates.
+The first two thirds or so lay out the driving, fascinating ‘what the hell is this thing’ mystery lined with all manner of juicy body horror and drama—yet the core high-concept premise is laid out almost immediately, you know what's at stake. The last third… escalates.
 
 It's full of the usual meaty Seth themes, iterating on the ideas first laid out in <cite>Baru</cite>. But it's a distinct flavour of its own. That escalation is... well, I can't describe in detail, not while the book isn't even out, but it's nuts. Not just for the scale, but for how convincingly it sells concepts that if I described them straightforwardly would sound completely ridiculous.
 
