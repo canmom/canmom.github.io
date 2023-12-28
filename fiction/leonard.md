@@ -3,6 +3,8 @@ title: Leonard, in the dust
 layout: wormqueen
 category: fiction
 ---
+# Leonard, in the dust
+
 A story for the #DrakenierHoliday2023 exchange. The requester asked for a story about Leonard. A difficult character to write about! I hope this satisfies.
 
 *Content warning:* this story deals with the subject of child sexual abuse, in similar ways to canon.
