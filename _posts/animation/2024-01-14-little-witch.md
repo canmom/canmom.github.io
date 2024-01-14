@@ -66,7 +66,7 @@ Audio isn't my field (yet), so I can't tell you what tricks she pulled to clean 
 
 The mechanical theatre model is actually incredibly simple: it's just a wedge shape with a box around it. On top of this I applied solidify and bevel modifiers---a non-destructive technique which made it very easy to modify the theatre if I needed to. The only tricky part was setting up the UVs to avoid stretching and make sure the wood grain would always go in the right direction. (There are a lot of grooves cut in the theatre for paper elements to slide in and out, but I did these at the very last minute, once the animation was finalised. So I'll come to that later!)
 
-{% include figure.html src="embed/animation/little-witch/theatre-model.png" alt="An unlit version of the theatre box, showing the model topology." %}
+{% include figure.html src="embed/animation/little-witch/theatre-model.png" alt="An unlit version of the theatre box, showing the model topology." capt="If you're following along at home, note the solidify modifier was applied and superfluous edgeloops removed." %}
 
 To make the stage look really good I needed nice physics-based materials to texture it with. Fortunately, there are a great many libraries of free PBR texture maps out there nowadays. One of the major ones is [Poliigon](https://www.poliigon.com/), and a lot of our materials came from there. Using PBR textures and the Principled shader makes things incredibly easy: you get all the realistic speculars and Fresnel effect just like that.
 
@@ -327,6 +327,18 @@ In terms of effort to animation time, this part of the animation was by far the 
 ### Credits
 
 After that, we roll credits on the projector! Yuri drew some great character sketches of me and Roub. For the final version of the animation, I added a couple of extra animations to the credits to give it life---Yuri steps in and takes a bow, and the train comes back in.
+
+### The grooves in the floor and walls
+
+One simple thing that does a lot to sell this as a physical artefact is all the grooves that have been cut in the floor and walls. Viewed from above, they look like this:
+
+{% include figure.html src="embed/animation/little-witch/grooves.png" alt="A screenshot showing the layout of the grooves on the floor of the theatre." %}
+
+The tricky part about cutting these was keeping the UVs clean. I absolutely could not *move* vertices, since that would result in UV stretching. Instead, I used the Loop Cut and Knife tools to split edges, creating a bunch of extra topology, then deleted faces wherever wood would need to be removed to accomodate some character or scenery.
+
+Of course, this had to come right at the end, after all the animation had been finalised. I tweaked the animation a bit to make things use the same grooves as much as possible, then got cutting.
+
+I imagine the person who made this mechanical theatre sitting there with a router cutting out lines with a great deal of satisfaction.
 
 ## Compositing
 
