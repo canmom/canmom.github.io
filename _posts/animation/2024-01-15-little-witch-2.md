@@ -15,6 +15,8 @@ This is the second part in a series of how my friend Yuri Heart and I made a fil
 
 [Last time](./little-witch-1), I talked about how we built the mechanical theatre for our film to take place in. Set, lights, backdrop, and characters to inhabit them. Now we gotta bring them to life.
 
+{% include hiddentoc.md %}
+
 ## The big rig
 
 Initially, I planned to simply animate each element individually on the timeline. However, an issue soon emerged: Blender assigns each object its own animation data in something called an 'action'. It would be fiddly to have to keep jumping between actions in order to synchronise effects, and even more problematic if I wanted to move a whole group of animations at once. As it turned out there was really only one point where I had to move a whole group of animations later.
