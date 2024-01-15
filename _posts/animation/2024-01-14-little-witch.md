@@ -1,5 +1,5 @@
 ---
-title: How we made 'The Tale of the Little Witch'
+title: How we made 'The Tale of the Little Witch', part 1
 layout: article
 origin: https://canmom.tumblr.com/post/712492038712590336/when-robots-got-muscles
 excerpt: Make a short 3DCG film in a week and make it look goood! It's possible. Here's how.
@@ -38,7 +38,7 @@ Mechanical theatres, also known as automata, have been built from the 18th centu
 
 </details>
 
-Cutout animation is one of the oldest styles of animation, involving moving and replacing paper cutouts in stop motion. It's one of the oldest styles of animation, with notable examples including [<cite>The Adventures of Prince Achmed</cite>](https://en.wikipedia.org/wiki/The_Adventures_of_Prince_Achmed) by Lotte Reiniger, and the famous work of Soviet animators like Yuri Norstein (<cite>Hedgehog in the Fog</cite>, <cite>Tale of Tales</cite>), who even today labours on his forty-year magnum opus <cite>The Overcoat</cite>. In modern times, it's associated with the incredibly stylish duo [Gekidan Inu Curry](https://en.wikipedia.org/wiki/Gekidan_Inu_Curry), whose cutout collage style gave the witches in <cite>Madoka</cite> incredibly unsettling effect.
+Cutout animation is one of the oldest styles of animation, involving moving and replacing paper cutouts in stop motion. It's one of the oldest styles of animation, with notable examples including [<cite>The Adventures of Prince Achmed</cite>](https://en.wikipedia.org/wiki/The_Adventures_of_Prince_Achmed) by Lotte Reiniger, and the famous work of Soviet animators like Yuri Norstein (<cite>Hedgehog in the Fog</cite>, <cite>Tale of Tales</cite>), who even today labours on his forty-year magnum opus <cite>The Overcoat</cite>. In modern times, you might know of the incredibly stylish duo [Gekidan Inu Curry](https://en.wikipedia.org/wiki/Gekidan_Inu_Curry), whose cutout collage style gave the witches in <cite>Madoka</cite> incredibly unsettling effect. Or maybe you just think of <cite>South Park</cite>. It's a versatile method!
 
 Our film took inspiration for this, but in Blender. I wanted to generally give the impression that the whole film would be running a mechanical theatre, one made with everyday materials like cardboard, foil and small light bulbs. Some of the motions in the film would be impossible to do with a mechanism (mainly the part where the Little Witch flies around!), so I imagine they were done with stop motion and the supporting armature painted out. But mostly... *mostly* we kept to this idea!
 
@@ -50,7 +50,7 @@ Given the incredibly tight frame though this was absolutely the way to go. But h
 
 So, the idea took shape: the story would be told in a mechanical theatre using cutouts. To add a little interest to the cutouts, we used a 'line boil' effect, where three very similar drawings are alternated. Behind the characters is a screen showing slides of Japanese text, and 2D animations of magic effects.
 
-Originally this backdrop was going to be paper slides, but I hit on the idea of a projector in the back of the theatre that would shine on the back screen. We did this in a really cool way---we are actually simulating the projector.
+Originally this backdrop was going to be paper slides, but we hit on the idea of a projector in the back of the theatre that would shine on the back screen. We did this in a really cool way---we are actually simulating the projector.
 
 The rest unfolded over the week...
 
@@ -60,11 +60,13 @@ Since the animation in this film is so tightly coupled to the music and narratio
 
 Yuri wrote the script for the narration really quickly, and composed the music in a matter of hours. It was deeply impressive. Our narrator, [Roubharb](https://www.twitch.tv/roubharb), recorded the narration on one of the first nights, giving a viable backing track that we could start animating to.
 
-Audio isn't my field (yet), so I can't tell you what tricks she pulled to clean and balance the recording or how she went about composing the music. It seems like dark magic to me! The result was amazing though and it does so much to set the vibe of the short.
+Audio isn't my field (yet), so I can't tell you what tricks she pulled to mix and balance the recording or how she went about composing the music. It seems like dark magic to me! The result was amazing though and it does so much to set the vibe of the short.
 
 ## Building the stage
 
-The mechanical theatre model is actually incredibly simple: it's just a wedge shape with a box around it. On top of this I applied solidify and bevel modifiers---a non-destructive technique which made it very easy to modify the theatre if I needed to. The only tricky part was setting up the UVs to avoid stretching and make sure the wood grain would always go in the right direction. (There are a lot of grooves cut in the theatre for paper elements to slide in and out, but I did these at the very last minute, once the animation was finalised. So I'll come to that later!)
+The mechanical theatre model is actually incredibly simple: it's just a wedge shape with a box around it. Why a wedge? It helps the side walls feel more visible, and lets us use a 4:3 aspect ratio on the projector screen. It also introduces an element of forced perspective.
+
+On top of this I applied solidify and bevel modifiers---a non-destructive technique which made it very easy to modify the theatre if I needed to. The only tricky part was setting up the UVs to avoid stretching and make sure the wood grain would always go in the right direction. (There are a lot of grooves cut in the theatre for paper elements to slide in and out, but I did these at the very last minute, once the animation was finalised. So I'll come to that later!)
 
 {% include figure.html src="embed/animation/little-witch/theatre-model.png" alt="An unlit version of the theatre box, showing the model topology." capt="If you're following along at home, note the solidify modifier was applied and superfluous edgeloops removed." %}
 
@@ -92,9 +94,9 @@ The subtle gradients across the projector screen actually caused no end of troub
 
 ### The content of the projector
 
-At the outset, the projector simply displays the narration translated into Japanese. Later... my lips are sealed. Yuri created this on her side and exported it as a video file I could use as an animated texture. She did an amazing job with the typography and layouts, which I proceded to mangle by passing it through a distorted projector ;p
+At the outset, the projector simply displays the narration translated into Japanese. Later... my lips are sealed. Yuri created this on her side and exported it as a video file I could use as an animated texture. She did an amazing job with the typography and layouts, which I proceeded to mangle by passing it through a distorted projector ;p
 
-For the most part, almost all the animation in this project was done in Blender. However, for the 'weave her soul into the very fabric of the universe' part, and a couple of other effects, Yuri made a 2D animation in Clip Studio Paint, with the lines weaving together and morphing into fish. My side of this was super easy, it's just part of the projector video file.
+For the most part, almost all the animation in this project was done in Blender. However, for the 'weave her soul into the very fabric of the universe' part, and a couple of other effects, Yuri made a 2D animation with the lines weaving together and morphing into fish. My side of this was super easy, it's just part of the projector video file.
 
 ### The other lights
 
@@ -112,7 +114,7 @@ The coloured lights aren't directly visible from the front of the stage, but the
 
 ### The characters and scenery
 
-The various sprites that Yuri drew in Clip Studio are added using the Images As Planes addon, which comes packaged with Blender. I modified the material to add a small amount of SSS and a subtle normal map, and to create the line boil effect. Each one is simply a quad with an alpha channel mapped to the principled shader's alpha input (*not* transmission).
+Yuri's sprites are added using the Images As Planes addon, which comes packaged with Blender. I modified the material to add a small amount of SSS and a subtle normal map, and to create the line boil effect. Each one is simply a quad with an alpha channel mapped to the principled shader's alpha input (*not* transmission).
 
 The line boil on the characters is accomplished by rotating through the three different images cyclically. Unfortunately, the way Blender's image sequence node works makes this a bit harder than it needs to be. Essentially, the image sequence will advance every frame no matter what, there's no way to control this directly. In our case, we wanted a slower line boil effect, every 10 frames (1/3 of a second at the target 30fps, equivalent to 8 frames if animating at the traditional 24fps). Luckily, this can be achieved with some driver magic using the modulo operator. Put the following expression into the driver for the 'offset' field...
 
@@ -150,21 +152,23 @@ When animating the gears (and everything else), I made sure to do a lot of overs
 
 The train is built the same way as the other sprites, but it has emission set on its windows so they glow. It's bright enough to trigger the bloom effect, which looks very pretty. It also has a small spotlight at the front.
 
-The train exits through a door that swings up at the edge of the stage. During the credits I have it come back in through that same door and exit through a narrow slot. I didn't want to add an extra door...
+The train exits through a door that swings up at the edge of the stage. I made sure to give it a bit of a bounce when it swings back down. This ended up looking so nice that I had it come back across the stage during the credits.
 
 ### The curtains
 
-The curtains were actually one of the first things I made. They are of course animated with Blender's cloth sim. The question is, how do you animate cloth? The answer is ~~with great difficulty~~ that you use a pinning group and shape keys.
+The curtains were actually one of the first things I made. They are of course simulated---Blender has a good cloth sim engine. The question is, how do you actually *animate* cloth? The answer is ~~with great difficulty~~ that you use a pinning group and shape keys.
 
 The actual cloth model is nothing more than a grid with a subdivision surface. (It's often a good idea to simulate at a lower resolution and then use subsurf to smooth the result.) I assign the top row of vertices and a couple of vertices in the middle edge to the pin group with max weight, everything else gets weight zero.
 
-A computer cloth sim essentially treats all the edges in a model as springs and all the vertices as weights. If the springs are stretched out, a force will pull the vertices in that direction. So, if you animate the vertices of a pin group, it will stretch out the springs and tug the cloth with it.
+A computer cloth sim essentially treats all the edges in a model as springs and all the vertices as weights. If the springs are stretched out, a force will pull the vertices in that direction. A pinning group is a set of vertices that aren't affected by the sim. So, if you animate the vertices of a pin group, it will stretch out the springs and tug the cloth with it during the simulation.
 
 The cloth is animated in three stages. Firstly, for the 'open curtain' stage, starting from before the first frame, we animate the pin group along the upper edge of the curtain into a zigzag shape. This is a standard technique for making a curtain.
 
 {% include figure.html src="embed/animation/little-witch/curtain-hang.png" alt="The first shape key, with the top row of vertices bunched into a zigzag pattern." %}
 
-This part takes place before the beginning of the actual film. Unfortunately, starting before frame zero caused problems with Blender's ability to store a point cache between sessions. This meant I'd have to re-simulate the cloth every time I closed and reoopened Blender.
+This part takes place before the beginning of the actual film. Unfortunately, starting before frame zero caused problems with Blender's ability to store a point cache between sessions. This meant I'd have to re-simulate the cloth every time I closed and reoopened Blender. This was annoying, but luckily as long as the inputs are the same, the cloth sim is deterministic.
+
+To prevent the two curtains from clipping into each other, I added a cube with collision that would block off each one from the other curtain's side. These each lived in their own collection so I could toggle them on and off quickly for re-sim. The cloth also collides with the stage.
 
 For the actual animation, there are two stages. We start by moving a small cluster of vertices at the inner edge of the curtain outwards, as if there is a hidden string tugging the curtain open. That looks like this:
 
@@ -174,13 +178,25 @@ In another shape key, we squeeze that zigzag shape at the top of the curtain, an
 
 {% include figure.html src="embed/animation/little-witch/curtain-quarter.png" alt="The third shape key, with the vertices at the top squeezed off to the side." %}
 
-We animate the third shape key with a slight delay compared to the second shape key. With the right timing, this creates a convincing impression that the hidden string is pulling the curtain open.
+We animate the third shape key with a slight delay compared to the second shape key. With the right timing, this creates a convincing impression that the hidden string is pulling the curtain open. (Since the light is very dark, I didn't add any more visible details, like a curtain rail or string. But more complex cloth sims are definitely possible by extending this method.)
 
 I called these shape keys 'hang', 'draw' and 'quarter'.
 
+### The grooves in the floor and walls
+
+One simple thing that does a lot to sell this as a physical artefact is all the grooves that have been cut in the floor and walls. Viewed from above, they look like this:
+
+{% include figure.html src="embed/animation/little-witch/grooves.png" alt="A screenshot showing the layout of the grooves on the floor of the theatre." %}
+
+The tricky part about cutting these was keeping the UVs clean. I absolutely could not *move* vertices, since that would result in UV stretching. Instead, I used the Loop Cut and Knife tools to split edges, creating a bunch of extra topology, then deleted faces wherever wood would need to be removed to accomodate some character or scenery.
+
+Of course, this had to come right at the end, after all the animation had been finalised. I tweaked the animation a bit to make things use the same grooves as much as possible, then got cutting.
+
+I imagine the person who made this mechanical theatre sitting there with a router cutting out lines with a great deal of satisfaction.
+
 ## The house
 
-We animated the short pretty much in order, beginning to end. As we reached the part where the Witch goes into seclusion to make her machines, Yuri suggested the house could be made in 3D. This was an exciting challenge for me, and I set about making the house out of cardboard.
+We animated the short pretty much in order, beginning to end. As we reached the part where the Witch goes into seclusion to make her machines, Yuri suggested the house could be made in 3D. This was an exciting challenge for me, and I set about making the house out of virtual cardboard.
 
 Here's a render of the house out in the open under bright lighting conditions.
 
@@ -190,13 +206,15 @@ I polymodelled this using, once again, the good old solidify and bevel modifiers
 
 {% include figure.html src="embed/animation/little-witch/house-render-upside-down.png" alt="A render of the witch's house on its roof, under bright lighting." %}
 
-The cardboard actually only uses one material, but I multiply the base colour with a vertex colour, allowing me to colour different parts of the card. In this case, I only went for bare card and purple card. The sign uses a different material, a wood texture from---you guessed it!---poliigon. I put the base colour through a gamma 0.6 function to lighten the wood, and subtracted out the value of the text's alpha channel. Fans of Yoko Taro's games may recognise the [Celestial Alphabet](https://en.wikipedia.org/wiki/Celestial_Alphabet)---this was actually Yuri's idea, since she knows I'm a huge NieR nerd, bless her. It says 'majokko' (<span lang="jp">魔女っ子</span>).
+The cardboard actually only uses one material, but I multiply the base colour with a vertex colour, allowing me to colour different parts of the card. In this case, I only went for bare card and purple card. The sign uses a different material, a wood texture from---you guessed it!---poliigon. I put the base colour through a gamma 0.6 function to lighten the wood, and subtracted out the value of the text's alpha channel.
 
-You might notice the faintly visible strings holding the house as it's lowered onto the stage. I'm really proud of these. The main strings are simple enough, just curves with a circular profile attaching to four corners of the house, and a nearly-transparent material so all you will see is specular reflections. But the really cool part comes in the two lines which attach to the front panel. To explain, let me make them a bit more visible, and show you how it works...
+You might notice the faintly visible strings holding the house as it's lowered onto the stage. I'm really proud of these. The main strings are simple enough, just straight-line curves with a circular profile attaching to four corners of the house, and a nearly-transparent material so all you will see is specular reflections. But the really cool part comes in the two lines which attach to the front panel. Their job is to lift it back off the stage after the house comes down to reveal the interior.
+
+Let me make them a bit more visible, and show you how it works...
 
 {% include figure.html src="embed/animation/little-witch/house-strings-slack.png" alt="A render of the house with the strings holding the front panel slack, and highlighted in red." capt="At first, the strings are slack. The slack and taut shapes are shape keys on the curve. A driver controls the blending, which is connected to a bone in the control rig." %}
 
-{% include figure.html src="embed/animation/little-witch/house-strings-front-detach.png" alt="Now the front panel tilts forward and the string is more taut." capt="I animate the front panel tilting forwards, and at the same time, make the strings more taut. The strings are attached to empties using a 'copy location' constraint. The empties are parented to points on the front panel. Using this method, the strings will always attach to the right spot and point straight up." %}
+{% include figure.html src="embed/animation/little-witch/house-strings-front-detach.png" alt="Now the front panel tilts forward and the string is more taut." capt="I animate the front panel tilting forwards, and at the same time, make the strings more taut. The strings are attached to empties using a 'copy location' constraint. The empties are parented to points on the front panel. Using this method, the strings will always attach to the right spots, and point straight up." %}
 
 {% include figure.html src="embed/animation/little-witch/house-strings-front-swing.png" alt="The front panel lifts up on taut strings, swinging forwards." capt="As the string becomes taut, I animate the front panel lifting up. I make it swing back and forth a bit to give it a sense of weight." %}
 
@@ -204,7 +222,7 @@ The result ended up feeling very natural, without the strings being distracting.
 
 ### The light bulbs
 
-The house has several lights attached to it. The main one is the three lightbulbs in the fireplace. There is also a magic lamp on the outside of the house, and the fairy lights in the attic.
+The house has several lights attached to it. The main one is the three lightbulbs in the fireplace. There is also a magic lantern on the outside of the house, and the fairy lights in the attic.
 
 The light bulbs caused no end of trouble. I wanted to model real light bulbs with filaments. However, when I did this, the render would become incredibly noisy and take much much longer. Even with the AI denoiser (discussed later), we were getting nowhere near acceptable results.
 
@@ -304,7 +322,7 @@ Blender has two render engines, Cycles and Eevee. Eevee is a real-time rasterisa
 
 ### The curse
 
-The curse symbol that appears over the Witch's heart beats in time with the music. Actually lining this up was a bit fiddly because the music does some pretty creative things with tempo and my musical knowledge is pretty limited. I calculated roughly the right places to put each heartbeat, and then moved them around a bit to line up with noticeable musical ideas. I'm not sure I did it exactly right but it works well enough.
+The curse symbol that appears over the Witch's heart beats in time with the music. Actually lining this up was a bit fiddly because the music does some pretty creative things with tempo and my musical knowledge is pretty limited. I calculated roughly the right places to put each heartbeat, and then moved them around a bit to line up with noticeable musical ideas.
 
 Every time the heart beats it shrinks down for one frame of anticipation before popping big and settling back.
 
@@ -314,11 +332,11 @@ Instead, each particle instances a tiny little needle-shaped object that is alig
 
 The particle shader is very simple. It just takes the particle's age divided by its lifetime and uses this to interpolate from the bright magenta colour of magic down to a cyan colour. The emission strength is animated in the same way. The stage is set to act as a collider so it will bounce around for a bit.	
 
-It's not a super complicated particle effect, much more advanced stuff is possible, but it got the job done.
+It's not a super complicated particle effect, much more advanced stuff is possible, but still plenty effective in combination with the reflections from the stage.
 
-### Truck-kun
+### The truck
 
-So at the end of the animation, the witch is run down by truck-kun. (Look close at the hiragana.)
+So at the end of the animation, the witch is run down by a truck.
 
 The truck zips across the screen very quickly without any easing at all. For just one frame prior to the impact we dim all the lights to near zero, creating an impact frame; then we turn them *all* on to maximum brightness, and gradually dim it. The curse, which represents the witch's life, gradually shrinks away. There's another brief flash at the very end as the witch is consumed by the curse.
 
@@ -327,18 +345,6 @@ In terms of effort to animation time, this part of the animation was by far the 
 ### Credits
 
 After that, we roll credits on the projector! Yuri drew some great character sketches of me and Roub. For the final version of the animation, I added a couple of extra animations to the credits to give it life---Yuri steps in and takes a bow, and the train comes back in.
-
-### The grooves in the floor and walls
-
-One simple thing that does a lot to sell this as a physical artefact is all the grooves that have been cut in the floor and walls. Viewed from above, they look like this:
-
-{% include figure.html src="embed/animation/little-witch/grooves.png" alt="A screenshot showing the layout of the grooves on the floor of the theatre." %}
-
-The tricky part about cutting these was keeping the UVs clean. I absolutely could not *move* vertices, since that would result in UV stretching. Instead, I used the Loop Cut and Knife tools to split edges, creating a bunch of extra topology, then deleted faces wherever wood would need to be removed to accomodate some character or scenery.
-
-Of course, this had to come right at the end, after all the animation had been finalised. I tweaked the animation a bit to make things use the same grooves as much as possible, then got cutting.
-
-I imagine the person who made this mechanical theatre sitting there with a router cutting out lines with a great deal of satisfaction.
 
 ## Compositing
 
@@ -412,7 +418,7 @@ That projector screen proved to be my downfall. If we uploaded the original 1080
 
 Youtube's encoding is unavoidable, but there are some tricks we could use. Mainly, Youtube is much more generous to 1440p and 4K videos. It gives them higher bitrates and uses the more efficient VP9 codec instead of H264. So, if video quality is a serious concern, you may have to do something evil. You may have to upload a 1080p video... upscaled to 4k.
 
-They would shoot you for that on nyaa.
+They would shoot you for that on nyaa.si.
 
 To make a very long story short, here's the eventual recipe I came up with.
 
@@ -444,13 +450,13 @@ I don't recommend writing it directly, though. Instead, the authoring workflow I
  - use [this Python script](https://github.com/arcusmaximus/YTSubConverter) to generate a YTT file from the ASS file. It's decent enough but if you use advanced features like certain types of karaoke sub, it can break, or just look different from how the ASS file renders. so, you might need to...
  - crack open that YTT file in a text editor. with some judicious find and replaces, you can clean split the lines into something a bit more readable. make any edits you need to.
  - on Youtube, upload the subtitle file. *do not edit it in the web-based editor* or it will strip all the formatting (thanks, Youtube!).
- - open your video page and refresh it to see the subtitle.
+ - open your video page or refresh it to see the subtitle.
 
 ## All in all
 
 If you want to make a short film in a week, I hope this helps! If you want to make a short film in *longer* than a week, you're more sensible than me. I also hope this helps!
 
-This project was so much fun to work on, I can't wait to do more. Just one of those times when you and the other person get each other fired off, bouncing ideas back and forth and feverishly making a thing. The cutout style proved perfect: complex enough to provide something to get our teeth into, but restricted enough to get it done in the time.
+This project was so much fun to work on, I can't wait to do more. Just one of those times when you and the other person get each other fired up, bouncing ideas back and forth and feverishly making a thing. The cutout style proved perfect: complex enough to provide something to get our teeth into, but restricted enough to get it done in the time.
 
 What's next after the Tale of the Little Witch? Why not go and [watch a few of Yuri's streams](https://www.twitch.tv/yuriheart), and you'll be the first to know ;)
 
