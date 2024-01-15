@@ -271,6 +271,20 @@ main figure {
     flex-direction: column;
 }
 
+main figure.video {
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+}
+
+main figure.video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 main.comic figure {
     clear: right;
 }
@@ -691,6 +705,10 @@ dd blockquote {
     main figure {
         margin-left: -75px;
         margin-right: -100px;
+    }
+
+    main > figure.video {
+        padding-bottom: calc(0.5625 * (100% + 75px + 100px));
     }
 }
 

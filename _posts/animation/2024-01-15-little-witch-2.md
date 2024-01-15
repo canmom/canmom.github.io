@@ -47,23 +47,23 @@ Nevertheless, having chosen this path, I set about animating...
 
 ## It's time for... animation!
 
-Cutout animation in this style is very limited. You can only move the sprites around. A lot of stuff like squash and stretch and secondary motion and solid drawing and all that jazz is just not relevant. *But*. Some of it really is.
+Cutout animation in this style is very limited. You can only move the sprites around. A lot of stuff like squash and stretch and secondary motion and solid drawing and all that jazz is just not relevant. *But*. Some of it really is. Even more so in fact, because it has to carry the whole animation.
 
-Just about everything that moves in this animation has a bit of overshoot and settle, usually a few rounds of it. The idea is that it should feel like a mechanism clicking into place. This does a *lot* to add life to the paper cutout animation. This is very easy to do. You move and/or rotate it past the target point and keyframe it. Then you move or rotate it back slightly a few frames later and keyframe it again. If it's too much, tweak the keyframes.
+Just about everything that moves in this animation has a bit of overshoot and settle, usually a few rounds of it. The idea is that it should feel like a mechanism clicking into place. This does a *lot* to add life to the paper cutout animation. It's also very easy to do. You move and/or rotate it past the target point and keyframe it. Then you move or rotate it back slightly a few frames later and keyframe it again. If it goes too far, tweak the keyframes.
 
-Although that was often enough, sometimes it wasn't and you had to get into the IPO curves. IPO is short for 'interpolation', and it defines how objects move in between keyframes. You can choose from a variety of easing functions or create your own curve with Bézier handles.
+Although that was often enough, sometimes it wasn't and you had to get into the IPO curves. IPO is short for 'interpolation', and it defines how objects move in between keyframes. You can choose from a variety of easing functions or create your own curve with Bézier handles. For bigger motions, it can be essential to adjust the IPO curves to get good arcs and spacing.
 
 The 'motion paths' tool can be enabled inside an armature to get a kind of onion-skin like effect for bones. This is *very* useful as a way to preview your animation curves and check spacing without having to play back the whole animation. You could also consider the [mesh onion skins](https://github.com/tingjoybits/Mesh_Onion_Skins) addon. I didn't use it in this project, but it's been useful in others!
 
 {% include figure.html src="embed/animation/little-witch/motion-paths.png" alt="A screenshot showing the motion path for the flying-about scene." %}
 
-In general, it was often better to use automatic easing with few keyframes than to try to set the handles myself. It's fast, and also often led to more natural result. However, if you take this approach, it's very important to know when to use 'automatic' and when to use 'automatic clamped'---one option can overshoot in certain ways, one won't. For example, in the bit where the witch flies up and around, because she makes some abrupt turns and I needed to make sure she wouldn't disappear behind the scenery, I mostly used 'automatic clamped' to keep her in the right zone.
+It was often better to use automatic easing with few keyframes than to try to set the handles myself. It's fast, and also often led to more natural result. However, if you take this approach, it's very important to know when to use 'automatic' and when to use 'automatic clamped'---one option can overshoot in certain ways, one won't. For example, in the bit where the witch flies up and around, because she makes some abrupt turns and I needed to make sure she wouldn't disappear behind the scenery, I mostly used 'automatic clamped' to keep her in the right zone.
 
 In general, making the picture-book elements feel good depended on moving to hit the strong beats of the song, and overlapping multiple motions in a ripple-like effect.
 
 One of the most interesting moments from an animation perspective is the point where the Witch constructs her four friends. While everything else in the animation was supposed to feel a little organic, this part needed to be *very* mechanical. The machines had to rise up in sync to the same beat, and they would rock back and forth in sync as well, feeling like a conveyor belt. There is very little easing in this part. This was Yuri's idea, and it worked *great*.
 
-(do you recognise these friends? if not, why not go and watch a few of Yuri's VODs~)
+(do you recognise these friends? if not, why not go and watch [a few](https://www.twitch.tv/yuriheart/videos) of Yuri's VODs~ ;P )
 
 ### Eevee
 
@@ -81,7 +81,11 @@ The curse symbol that appears over the Witch's heart beats in time with the musi
 
 Every time the heart beats it shrinks down for one frame of anticipation before popping big and settling back.
 
-The first heartbeat is special, because that's the one with the particle effect. It comes in on a very impactful beat of the music, and the particles bounce around all over the stage and change colour. Setting up the sim was pretty easy---they're all sprayed out from an icosphere. The tricky part was getting the elongated spark look. This could have been done with motion blur, which would be the most accurate way to do it, but I didn't want to use motion blur elsewhere in the animation.
+The first heartbeat is special, because that's the one with the particle effect. It comes in on a very impactful beat of the music, and the particles bounce around all over the stage and change colour.
+
+{% include video.html src="embed/animation/little-witch/particles.mp4" loop=1 %}
+
+Setting up the sim was pretty easy---they're all sprayed out from an icosphere on the same frame. The tricky part was getting the elongated spark look. This could have been done with motion blur, which would be the most accurate way to do it, but I didn't want to use motion blur elsewhere in the animation.
 
 Instead, each particle instances a tiny little needle-shaped object that is aligned to the direction of motion. We simulate rotation, so these particles roughly aline to the direction of motion. With so many particles flying around, it works reasonably well.
 
@@ -207,13 +211,63 @@ I don't recommend writing it directly, though. Instead, the authoring workflow I
  - on Youtube, upload the subtitle file. *do not edit it in the web-based editor* or it will strip all the formatting (thanks, Youtube!).
  - open your video page or refresh it to see the subtitle.
 
+You will see that YTSubConverter achieves a lot of effects, like karaoke subs and fades, simply by writing the same sub out multiple times back to back with slightly different formatting. For example, here's how a karaoke effect with a fade looks:
+
+<details markdown="1">
+<summary>Example subtitle fade effect</summary>
+
+```html
+<p t="137020" d="67" wp="1" ws="1"><s p="3"> “</s><s p="11">Please! </s><s p="4">Let me be reborn as a...” </s></p>
+<p t="137087" d="67" wp="1" ws="1"><s p="5"> “</s><s p="12">Please! </s><s p="4">Let me be reborn as a...” </s></p>
+<p t="137154" d="67" wp="1" ws="1"><s p="6"> “</s><s p="13">Please! </s><s p="4">Let me be reborn as a...” </s></p>
+<p t="137221" d="66" wp="1" ws="1"><s p="7"> “</s><s p="14">Please! </s><s p="4">Let me be reborn as a...” </s></p>
+<p t="137287" d="67" wp="1" ws="1"><s p="8"> “</s><s p="15">Please! </s><s p="4">Let me be reborn as a...” </s></p>
+<p t="137354" d="67" wp="1" ws="1"><s p="9"> “</s><s p="16">Please! </s><s p="4">Let me be reborn as a...” </s></p>
+<p t="137421" d="100" wp="1" ws="1"><s p="10"> “</s><s p="17">Please! </s><s p="4">Let me be reborn as a...” </s></p>
+<p t="137521" d="1368" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! </s><s p="4">Let me be reborn as a...” </s></p>
+<p t="138889" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! </s><s p="19">Let </s><s p="4">me be reborn as a...” </s></p>
+<p t="138956" d="100" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! </s><s p="20">Let </s><s p="4">me be reborn as a...” </s></p>
+<p t="139056" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let </s><s p="21">me </s><s p="4">be reborn as a...” </s></p>
+<p t="139123" d="66" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let </s><s p="22">me </s><s p="4">be reborn as a...” </s></p>
+<p t="139189" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let </s><s p="23">me </s><s p="4">be reborn as a...” </s></p>
+<p t="139256" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me </s><s p="21">be </s><s p="4">reborn as a...” </s></p>
+<p t="139323" d="66" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me </s><s p="22">be </s><s p="4">reborn as a...” </s></p>
+<p t="139389" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me </s><s p="23">be </s><s p="4">reborn as a...” </s></p>
+<p t="139456" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be </s><s p="11">reborn </s><s p="4">as a...” </s></p>
+<p t="139523" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be </s><s p="12">reborn </s><s p="4">as a...” </s></p>
+<p t="139590" d="66" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be </s><s p="13">reborn </s><s p="4">as a...” </s></p>
+<p t="139656" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be </s><s p="14">reborn </s><s p="4">as a...” </s></p>
+<p t="139723" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be </s><s p="15">reborn </s><s p="4">as a...” </s></p>
+<p t="139790" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be </s><s p="16">reborn </s><s p="4">as a...” </s></p>
+<p t="139857" d="100" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be </s><s p="17">reborn </s><s p="4">as a...” </s></p>
+<p t="139957" d="66" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn </s><s p="24">as </s><s p="4">a...” </s></p>
+<p t="140023" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn </s><s p="25">as </s><s p="4">a...” </s></p>
+<p t="140090" d="100" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn </s><s p="16">as </s><s p="4">a...” </s></p>
+<p t="140190" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn as a...</s><s p="3">” </s></p>
+<p t="140257" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn as a...</s><s p="5">” </s></p>
+<p t="140324" d="66" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn as a...</s><s p="6">” </s></p>
+<p t="140390" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn as a...</s><s p="7">” </s></p>
+<p t="140457" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn as a...</s><s p="8">” </s></p>
+<p t="140524" d="67" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn as a...</s><s p="9">” </s></p>
+<p t="140591" d="100" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn as a...</s><s p="10">” </s></p>
+<p t="140691" d="467" wp="1" ws="1"><s p="2"> “</s><s p="18">Please! Let me be reborn as a...</s><s p="2">” </s></p>
+```
+
+Here, the p attribute selects from a series of styles defined at the beginning of the document with varying opacities. These are automatically generated by YTSubConverter.
+
+</details>
+
 ## All in all
 
 If you want to make a short film in a week, I hope this helps! If you want to make a short film in *longer* than a week, you're more sensible than me. I also hope this helps!
 
-This project was so much fun to work on, I can't wait to do more. Just one of those times when you and the other person get each other fired up, bouncing ideas back and forth and feverishly making a thing. The cutout style proved perfect: complex enough to provide something to get our teeth into, but restricted enough to get it done in the time.
+Here's the fruit of our labours, one more time...
 
-What's next after the Tale of the Little Witch? Why not go and [watch a few of Yuri's streams](https://www.twitch.tv/yuriheart), and you'll be the first to know ;)
+{% include youtube.html id="NsnS8-fGe90" %}
+
+This project was so much fun to work on. Just one of those times when you and the other person get each other fired up, bouncing ideas back and forth and feverishly making a thing. The cutout style proved perfect: complex enough to provide something to get our teeth into, but restricted enough to get it done in the time.
+
+What's next after <cite>The Tale of the Little Witch</cite>? Why not go and [watch a few of Yuri's streams](https://www.twitch.tv/yuriheart), and you'll be the first to know ;)
 
 <details markdown="1">
 <summary>Resources and tools we used</summary>
