@@ -274,7 +274,7 @@ What's next after <cite>The Tale of the Little Witch</cite>? Why not go and [wat
 
 - [Blender](https://www.blender.org/) - 3d modelling, shading, rigging, animation, rendering, compositing and editing
     - [Precision Gears](https://blendermarket.com/products/precision-gears) - modelling and animating gears \[requires money but cheap\]
-    - [Poliigon](https://www.poliigon.com/) - PBR textures and HDRI
+    - [PolyHaven](https://polyhaven.com) - PBR textures and HDRI
 - [Ableton Live](https://www.ableton.com/en/live/) - music composition \[requires money\]
 - [Clip Studio Paint](https://www.clipstudio.net/en/) - 2D drawing and animation \[requires money - [Krita](https://krita.org/en/) is a great free, open source alternative!\]
 - [Hybrid](https://www.selur.de/) - video encoding

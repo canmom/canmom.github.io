@@ -70,7 +70,7 @@ On top of this I applied solidify and bevel modifiers---a non-destructive techni
 
 {% include figure.html src="embed/animation/little-witch/theatre-model.png" alt="An unlit version of the theatre box, showing the model topology." capt="If you're following along at home, note the solidify modifier was applied and superfluous edgeloops removed." %}
 
-To make the stage look really good I needed nice physics-based materials to texture it with. Fortunately, there are a great many libraries of free PBR texture maps out there nowadays. One of the major ones is [Poliigon](https://www.poliigon.com/), and a lot of our materials came from there. Using PBR textures and the Principled shader makes things incredibly easy: you get all the realistic speculars and Fresnel effect just like that.
+To make the stage look really good I needed nice physics-based materials to texture it with. Fortunately, there are a great many libraries of free PBR texture maps out there nowadays. One of the major ones is [PolyHaven](https://polyhaven.com), and a lot of our materials came from there. Using PBR textures and the Principled shader makes things incredibly easy: you get all the realistic speculars and Fresnel effect just like that.
 
 I used the wood material pretty much as-is, but other materials took some modifications. Let's talk about the projector, because it's definitely the coolest one in the scene!
 
@@ -104,7 +104,7 @@ The projector spills light quite nicely into the scene, but everything else need
 
 In addition to that, there is a spotlight which shines in the centre of the stage. Another driver controls both the size and brightness of this spotlight, giving it the appearance of opening an aperture.
 
-On top of all these lights are the house lights, which are created by an HDRI image from [Poliigon](https://www.poliigon.com/). I turn down the brightness of this HDRI at the beginning as the curtains open, which gives us a glimpse of the normal map on the back screen.
+On top of all these lights are the house lights, which are created by an HDRI image from [PolyHaven](https://polyhaven.com). I turn down the brightness of this HDRI at the beginning as the curtains open, which gives us a glimpse of the normal map on the back screen.
 
 {% include figure.html src="embed/animation/little-witch/backstage-view.png" alt="Render from inside the stage, showing the major lights." capt="This is what the stage looks like from the projector's side, showing the four stage lights and the HDRI in the background (with bokeh)." %}
 
