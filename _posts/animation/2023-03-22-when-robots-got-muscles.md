@@ -2,7 +2,7 @@
 title: When robots got muscles
 layout: article
 origin: https://canmom.tumblr.com/post/712492038712590336/when-robots-got-muscles
-excerpt: A history of robot designs from the eighties on with a throughline of biomimesis and mechaguro.
+excerpt: A history of robot designs from the eighties on with a throughline of biomimesis and mechabare.
 categories:
  - animation
 tags:
@@ -45,9 +45,9 @@ When you attempt to translate biological forms into a more mechanical design lan
 
 So let’s tell the story. We begin at the end of the 70s.
 
-## DAWN OF MECHAGURO: the nineteen-eighties
+## DAWN OF MECHABARE: the nineteen-eighties
 
-For an early example of ‘mechaguro’ (a term I’m applying very anachronistically!), when a robot gets smashed up, we have <cite>Alien</cite> (1979). This film did a ridiculous amount to define sci-fi design language, and of course the alien itself blends mechanical and biological forms after the designs of H.R. Giger, with its glossy black surface allowing it to seem to melt into the exposed pipes of the spaceship. But let’s focus on the character Ash, a secret android who is broken apart in the second half of the film.
+For an early example of ‘mechabare’ (a term I’m applying very anachronistically!), when a robot gets smashed up, we have <cite>Alien</cite> (1979). This film did a ridiculous amount to define sci-fi design language, and of course the alien itself blends mechanical and biological forms after the designs of H.R. Giger, with its glossy black surface allowing it to seem to melt into the exposed pipes of the spaceship. But let’s focus on the character Ash, a secret android who is broken apart in the second half of the film.
 
 {% include figure.html src="embed/animation/robots/alien.webp" alt="Still from Alien (1979). The android Ash has been beheaded, revealing a cluster of white beads under a latex-like shell. Everything is splattered with white goo." %}
 
@@ -217,7 +217,7 @@ Before long she is rebuilt (twice in the manga, once in the anime). Her new body
 
 {% include figure.html src="embed/animation/robots/gunnm-3.webp" alt="Still from Gunnm. A badly damaged Yugo leans back against the same cable." %}
 
-which gets mashed to pieces in the finale of the OVA. There’s a striking mechaguro scene in which Gally catches Yugo, but leaves him hanging by a fraying arm, which snaps, leaving him to fall to his death. Compared to later iterations of the ‘robot arm torn apart’ device, this one’s relatively light on detail…
+which gets mashed to pieces in the finale of the OVA. There’s a striking mechabare scene in which Gally catches Yugo, but leaves him hanging by a fraying arm, which snaps, leaving him to fall to his death. Compared to later iterations of the ‘robot arm torn apart’ device, this one’s relatively light on detail…
 
 {% include figure.html src="embed/animation/robots/gunnm-4.webp" alt="Still from Gunnm. Yugo's arm tears apart as Gally tries to rescue him. The inside of his arm is mostly cables." %}
 
@@ -265,7 +265,7 @@ Also in this scene we encounter a robot body that has been stripped of her arms,
 
 For the Terminator, having its body smashed up and continuing to walk was a demonstration of its strength. Here, as would become perhaps an increasing motif, having a robot body is a source of vulnerability: people can do things to you that would kill an ordinary human but you keep going through it. Not surprisingly, ‘robot body maintenance’ is a recurring porn device. (One that GitS deploys in SAC s2).
 
-But of course this all builds up to the <strong><em>all time classics of mechaguro</em></strong> scene at the ending <a href="https://www.sakugabooru.com/post/show/120948">where the Major attempts to tear off the hatch of a spider tank</a>. Muscles ripple individually under the surface of her skin, her arms bulge in exaggerated contraction, and then her arms fully tear apart under the force.
+But of course this all builds up to the <strong><em>all time classics of mechabare</em></strong> scene at the ending <a href="https://www.sakugabooru.com/post/show/120948">where the Major attempts to tear off the hatch of a spider tank</a>. Muscles ripple individually under the surface of her skin, her arms bulge in exaggerated contraction, and then her arms fully tear apart under the force.
 
 <figure>
 <video controls width="600" loop>
@@ -412,7 +412,7 @@ If the trailer foregrounds a lot of the coolest cyberpunk imagery, and still hol
 
 A little later in 2013 comes PlatinumGames's spinoff of the <cite>Metal Gear</cite> franchise, the cyborg ninja character action game <cite>Metal Gear Rising: Revengeance</cite>, which is one of the greatest games ever made imo. While the <cite>Metal Gear</cite> series had frequently depicted giant metallic robots, and there were also occasional depictions of cyborgs with robot muscle starting with the low-res [Gray Fox](https://metalgear.fandom.com/wiki/Gray_Fox) in MGS1 and [Raiden's much more detailed cyborg body](https://static.wikia.nocookie.net/metalgear/images/c/c0/Ninja_Raiden.jpg/revision/latest?cb=20080620064342) in MGS4, MGRR went all in on the sort of DXHR-style depiction of artificial muscles. Full-body cyborgs are everywhere---the plot revolves around a bunch of brains in jars---and it features a fantastically designed rogue's gallery of cool cyborgs, such as 12-armed Mistral, or magnets themed Monsoon whose body splits into a bunch of flying disconnected slices for... reasons after he delivers a long speech about meme theory. Of course, best known is Senator Armstrong, a huge muscular US Senator whose 'nanomachines, jack!' give him strength and a resistant shell. You also get a friend who's a high-tech robot dog with a super-flexible tail.
 
-One of the key mechanics of MGRR is basically mechaguro: you cut your enemy apart (which has some kind of clever engine for efficiently splitting geometry across along planes) and grab their spine for a quick heal. When you defeat the bosses, you generally dice them into tiny pieces---even the building-sized robots.
+Many of MGRR's mechanics draw out a mechabare theme: you cut your enemy apart (which has some kind of clever engine for efficiently splitting geometry across along planes) and grab their spine for a quick heal. When you defeat the bosses, you generally dice them into tiny pieces---even the building-sized robots.
 
 The tech here is basically magic, but it is highly biomimetic magic: most of the design elements are human limbs covered in shiny plastic and perhaps carbon-fiber like grids. There is some lore about it, e.g. some of the walking-tank enemies you fight are made using cow cells, which means they moo when they attack you. Like the other <cite>Metal Gear</cite> games, <cite>Rising</cite> is full of optional, long rambling conversations ripped from science magazines, but it's art direction first. Being a cyborg is an excuse to let you jump off missiles and shit like that.
 
