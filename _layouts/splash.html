@@ -72,11 +72,11 @@
                         <section class="listing">
                             {% assign subcategories = site.data.livereads %}
                             {% for story in subcategories %}
-                            {% if "uj adventure_time umineko" contains story.path %}
+                            {% if "uj adventure-time umineko tftbn" contains story.path %}
                             <article>
                             {% capture fullpath %}{% if page.categories %}/{{ page.categories | join: "/" }}{% endif %}/livereads/{{ story.path }}/{% endcapture %}
                                 <a href='/livereads/{{ story.path }}'>
-                                  <h3>{{ story.title }}</h3>
+                                  <h1><cite>{{ story.title }}</cite></h1>
                                   {% for sitepage in site.pages %}{% if sitepage.url == fullpath %}<p>{{ sitepage.description }}</p>{% endif %}{% endfor %}
                                 </a>
                             </article>
@@ -103,7 +103,7 @@
                     <section class="articles" id="projects">
                         <h2>projects</h2>
                         <section class="listing">
-                            {% for repo in site.github.public_repositories reversed%}
+                            {% for repo in site.github.public_repositories%}
                             {% unless page.project_excludes contains repo.name %}
                             <article>
                                 <a href="{{ repo.html_url }}">
