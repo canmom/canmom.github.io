@@ -3,6 +3,8 @@ title: How much energy can you really get from a battery?
 excerpt: With highly practical methods like fusing every one of its hydrogen atoms, or dropping it in a black hole.
 layout: article
 categories: physics
+tags:
+ - physics
 ---
 Today I was looking at electric fence battery that my parents use to keep ponies in a field. The battery in question produced a potential difference of $$12\unit{V}$$, and stored a total of $$100\unit{Ah}$$ (amp-hours) of charge.
 

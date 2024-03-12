@@ -5,6 +5,7 @@ layout: article
 categories: physics
 image: /img/embed/physics/rocketequation/rocket-variables.png
 tags:
+ - physics
  - space
  - rockets
 ---
