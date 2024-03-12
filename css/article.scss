@@ -277,6 +277,10 @@ main figure.video {
     position: relative;
 }
 
+main figure.video.hascaption {
+    margin-bottom: 40px;
+}
+
 main figure.video iframe {
     position: absolute;
     top: 0;
@@ -297,6 +301,10 @@ main figure img {
 main figure figcaption {
     margin: 0 20px;
     font-size: 90%;
+}
+
+main figure.video figcaption {
+    margin-top: calc(56.25% + 10px);
 }
 
 main figure figcaption p {
