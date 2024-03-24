@@ -7,7 +7,7 @@ categories:
 tags:
  - animation night
  - toei
-excerpt: "The l face of Toei, with an artful 2D masterpiece celebrating the studio's history with a sakuga feast. Tonight we discover <cite>Nijiiro Hotaru: Eien no Natsu Yasumi</cite>."
+excerpt: "The other face of Toei, a celebration of the studio's 2D history with a sakuga feast. Tonight we discover <cite>Nijiiro Hotaru: Eien no Natsu Yasumi</cite>."
 ---
 Welcome back everyone, to the second week of the newly reborn Animation Night!
 
