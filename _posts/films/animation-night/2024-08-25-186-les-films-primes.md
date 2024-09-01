@@ -9,6 +9,7 @@ tags:
  - animation night
  - short films
  - annecy
+excerpt: Some cute little DVDs give us a chance to experience a little slice of Annecy! We take a dive into the short films of 2021 and 2022 most beloved by the French.
 ---
 
 <h1></h1>
