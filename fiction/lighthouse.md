@@ -27,9 +27,9 @@ So the next morning, when the time came to deliver food to the lighthouse keeper
 
 At the door, the adventurer placed the gifts as was the custom, and then, overcome by curiosity, she knocked at the door.
 
-Once.
-Twice.
-Three times.
+Once.\\
+Twice.\\
+Three times.\\
 Four.
 
 The knocks rang out, there was no doubt that they would have been heard. But there came no answer. So the adventurer eventually relented, and made her way back down to the village to play dice with the old fishers.
@@ -76,7 +76,7 @@ How many days passed in the end? I can't say for sure. Perhaps seven, perhaps tw
 
 But at last, there came a day...
 
-It was a gloomy day. The sky was like slate, and in the difference, there was a haze of rain obscuring the horizon. In the morning, a sunbeam would pierce this firmament here or there, but as the day wore on, the clouds grew thicker, the waves more fierce.
+It was a gloomy day. The sky was like slate, and in the distance, there was a haze of rain obscuring the horizon. In the morning, a sunbeam would pierce this firmament here or there, but as the day wore on, the clouds grew thicker, the waves more fierce.
 
 It was for days like this that the lighthouse was built. In the dead of night, a ship could so easily founder on those sharp rocks, and release its crew to Leviathan's hand. If not for the lighthouse and its keeper, many sailors would surely have met their end...
 
@@ -190,7 +190,7 @@ The adventurer smiled.
 
 "Do you like sweet things?"
 
-The rest of their conversation carried on long into the night. Slowly the creature in the lighthouse warmed up to the adventurer. They shared stories, the adventurer from her travels, the voidsent of what theu had seen from their vigil above the village.
+The rest of their conversation carried on long into the night. Slowly the creature in the lighthouse warmed up to the adventurer. They shared stories, the adventurer from her travels, the voidsent of what they had seen from their vigil above the village.
 
 Of course, the lighthouse needed tending. So they climbed up, and the adventurer sat in the cramped glass box, taking care not to block the lenses as the creature fussed.
 
