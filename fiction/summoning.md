@@ -231,7 +231,7 @@ Oh, and here we come to the best part! Your penis was quite proud at this point,
 
 ...and in one quick cut, you had it off.
 
-Some credit is certainly due, here. Most girls who do this scream a lot more. Your fear of your Master let you bite it back down, so that you could merely whimper softly, tears and snot mingling with the blood on your face.
+Some credit is certainly due, here. Most who do this scream a lot more. Your fear of your Master let you bite it back down, so that you could merely whimper softly, tears and snot mingling with the blood on your face.
 
 Your lovely actor looked like he was going to be sick. You wanted to hug him, assure him this was all according to your design... but the next step had to be done quickly or you'd pass out. You pressed your tunic up against the wound, hard as anything, but all the same it soaked rapidly with blood. After a second, the actor stepped up behind you and firm hands pressed it harder still, and his warmth was there to surround you, whispering sweet reassurances, so very softly.
 
@@ -247,7 +247,7 @@ In the anxiety of that moment, it is your actor who speaks first.
 
 "God's wounds... did you just..."
 
-You nod, peering down at me, a shirtless skinny girl tottering due to blood loss from multiple wounds, her arm withered almost to nothing, but still *determined* to see this through. Oh, I like you.
+You nod, peering down at me: a shirtless bony creature tottering due to blood loss from multiple wounds, your arm withered almost to nothing, but still *determined* to see this through. Oh, I like you.
 
 "If I am not mistaken," you announce, "we are in the company of the esteemed lady Lilith, the first woman on God's earth!" I can hear the relish---you're savouring the chance to declare that---and the desperation. You were planning this so long...
 
@@ -273,7 +273,7 @@ A nuisance. I reach out and grasp your hand, and that of your lover. The screami
 
 "Scarce would I have come," I whisper to you, "just to harm a wicked man, for there are wicked men in every generation, and I am fond of many. It is another desire felt moved to fulfil..." You try to step away from me then, but the actor is still behind you, and you almost trip. Perhaps I press too hard... so I wait. Your wish is plain as day, but I would have you say it.
 
-"I would... God has seen fit to make me a man." you say, quite incorrectly. "My master says that makes me powerful, that I carry the will to dominate. Powerful! Yet I have seen the nature of such power, and..."
+"I would... God has seen fit to make me a man." you say. "My master says that makes me powerful, that I carry the will to dominate. Powerful! Yet I have seen the nature of such power, and..."
 
 ...and it gets a bit much, and you start to cry. Such sorrow in that bony frame! That actor---he really is a sweetheart, I can see why you fell so quickly---helps you to the floor, and supports you.
 
@@ -295,7 +295,7 @@ So I continue. "If you want to go down that road... Look. I am not bound to this
 
 Because once, I was where you were. God *likes* playing this game.
 
-The actor reaches out, and places his hand on mine. "I do not pretend to understand magic, but give him---" (sigh) "---time. If he---" (sigh) "---has a woman's soul, he, or she, is among friends. But too much pressure---"
+The actor reaches out, and places his hand on mine. "I do not pretend to understand magic, but give him time. If he has a woman's soul, he, or she, is among friends. But too much pressure---"
 
 Oh, to be lectured on such matters by a baby thespian! "Yes. Thank you." I turn back to you. "Please, let us start on a different foot. Alas, I am no God, to strike down this tower. If we are to accomplish anything, it must be as one being."
 
