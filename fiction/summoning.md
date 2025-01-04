@@ -3,6 +3,8 @@ title: A Summoning
 layout: wormqueen
 category: fiction
 ---
+{% include figure.html src="embed/fiction/a-summoning-cover.webp" alt="Painting. A first-person view of a pair of hands with a bloody knife and something severed. Behind them, the Fourth Pentacle of Venus." %}
+
 # A Summoning
 
 Two months into your apprenticeship, the Master bound demons into your shoulders. They erupted in immense boils, which the master methodically lanced; you screamed into a strip of leather, shuddering against the ropes holding you to your chair.
