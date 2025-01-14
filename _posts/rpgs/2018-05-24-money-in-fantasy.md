@@ -4,6 +4,7 @@ excerpt: How can we use the messy, complicated actual history of systems of trad
 layout: article
 categories: rpgs
 tags:
+ - rpgs
  - rpg design
 ---
 This post was inspired by a discussion of currency in _Dungeons and Dragons_ and similar fantasy roleplaying games.

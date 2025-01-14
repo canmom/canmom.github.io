@@ -4,6 +4,7 @@ excerpt: "An attempt to get to grips with the history of D&D and fantasy fiction
 layout: article
 categories: rpgs
 tags:
+ - rpgs
  - rpg design
 ---
 {% assign impath = '/img/embed/dnd/' %}

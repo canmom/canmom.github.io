@@ -1,0 +1,316 @@
+---
+title: Expressing emotionally charged duels in a TTRPG - part II..!
+layout: article
+origin: https://canmom.tumblr.com/post/649635185764286464/expressing-emotionally-charged-duels-in-a-ttrpg
+categories:
+ - rpgs
+excerpt: A newer update on an old question, inspired by newer games. En garde, my friend.
+tags:
+ - rpgs
+ - rpg design
+---
+In 2018, I wrote <a href="https://canmom.tumblr.com/post/176901048492/tabletop-duels-playing-around-with-game-design">a post about expressing emotionally charged duels in a tabletop RPG</a>! (Which <a href="https://canmom.github.io/rpgs/how-can-we-express-duels-in-a-tabletop-rpg">I later reposted on my static site</a>, if you would prefer to read it there). It is now three years later and that post has revived itself (thanks to <a href="https://tmblr.co/mrxMx-qTKrEw_HsV-swemRQ">@autogynefaggotry</a>​! :3) and that has inspired me to write a followup because I think my thinking has changed…
+
+<figure data-tumblr-attribution="nonbi:EYzhmG9vjIcLxxGBKsD94Q:ZFg7Wr2c9vTrQ">
+
+  <img alt="ALT TEXT NEEDED!" src="https://64.media.tumblr.com/16132a056b91259c6e3cb87b68caa4ca/9bc174f7b9a04841-65/s540x810/4b4888874d5820626179b0761fe9a2487b732644.gif">
+
+  <figcaption>
+
+    Gif source: <a href="https://tmblr.co/ZFg7Wr2c9vTrQ">@nonbi</a>
+
+  </figcaption>
+
+</figure>
+
+
+
+Back in 2018, my primarily inspiration was fighting games, and trying to create a game system that was a tense mind game reflecting the duel in the fiction. I studied quite complex, granular systems like <cite>Burning Wheel</cite> and competitive <cite>Pokémon</cite>, which require a reasonable amount of investment into learning before someone can get ‘good’ at using them. All the systems I examined treat fights in an explicit, play-by-play way, where in order for your character to win a duel, the player must solve a strategic puzzle themselves.
+
+I’m now more interested in trying to capture the narrative significance of a duel, and looking at the devices fiction uses to ‘sell’ a fight, get us invested, and give it an emotional arc. Some of these may be relevant for TTRPG designers, some to players of TTRPGs, and others not so much, but if we really want a *charged* duel, we should be mindful of them…
+
+## <cite>The King is Dead</cite>
+
+One recent game to explicitly address the idea of an emotionally charged duel is Vincent and Meguey Baker’s <a href="https://lumpley.itch.io/the-king-is-dead"><cite>The King is Dead</cite></a> (2018) - a game that’s since seen a lot of hacks and variations, including the Bakers’ own <cite>Moble Frame Zero</cite>. This game takes the turn-based ‘scene framing’ mechanic of a game like <cite>Fiasco</cite>, where each player takes turns to frame a scene focusing on their character; but rather than leaving the details scene relatively freeform, you choose from a list of minigames (like “A Dance” or “A Conversation Over Food”) which provide a structure of prompts and choices for each participant.
+
+One of those minigames is a duel, or as the game terms it, “Meeting Sword to Sword”. The players are first prompted to ask each other
+
+> How do you look to me? What’s your mood?
+
+and agree who is better with a sword; then starting with the worse player, exchange evocative, leading questions chosen from a list, such as:
+
+> You get your sword inside my guard and cut me across the ribs. Do you press your attack or give me a moment?
+
+or
+
+> I overreach and you have the opportunity for a dirty little blow, a kick to the knee or an elbow to the ear. Do you take it?
+
+The other players at the table are spectators, but they (along with the duellists) can ask freeform questions about the circumstances of the duel at any time.
+
+The fight is resolved after one of the players chooses a ‘closing question’ instead, meaning that the one who is ‘better’ gets the first opportunity to close the fight. The ‘closing questions’ all end the fight but allow the closing player to choose the outcome, and the other player to decide how they respond. For example, you can choose to lose and put your character at risk:
+
+> You get your sword well between us, inside my guard. If you drive it home, you kill me. Do you drive it home, or do you allow me to step back and recover myself?
+
+or win, and give the other player the choice to submit or flee. One of the choices leads the outcome up to chance:
+
+> I seize momentum and initiative and drive you backward. Do you stand, or do you allow yourself to be driven? If you stand, we show our face-down cards. If yours is higher, you stand me off; if mine is, I kill you.
+
+This option is the only way you can kill *your opponent* with a leading question; they get to opt out and then there’s still the chance that they have a better card, so it’s a gamble. Depending on the circumstances of the duel, they may want to take that risk.
+
+That’s the whole minigame: there’s no attempt at complicated player-level strategy or simultaneous resolution. Everything is laser-focused on what this duel means to the characters and how it affects their relationship, much like the rest of <cite>The King Is Dead</cite>.
+
+<figure data-tumblr-attribution="hichamkiy:zZa5kHQTqABFlBAEBwfu3Q:Zwyall2XhwNkw">
+
+  <img alt="ALT TEXT NEEDED!" src="https://64.media.tumblr.com/27225f8fb96495d401a4cfec420ba6f9/9bc174f7b9a04841-bf/s540x810/13a3271da7bbd77f39f95bfad53a405b1bb8e8b8.gif">
+
+  <figcaption>
+
+    Gif source: <a href="https://tmblr.co/Zwyall2XhwNkw">@hichamkiy</a>
+
+  </figcaption>
+
+</figure>
+
+At first glance it feels like Vincent and Meguey have pretty much solved this problem: sensibly recognising that the details of the *fight* are ancillary to the details of the *relationship*. At the same time, I suspect that after repeated goes through this duel system, the questions would start to feel rather rote and familiar.
+
+Of course, how ‘an RPG’ reads on paper and how it *plays* are two different questions. The text of an ‘RPG system’ is just an input, and any prescriptions it makes only loosely describe the actual dynamical relationship at the table. So what’s it like to play TKID? I’ve played only a couple of games, and I think it’s a good game, but it is a lot of pressure in the moment to match the intimacy and tension suggested by Vincent’s questions. That’s a challenge in any RPG scenario of course, but it feels especially acute when the rules are quite evocative.
+
+<figure>
+
+  <img alt="ALT TEXT NEEDED!" src="https://64.media.tumblr.com/ae2a0838b7f867925420a8391f86e274/9bc174f7b9a04841-18/s540x810/24fc32a688701bd9ba56b4a4503e95410278f7bc.png">
+
+</figure>
+
+TKID is very much in the paradigm where the *player*’s goals and the *character*’s goals are not necessarily the same. It’s a reasonable decision to have your character lose a fight despite struggling to win, if you think it would make for a better story. Mechanically, it’s also about power exchange: do you take the chance to decide the fight when it comes, or hand over the reins to the other player?
+
+One thing it doesn’t really have is an explicit connection to concrete ‘stakes’. (Sorry Jackie, I know you hate that lol.) The ‘fight end’ options are all about whether something bad happens to the characters themselves; if there are further consequences to yielding the fight, that’s up to the players to improvise. But beyond the question of yielding or taking an injury, it leaves the emotional consequences and significance up to the players’ interpretation. (Which makes it quite different from <cite>Utena</cite>, despite the pictures I chose).
+
+## Making the Bakers’ model more flexible
+
+So TKID seems to be very much onto something, but it is limited by its inflexibility. It’s also limited by its arrows being largely ‘one way’: after the question of ‘who is the better swordfighter’, the fiction is shaped by your prompt choices, but neither forces certain prompts nor constrains your choices.
+
+Of course, we don’t *need* prompts: it’s perfectly possible to play in a ‘freeform’ way unencumbered by complex mechanics, or with only limited mechanics. With the right group, this can work tremendously well - I’ve been greatly enjoying <a href="https://tmblr.co/mIh20xTUogF4dEtcODwTAlg">@barnacleheretic</a>’s AD&amp;D game because we’re all invested in a certain shared sense of what’s ‘possible’ in our story, and the mechanics mostly stay out of the way compared to her decisions about what’s possible. So we describe *how* our characters go about attacking or acting in some detail, who holds a shield where etc., and she takes that into account when narrating.
+
+But lists of prompts still have potential, I think. Their main function is to reduce cognitive overload: if you’re on the spot and need to make a quick decision about what happens, the prompts give you material to decide something interesting, and even if you don’t directly use a prompt, they anchor you to a certain space of ideas.
+
+One idea that leapt to mind for me was to have the players write each other lists of prompts before the fight, which lets them make prompts that are specific to the situation and characters. The players would write their prompts - most likely in secret, since that creates the potential for a surprise. These go according to a set structure like <strong>“I do x, do you y or z?”</strong> Then, they exchange them and take turns to pick prompts.
+
+To get the other players more involved, and reduce the workload, you could even go round the table: each spectator writes a prompt, and the two participants in the duel writes N prompts for their opponent. Honestly just thinking that makes me want to try it out lol.
+
+This still lacks a concrete way for the fiction to affect the duel…
+
+<h2>The upper hand</h2>
+
+One recurring device in just about all portrayals of a duel in fiction is that one or other character will hold the upper hand at a given moment. We saw that in the Zuko scene I described above, but it’s a pretty typical scene structure in, for example, shōnen anime…
+
+<figure data-tumblr-attribution="senjo:Bo6QmjLr8Kegrb50iVktIA:Z3Q5wfZ3f7DBqe00">
+
+  <img alt="ALT TEXT NEEDED!" src="https://64.media.tumblr.com/67a7eb3a40ef640d052a3e18bd4195b4/9bc174f7b9a04841-4b/s540x810/ad62c82a75463010cb17eb91157ecd6f5b548492.gif">
+
+  <figcaption>
+
+    Gif source: <a href="https://tmblr.co/Z3Q5wfZ3f7DBqe00">@senjo</a>
+
+  </figcaption>
+
+</figure>
+
+Recently I’ve been watching Mappa’s adaptation of <cite>Jujutsu Kaisen</cite>, a series that is quite consciously playing into shōnen conventions. The basic structure of a fight in this series becomes pretty obvious after a few iterations: a character will explain a technique (whether to the viewers in voiceover or to their opponent as a flex), and deploy it either before or after the explanation (with some flashy animation to sell it). Their opponent will then either barely avoid/survive it or reveal that they are much tougher than they seemed; sooner or later, though, one of them will have no answering play left or exhaust all their interesting concepts, and at that point they’ll get taken out of the fight.
+
+This works to give the fight a rhythm: rather than a ‘tit for tat’ exchange of blows, first one character will take the upper hand and unleash a pummeling, then the tables will turn.
+
+There’s lots of variations you can use to make this pattern interesting. The most fundamental is giving the techniques interesting effects, restrictions, costs, and stylistic qualities so it’s not just a linear scale ‘who can hit harder’, but has a degree of internal logic and ingenuity from fight to fight, and expresses something about each character. Another is to shuffle characters in and out of a scene: the sudden rescue, or teaming up to cover each others’ weaknesses or demonstrate their synergy and emotional connection. There’s costs that characters don’t want to pay: using a technique will injure them, or allow the evil guy to take control of their body. And there’s emotional stakes: “my friend is being groomed into a bad guy by the evil spirit, can I save him?” So the heroes can take a loss without being taken out of the story altogether, or win the skirmish but lose the battle because they missed something else going on.
+
+Maintaining a story like this is a game of juggling all the different powers, characters and plot threads so that we don’t stay in one cadence for too long, or get too repetitive, and building up our investment in the characters and their struggles so that we care about the outcome and arc of each fight. I feel like <cite>Jujutsu Kaisen</cite> loses this a bit in the second cour, with the forest battle arc - though it contains significant moments of growth for the characters - dragging out a bit too long by virtue of the enormous cast involved. You sort of get a sense for which fights ‘really count’ - but more on that in a bit.
+
+<figure data-tumblr-attribution="tistellas:G-pZgfefh7J3B_ALBMfKWQ:ZchKEgZkVzBHui00">
+
+  <img alt="ALT TEXT NEEDED!" src="https://64.media.tumblr.com/a53e5be4d3ce0a91a51c3e4b1256f4af/9bc174f7b9a04841-3c/s540x810/e842d3ffa1998a89c259a5465dc0f0cd2989e13a.gif">
+
+  <figcaption>
+
+    Gif source: <a href="https://tmblr.co/ZchKEgZkVzBHui00">@tistellas</a>
+
+  </figcaption>
+
+</figure>
+
+The kind of descriptive approach of <cite>The King Is Dead</cite>‘s duel minigame is pretty much a two state machine: every player can pick every option at every time, until someone chooses one that takes the game into a ‘fight end’ state. The fiction is a little more flexible, and the prompts hint at who has the advantage at a given moment.
+
+Yet looking at the examples from the previous post in hindsight, it seems like the *transitions* from ‘A has the advantage’ to ‘B has the advantage’ are the key emotional points in a duel. People remember&nbsp;‘I am not left-handed’, but not most of the other stuff that was said. This is also significant in some of the games we saw last time: I talked in the previous post about <dfn>sente</dfn> in go, and <dfn>momentum</dfn> in Pokémon, as well as <dfn>combos</dfn> in a fighting game (sequences of attacks that, if they can be initiated, give the opponent no immediate opportunity to escape) but also to emotional states such as ‘tilt’. The victory comes not at the final defeat, but when a character finds a play that can’t be answered.
+
+One thing you don’t want is for that to be too predictable. If every fight is going to go through a predictable series of phases, that makes it much less interesting. The first time a character walked out of a cloud of smoke and destruction unscathed, it’s kind of cool… but the third time you see a character turn away from a cloud of smoke and then narrow their eyes in surprise, it’s become a bit trite!
+
+So it’s not just the *act* of seizing the upper hand, but the *how* of it, and what it *means*. Zuko gains the upper hand by listening to his uncle; Inigo and Wesley take the upper hand by being suave rogues or w/e. The way you take the advantage has to say something about who you are and why you’re fighting!
+
+## The effects of proper buildup
+
+<figure data-tumblr-attribution="senjo:Bo6QmjLr8Kegrb50iVktIA:Z3Q5wfZ3FiFkqu00">
+
+  <img alt="ALT TEXT NEEDED!" src="https://64.media.tumblr.com/ec56fa3c8d489428b866d3e29f20f56e/9bc174f7b9a04841-bc/s540x810/2f51e34624985751948cb6378e3a0dd5ae92cd81.gif">
+
+  <figcaption>
+
+    Gif source: <a href="https://tmblr.co/Z3Q5wfZ3FiFkqu00">@senjo</a>
+
+  </figcaption>
+
+</figure>
+
+A film with some of the most intense, harrowing fight scenes I’ve scene in the last year is surely <cite>Made in Abyss: Dawn of the Deep Soul</cite>. Spoilers ahoy for that movie.
+
+The way it makes this work is severalfold, but a lot of it leans on a long process of buildup and anticipation. Bondrewd is established near the end of the original series, long before he’s encountered onscreen, as an architect of horrifying human experiments and child abuse, leading to a really grim scene of Reg having to euthanise Mitty’s immortal slime body, yet he also controls the only way for the protagonists to progress. Almost immediately after we encounter him, he imprisons the main characters and amputates limbs from Reg, and also introduces his adopted daughter who’s clearly been abused to shit. Through all this, he affects a kindly, paternal demeanour so you’re *itching* to see him go down.
+
+When the first fight happens, it seems like it should be an incredibly satisfying moment of the kids turning the table on all the horrors they’ve faced so far. They set up an ingenious plan, taking advantage of every resource they can: poisons, parasites, knowledge of the abyss’s denizens. Their plan mostly goes off without a hitch: Bondrewd is hit from all sides at once, sees his followers killed, and is himself pumped full of flesh eating parasite larvae and has his flesh destroyed by the curse of the abyss. But Bondrewd doesn’t seem to care, congratulating the kids for their ingenuity rather than feeling anything… clearly we’re missing something. So it’s an incredibly memorable, creepy scene, satisfaction tinged with anxiety.
+
+(The second fight with Bondrewd towards the end of the film is even more horrifying, but I think I’ve made the point!)
+
+The fight also serves to further define the characters, and the setting. Success in the Abyss is determined foremost by the ability to ruthlessly use its secret artefacts, knowledge of the environment and ingenuity to see how it can be weaponised. The kids have a few trump cards like Reg’s arm lasers, but they are sorely limited, and it requires tight cooperation, cleverness and massive sacrifice to succeed in an environment of such omnipresent threat. Selling this narrative, making us *feel* their desperation, is the challenge for the filmmakers, one which they meet through cinematography, plotting etc. - but such things are difficult to translate into rules!
+
+So this is why, of course, we have the nigh-universal device of the ‘final battle’: everything in the story is setup for a specific confrontation which gets the lion’s share of special effects etc.; after this, everything will be resolved. But it can also be a decisive duel between rivals earlier on or anything like that. Basically, if you want a fight to really *count*, you need to give it proper anticipation.
+
+Returning to <cite>Jujutsu Kaisen</cite>, one of the strongest battles in the series comes at the end of the first cour. Itadori Yuji, our protagonist and a novice sorcerer whose body is at danger of being possessed by a superpowered spirit, has befriended a viciously bullied boy called Yoshino Junpei, not knowing that the cursed spirit Mahito he is pursuing has set up their meeting for their own devices - grooming Junpei into becoming a murderer who will act as suitable bait to allow an evil spirit to take control of Yuji’s body. The series does a pretty convincing job of selling Junpei as someone who will realise his error and join the main cast; then abruptly and rather unceremoniously the story has Mahito kill him off to provoke Yuji, adding a larger than normal emotional charge to the ensuing fight between Yuji and Mahito.
+
+So the groundwork for this fight is in this case the non-fight scenes: the scenes of Yuji and Junpei bonding over movies and building up Junpei’s suffering, as well as all the scenes of Mahito manipulating Junpei into his own nihilistic worldview. The rest of the fight has some pretty cool gimmicks, since there’s been time to set up Mahito’s theme (transforming bodies, both unwilling transformation of other people and reshaping himself), Yuji’s character relationship to ‘saving’ people, and the meta-arc of his possession (which, through its interaction with Mahito’s power, ultimately proves decisive).
+
+If that all sounds like gobbledegook, tl;dr: we need to give people reasons to care!
+
+## Duels express character above all (or allegory, allegorier, allegoriest)
+
+<figure data-tumblr-attribution="animationilove:XzLj2gx3t0ZfBihwu3hGgw:ZISgtq2V9f1JY">
+
+  <img alt="ALT TEXT NEEDED!" src="https://64.media.tumblr.com/dd262d9c415f0d74ae29ee80839d123e/9bc174f7b9a04841-43/s540x810/b95ebbeb6f3e6a3e9ecfa33eb9d9b0202aecbaf0.gif">
+
+  <figcaption>
+
+    Gif source: <a href="https://tmblr.co/ZISgtq2V9f1JY">@animationilove</a>
+
+  </figcaption>
+
+</figure>
+
+The legendary Ikuhara series <cite>Revolutionary Girl Utena</cite> (少女革命ウテナ <i lang="jp">Shōjo Kakumei Utena</i>) is one that centres entirely on a roughly once-per-episode duel scene, framed by repeating motifs of Utena ascending the stairs and a word salad choral backdrop. We soon come to realise that Utena is going to win just about every duel in the series - it’s not about ‘who’s going to win’ or ‘what will it cost’ or anything like that. Rather, the duel is the moment of decisive transformation and change in a character arc: generally speaking, at least during the first couple of story arcs, each episode introduces us to one of the characters at the academy or further develops them, teaches us something about their specific trauma and what they hope to achieve by winning the Rose Bride, and then Utena beats them and they have to accept whatever resolution they can.
+
+<cite>Revue Starlight</cite> (少女☆歌劇 レヴュースタァライト <i lang="jp">Shōjo Kageki Revue Starlight</i>) takes a similar Takarazuka-inspired aesthetic and is structured around a similar device, although with some differences, e.g. it does not have a Utena-like central character who consistently wins (our main girl Karen loses just as much as she wins, and various characters drive the plot at given moments). However, much like Utena, each duel is primarily a spectacular performance which works to express the character, their traits and conflict, and how they relate to the Revue.
+
+<figure data-tumblr-attribution="flipomatic:7EtW839bJ-yUg5tGYs81sg:ZH_Mos2cJvJfV">
+
+  <img alt="ALT TEXT NEEDED!" src="https://64.media.tumblr.com/5787947697c788bdbed34dc0690493f1/9bc174f7b9a04841-9e/s540x810/02969eea5ab61f1b8263404130be30762d360cea.gif">
+
+  <figcaption>
+
+    Gif source: <a href="https://tmblr.co/ZH_Mos2cJvJfV">@flipomatic</a>
+
+  </figcaption>
+
+</figure>
+
+Let’s take for example two fights: Karen’s fight with Tendou Maya, which is an early loss; Maya is favoured by the traditional power structure of the Revue, the perfect <i lang="jp">otokoyaku</i> to lead a performance. Her song, <a href="https://www.youtube.com/watch?v=tmDabLVIUWk"><cite>Pride and Arrogance</cite></a> (this is the stage performance but I can’t embed it for some reason), emphasises that as far as she is concerned, nobody is on her level… and sets up the conflict of the series as disproving her vision of a single, superior star at the centre of the Revue. The duel is full of staging touches to accentuate this, such as giant stairways rising from the ground: Maya always stands over Karen, and no matter how much she tries, she can’t catch up on Maya’s terms. By conventional wisdom of ‘a fight’, it’s pretty one-sided; but that’s the point, and Maya’s voice actress does a fantastic job with the opportunity to grandstand.
+
+<figure data-tumblr-attribution="magicalcinnamon:HXKmSqczKtd4tB-_QoW4ng:Zd2_8m2am-P-O">
+
+  <img alt="ALT TEXT NEEDED!" src="https://64.media.tumblr.com/547e622490a227111bac37f630450bc4/9bc174f7b9a04841-98/s540x810/72fb9c6099d51b7ae465539ecc2bb438b0f402b3.gif">
+
+  <figcaption>
+
+    Gif source: <a href="https://tmblr.co/Zd2_8m2am-P-O">@magicalcinnamon</a>
+
+  </figcaption>
+
+</figure>
+
+By contrast, the fight with Mahiru in episode 5 has a bit more of an arc. Mahiru is afraid of losing her relationship with Karen, and jealous of her newfound determination from meeting Hikari; the fight is staged with playful chibi backdrops, an upbeat tune, and a looping baseball metaphor where Karen is sent flying, time and time again, by Mahiru as she complains of how she feels neglected and wishes for the way their relationship used to be. But then Karen gives Mahiru a bit of a pep talk to remind her of her own motivations for trying to join the Revue, and in so doing, stops getting knocked about and takes the fight - because perhaps she better expresses her ambition.
+
+While probably for most of us the elaborate staging, overt symbolism and character arcs of a series like Revstar or Utena would be a bit much to pull off in a TTRPG (maybe Jenna Moran fans could do it… they’re on another level to the likes of me…), I do think it’s worth taking note of this use of a duel as a narrative device where the question of ‘who wins this fight and what does it cost them’ takes a total backseat to the character arcs getting expressed. In these fights, the act of hitting swords together is really just another visual metaphor.
+
+<h2>Duellist axioms</h2>
+
+Let’s try and distil these observations into a few observations/axioms:
+
+- a duel is an opportunity to express character; almost everything that happens should say something about the fighters (their values and personality, symbolic/aesthetic qualities, emotional connections, etc.)
+- dramatic reversals of power are at the heart of a duel’s emotional arc, and should be at the centre of our design
+- our investment in a duel depends on prior buildup that makes us care about the characters (tragedy is an especially potent emotional valence)
+- the duel should change something: substantially alter a relationship or resolve a character arc
+- repetition is risky: we should either find ways to break it up, or consciously leaned into as a kind of ceremony
+
+## What is an RPG text *for*?
+
+This is something I’ve come back to increasingly lately, but never managed to write the post: what is the point of the ‘book’, when in reality ‘the system’ is not something printed on paper but always something dynamically created by the players? Why do we ‘play D&amp;D’ or ‘play Apocalypse World’ rather than invent our own way of making up a story together? Is it really correct to see two different groups of people telling a story with very different group dynamics and visual libraries and desires as both playing the ‘same game’ because they both refer to copies the same book occasionally?
+
+Part of it, I think, has to do with getting a kind of social permission to do a kind of unusual activity. Adults spending hours sitting together telling a story is rare (perhaps only happening in the contexts of jokes and campfire stories); giving it a name and a glossy book validates it as a sort of socially sanctioned activity. It also gives room for subcultural affiliation: the D&amp;D players and White Wolf players can mutually sneer at each other. But perhaps that’s too cynical.
+
+Mostly I have come to see RPG texts as providing prompts and only-semi-formal structure. Inventing a narrative on the spot is a very challenging activity, faced with a metaphorical ‘blank page’, and having a ‘system’ helps organise us and gives us something to turn to when our brain draws a blank. Recognising that this is the purpose of rules was one of Vincent Baker’s key insights in <cite>Apocalypse World</cite>, I think.
+
+Prompts don’t just take the form of lists of evocative words to inspire us. A list of numbers and game mechanics, miniatures on a table, etc. are just as much foundations to help us imagine a complicated situation and save us the trouble of keeping everything in our heads. Declaring a character has high stats is as much a way to&nbsp;‘sell’ their importance and encourage people to react to them as a threat as describing their flashy entrance. (Taking these narrative devices into the realm of ‘normal’ fiction is basically the whole trick of the litRPG subgenre). The ‘prompts’ are everything we have on hand, a list is just a particular structure for delivering them.
+
+Similarly, the structure - of who says what and when, of habits and rituals like turning to the book or rolling dice at certain times - are a helpful tool to keep everyone on the same page, and leave some of what happens up to a seemingly impersonal system. Chosen restrictions which create interesting problems to solve are famously useful for creativity.
+
+So the ‘book’ is designed to try and reproduce a set of behaviours, mostly by giving people instructions to follow. The way I ran <cite>Apocalypse World</cite> is probably very different from both the way Vincent Baker ran it, and just as different from however you might claim the book ‘literally’ describes it. This is good in that the game we created suited us very well and people seemed to have a great time.
+
+But we must remember that whatever we write in an RPG system is just an ‘input’; players will dispense with what they don’t find relevant, interpret things in unexpected ways, and we shouldn’t ignore this when we’re trying to break down rules systems to figure out how they work. Whatever ‘prompts’ I put in the rulebook will combine alchemically with the movie my players watched last week, the favourite narrative device, etc.; to this end RPG sourcebooks often list a collection of favourite media to ‘set the mood’.
+
+## On balance
+
+There is also a temptation in designing to try to analyse the system for attacks and exploits. This was especially true in the days of D&amp;D, when the ‘system’ was immensely complicated and shared much of an audience with games like <cite>Magic</cite>; D&amp;D was a terribly unbalanced game where in the hands of a skilled player, a spellcaster had vastly more capacity to do just about any objective players could desire. The problem was in part that D&amp;D presented a number of options to the player which in practice would be unlikely to be realised without conscious intervention: a player tempted by the image of playing a brawny warrior might create a poor build and find themselves tediously sidelined by a ‘stronger’ player.
+
+Of course, this whole situation was fucked. The Wizards of the Coast business model at the time relied on printing vast arrays of rather unpolished classes, feats, etc. etc. making for an incredibly bloated, unwieldy game; a significant portion of the fanbase for their part were very invested in the puzzle of creating ‘optimal’ builds and flexing on their system-mastery, which is great only if everyone is on board with that playstyle.
+
+To counter this, a competitive game designer would go to great effort to prevent ‘degenerate strategies’, i.e. strategies which strictly outcompete all others, and instead create a game with multiple equally viable approaches (a ‘balanced’ game). Inevitably, a metagame will develop and evolve: if a strategy is&nbsp;‘successful’ and becomes common in the population, counter-strategies will become more important.
+
+In a cooperative game such as D&amp;D, where game mechanics are simultaneously abstract rules-constructs and story prompts, the situation is more complicated. The problem comes, I think, from a contradiction: the narrative prompts (flavour text and similar) promise a certain kind of story (you are a powerful warrior); when it comes to play out the promised story, you realise the game doesn’t really work like it was sold, and feel resentful. To counter this feeling, designers have increasingly taken ‘game balance’ as a concern in games like D&amp;D, trying to make sure that in the ‘intended’ scenario, every player would feel relevant and useful.
+
+Yet if we take this ‘defensive’ design too far, we can end up with a very bland, restrictive design like D&amp;D 4th edition, where the abstract system became so overbearing it lost the freedom to provide story prompts. The rituals and structures provided by the game text, designed to rein in the superpowered wizards of 3.5e, were stifling; the only ways out were to cut out large swathes of mechanics and invent your own, or limit yourself to the stories baked in to the game.
+
+Anyway, the reason I’m thinking about this, is the prompt-writing system I’m considering would be trivial to exploit: you simply give your opponent some real weaksauce prompts. But the answer to that is probably to trust your players to be invested in their game and offer examples that set the tone you want.
+
+## An experimental prompt-writing game
+
+
+
+The basic skeleton of the system I am presently imagining takes place in a typical group TTRPG session. As we discussed earlier, two players (one of whom may be a GM) are participants in a duel; the rest are observers. We could establish the following rituals…
+
+1. <b>establish setting:</b> agree on where is the fight taking place? is it full of hazards? high off the ground? full of cherry blossoms? a religious building? a throne room? who’s watching? in a game where scenes are widely separated this is quite important; in a game with continuous time this is perhaps already be set by context…
+2. the duellists lock eyes (unless it is a duel of wits where an ambush is important). each participating player asks the other, <strong>why should you defeat me?</strong>, and answers in the voice of their character (whether explicitly speaking or just as a ‘voiceover’). this is the players’ opportunity to sum up what has led to this fight, the emotional/practical stakes, etc.
+3. <b>opening gambits:</b> each player writes down how they approach the opening of the fight: an attack or a defensive measure they will use. this is purely freeform but should respect the tone and genre. it could just be as simple as *‘I come out swinging in a flurry of fierce blows’*, it could be the name of a martial arts/magic technique, it could be a cunning ambush you prepared.
+  - the players then both read these gambits out and the remaining players vote on who should have the <strong>upper hand</strong> and a brief rationale. (in the case of a tie, either player may concede it, or else flip a coin). whoever lacks the upper hand is on the <strong>back foot</strong>.
+4. now with the context of the fight established, all the spectators <strong>write a prompt</strong> for each player to potentially read out. these prompts should take the form of a statement addressed at the opponent and offer a choice, like the ones in TKID: ‘\[I/you\] do x. do you y or z?’ the participants in the duel only write one prompt, for their opponent.
+  - for the player with the <strong>upper hand</strong>, these prompts *may* give the player on the back foot the choice of conceding the fight, or making some kind of sacrifice to stay in the fight. whether it is time for such prompts is the players’ discretion. they may also give the upper hand player the option of deliberately conceding the upper hand, or the fight altogether. however these are optional, and they may simply describe a change in circumstances (e.g. jumping onto a railing, setting up anticipation of a powerful technique).
+  - for the player on the <strong>back foot</strong>, the prompts may give the currently dominant player the choice of losing the upper hand or making some kind of sacrifice to maintain it. they may also give the option of deliberately conceding the fight.
+  - the prompts are otherwise a chance to let loose with adding emotional texture to the fight. it is encouraged to have prompts which lead to changes in the situation, e.g. force the players onto a high surface, inflict an injury, threaten bystanders, etc.
+  - players should think about the established characters in the duel, and consider ways that they might illustrate their characters: a proud character might gloat, a cunning character might reveal a trick, etc.
+  - prompts do not necessarily need to describe an attack; a defensive measure sufficient to negate a costly attack could still gain the upper hand for example!
+5. the prompts are collected, and everyone gets to read them, but they aren’t yet considered ‘true’. then, <strong>each duellist must secretly select one</strong> of their set of prompts. the player with the upper hand first reads out their prompt, and the player on the back foot makes a choice. then, if the fight is to continue, the player on the back foot reads out their own prompt, and the player with the upper hand makes a choice.
+  - if the fight continues, the player with the upper hand <strong>describes how they press their advantage;</strong> the player on the back foot <strong>describes how they desperately avoid or withstand the incoming attacks.</strong>
+6. at this point, <strong>the situation may have changed</strong>: the characters may be in a new position, new information has been revealed, and someone else may hold the upper hand than before. each player may choose whether to reuse one of their previous prompts that has not yet been played, or write a new one to suit the new situation. then, we return to step 5 with the new collection of prompts.
+7. as the duel progresses, players are encouraged to <strong>require harsher sacrifices for maintaining the status quo, and be more willing to add duel-ending prompts</strong>. but there is no definite time limit.
+8. finally, <strong>the loser describes how they react to having lost the fight</strong> (which may be how they die!); then <strong>the winner gets the last word, describing what they do in victory</strong>.
+ - if appropriate, the loser (if they survive) may choose to make a cowardly final attack while the winner’s back is turned; the winner is completely free to negate this in any way they see fit.
+9. play returns to whatever is ‘normal’ for the broader system.
+
+
+
+this would require some playtesting to see how it might run in practice. a few additions I could consider:
+
+- <strong>creating prompts pre-emptively by preparing the ground</strong> before the fight, giving a bonus prompt that is ‘ready to go’ as a strong addition to the prompt pool. (this may not be necessary if existing prompts respect the established fiction.)
+- <strong>a sliding scale of advantage</strong> to make it clearer where the fight is going. instead of gaining or losing the upper hand, we could have bouts, and rounds of voting to decide who gets closer to victory after each one. or, it could be left partly to chance: a random player gets to choose the winner each bout (or apply weighting to a die roll but this is probably equivalent).
+- as an alternative formalism, <strong>the fight could perhaps only be ended after holding the upper hand for at least two (three, etc.) rounds</strong>. this may prove too restrictive, or make it very hard to end a fight.
+
+
+the principles of this design are:
+
+- players are the best judge of the fictional situation, and writing prompts based on it will mean it explicitly shapes what’s possible at any given moment
+- distributing the work of prompt writing demands less from each individual player. keeping unused prompts around for re-use also eases that workload, and avoids a good prompt being ‘wasted’ because there’s a better one.
+- you most likely want your prompt to get read out - this is hopefully sufficient motivation in itself without gamifying it with tokens.
+- holding the ‘upper hand’ is meaningful: it gives you, theoretically, at least one chance to force a sacrifice or end the fight.
+- fights end by *player* (if not character!) consent. however, the longer a fight goes on, the more is lost..
+
+I can also see some potential limitations already:
+
+- the prompts are supposed to be a more concrete version of the ones in TKID - however they may need more thought to encourage people to write prompts that are suitably intimate! possibly the emphasis should be on (player-side) offering to *give up* power rather than pressing/taking an advantage?  </li>
+- the system is very abstract: more a structure for stimulating freeform RP than a sort of mechanical ‘engine’ for simulation. for concrete use, it is encouraged to present a collection of suitable prompts to give people something concrete to use.
+- the system is hopefully abstract enough to fall into the background like ‘said’. however, certain elements could get repetitive in a bad way, if every fight has the same pacing and rhythm.
+- this does not allow the simulation of a gruelling battle of attrition or make much explicit provision for a victory that is *mechanically* narrow or decisive. this may or may not be a problem, depending on how players approach it.
+- fights can last indefinitely if neither player accepts a loss on the ‘back foot’. but as long as meaningful sacrifices stack up, this isn’t necessarily too big a deal.
+
+
+Anyway, that’s where I’m currently at. Consider this the ‘duel system v0.1′, for use in… well, I’m not sure yet! It’s not really a complete game in itself, but perhaps the ideas here could be adapted to other situations.</p>
