@@ -12,9 +12,7 @@ tags:
 excerpt: Some cute little DVDs give us a chance to experience a little slice of Annecy! We take a dive into the short films of 2021 and 2022 most beloved by the French.
 ---
 
-<h1></h1>
-
-Hey friends, welcome back to Animation Night! Hope you all enjoyed <em>Scavengers Reign</em> as much as I did! My life has gotten pretty nuts in the last week, so our writeup today will have to be a little sparse, but I do have some exciting goodies~
+Hey friends, welcome back to Animation Night! Hope you all enjoyed <cite>Scavengers Reign</cite> as much as I did! My life has gotten pretty nuts in the last week, so our writeup today will have to be a little sparse, but I do have some exciting goodies~
 
 {% include figure.html src="embed/animation-night/186/001.webp" alt="A photo of three DVD cases with a small black player box on top." %}
 
@@ -40,101 +38,21 @@ Animation Night has taken some blows, but it will not die if I don’t let it! A
 
 These include (linking full films where available online, and otherwise trailers)…
 
-<figure>
+{% include youtube.html id="rfATkA9SfPg" capt="<cite>Amok</cite> by Balazs Turai, which won the Cristal for short films!" %}
 
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="200" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rfATkA9SfPg" title="AMOK by Balázs Turai (2022) - Trailer" width="356"></iframe>
+{% include youtube.html id="Xm3731wq3lk" capt="<cite>Anxious Body</cite> by Yoriko Mizushiri, which won the the “Jury Mention for superbly executed animation and formidable physical experience”, if I’m reading the French right!" %}
 
-</figure>
+{% include youtube.html id="jqfvQg7oIXM" capt="<cite>Intersect</cite> by Dirk Koy, which won the Off-Limits prize!" %}
 
-<ul>
+{% include youtube.html id="rPBE9iyVvlI" capt="<cite>Maman, il a quoi le chien?</cite> by Lola Lefèvre, which won the Jury Mention for a graduation film." %}
 
-  <li><strong>Amok</strong> by Balazs Turai, which won the Cristal for short films!</li>
+{% include youtube.html id="Ivpu2FS5hmY" capt="<cite>Persona</cite> by Sujin Moon, which won the Cristal for a student film." %}
 
-</ul>
+{% include youtube.html id="W7itWOILlSw" capt="<cite>Steakhouse</cite> by Spela Cadez, which won the Jury Prize." %}
 
-<figure>
+{% include youtube.html id="g2k3ooqXRWA" capt="<cite>The Invention of Less</cite> by Noah Erni, which won the Youtube Prize." %}
 
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="200" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Xm3731wq3lk" title="Anxious Body | Short Film by Yoriko Mizushiri | Trailer" width="356"></iframe>
-
-</figure>
-
-<ul>
-
-  <li><strong>Anxious Body</strong> by Yoriko Mizushiri, which won the the “Jury Mention for superbly executed animation and formidable physical experience”, if I’m reading the French right!</li>
-
-</ul>
-
-<figure>
-
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="200" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/jqfvQg7oIXM" title="Intersect | Trailer" width="356"></iframe>
-
-</figure>
-
-<ul>
-
-  <li><strong>Intersect</strong> by Dirk Koy, which won the Off-Limits prize!</li>
-
-</ul>
-
-<figure>
-
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="200" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rPBE9iyVvlI" title="Animated short film on a girl going through puberty | Mom, What’s Up With the Dog? - by Lola Lefèvre" width="356"></iframe>
-
-</figure>
-
-<ul>
-
-  <li><strong>Maman, il a quoi le chien?</strong> by Lola Lefèvre, which won the Jury Mention for a graduation film.</li>
-
-</ul>
-
-<figure>
-
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="200" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Ivpu2FS5hmY" title="PERSONA (Moon Su-jin, 2022)" width="356"></iframe>
-
-</figure>
-
-<ul>
-
-  <li><strong>Persona</strong> by Sujin Moon which won the Cristal for a student film.</li>
-
-</ul>
-
-<figure>
-
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="200" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/W7itWOILlSw" title="Steakhouse | Award-Winning Animated Short Film" width="356"></iframe>
-
-</figure>
-
-<ul>
-
-  <li><strong>Steakhouse</strong> by Spela Cadez, which won the Jury Prize.</li>
-
-</ul>
-
-<figure>
-
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="200" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/g2k3ooqXRWA" title="The Invention of Less | Animation Short Film" width="356"></iframe>
-
-</figure>
-
-<ul>
-
-  <li><strong>The Invention of Less</strong> by Noah Erni, which won the Youtube Prize.</li>
-
-</ul>
-
-<figure>
-
-  <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="200" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/R1Oa8mIIN7E" title="'The Record' trailer (Jonathan Laskar, Switzerland)" width="356"></iframe>
-
-</figure>
-
-<ul>
-
-  <li><strong>The Record</strong> by Jonathan Laskar, which won the Jean-Luc Xiberras prize for a first film.</li>
-
-</ul>
+{% include youtube.html id="R1Oa8mIIN7E" capt="<cite>The Record</cite> by Jonathan Laskar, which won the Jean-Luc Xiberras prize for a first film." %}
 
 Along with that we have many of the latest student films! We got <a href="https://www.youtube.com/watch?v=mz4DkiWF7FE">horny furries</a> (not like that… well it’s complicated)! We got <a href="https://www.youtube.com/watch?v=4YLa2WR6V3E">questionable adverts for tank games</a>! We got <a href="https://www.newgrounds.com/portal/view/934727">the latest Punch Punch Forever</a>! We got <a href="https://www.youtube.com/watch?v=7LbTrodDnBo">cold war spy lesbians</a>! We got <a href="https://vimeo.com/11076466">vibesy old CGI</a>! And much more besides! Well, some more besides!
 
