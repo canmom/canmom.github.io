@@ -76,3 +76,5 @@
   display: Ghost Barrier
 /livereads/tftbn/:
   display: tftbn
+/programming/ai/:
+  display: AI
