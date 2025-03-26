@@ -47,6 +47,10 @@ article.comment, form#commentform fieldset {
     padding: 10px;
 }
 
+form#commentform fieldset textarea {
+    width: 100%;
+}
+
 article.comment header {
     display: flex;
     justify-content: space-between;
