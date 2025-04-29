@@ -33,7 +33,7 @@ The demoscene has a long history, splitting off from the warez scene (yarr harr)
 
 ## Where?
 
-Europe mostly, with the largest demoparties happening in countries like Germany and Finland. Currently there is at least one non-European demoparty in the USA, one in Tokyo, one in Argentina, and a few in Russia would also count as exceptions depending where you draw the nebulous boundary between 'Europe' and 'Asia'. However, *sceners* exist in many other places as well: I have heard of sceners in Japan, the States, Thailand... and we had one pair of sceners travel all the way from Hong Kong to attend MountainBytes, which was awesome.
+Europe mostly, with the largest demoparties happening in countries like Germany and Finland. But not exclusively: there are demoparties in Japan, Argentina, Australia, Canada, the States to name a few places... However, *sceners* exist in many other places as well: I have heard of sceners in Japan, the States, Thailand... and we had one pair of sceners travel all the way from Hong Kong to attend MountainBytes, which was awesome.
 
 So far I've attended just two demoparties (though I hope to attend many more). [Revision](https://2025.revision-party.net/) in Saarbrücken, Germany is the largest demoparty of the current set of active parties; [MountainBytes](https://www.mountainbytes.ch/) in Cham, Switzerland is a much smaller party but run by many of the same people. You can find out about various others on [demoparty.net](https://www.demoparty.net/).
 
