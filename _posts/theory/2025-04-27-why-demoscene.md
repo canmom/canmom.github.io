@@ -10,7 +10,7 @@ date: 2025-04-27 00:01:00
 ---
 This year I finally went to the demoscene!
 
-The demoscene is a subculture I have long viewed from a far with a mixture of awe and, to some extent, confusion at their baroque history and injoke culture. They were, I imagined, where the true, deep *wizards* of graphics programming lived; the people who lived for the art of making cool shapes on the computer.
+The demoscene is a subculture I have long viewed from afar with a mixture of awe and, to some extent, confusion at their baroque history and injoke culture. They were, I imagined, where the true, deep *wizards* of graphics programming lived; the people who lived for the art of making cool shapes on the computer.
 
 Now I've been to two demoparties, [MountainBytes](/adventure/demoscene/mountainbytes-2025) and Revision (writeup still in progress)!
 
@@ -65,7 +65,7 @@ No: I believe the demoscene, and other insular creative scenes like it, are a pr
 
 Nobody makes demos to make money. Which isn't to say the scene is completely free of money---the parties themselves have to spend a *lot* of money, paid for by tickets and industry sponsors. But nobody is making the *art* for the money. Nobody is doing it to get a career at a big company, or make a living off commissions, or anything of the sort. So there's far less of the grindset shit!
 
-Increasingly in the present, nobody is making demos expecting exclusive control over copies. Creations are shared widely on scene websites and meticulously archived to be available even decades later. Even more so, in the younger generation especially, they're often open-sourced. Tools, like executable packers, are also collected and shared on sites like [64k-scene](https://64k-scene.github.io/resources.html) and [sizecoding.org](http://www.sizecoding.org). The demoscene wants to live.
+Increasingly in the present, nobody is making demos expecting exclusive control over copies. Creations are shared widely on scene websites and meticulously archived to be available even decades later. Even more so, in the younger generation especially, they're sometimes open-sourced. Tools, like executable packers, are also collected and shared on sites like [64k-scene](https://64k-scene.github.io/resources.html) and [sizecoding.org](http://www.sizecoding.org). The demoscene wants to live.
 
 All human communities have our weird status hierarchies and dramas, and the demoscene is *no* exception here: the competition framing has led to much posturing over the years. But it is a subculture that seems to understand that the process of art-making is something very much like a game. It's not hooked to the product release cycle, but explores 30-year-old hardware with just as much enthusiasm as ever.
 
@@ -97,7 +97,7 @@ I went to check in on Line Rider Review and quickly found the latest page in a b
 
 So far as I know, there is not similar critical writing made in the demoscene!
 
-Instead, I'd say roughly that the demoscene centres technical exploration and playful humour. The *aesthetics* of demos have changed a lot over the years: a modern PC demo will feature much more subtle colouring, bokeh, etc., more intricate effects, etc. But the *themes* of demos have not changed so much. Certainly, a lot of trans flags may be seen now, and tend to be well-received. And some productions, like <cite>Killer Piller</cite> which I will discuss in some other article on the Metoeriks, will try for a more direct narrative or theme. But for the most part, demos tend towards abstraction. The medium in this case is *very much* the message.
+Instead, I'd say roughly that the demoscene centres technical exploration and playful humour. The *aesthetics* of demos have changed a lot over the years: a modern PC demo will feature much more subtle colouring, bokeh, etc., more intricate effects, etc. But the *themes* of demos have not changed so much. Certainly, a lot of trans flags may be seen now, and tend to be well-received. And some productions, like <cite>Killer Piller</cite> which I will discuss in some other article on the Meteoriks, will try for a more direct narrative or theme. But for the most part, demos tend towards abstraction. The medium in this case is *very much* the message.
 
 In part, this may be because demos are usually made by teams, not individuals. And it may also be because of the demoscene's long history locking it into a certain tradition we want to honour. Context, too: demos are played to a large room of people. And in Line Rider-land, most tracks are produced for existing songs, rather than composing new music as part of the track, which means that the whole history of music can do a fair bit of emotional heavy lifting! (On the other hand, demos benefit from direct collaboration between musicians and coders/animators: it is a music scene in its own right.)
 
