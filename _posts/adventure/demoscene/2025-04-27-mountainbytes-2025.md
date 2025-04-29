@@ -21,6 +21,8 @@ The venue was a large town hall type of building called the Lorzensaal in the pr
 
 What I found was, well, a really welcoming group of sweet, and (to varying degrees) autistic-as-hell nerds. *Exactly my kind of people.* A large number of visitors to MountainBytes were newcomers, drawn perhaps by the workshop; a solid proportion of us were trans, because it's that sorta scene these days.
 
+(This article spun off another, about why I find the demoscene valuable and its artistic qualities, which you can read [here](/theory/why-demoscene)!)
+
 I started to learn how things work...
 
 ## How a demoparty works

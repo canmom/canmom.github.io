@@ -12,17 +12,28 @@ This year I finally went to the demoscene!
 
 The demoscene is a subculture I have long viewed from a far with a mixture of awe and, to some extent, confusion at their baroque history and injoke culture. They were, I imagined, where the true, deep *wizards* of graphics programming lived; the people who lived for the art of making cool shapes on the computer.
 
+Now I've been to two demoparties, [MountainBytes](/adventure/demoscene/mountainbytes-2025) and Revision (writeup still in progress)!
+
+I really like what I found. But how did it compare with my fantasy of the demoscene? And what prelininary observations do I have here? This ended up growing into such a big piece that I spun it off here.
+
+1. toc
+{:toc}
+
 ## What?
 
-The plain description: it's a computer graphics subculture mostly revolving around the creation of realtime-rendered music videos under strong creative constraints (such as tiny executable size limits, or using very old computers like the Amiga). The focus is on pushing the limits of the machinery in creative, expressive ways. Around that are other related computer arts, such as shader livecoding, tracker music and executable graphics, and also less niche types of digital art (paintings, renders, synthesiser music) created by members of the subculture (<dfn>sceners</dfn>), who submit their work to competitions at events called <dfn>demoparties</dfn>.
+{% include figure.html src="embed/demoscene/revision-audience.webp" alt="Photo of Revision audience." capt="An enraptured audience behold demos at Revision." %}
 
-The more abstract answer: the demoscene, like most subcultures, is an evolving cluster of ideas and motivating narratives, and the fabric of social connections between its members. Something belongs to the demoscene because the participants interact with the existing demoscene, and consider what they're doing to be a 'demoscene' activity. Since the boundaries are kind of fuzzy, that can lead to friction when not everyone agrees what the demoscene is about... something we'll get to later.
+A plain description would go like this: it's a computer graphics subculture mostly revolving around the creation of realtime-rendered music videos under strong creative constraints (such as tiny executable size limits, or using very old computers like the Amiga). The focus is on pushing the limits of the machinery in expressive ways. Around that are other related computer arts, such as shader livecoding, tracker music and executable graphics, and also less niche types of digital art (paintings, renders, synthesiser music) created by members of the subculture (<dfn>sceners</dfn>), who submit their work to competitions at events called <dfn>demoparties</dfn>.
+
+But to really get down to it, what *is* a subculture?
+
+The more abstract answer is: the demoscene, like most subcultures, is an evolving cluster of ideas and motivating narratives, and the fabric of social connections between its members. Something belongs to the demoscene because the participants interact with the existing demoscene, and consider what they're doing to be a 'demoscene' activity. Since the boundaries are kind of fuzzy, that can lead to friction when not everyone agrees what the demoscene is about... something we'll get to later.
 
 The demoscene has a long history, splitting off from the warez scene (yarr harr) many decades ago when demos were primarily produced to introduce cracked software that was distributed at 'copyparties'. While that's distant history now, some of the terminology such as 'intros' remains.
 
 ## Where?
 
-The demoscene is primarily based in Europe, with the largest demoparties happening in countries like Germany and Finland. Currently there is exactly one non-European demoparty, which is in the USA. However, *sceners* exist in many other places as well: I have heard of sceners in Japan, the States, Thailand... and we had one pair of sceners travel all the way from Hong Kong to attend MountainBytes, which was awesome.
+Europe mostly, with the largest demoparties happening in countries like Germany and Finland. Currently there is exactly one non-European demoparty, which is in the USA. However, *sceners* exist in many other places as well: I have heard of sceners in Japan, the States, Thailand... and we had one pair of sceners travel all the way from Hong Kong to attend MountainBytes, which was awesome.
 
 So far I've attended just two demoparties (though I hope to attend many more). [Revision](https://2025.revision-party.net/) in Saarbrücken, Germany is the largest demoparty of the current set of active parties; [MountainBytes](https://www.mountainbytes.ch/) in Cham, Switzerland is a much smaller party but run by many of the same people. You can find out about various others on [demoparty.net](https://www.demoparty.net/).
 
@@ -80,19 +91,19 @@ As simple as this sounds, this involves [quite an extraordinary amount of techni
 
 They essentially meet all criteria to qualify as demos (real-time music videos). But they don't belong to the *demoscene*, because nobody takes them to demoparties: it's a separate scene with its own priorities.
 
-I observed a curious thing in the Line Rider scene, as a very occasional visitor: over the years, the tracks drifted from explorations of technical mastery (such as 'quirk' tracks) to [applying those techniques for expression on social/personal themes](https://www.youtube.com/watch?v=4R2lSWIY1TI): trauma, abuse, transness, plurality, colonialism etc. And like. That's wild but kind of awesome in fact.
+I observed a curious thing in the Line Rider scene, as a very occasional visitor: over the years, the tracks drifted from explorations of technical mastery (such as 'quirk' tracks) to [applying those techniques for expression on social/personal themes](https://www.youtube.com/watch?v=4R2lSWIY1TI): trauma, abuse, transness, plurality, colonialism etc. And like. That's wild, right? It's Line Rider. But this is the form of expression that spoke to them, and there is absolutely no denying the passion that goes into it.
 
-I went to check in on Line Rider review and quickly found the latest page in a back-and-forth of long, reflective, historical essays on [invocation of 50s imagery in relation to a story about dementia](https://lineriderreview.substack.com/p/eateot3) which gets... *quite deep* into the self-reflection on how we interpret art at all. Is that academic and political style the 'flavour' of the line rider art scene? Or just a niche but prolific corner of it? Who exactly constitutes the line rider scene, anyway---regular track makers, drive-by Youtube commenters? Is the shift in subject matter driven by reaching the limits of 'mere technique' in Line Rider?
+I went to check in on Line Rider Review and quickly found the latest page in a back-and-forth of long, reflective, historical essays on [invocation of 50s imagery in relation to a story about dementia](https://lineriderreview.substack.com/p/eateot3) which gets... *quite deep* into the self-reflection on how we interpret art at all. Is that academic and political style the 'flavour' of the line rider art scene? Or just a niche but prolific corner of it? Who exactly constitutes the line rider scene, anyway---regular track makers, drive-by Youtube commenters? Is the shift in subject matter driven by reaching the limits of 'mere technique' in Line Rider?
 
-So far as I know, there is no similar critical writing made in the demoscene!
+So far as I know, there is not similar critical writing made in the demoscene!
 
-By contrast, the demoscene still really centres technical exploration and playful humour. The *aesthetics* of demos have changed a lot over the years: a modern PC demo will feature much more subtle colouring, bokeh, etc., more intricate effects, etc. But the *themes* of demos have not changed so much. Certainly, a lot of trans flags may be seen now, and it seems to be a crowd-pleaser. And some productions, like <cite>Killer Piller</cite> which I will discuss when we get to the Meteoriks awards, will try for a more direct narrative or theme. But for the most part, demos tend towards abstraction. The medium in this case is *very much* the message.
+Instead, I'd say roughly that the demoscene centres technical exploration and playful humour. The *aesthetics* of demos have changed a lot over the years: a modern PC demo will feature much more subtle colouring, bokeh, etc., more intricate effects, etc. But the *themes* of demos have not changed so much. Certainly, a lot of trans flags may be seen now, and tend to be well-received. And some productions, like <cite>Killer Piller</cite> which I will discuss in some other article on the Metoeriks, will try for a more direct narrative or theme. But for the most part, demos tend towards abstraction. The medium in this case is *very much* the message.
 
 In part, this may be because demos are usually made by teams, not individuals. And it may also be because of the demoscene's long history locking it into a certain tradition we want to honour. Context, too: demos are played to a large room of people. And in Line Rider-land, most tracks are produced for existing songs, rather than composing new music as part of the track, which means that the whole history of music can do a fair bit of emotional heavy lifting! (On the other hand, demos benefit from direct collaboration between musicians and coders/animators: it is a music scene in its own right.)
 
 For my part, as someone who finds technical aspects of art a place I am most at home, there is something I like about the demoscene's hard focus on the medium itself. I don't think demos, or animated films in general for that matter, are interchangeable with some other artistic brush (expressive tool). At the same time, I want to make stuff that moves people, that makes them feel something and says something that feels important. If I wanna put so much effort in, I want to make it more than a passing fancy: wow, that's crazy that they pulled that off.
 
-You can actually see some of this argument about *what demos should be* playing out in the comments of classic 2001-era demo [fr-08 the product](https://www.pouet.net/prod.php?which=1221) on (ever-dramatic) Pouet. Responding to criticism about the artistic value of the project, kb (a respective scener, still active) remarked:
+You can actually see some of this argument about *what demos should be* playing out in the comments of classic 2001-era demo [fr-08 the product](https://www.pouet.net/prod.php?which=1221) on (ever-dramatic) Pouet. Responding to criticism about the artistic value of the project, kb (a respected scener, still active) remarked:
 
 > but the demo scene has always been for showing off skills, be it those of coders, musicians, or graphicians, and I DO hope this will never change. Even for full-size demos, this should be the fact again... there are so many well-designed demos which i can't watch because it's made by guys with a nice feeling for design, but not even the most basic skills you'd need for doing flat shading. And IMO, this does suck.
 > 
@@ -104,10 +115,12 @@ But what does the *scene* look for when they vote for their demos? This is surel
 
 And demos which express narrative and theme *are* respected. Some winners at Revision recreated a short film in 64k, created an analogue-horror scene complete with jumpscare, made tribute to <cite>Dune</cite>, or shot a high-effort B-movie pastiche. An appetite is there to tell stories.
 
-By necessity, intros (sizecoded demos) tend to use procedural geometry over 3D models; software synths over recorded instruments; procedure over data. Geometric shapes are easy to create, human figures hard. This is all part of the 'texture' of the sort of art you can express with them, just as the camera tracking Bosh and black lines in a white void is the central motif of Line Rider. The space of possibilities in demo-land is much less constrained in general: you are building the roads to where you want to go.
+## The creative texture of demomaking
+
+By necessity, intros (sizecoded demos) tend to use procedural geometry over 3D models; software synths over recorded instruments; procedure over data. Geometric shapes are easy to create, human figures hard. This is all part of the 'texture' of the sort of art you can express with them, just as the camera tracking Bosh and black lines in a white void is the central motif of Line Rider. The space of possibilities in demo-land is much less constrained in general, but also less mature by the same token: in demos you are always building the roads to where you want to go.
 
 These are all important: this is the terrain you're making expressions within. The feedback loop: context and process on the one hand, your thoughts of what you wish to express on the other.
 
-I'm certainly a graphics nerd, and learning computer graphics has shaped how I perceive and interact with the world in much the same way as learning to draw did, or learning to play music. A whole space of meaning opens up when you pursue these things. It is hard to communicate this to someone who is not equally versed: why I am now so fascinated by the reflections in a puddle of water, why I get excited about a new technique for global illumination.
+I'm certainly a graphics nerd, and learning computer graphics has shaped how I perceive and interact with the world in much the same way as learning to draw did, or learning to play music. A whole space of meaning opens up when you pursue these things. It is hard to communicate this to someone who is not in the milieu: why I am now so fascinated by the reflections in a puddle of water, why I get excited about a new technique for global illumination. Silly nerd.
 
-The trick must be to connect this space of abstract, technical exploration to the human level...
+The trick must be to connect this space of abstract, technical exploration to the space of signification and emotion...
