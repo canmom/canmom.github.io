@@ -156,6 +156,10 @@ main blockquote blockquote {
     margin-left: 0;
 }
 
+main aside {
+    font-size: 80%;
+}
+
 nav.tags {
     margin-top: 20px;
     margin-left: 25px;
@@ -717,6 +721,18 @@ dd blockquote {
 
     main > figure.video {
         padding-bottom: calc(0.5625 * (100% + 75px + 100px));
+    }
+
+    main aside {
+        float: right;
+        width: 400px;
+        margin-right: -120px;
+        margin-left: 10px;
+    }
+
+    main aside p {
+        margin-top: -30px;
+        margin-bottom: 0;
     }
 }
 

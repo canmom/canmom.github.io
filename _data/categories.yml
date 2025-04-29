@@ -78,3 +78,9 @@
   display: tftbn
 /programming/ai/:
   display: AI
+/adventure/:
+  display: adventures
+/adventure/demoscene/:
+  display: demoscene
+/programming/graphics/demoscene/:
+  display: demoscene
