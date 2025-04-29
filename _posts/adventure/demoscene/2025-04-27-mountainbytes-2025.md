@@ -143,7 +143,7 @@ Once I've proven myself with some demos.
 
 ## Other stuff
 
-MountainBytes was mostly not catered, but you could just walk across the road into Cham and get takeaway and such, so I was pretty well covered. Shoutout to Jonas for effortly switching between three languages.
+MountainBytes was mostly not catered, but you could just walk across the road into Cham and get takeaway and such, so I was pretty well covered. Shoutout to Jonas for effortlessly switching between three languages.
 
 Tip for anyone who fancies going to this party: they really fuckin love cows here. Here is their mascot, Cowee:
 
