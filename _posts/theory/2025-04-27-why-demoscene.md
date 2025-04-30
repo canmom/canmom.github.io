@@ -53,7 +53,7 @@ Let's start with the real big positives.
 
 ### the friends we made along the way
 
-The demoscene is known for its astonishing feats of computer engineering: 'that should not be possible' is how people often react when they first encounter a sophisticated sizecoded demo. Given that people tend to only look through the highest-rated demos by established groups, they may come away thinking that this is mainly what the scene is about. Perhaps, if that is what you were expecting, you might feel a bit nonplussed looking at some of what I credit above.
+The demoscene is known for its astonishing feats of computer engineering: 'that should not be possible' is how people often react when they first encounter a sophisticated sizecoded demo. Given that people tend to only look through the highest-rated demos by established groups, they may come away thinking that this is mainly what the scene is about. Perhaps, if that is what you were expecting, you might feel a bit nonplussed looking at some of what I credit in the party writeups.
 
 But I don't think 'technical wizardry' is actually a sufficient explanation. The demos are the surface reason; what makes the demoscene *work* is actually the social glue it provides to a bunch of weird autists---something I say as a proud weird autist. You go to your first demoparty because you are curious about the strange little art pieces; you go to your *second* demoparty because you made some really good friends who have the bug you do, and you want to see them again, make something together; to celebrate each others' passion and learning.
 
