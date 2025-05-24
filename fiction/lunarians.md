@@ -11,17 +11,17 @@ layout: nierstory
 
 ---
 
-It would be tempting to imagine that the first Albionite to survive a landing on our Holy Moon would do so with a prayer. They would declare the fervent wish of the dead generations to let paradise find release from the bones of Albion, perhaps. Or something simpler: a quiet word of respect and awe. And I wonder if, one day, when they write the history of our deeds, that is what they will have me say.
+It would be tempting to imagine that the first Albionite to survive a landing on our Holy Moon would do so with a prayer. They would speak, perhaps, of the fervent wish of the dead generations to find release from the poison bones of Albion. Or something simpler: a quiet word of respect and awe. And I wonder if, one day, when they write the history of our deeds, that is what they will have me say.
 
 It's not what I said, though. I said 'oh fuck'.
 
 ---
 
-We decoupled without a problem. Our descent followed perfectly the gravity curve, wasting not a drop of precious fuel. Our flight computer performed just as it had in a thousand practice runs. The landing site was clear, flat, free of boulders.
+We decoupled without a problem. Our descent followed perfectly the gravity curve, wasting not a drop of precious fuel. Our flight abacus performed just as it had in a thousand practice runs. The landing site was clear, flat, free of boulders.
 
 It wasn't enough to save them.
 
-Later, I would determine that the landing spar was the problem. A structural weakness in the steel caused it to shear into a perfect, heavenly lance aligned precisely with the worst possible corner. The force of our landing drove it straight through the metal and into the spine of esteemed Flight Engineer Uyam, breaking the pressure seal on her suit and scattering thirty years of rocketry experience out across the regolith.
+Later, I would determine that a landing spar was the problem. A structural weakness in the steel caused it to shear into a perfect, heavenly lance aligned precisely with a corner. The force of our landing drove it straight through the metal and into the spine of esteemed Flight Engineer Uyam, breaking the pressure seal on her suit and scattering thirty years of rocketry experience out across the regolith.
 
 I was at this moment throttling down, announcing my historic first words as the spacecraft listed unexpectedly. After that... I believe the descent fuel tank, still quite full thanks to my fine efforts, collided with the oxidiser. A brief but searing gout of flame would have sprayed upwards, directly through seat of Geologist-Royal Zhu Quan. I, however, could not really assess this situation, since that was the moment when the emergency charges fired. My pilot capsule detached from the lander, bounced twice, and came to rest with a perfect angle to view the rest of the rocket fold in on itself like a closing flower.
 
@@ -31,17 +31,17 @@ The third of the descent team, Botany Master Harani Haran, was at first nowhere 
 
 If there was any mercy, it was that nothing was still on fire. The vacuum was good for something.
 
-What did I do? Well, what I had to, of course. Harani was unconscious, and I dared not move her for fear of a spine injury. Once I was sure she was alive, I dragged an oxygen tank from the pilot module and connected it to her suit. Quan got the sealing foam treatment; after some sweating and swearing I got them free of the metal petals and over to where Harani was lying. Most of our equipment was surely shredded in the wreck of the lander, but thankfully someone had had the foresight to equip the pilot module with its own small inflatable tent. I got to pressurising it while I waited for the orbiter to come back over the horizon.
+What did I do? Well, what I had to, of course. Harani was unconscious, and I dared not move her for fear of organ rupture. Once I was sure she was alive, I dragged an oxygen tank from the pilot module and connected it to her suit. Quan got the sealing-foam treatment; after some sweating and swearing I got them free of the metal petals and over to where Harani was lying. Most of our equipment was surely shredded in the wreck of the lander, but thankfully someone had had the foresight to equip the pilot module with its own small inflatable tent. I got to pressurising it while I waited for the orbiter to come back over the horizon.
 
 This was the beginning of the first successful pilgrimage to the Holy Moon of Albion. Auspicious, I think you'll agree.
 
 ---
 
-Harani woke up first. It took her longer to become lucid, so I sang quietly in that tent, burning precious oxygen to remind her of our home and our cause. <i>White flower, white flower</i>. Eventually, she joined in. She rolled over to drape a hand across my face---and the Moon was merciful, her spine was intact.
+Harani woke up first. It took her longer to become lucid, so I sang quietly in that tent, burning precious oxygen to remind her of our home and our cause. <i>White flower, white flower</i>. Eventually, she joined in. She rolled over to drape a hand across my face---and the Moon was merciful, her guts had not leaked inside her.
 
-Quan would be harder to treat with the equipment we had available. It felt rather like that last tour in the trenches, fighting for one more month of Jianese independence. At least there was no rain! But if the second lander could survive its descent, Quan might still have a chance---to live, if not to walk.
+Quan would be harder to treat with the equipment we had available. It felt rather like that last tour in the trenches, fighting for one more month of Jianese independence. At least there was no rain! But if the second lander could survive its descent, Quan might still have a chance---to live, if not to walk, or remember much of anything.
 
-The tent possessed a clever, if rather yonic, opening into my spacesuit, and I made use of it, leaving Quan to Harani's care. Her specialism may be plants, but she was certainly the better medic as well, and I would only get in the way. Better to busy myself with setting up the leaves of the electrical system---north-facing, angled for our latitude---to sustain my brief radio conversations with the orbiter.
+The tent possessed a clever, if rather yonic, opening into my spacesuit, and I made use of it, leaving Quan to Harani's care. Her specialism may be plants, but she was certainly the better medic as well, and I would only get in the way. So I spent those first days busying myself with setting up the leaves of the electricals---north-facing, angled for our latitude---to sustain my brief radio conversations with the orbiter.
 
 Anything to avoid thinking of Uyam.
 
@@ -72,8 +72,6 @@ The moonflower blooms in the mouth of corpses. Its name is self-explanatory: it 
 It was part of the plan. The seeds had survived, in Harani's pocket. The fertiliser, however, had all been in the lander.
 
 ---
-
-I... hold on. No, I'm all right. It's a long time ago now.
 
 A memory for you. Uyam is laughing, and strikes a pose, the oxidiser line draped lazily over her shoulder. I am just behind, trying very hard to look dashing. My overalls are unzipped a tantalisingly calibrated distance. Someone wipes a thumb along my cheek, a photogenic streak of oil.
 
@@ -133,7 +131,7 @@ The orbiter continued to rise and fall.
 
 The second lander brought with it Chirurgeon Nguyễn Liên, and Quan's legs were amputated one week after. They bore it with grace, all things considered. Maybe losing all those memories from having three legs fully severed... maybe I just didn't know enough of their dialect to know how bad they were cursing.
 
-But you wouldn't understand, would you? Quan was getting on in age. Moulted twice. They weren't going to grow back.
+You wouldn't understand, would you? Quan was getting on in age. Moulted twice. They weren't going to grow back.
 
 I helped to build them a prosthetic and crutches from the larger pieces of the first lander. A three-legged child again, they joined in the works eagerly, scanning and surveying to judge where to place more permanent structures. Despite everything, the project was somehow only a few weeks behind schedule. Not that the schedule meant much of anything with no more rockets to pursue us.
 
@@ -153,45 +151,41 @@ I don't want to suggest I was the founder of the Lunarian language. We were all 
 
 Let me tell you about the second rocket. It was much bigger than the first one. Ours was a missile that had been turned to crewed spaceflight by some very reckless means, but the Sokee ship was purpose-built to bring pilgrims to the Holy Moon. It carried a mighty twenty-one people. (Don't laugh, rockets were small back then!) All at once, our little colony would quadruple in size.
 
-Get this, right---the Sokee rocket had no separate lander. They'd deorbit the whole machine. To keep things simple! Yeah.
+Get this---the Sokee rocket had no separate lander. They'd deorbit the whole machine. To keep things simple! Yeah.
 
 I greeted it with some anxiety, fearing that the balance of power would shift in our colony with its change of demographics, but in fact these Sokee cosmonauts were terrifyingly young and rather less well-prepared than they thought---more religious zeal than practical experience. It was something of a miracle that they made it to the moon in one piece, but their luck ran out. Their landing was almost as much of a disaster as mine. Fuel gave out almost three metres from the ground and the rocket smeared itself across the moonscape. Barely avoided cutting right through our little habitat. But their crew compartment was built sturdy, and once we peeled it open, nearly all of them lived.
 
-Suddenly I found myself in the position of teacher.
+Suddenly I found myself in the position of teacher. And that's when things got really messy.
 
 ---
 
-I think it started like this. At least, this is how I remember it. I was trimming the moonflowers with one of the Acolyte-Cosmonauts. It must have been Sāb.
+I think it started like this. I was trimming the moonflowers with one of the Acolyte-Cosmonauts. It must have been Sāb. I remember exactly what he said.
 
-"Is it true," Sāb said, "that the Lunarites are more closely related to this flower than the other races of Albion?"
+"Is it true," he said, "that the Lunarites are more closely related to this flower than the other races of Albion?"
 
-I blinked. I'd never heard that one before. My eyes found their way over to Harani, who was wearing a much more severe grimace.
+I'd never heard that one before, didn't know what to say. But my eyes found their way over to Harani, and she looked like she'd eaten someone's moult.
 
 "No." she said. "Who told you that? We're descended from the ancient land-jellyfish, same as everyone else. Somewhere in deep time we must have a common ancestor with the flower, but..."
 
-"Master Haqui said so." Sāb said, a whining, insistent edge in his voice. "We carry the heritage of the flower, which is why we have a greater affinity with the Moon."
+And Sāb cut her off! "Master Haqui said so." He had this whining edge in his voice. "We carry the heritage of the flower, which is why we have a greater affinity with the Moon."
 
-"Is Master Haqui an evolutionary biologist?" Her voice became testy, as it always did when the Sokee masters came up.
+"Is Master Haqui an evolutionary biologist?" Harani's voice got testy, as it always did when the Sokee masters came up.
 
-Sāb pouted. "It was revealed to him."
+And Sāb pouted. "It was revealed to him."
 
-"*Revealed*."
+Harani just deadpanned, just, "*Revealed*." So Sāb really got going! He had this whole speech about Master Haqui dreaming of the flower growing within us, tempering the evil nature of Albion---of course. And apparently Haqui proved it, by grinding up a moonflower and eating it, which made him glow with inner moonlight to reveal those flowers blooming inside.
 
-"He dreamed of the flower growing within us, tempering the evil nature of Albion. So he ground up the flowers and extracted their essence, and meditated. Soon enough, the light of the moon shone from within, and we could see the blooming flowers curling inside him! Doesn't that prove it, Sister?"
+By this point Harani just scoffed and turned away, but I couldn't resist the bait. So I came in with the converts question---we're from all over Albion, we're not a race.
 
-She scoffed and turned away.
+It put Sāb off his stride. But he had an answer! He said, "Well, maybe it's like a... a recessive gene. Revealing itself in the children, but hidden in the parents."
 
-"And what of the converts?" I said, unable to resist the bait. "Our people are not a race. We come from all parts of Albion."
+So I asked him, "if someone didn't have this gene? Could they become a Lunarite?" And I just looked at him across the petals.
 
-Sāb seemed taken aback by this. "Well, maybe it's like a... a recessive gene." he said. "Something that reveals itself in the children, even if it's hidden in the parents."
-
-"And if someone didn't have this gene? Could they become a Lunarite?" I looked at him across the petals, snipping an errant branch.
-
-He met my gaze with fervour. "They *wouldn't*. And if they tried, they'd still have the evil soil of Albion inside them. They could never be pure."
+He met my gaze. "They *wouldn't*. And if they tried, they'd still have the evil soil of Albion inside them. They could never be pure."
 
 "You're only encouraging him, Ro." Harani said.
 
-So I just said I don't think that's how it works---well, something to that effect---and sent Sāb away on some errand. In retrospect, if I'd pressed harder then, I might have saved us a lot of trouble. But that's hubris talking.
+So I just said I don't think that's how it works---something to that effect---and sent Sāb away on some errand. In retrospect, if I'd pressed harder then, I might have saved us a lot of trouble. But that's hubris talking.
 
 ---
 
@@ -203,11 +197,11 @@ In Sokee, though, they take it rather more seriously than most.
 
 Sokee has enjoyed, by Albion's standards, a relative degree of peace. Its treacherous mountains, sparse plateaus and carefully cultivated reputation for fanaticism have dissuaded most would-be invaders. This autarky brings with it a certain pride.
 
-Moreover, in Sokee, the Lunarites were... almost accepted. We had *monasteries*. It's not like we ran the place, in Sokee we were just one sect in a hundred, but they didn't have that same fear that Lunarites carried with us everywhere else. In Jian, I used to think Sokee must be like a little glimpse of the coming Heaven.
+Moreover, in Sokee, the Lunarites were... almost accepted. We had *abbeys*. It's not like we ran the place, in Sokee we were just one sect in a hundred, but they didn't have that same fear that Lunarites carried with us everywhere else. In Jian, I used to think Sokee must be like a little glimpse of the coming Heaven.
 
-Well, in Sokee, if they had one thing to talk about, it was *religion*. I never knew that there were so many different ways to be a Lunarite. I'd try to explain some clear, mathematical point about spaceflight, and find that my words made me a Sevener, or an Post-Antivacuuist, or some other abstruse thing. And there would go the lesson. It was maddening. We were *already on the Moon*. What did any of that matter?
+Well, in Sokee, if they had one thing to talk about, it was *religion*. I never knew that they had so many different ways to be a Lunarist. I'd try to explain some clear, mathematical point about spaceflight, and find that my words made me a Sevener, or an Post-Antivacuuist, or some other abstruse thing. And there would go the lesson. It was maddening. We were *already on the Moon*. What did any of that matter?
 
-I don't want you to think we didn't try. Either to pull them back to Lunar soil, or to understand where they were coming from. We were here to build a true and lasting peace. The Sokee Lunarites had thought more about how to do it than any of us, we thought, we had better listen. And, don't get me wrong---they were brilliant. Quick as a fish, talented engineers. At its best, sharing our secrets with those Sokee kids really was divine. A way for Jian to live on, I thought.
+I don't want you to think we didn't try. Either to pull them back down to Lunar soil, or to understand where they were coming from. We were here to build a true and lasting peace. The Sokee Lunarites had thought more about how to do it than any of us, we thought, we had better listen. And, don't get me wrong---they were brilliant. Quick as a fish, talented engineers. At its best, sharing our secrets with those Sokee kids really was divine. A way for Jian to live on, I thought.
 
 But...
 
