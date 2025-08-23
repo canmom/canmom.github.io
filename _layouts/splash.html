@@ -18,11 +18,9 @@
             <section id="container">
                 <header>
                     <h1>{{ page.header }}</h1>
-                    <p>There is a whirlpool of subjectivity in the vast flow of history.</p>
-                    <p>Sometimes, she emits posts, and stories, and other little knots of words.</p>
-                    <p>Sometimes, her creations wash up here.</p>
+                    <p>There is a whirlpool of subjectivity in the flow of history.</p>
+                    <p>Sometimes, she emits posts, and stories, and other little knots of words. They are here!</p>
                     <address>
-                        <a href="{{ 'commission' | absolute_url}}">Art commissions</a>
                         {% for detail in page.contact_details %}
                         <a id="{{ detail.id }}" href='{{ detail.href }}'>{{ detail.text }}</a>
                         {% endfor %}
@@ -32,6 +30,12 @@
                     <section class="articles">
                         <h2><a href="https://canmom.itch.io">fiction</a></h2>
                         <section class="listing">
+                            <article>
+                                <a href="https://canmom.itch.io/a-summoning">
+                                    <h1>A Summoning</h1>
+                                    <p>An enchanting day at the theatre, and its consequences&mdash;the story of a wizard's apprentice (short story)</p>
+                                </a>
+                            </article>
                             <article>
                                 <a href="https://canmom.github.io/vector">
                                     <h1>VECTOR</h1>
