@@ -4,7 +4,7 @@ layout: article
 origin: https://canmom.tumblr.com/post/771827393980678144/one-of-the-people-i-most-looked-up-to-when-i-was
 categories:
  - theory
-excerpt: the meaning of transitioning as a game we are collectively building (in which I accidentally do a Wittgenstein)
+excerpt: The meaning of transitioning as a game we are collectively building (in which I accidentally do a Wittgenstein)
 ---
 one of the people i most looked up to when i was first transing has, many years later, pretty hard disidentified with words like ‘trans woman’, 'transfem’ and so on. they still write to an audience of mostly dolls, but they’re doing some other gender thing now, and tend not to like being put in the trans woman/transfem box.
 
