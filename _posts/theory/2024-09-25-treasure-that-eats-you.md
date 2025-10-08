@@ -4,6 +4,8 @@ layout: article
 origin: https://canmom.tumblr.com/post/762567248803184640/choosing-the-treasure-that-eats-you
 categories:
  - theory
+tags:
+ - introspection
 excerpt: A meditation on purpose and human sacrifice.
 ---
 

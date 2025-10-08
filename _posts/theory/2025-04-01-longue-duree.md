@@ -7,6 +7,7 @@ categories:
 excerpt: Personal identity considered over the potentially infinite future of (post)humanity.
 tags:
  - don hertzfeldt
+ - introspection
 ---
 a theme in art that fascinates me is imagining the ultra-long-duration future of humanity, in which our forms become increasingly abstracted and strange to us.
 

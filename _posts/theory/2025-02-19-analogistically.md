@@ -8,6 +8,7 @@ categories:
 tags:
  - LLMs
  - brainweird
+ - introspection
 ---
 
 <strong>Epistemic status:</strong> jam session
