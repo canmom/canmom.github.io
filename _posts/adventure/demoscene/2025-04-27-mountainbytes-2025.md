@@ -55,7 +55,7 @@ So, someone might be an expert at making old-school demos in assembly for the Co
 
 ## My MountainBytes project
 
-{% include youtube.html id="zbihfgj5P78" capt="<a href='https://www.pouet.net/prod.php?which=103659'>pouet</a>, <a href='https://www.pouet.net/prod.php?which=103659'>Demozoo</a>, <a href='https://github.com/canmom/shape-of-thought'>source</a>" %}
+{% include youtube.html id="zbihfgj5P78" capt="<a href='https://www.pouet.net/prod.php?which=103659'>pouet</a>, <a href='https://demozoo.org/productions/367509/'>Demozoo</a>, <a href='https://github.com/canmom/shape-of-thought'>source</a>" %}
 
 For my first demo, I wanted to explore a few things: the Bevy game engine, the use of compute buffers to pass information from the CPU to the GPU, and express certain themes around neuroscience inspired by a then-recent LSD trip. The main idea was to create an oscillating shape using spherical harmonics.
 
