@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="screen" type="text/css">
     {% endfor %}
   {% endif %}
+  <script src="{{ '/js/vendor/modernizr-2.8.3.min.js' | absolute_url}}"></script>
   {% if page.has_plots %}
   {% include functionplot.html %}
   {% endif %}
