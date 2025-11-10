@@ -148,11 +148,7 @@ main div.highlighter-rouge {
     padding-left: 15px;
 }
 
-main blockquote p {
-    margin-left: 0;
-}
-
-main blockquote blockquote {
+main blockquote p, main blockquote ul, main blockquote ol, main blockquote blockquote {
     margin-left: 0;
 }
 
@@ -357,6 +353,10 @@ main details summary {
 
 main details[open] > summary {
     margin-bottom: 10px;
+}
+
+main details blockquote {
+    margin-left: 15px;
 }
 
 .hiddencontent {
