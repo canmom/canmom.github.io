@@ -195,7 +195,7 @@ In fact, if you read back in the message log, additional translation notes are p
 <ruby lang="jp">淡水魚<rp> (</rp><rt>tansui-gyo</rt><rp>)</rp></ruby>
 : freshwater fish
 
-<ruby lang="jp">産卵<rp> (</rp><rt>spawn</rt><rp>)</rp></ruby>
+<ruby lang="jp">産卵<rp> (</rp><rt>sanran</rt><rp>)</rp></ruby>
 : spawn
 
 <ruby lang="jp">卵<rp> (</rp><rt>tamago</rt><rp>)</rp></ruby>
