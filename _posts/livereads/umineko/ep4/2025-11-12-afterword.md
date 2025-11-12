@@ -11,7 +11,7 @@ excerpt: in which I give my answers
 ---
 Hello again everyone! It's an exciting moment for this liveblog: after eight years gathering Questions, we now can start to get some answers.
 
-A huge thank you to everyone who has commented or discussed it with me over the years. It means a lot to me to be some small part of the 'Umineko fandom akashic record'. So without further ado, comments from the end of episode 4!
+A huge thank you to everyone who has commented or discussed it with me over the years. It means a lot to me to be some small part of the 'Umineko fandom Akashic record'. So without further ado, comments from the end of episode 4!
 
 1. contents
 {:toc}
