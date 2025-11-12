@@ -122,7 +122,7 @@ Battler even hinted at this with his 'culprit pretended to find the key on one o
 
 Of course, this does really leave the question as to why Rosa would leave a cheery message to Maria by stuffing the mutilated bodies of her siblings with candy. She's an awful person, but in the mundane sad way that people are awful. This would be a fair few steps beyond!
 
-(Thinking about it even more, another solution is that *Maria* was the killer. A six-year-old child killing six adults seems pretty far-fetched, but it is also entirely consistent with the red statements. In that case, Maria was wishing *herself* a happy birthday. Again, pretty far-fetched!)
+(Thinking about it even more, another solution is that *Maria* was the killer. A six-year-old child killing six adults seems pretty far-fetched, but it is also entirely consistent with the red statements. In that case, Maria was wishing *herself* a happy halloween. Again, pretty far-fetched!)
 
 With this in mind I am wondering if there are any other cunning little tricks like that to observe in the other murders. Rather than bog things down here trying to solve everything, though, let me make this plan: when it seems like we're about to encounter a solution, I'll make a final stab at writing my theory before I read the solution.
 
