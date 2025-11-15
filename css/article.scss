@@ -723,6 +723,10 @@ ruby rt {
         margin-right: -100px;
     }
 
+    main figure img {
+        max-width: unset
+    }
+
     main > figure.video {
         padding-bottom: calc(0.5625 * (100% + 75px + 100px));
     }
