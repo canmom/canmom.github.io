@@ -724,7 +724,11 @@ ruby rt {
     }
 
     main figure img {
-        max-width: unset
+        max-width: unset;
+    }
+
+    main figure.float img {
+        max-width: 100%;
     }
 
     main > figure.video {
