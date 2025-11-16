@@ -118,13 +118,13 @@ For a long time, Devola and Popola are persecuted by the other androids. We see 
 
 And that would be that: a steady decay, or perhaps the androids creating something new in the ruins of humanity. But then the aliens show up!
 
-## The Space War (<cite>NieR Replicant Drama CD</cite>) ([translation](http://nier2.com/blog/2015/12/13/nier-drama-cd-the-space-war/))
+## The Space War (<cite>NieR Replicant Drama CD</cite>) ([translation](https://web.archive.org/web/20170705081914/http://nier2.com/blog/2015/12/13/nier-drama-cd-the-space-war/))
 
 <cite>NieR Automata</cite>, you may have heard, concerns a war between humans and aliens. Yet so far there have been no aliens whatsoever! In 5012, they finally make their appearance.
 
 {% include figure.html src="/embed/nier/Alien.webp" alt="An alien corpse, looking like a sort of tentacled blob, allegedly similar to a catfish." capt="A dead alien, as seen in <cite>Automata</cite>." %}
 
-The story comes, as is now traditional I guess, as a kind of joke track in the Drama CD. You can listen to it on Youtube [here](https://www.youtube.com/watch?v=QqumP4OIE88&list=PL6qLzIEXCzmqnStYOgcPPFdvConxY5bkT&index=3), and read Rekka Alexiel's translation alongside [here](http://firesanctuary.com/blog/2015/12/13/nier-drama-cd-the-space-war/). (The remainder of the tracks on the Drama CD comprise a non-canon high school AU, translated [here](http://firesanctuary.com/blog/2014/12/13/nier-drama-cd-replicant-private-high-school/).)
+The story comes, as is now traditional I guess, as a kind of joke track in the Drama CD. You can listen to it on Youtube [here](https://www.youtube.com/watch?v=QqumP4OIE88&list=PL6qLzIEXCzmqnStYOgcPPFdvConxY5bkT&index=3), and read Rekka Alexiel's translation alongside [here](https://web.archive.org/web/20170705081914/http://nier2.com/blog/2015/12/13/nier-drama-cd-the-space-war/). (The remainder of the tracks on the Drama CD comprise a non-canon high school AU, translated [here](http://firesanctuary.com/blog/2014/12/13/nier-drama-cd-replicant-private-high-school/).)
 
 In brief, Emil---who has now developed a substantial robotic body---accidentally gets in a fracas with a group of wild animals, including a boar, only to be interrupted by an 'Adamski-style' UFO manifesting (referring to [the 1952 UFO hoax by George Adamski](https://en.wikipedia.org/wiki/George_Adamski#/media/File:George_Adamski_ship_1.jpg)---think of the classic 'flying saucer' design). The UFO opens fire on the animals around Emil, infuriating him:
 
@@ -229,7 +229,7 @@ While the main sphere of Beepy seems to have departed into space, we can presume
 
 Eventually, the newly awakened Machine Lifeforms turn on their creators. The androids are unaware of this until the confrontation with Adam during <cite>NieR Automata</cite>. But per the timeline, the machine rebellion takes place in the 11000s, and the aliens are extinct as of 11306, a few hundred years before <cite>Automata</cite>.
 
-{% include figure.html src="/embed/nier/MachineConcept2.webp" alt="A rough drawing of a large machine lifeform with long piston arms." capt="Another Hisayoshi Kijima concept sketches for the Machine Lifeforms." contentsrc="https://www.platinumgames.com/official-blog/article/9863" %}
+{% include figure.html src="/embed/nier/MachineConcept2.webp" alt="A rough drawing of a large machine lifeform with long piston arms." capt="Another Hisayoshi Kijima concept sketch for the Machine Lifeforms." contentsrc="https://www.platinumgames.com/official-blog/article/9863" %}
 
 What were the machines up to in the meantime? Per the [<cite>Machine Research Report</cite>](https://nier.fandom.com/wiki/Machine_Research_Report), penned by the android Jackass and released to the player only after completing Route C/D/E of <cite>Automata</cite>, they were attempting to reconcile the simple command given by the aliens as a raison d'etre with their own ongoing existence:
 
@@ -398,7 +398,7 @@ The story is also related in a novelisation by Eishima Jun as <cite>YoRHa v1.05<
 
 {% include figure.html src="/embed/nier/A2YoRHaManga.webp" alt="Large splash panel from the YoRHa manga, depicting A2 cutting through a machine." %}
 
-Recently the 1.2 version of the play has started being adapted into manga by Megumu Soramichi, titled <cite>YoRHa Pearl Harbor Descent Mission Record</cite> (<ruby lang="ja">ヨルハ 真珠湾降下作戦記録<rp> (</rp><rt>YoRHa Shinjuwan Kouka Sakusen Kiroku</rt><rp>)</rp></ruby>). This can be read on various scan sites, e.g. [here](https://mangakakalot.com/manga/sx925217), or you could watch a fanmade video version of the first chapter with audio from the musical [here](https://www.youtube.com/watch?v=9xe89Zwfcns).
+Recently the 1.2 version of the play has started being adapted into manga by Megumu Soramichi, titled <cite>YoRHa Pearl Harbor Descent Mission Record</cite> (<ruby lang="ja">ヨルハ 真珠湾降下作戦記録<rp> (</rp><rt>YoRHa Shinjuwan Kouka Sakusen Kiroku</rt><rp>)</rp></ruby>). This can be read on various scan sites \[2025 edit: unfortunately the source I linked before has gone offline, but here is [the mangaupdates page](https://www.mangaupdates.com/group/euuulef/magicalgirlelsatranslations), and a torrent is available [here](https://nyaa.si/view/2002065)\], or you could watch a fanmade video version of the first chapter with audio from the musical [here](https://www.youtube.com/watch?v=9xe89Zwfcns).
 
 ### So what happens?
 
@@ -478,7 +478,7 @@ The first three versions of the play could plausibly be prequels to <cite>Automa
 
 One is that this one takes place in a genderflipped universe; the YoRHa squad, Commander, etc., basically all characters in the play are now played by men. Presumably this version is just one of the many alternate universes---the same universe as 'YoRHa Girls 1.1a'!
 
-To quickly run down the changes: Accord (of DoD3 fame) is present, taking over the role of weapons-obsessed resistance members who appear in the other versions. This is the only 'on screen' appearance of Accord in the NieR world, although we find a flyer mentioning her in <cite>Automata</cite> and she is briefly mentioned in one of Yonah's diary entries in the <cite>Replicant</cite> remake. There are a few other adjustments: the Resistance members are deserters, Anemone is replaced by Jackass, the two red girls are combined into one red boy (Terminal Omega) and the operators Futaba and Wakaba are combined into just one Wakaba. You can read more about it in detail [on Rekka's slite](http://firesanctuary.com/yorha-ver13aa/).
+To quickly run down the changes: Accord (of DoD3 fame) is present, taking over the role of weapons-obsessed resistance members who appear in the other versions. This is the only 'on screen' appearance of Accord in the NieR world, although we find a flyer mentioning her in <cite>Automata</cite> and she is briefly mentioned in one of Yonah's diary entries in the <cite>Replicant</cite> remake. There are a few other adjustments: the Resistance members are deserters, Anemone is replaced by Jackass, the two red girls are combined into one red boy (Terminal Omega) and the operators Futaba and Wakaba are combined into just one Wakaba. You can read more about it in detail [on Rekka's site](http://firesanctuary.com/yorha-ver13aa/).
 
 1.3a can be torrented [here on Nyaa](https://nyaa.si/view/1352601), though at time of writing, there are no English subtitles available.
 
@@ -600,7 +600,7 @@ There's one cute moment where all the Operators present Valentines' Day gifts to
 
 > "Today is February 14th! That date is also known as Valentine's Day, which is a day where you give brown objects to those you adore!"
 
-Per the timeline, this intrusion likely happened on February 10th, 11945. Though there are likely to have been previous intrusions...
+Per the timeline, this intrusion likely began on February 10th, 11945. Though there are likely to have been previous intrusions...
 
 ## Meanwhile, among the Machines...
 
@@ -610,7 +610,7 @@ The story <cite>Small Flowers</cite> [[Ark](https://theark.wiki/w/Small_Flowers)
 
 {% include figure.html src="/embed/nier/AmazarashiCover.webp" alt="Cover of the Amazarashi single 'Deserving of Life', featuring 2B and 9S standing on a destroyed machine lifeform." class="float right" %}
 
-Plato 1728 is the subject of the <cite>3C3C1D119440927</cite> DLC for <cite>Automata</cite> and the tie-in [Amazarashi](https://en.wikipedia.org/wiki/Amazarashi) single <cite>Deserving of Life</cite>. (The name of this DLC breaks down as "3 Costumes, 3 Coliseums, 1 Dream" and a date 27th September 11944, which is when these events take place in the timeline.)
+Plato 1728 is the subject of the <cite>3C3C1D119440927</cite> DLC for <cite>Automata</cite> and the tie-in [Amazarashi](https://en.wikipedia.org/wiki/Amazarashi) single <cite>Deserving of Life</cite>. (The name of this DLC breaks down as "3 Costumes, 3 Coliseums, 1 Dream" and the date 27th September 11944, which is when these events take place in the timeline.)
 
 You can get a sense of Plato's story in the [Machine Spear](https://nier.fandom.com/wiki/Machine_Spear) weapon story:
 
