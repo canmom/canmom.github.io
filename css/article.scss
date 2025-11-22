@@ -724,7 +724,7 @@ ruby rt {
     }
 
     main figure img {
-        max-width: unset;
+        max-width: 1000px;
     }
 
     main figure.float img {
@@ -744,6 +744,17 @@ ruby rt {
 
     main aside p {
         margin-bottom: 0;
+    }
+
+    main table {
+        width: 1000px;
+        margin-left: -150px;
+        border-collapse: separate;
+        border-spacing: 5px;
+    }
+
+    main table tbody tr:nth-child(odd) {
+        background-color: #eee;
     }
 }
 

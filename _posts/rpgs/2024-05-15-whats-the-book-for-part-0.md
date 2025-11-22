@@ -15,11 +15,11 @@ tags:
 
 I watched this three hour video! It is primarily a critique of the story games/Forge mode in TTRPG design, seeing it as the fruit of a condescending behaviourism, which to youtuber Vi Huntsman is painfully reminiscent of the ‘Applied Behaviour Analysis’ abusive treaments that are often applied to autistic children! Oof! Quite a charge…
 
-…though it only gets there after the first hour or so! There’s a segment where they do a stage production of an abridged version of a segment in <cite>Sunless Skies</cite>!
+…though it only gets there after the first hour or so! There’s a segment where she does a stage production of an abridged version of a segment in <cite>Sunless Skies</cite>!
 
 So… despite 'three hour video essay titled <cite>Art, Agency, Alienation</cite>’ being kind of a punchline in itself, despite occasionally the kind of indulgence you tend to only see in got-way-too-big video essay channels, this video is actually pretty legit. I used to be quite the story game partisan and this is perhaps the best critique I’ve seen of it!
 
-I think the thrust of Vi Huntsman’s critique has merit, but it ends up feeling… honestly broader than I think they meant it - many dimensions seem to apply to almost any printed TTRPG. I also found their conclusion, which calls for more adventures and similar to support the 'folk art’ of RPGs, *extremely* underwhelming - more a statement of taste than an answer to the blistering criticisms of the previous three hours.
+I think the thrust of Vi Huntsman’s critique has merit, but it ends up feeling… honestly broader than I think she meant it - many dimensions seem to apply to almost any printed TTRPG. I also found their conclusion, which calls for more adventures and similar to support the 'folk art’ of RPGs, *extremely* underwhelming - more a statement of taste than an answer to the blistering criticisms of the previous three hours.
 
 So here’s my own attempt at an answer. Or at least to lay out the premises we’d need to reach an answer, I’m not there yet!
 
@@ -30,13 +30,13 @@ So here’s my own attempt at an answer. Or at least to lay out the premises we�
 
 Let me try and break it down into a tl;dw version. (I’ll brush past the lead-in which talks about <cite>The Stanley Parable</cite> and <cite>Severance</cite>, used to frame the discussion.)
 
-First up, **<dfn>ABA</dfn>** is an abusive practice inspired by radical **behaviourism**. In ABA, a behaviour analyst decides how a child *should* behave, and applies **crude reward/punishment structures** to get the child to do as they want, without trying to understand the underlying reasons. For example, an analyst may try to stop a child covering their ears when flushing the toilet, even though this is painful for the child. This analogy runs through the video. It is clearly quite personal for Huntsman, who I’m fairly sure is autistic themselves, and apparently worked at some point in attempting to apply the 'treatments’ cooked up by the behavioural analysts.
+First up, **<dfn>ABA</dfn>** is an abusive practice inspired by radical **behaviourism**. In ABA, a behaviour analyst decides how a child *should* behave, and applies **crude reward/punishment structures** to get the child to do as they want, without trying to understand the underlying reasons. For example, an analyst may try to stop a child covering their ears when flushing the toilet, even though this is painful for the child. This analogy runs through the video. It is clearly quite personal for Huntsman, who I’m fairly sure is autistic herself, and apparently worked at some point in attempting to apply the 'treatments’ cooked up by the behavioural analysts.
 
 Now, there is a perspective in game design that believes that the designer’s responsibility is to **create structures of rewards and perhaps punishments to push a player towards a specific intended experience** - i.e. 'incentives’. In this light, game design is envisioned almost as a kind of spooky mind control to create behaviour in players, though the methods imagined to do so are in fact very crude.
 
 The other element Huntsman introduces is the notion of ’**Suitsian games**’, after the philosopher Bernard Suits, which are self-contained rules structures creating interesting obstacles to reach some kind of arbitrary goal (for example: capture king, place ball in hoop), where the interesting aspect is the new 'agency’ created by the limitations of the rules. Huntsman argues that TTRPGs are *not* Suitsian games, and it’s a big mistake to act as if they are.
 
-They present some examples of **a disdainful attitude among designers** that players are like children whose behaviour is determined only by the game itself, despite all evidence to the contrary. A particularly damning example is a podcast episode in which a game designer who is also an ABA behavioural analyst attempts to explain how games should more deliberately apply direct incentives in their design.
+She presents some examples of **a disdainful attitude among designers** that players are like children whose behaviour is determined only by the game itself, despite all evidence to the contrary. A particularly damning example is a podcast episode in which a game designer who is also an ABA behavioural analyst attempts to explain how games should more deliberately apply direct incentives in their design.
 
 This attitude, Huntsman argues, results in ***games*** (here books you can buy instructing you what to do) which **attempt to meticulously shape** ***play*** (the actual thing that happens at the table) to push it towards a very specific intended experience, often by rigidly defining processes for nearly every stage of the game, similar to a board game. This undercuts the open-endedness of TTRPGs, the major strength of the medium.
 
@@ -58,7 +58,7 @@ But…
 
 What’s more interesting to me is the broader critique.
 
-The video does not directly address <cite>Root</cite>’s obvious parent <cite>Apocalypse World</cite> in much depth. Huntsman notes that most of Root’s ideas are cribbed from there and that Magpie Games have been less and less likely to acknowledge Vincent and Meguey as time goes on; the pair are also included in the Pepe Silvia wall used to illustrate the reach of the Forge. However, they do not really address whether their criticisms apply to Apocalypse World.
+The video does not directly address <cite>Root</cite>’s obvious parent <cite>Apocalypse World</cite> in much depth. Huntsman notes that most of Root’s ideas are cribbed from there and that Magpie Games have been less and less likely to acknowledge Vincent and Meguey as time goes on; the pair are also included in the Pepe Silvia wall used to illustrate the reach of the Forge. However, she does not really address whether her criticisms apply to Apocalypse World.
 
 To my eye, <cite>Apocalypse World</cite> is still a *lot* better than almost all of its many, many imitators. Part of that is the strength of its prose - and that is actually very important, for reasons I’ll get into. So I think it would be better to look at the best of this tradition, rather than its worst.
 
