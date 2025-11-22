@@ -18,12 +18,14 @@ Of course, because I'm, well, *me*, I'm particularly interested in roleplaying g
 
 This is a subject I got into last year in the [what's the book for](./whats-the-book-for-part-0) series, inspired by a video by Vi Huntsman who argued in part that roleplaying games do *not* fit Bernard Suits's definition of games. Now I've been mainlining the theories of game design for the last few months, I wanna come back to that question, and in general, to examine roleplaying games in light of all this other theory...
 
+In this first article, I'll introduce some of our main characters, whose works, and the questions they raise, will inform the rest of the series.
+
 1. contents
 {:toc}
 
 ## can you even define a game?
 
-Wittgenstein famously used a game as an example of a thing that is impossible to define except by family-resemblance. Not everyone agrees.
+Wittgenstein famously used a game as an example of a thing that is impossible to define except by [family-resemblance](https://en.wikipedia.org/wiki/Family_resemblance). Not everyone agrees.
 
 A major point of reference for this article will be Katie Salen and Eric Zimmerman's book <cite>Rules of Play</cite>, a book which in 2004 attempted to lay out a textbook for the field of game design. While other books we'll address are philosophical or anthropological treatises, <cite>Rules of Play</cite> occupies a rather different space: it aims to be a teaching tool aimed to get students of game design up to speed with the breadth of ideas in the field, as well as lay out the foundations of the field.
 
@@ -134,4 +136,8 @@ For now, I'll save further summary and long quotes. Over the rest of this series
 
 ## what is to come
 
-In [part 2](./rpgs-as-games-2-goals) of this series, we'll introduce the question of how 'prelusory goals' factor into RPGs and the objections raised by Vi Huntsman and C. Thi Nguyen, and I'll take a look over some of the space of RPG designs in light of that.
+In [part 2](./rpgs-as-games-2-goals) of this series, I'll start examining the question of how 'prelusory goals' factor into RPGs and the objections raised by Vi Huntsman and C. Thi Nguyen, and I'll take a look over some of the space of RPG designs in light of different views of what the goal is.
+
+This will naturally lead into [part 3](./rpgs-as=games-3-unwritten), which will take a close look at Stephen Sniderman's analysis of *unwritten rules*, and see how they factor into the procedures of different RPG traditions.
+
+In [part 4](./rpgs-as-games-4-goals-restrictions), I take a look at the other side of Suits's structure, the voluntary restrictions. I'll be looking at how RPG rules restrict what sort of narration the players can make.
