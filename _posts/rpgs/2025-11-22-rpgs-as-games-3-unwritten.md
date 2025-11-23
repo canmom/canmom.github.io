@@ -147,7 +147,7 @@ There are many types of roleplaying game which do not involve a GM-equivalent an
 
 How can this work, when at any point, any player could show up and narrate something that is not in the spirit of the game? Quite simply: the other players, either implicitly or by explicit agreement, ignore that person's contribution and carry on their own narration as if it did not exist.
 
-In an MMO RP venue, players may be carrying out conversations in-character in small groups. All the narration and dialogue is inserted into the same chat log, rather chaotically, but players can adeptly filter out the parts that are relevant to them, or perhaps spin up a private group chat.
+In an MMO RP venue, players may be carrying out conversations in-character in small groups. All the narration and dialogue is inserted into the same chat log, rather chaotically, but players soon become adept at filtering out the parts that are relevant to them, or perhaps spin up a private group chat for some mechanic assistance.
 
 In this case, the situation is very much like improv theatre: a character will make an *offer* by declaring something, and another player might respond to that offer by acknowledging it with their next action, creating a new offer. In this case, Bernard Suits is not entirely wrong to observe a goal of continuing the RP indefinitely: a good RP statement gives the other player something concrete to work with.
 

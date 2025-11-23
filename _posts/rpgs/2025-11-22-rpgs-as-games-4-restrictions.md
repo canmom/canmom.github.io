@@ -31,7 +31,7 @@ On that note, while anything *could* be said, not everything *would* be said. As
 
 In a game such as chess, we can link up all the possible game states into a mathematical directed graph, with each node representing a possible state of the game, and each edge representing a valid transition from one state to another. This is commonly used to mathematically 'solve' games and identify the optimal strategy. Even for a seemingly simple set of rules, the combinatoric possibilities of the rules can result in [an enormously complicated game tree](https://www.youtube.com/watch?v=AK8OLuRBFTw) where it is by no means obvious how to find a path to the target state.
 
-For RPGs, the situation is even more extreme. In a sense, the 'state' of an RPG is *everything* that has been said in the game so far. The 'representable' (but not necessarily valid!) states of the RPG amount to the whole of Borges' [Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel)! The rules of an RPG thus specify a path through all possible narrations, a thin web running through the Library.
+For RPGs, the situation is even more extreme. In a sense, the 'state' of an RPG is *everything* that has been said in the game so far, coupled with all the mechanical pieces used to support it. The 'representable' (but not necessarily valid!) states of the RPG amount to the whole of Borges' [Library of Babel](https://en.wikipedia.org/wiki/The_Library_of_Babel)! The rules of an RPG, both written and unwritten, thus specify a path through all possible narrations, a thin web running through the Library.
 
 (Incidentally, in Vincent's terminology, this is roughly ['positioning'](http://lumpley.com/index.php/anyway/thread/692).)
 
@@ -45,13 +45,13 @@ This can of course include 'thinking ahead', and in this regard, there may be an
 
 RPGs are not the only case of creating a narrative with restrictions. For example, they might carry out a writing exercise where they [avoid the letter 'e'](https://en.wikipedia.org/wiki/Lipogram), or more generally write in a strict format like an epistolary novel. The author of a detective novel might decide to strictly follow Knox's rules---or to deliberately flout them. 
 
-Even for models that don't play with such specific formats, authors will generally try to obey certain conventions of fiction. The actions characters take should (eventually!) seem well-motivated. If something is important to the story, it is usually expected that it will be introduced earlier. They can play with genre assumptions, following them or breaking them. They might play to standard plot structures, like a three-act structure or <i>kishōtenketsu</i>.
+Even for novels that don't play with such specific formats, authors will generally try to obey certain conventions of fiction. The actions characters take should (eventually!) seem well-motivated. If something is important to the story, it is usually expected that it will be introduced earlier. They can play with genre assumptions, following them or breaking them. They might adhere to standard plot structures, like a three-act structure or a <i>kishōtenketsu</i>.
 
-Are these Suitsian rules? Sorta. They *are* voluntary restrictions taken on to enable a certain activity. And in working within those limits, you may have to employ strategy. For example, if an author wants to have a character be shot, they will make sure to mention a gun. This is what Emily Care Boss called [<i>fictional positioning</i>](http://lumpley.com/index.php/anyway/thread/690) in the context of RPGs.
+Are these Suitsian rules? Sorta. They *are* voluntary restrictions taken on to enable a certain activity. And in working within those limits, you may have to employ strategy. For example, if an author wants to have a character be shot, they will make sure to mention a gun. This is what Emily Care Boss called [<i>fictional positioning</i>](http://lumpley.com/index.php/anyway/thread/690) in the context of RPGs, slightly narrower than Vincent's definition.
 
-If you were determined to make writing a novel be a Suitsian game, perhaps you could argue that the prelusory goal is that a story exists. But the rules are taken not to make it harder to reach the state of 'a story exists', but to shape the <i>sort of story</i> that emerges at the other end.
+If you were determined to make writing a novel be a Suitsian game, perhaps you could argue that the prelusory goal is that a story exists. But the rules are usually taken not to make it harder to reach the state of 'a story exists', but to shape the <i>sort of story</i> that emerges at the other end.
 
-In any case, most people don't do this. Calling writing a novel a game seems to be an over-expansion of the idea of 'games'.
+In any case, most people don't try to make that move. Calling writing a novel a game seems to be an over-expansion of the idea of 'games'.
 
 <small>Until we invented 'solo journaling games', anyway...</small>
 
