@@ -119,7 +119,7 @@ One of the core fixations of the OSR was playstyle. [This article](https://grump
 
 'Rulings over rules' appears to date back to at least around 2008, when [<cite>A Quick Primer for Old School Gaming</cite>](https://friendorfoe.com/d/Old%20School%20Primer.pdf) was published; mind you, it soon attracted [criticism](https://thealexandrian.net/wordpress/3924/roleplaying-games/rules-vs-rulings) as well, so it can't be taken as the only ideology of the movement here!
 
-Still, essentially the principle is this: the rulebook should not attempt to cover every single scenario that might come up over the course of a game, but instead give a general framework which the referee/DM can use to scaffold an ad-hoc, situational approach based on what they think is reasonable. ('New-school' games also provide such a framework, indeed nearly all traditional RPGs provide a list of skills which can be rolled as situationally relevant, but the OSR tradition tends to be more simplified.)
+Still, essentially the principle is this: the rulebook should not attempt to cover every single scenario that might come up over the course of a game, but instead give a general framework which the referee/DM can use to scaffold an ad-hoc, situational approach based on what they think is reasonable. ('New-school' games also provide such a framework, indeed nearly all traditional RPGs provide a list of skills which can be rolled as situationally relevant, but the OSR tradition tends to be more simplified, spending less rules text advising players on when and how to invoke those rules.)
 
 This sits in an interesting tension with the fact that the OSR also favoured highly lethal, 'striving' play in Nguyen's dichotomy. Just like 'Free Kriegsspiel', the players would be trying to predict how the referee would interpret their requested action and present their action in the most favourable light. Players might learn that the referee in their game expects them to describe checking every nook and cranny of the dungeon in explicit terms, as in the <cite>Quick Primer</cite>.
 
@@ -147,9 +147,9 @@ However, they are not completely free. Should they fail to engage the players, t
 
 Since the players know the GM is not completely free, and that they are familiar with the game's broader play culture and perhaps the GM's personal style, they can make predictions about what sort of rulings the GM is likely to make. So, even in the contexts that the rules do not address, there are some constraints created by the dynamic system and room for strategically pursuing goals. Indeed, this could be viewed as a 'hidden information' game: the players are trying to discover the 'rules' implicit in a GM's methods as they play the game.
 
-## ignoring people
+## overlapping shared fictions & ignoring people in MMOs
 
-There are many types of roleplaying game which do not involve a GM-equivalent and have all players in the same type of role. As well as story games like <cite>Fiasco</cite> or <cite>Dream Askew</cite>, roleplaying in MMOs or forums will often involve a shared responsibility for maintaining the integrity of the fiction.
+There are many types of roleplaying game which do not involve a GM-equivalent and have all players in the same type of role. As well as story games like <cite>Fiasco</cite> or <cite>Dream Askew</cite>, roleplaying in MMOs or forums will often involve a shared responsibility for maintaining the integrity of the fiction. In many cases, the game will take place in a public area of an MMO, or an open chatroom, with people generally welcome to step up and join the game.
 
 How can this work, when at any point, any player could show up and narrate something that is not in the spirit of the game? Quite simply: the other players, either implicitly or by explicit agreement, ignore that person's contribution and carry on their own narration as if it did not exist.
 
@@ -160,6 +160,12 @@ In this case, the situation is very much like improv theatre: a character will m
 A player will sometimes complain that nobody wants to engage with them, and often this is because they haven't fully understood the norms of the RP space: breaking with its aesthetic and narrative assumptions, violating some of the few explicit rules like 'don't narrate another character's action', or interfering with the pacing of another player group's scene. In this case, the other players might issue a correction, or just shut them out.
 
 So players in a 'freeform' RP are not completely free either: there are nebulous, unwritten rules which must be followed or they will be pushed out of the game.
+
+It turns out I am once again following Vincent Baker here: the so-called 'second construction of the Lumpley principle' defined [here](http://lumpley.com/index.php/anyway/thread/694) says exactly this:
+
+> When someone declares that something happens in the game, it becomes true when everyone assents to it, and under no other conditions.
+
+In MMO scenarios, the exact bounds of that *everyone* is nebulous. It becomes true for *some* people when those people assent to it. There are a variety of overlapping 'shared fictions'.
 
 ## the nature of RPG rules
 
