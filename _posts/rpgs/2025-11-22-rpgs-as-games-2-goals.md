@@ -128,7 +128,7 @@ Baker discusses rules as being like arrows which go from one to the other. For e
 
 This is on the old part of Vincent's site, when he was still more engaged with the Forge, and his thinking might have changed since then. ([This post from 2020](https://lumpley.games/2020/07/12/powered-by-the-apocalypse-part-5/) addresses a similar subject, more granularly.) But I find this model very helpful for understanding how RPG mechanics work.
 
-The things that make RPGs especially interesting, and distinct from e.g. board games, are Vincent's 'fiction->tokens' arrows, mechanics which change the state of the game mechanics based on the fiction. This means, returning to Nguyen's account, that in RPGs the fictional things are in a sense 'actual': what the Forgeites call 'fictional positioning' is a large part of how the game evolves, and something you can strive against!
+The things that make RPGs especially interesting, and distinct from e.g. board games, are Vincent's 'fiction⟶tokens' arrows, mechanics which change the state of the game mechanics based on the fiction. This means, returning to Nguyen's account, that in RPGs the fictional things are in a sense 'actual': what the Forgeites call 'fictional positioning' is a large part of how the game evolves, and something you can strive against!
 
 By contrast, in a board game, this isn't true. There may be a fiction represented by the game, but only the state of the tokens is relevant to the game mechanics. I might say that my pawn is terrified by the bishop lurking nearby, but the game will play out no differently for that terror.
 

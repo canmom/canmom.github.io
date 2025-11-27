@@ -10,7 +10,7 @@ tags:
 ---
 Hello! This is part of a series on analysing RPGs in light of broader theories about games. In [part 1](./rpgs-as-games-1) I introduced the history of attempts to describe games, and in [part 2](./rpgs-as-games-2) I focused in on the specific question of whether RPGs conform to the model of games devised by philosopher Bernard Suits, weighed against arguments by Vi Huntsman and C. Thi Nguyen that they aren't.
 
-Towards the end of that article, we zoomed through some of the ways RPG mechanics can vary, and zeroed in on the specific class of mechanic unique to RPGs (and certain types of wargame): what Vincent Baker described as 'fiction->tokens' and 'fiction->fiction' arrows, i.e. rules that deal directly with the imagined scenario.
+Towards the end of that article, we zoomed through some of the ways RPG mechanics can vary, and zeroed in on the specific class of mechanic unique to RPGs (and certain types of wargame): what Vincent Baker described as 'fiction⟶tokens' and 'fiction⟶fiction' arrows, i.e. rules that deal directly with the imagined scenario.
 
 To understand such rules, we need to dive into the question of *unwritten rules*. This will involve going over the history of RPGs a bit---albeit mostly the bits that I was either around for, or can read about in <cite>The Elusive Shift</cite>.
 
