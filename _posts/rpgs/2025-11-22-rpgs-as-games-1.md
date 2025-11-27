@@ -114,7 +114,7 @@ In any case, the challenge in a hypothetical roleplaying game, for Suits imagini
 
 Of course, the exact nature of this weird game that we're playing has been a subject of enormous debate ever since D&D was invented, argued in the pages of fanzines like <cite>Alarums & Excursions</cite>, as Jon Peterson meticulously documents in the pages of his book <cite>The Elusive Shift: How Roleplaying Games Forged Their Identity</cite>.
 
-Starting with identifying various precursors to RPGs in the worlds of wargaming and science fiction fandom, many of which went quite far down the roads of character-identification and long-term narrative, Peterson's book is largely a summary of major currents in late-70s fanzines, organised loosely around various questions of what an RPG is, the role of the referee, questions of narrative and challenge and character ethics. Early contributions were very much of the 'one true way' school, with people writing tirades about how others were playing the game wrong, but it gradually evolved into early theories about different player types and different types of fun that can be had in RPGs.
+Starting with identifying various precursors to RPGs in the worlds of wargaming and science fiction fandom, many of which went quite far down the roads of character-identification and long-term narrative, Peterson's book is largely a summary of major currents in late-70s fanzines, organised loosely around various questions like what an RPG is, the role of the referee, narrative, challenge and character ethics. Early contributions were very much of the 'one true way' school, with people writing tirades about how others were playing the game wrong, but it gradually evolved into theories about different player types and different types of fun that can be had in RPGs.
 
 Peterson's book has gotten reviewed in a few places on the internet, such as [OSR](https://grumpywizard.home.blog/2022/03/31/review-the-elusive-shift-how-role-playing-games-forged-their-identity/) [blogs](https://lichvanwinkle.blogspot.com/2020/12/review-jon-peterson-elusive-shift-how.html) for whom early D&D is naturally a subject of interest. One commenter I found particularly interesting is [Moreau Vazh](https://tasker.land/2021/08/20/review-the-elusive-shift-by-jon-peterson/)...
 
@@ -140,4 +140,8 @@ In [part 2](./rpgs-as-games-2-goals) of this series, I'll start examining the qu
 
 This will naturally lead into [part 3](./rpgs-as=games-3-unwritten), which will take a close look at Stephen Sniderman's analysis of *unwritten rules*, and see how they factor into the procedures of different RPG traditions.
 
-In [part 4](./rpgs-as-games-4-goals-restrictions), I take a look at the other side of Suits's structure, the voluntary restrictions. I'll be looking at how RPG rules restrict what sort of narration the players can make.
+In [part 4](./rpgs-as-games-4-restrictions), I take a look at the other side of Suits's structure, the voluntary restrictions. I'll be looking at how RPG rules restrict what sort of narration the players can make.
+
+In [part 5](./rpgs-as-games-5-balance), I examine one major pillar of game design theory, the question of 'game balance', to see what conceptual shifts are necessary to apply it to RPGs.
+
+In [part 6](./rpgs-as-games-6-design) I examine two accusations of inappropriate game design: on the one hand, that RPG designers do too little and leave too much to the DM, and on the other, returning to Vi's video, that they are overreaching and trying to use crude behaviourist methods to control players.

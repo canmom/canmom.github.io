@@ -157,7 +157,7 @@ In an MMO RP venue, players may be carrying out conversations in-character in sm
 
 In this case, the situation is very much like improv theatre: a character will make an *offer* by declaring something, and another player might respond to that offer by acknowledging it with their next action, creating a new offer. In this case, Bernard Suits is not entirely wrong to observe a goal of continuing the RP indefinitely: a good RP statement gives the other player something concrete to work with.
 
-A player will sometimes complain that nobody wants to engage with them, and often this is because they haven't fully understood the norms of the RP space: breaking with its aesthetic and narrative assumptions, violating some of the few explicit rules like 'don't narrate another character's action', or interfering with the pacing of another player group's scene. In this case, the other players might issue a correction, or just shut them out.
+A player will sometimes complain that nobody wants to engage with them, and often this is because they haven't fully understood the norms of the RP space: breaking with its aesthetic and narrative assumptions, violating some of the few explicit rules like 'don't narrate another character's action', or interfering with the pacing of another player group's scene. (For example, a group of players were playing out a scene where a character is severely injured; another play ran up and narrated healing them instantly with magic, undercutting the drama of the scene.) In this case, the other players might issue a correction, or just shut them out.
 
 So players in a 'freeform' RP are not completely free either: there are nebulous, unwritten rules which must be followed or they will be pushed out of the game.
 
