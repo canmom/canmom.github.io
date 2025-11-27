@@ -152,6 +152,10 @@ main blockquote p, main blockquote ul, main blockquote ol, main blockquote block
     margin-left: 0;
 }
 
+main blockquote h1, main blockquote h2, main blockquote h3, main blockquote h4 {
+    margin-left: -5px;
+}
+
 main aside {
     font-size: 80%;
 }
@@ -740,6 +744,7 @@ ruby rt {
         width: 400px;
         margin-right: -120px;
         margin-left: 10px;
+        margin-top: -15px;
     }
 
     main aside p {
