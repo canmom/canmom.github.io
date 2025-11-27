@@ -112,7 +112,7 @@ In any case, the challenge in a hypothetical roleplaying game, for Suits imagini
 
 ## the history of this question
 
-Of course, the exact nature of this weird game that we're playing has been a subject of enormous debate ever since D&D was invented, argued in the pages of fanzines like <cite>The Judges' Guild</cite>, as Jon Peterson meticulously documents in the pages of his book <cite>The Elusive Shift: How Roleplaying Games Forged Their Identity</cite>.
+Of course, the exact nature of this weird game that we're playing has been a subject of enormous debate ever since D&D was invented, argued in the pages of fanzines like <cite>Alarums & Excursions</cite>, as Jon Peterson meticulously documents in the pages of his book <cite>The Elusive Shift: How Roleplaying Games Forged Their Identity</cite>.
 
 Starting with identifying various precursors to RPGs in the worlds of wargaming and science fiction fandom, many of which went quite far down the roads of character-identification and long-term narrative, Peterson's book is largely a summary of major currents in late-70s fanzines, organised loosely around various questions of what an RPG is, the role of the referee, questions of narrative and challenge and character ethics. Early contributions were very much of the 'one true way' school, with people writing tirades about how others were playing the game wrong, but it gradually evolved into early theories about different player types and different types of fun that can be had in RPGs.
 
