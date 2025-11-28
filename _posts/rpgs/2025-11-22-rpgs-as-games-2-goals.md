@@ -44,6 +44,8 @@ How does the goal of 'make character more powerful' relate to Suits's story abou
 
 Last year, [I wrote a whole series](./whats-the-book-for-part-0)  inspired by a [video by Vi Huntsman](https://www.youtube.com/watch?v=EpbZBS2GcN0) criticising certain PbtA-tradition games for their misuse of incentive systems and attempts to exhaustively define the possibilities in the game, something she views as a pernicious application of behaviourism.
 
+<aside>Pronoun note: various of Vi's older socials use they/them, but her Youtube page currently says 'she/her', so I believe that's the most up to date and I updated my old articles to use she/her. If you happen to know that's wrong, please let me know and I'll fix it!</aside>
+
 At the time, my interest was mainly in trying to understand the relationship between the printed RPG *book*, and the actual *game* that emerges at a table. But as it happens, Bernard Suits came up in that account too---by way of the theories of [C. Thi Nguyen](https://objectionable.net/), who built on Suits in his book <cite>Games: Agency as Art</cite>.
 
 <aside>I haven't read Nguyen's book at the time of writing this article, so I'll be going off what Vi discusses in the video.</aside>

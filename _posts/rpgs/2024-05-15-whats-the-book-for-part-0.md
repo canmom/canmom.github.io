@@ -15,11 +15,13 @@ tags:
 
 I watched this three hour video! It is primarily a critique of the story games/Forge mode in TTRPG design, seeing it as the fruit of a condescending behaviourism, which to youtuber Vi Huntsman is painfully reminiscent of the ‘Applied Behaviour Analysis’ abusive treaments that are often applied to autistic children! Oof! Quite a charge…
 
+<aside>Pronoun note: various of Vi's older socials use they/them, but her Youtube page currently says 'she/her', so I believe that's the most up to date and I updated these articles to use she/her. If you happen to know that's wrong, please let me know and I'll fix it!</aside>
+
 …though it only gets there after the first hour or so! There’s a segment where she does a stage production of an abridged version of a segment in <cite>Sunless Skies</cite>!
 
 So… despite 'three hour video essay titled <cite>Art, Agency, Alienation</cite>’ being kind of a punchline in itself, despite occasionally the kind of indulgence you tend to only see in got-way-too-big video essay channels, this video is actually pretty legit. I used to be quite the story game partisan and this is perhaps the best critique I’ve seen of it!
 
-I think the thrust of Vi Huntsman’s critique has merit, but it ends up feeling… honestly broader than I think she meant it - many dimensions seem to apply to almost any printed TTRPG. I also found their conclusion, which calls for more adventures and similar to support the 'folk art’ of RPGs, *extremely* underwhelming - more a statement of taste than an answer to the blistering criticisms of the previous three hours.
+I think the thrust of Vi Huntsman’s critique has merit, but it ends up feeling… honestly broader than I think she meant it - many dimensions seem to apply to almost any printed TTRPG. I also found her conclusion, which calls for more adventures and similar to support the 'folk art’ of RPGs, *extremely* underwhelming - more a statement of taste than an answer to the blistering criticisms of the previous three hours.
 
 So here’s my own attempt at an answer. Or at least to lay out the premises we’d need to reach an answer, I’m not there yet!
 
