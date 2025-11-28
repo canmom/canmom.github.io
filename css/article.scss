@@ -103,7 +103,7 @@ main h4 {
     margin: 20px 0 20px 24px;   
 }
 
-main p, main ul, main ol, main dl {
+main p, main ul, main ol, main dl, main aside {
     margin: 0 0 20px 25px;
 }
 
@@ -742,7 +742,7 @@ ruby rt {
     main aside {
         float: right;
         width: 400px;
-        margin-right: -120px;
+        margin-right: calc(max(280px - 40vw,-420px));
         margin-left: 10px;
         margin-top: -15px;
     }
