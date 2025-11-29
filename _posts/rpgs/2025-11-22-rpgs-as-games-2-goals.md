@@ -249,7 +249,7 @@ Hickson argues that because there are 'illusory' checkmate states, representable
 
 Hickson also holds that for a game to exist, there must be a valid way to achieve the prelusory goal. A running race starting on Earth and ending on the Moon would not be a game for Hickson, even though it would be easy to specify with our `SuitsianGame` trait.
 
-I don't find any of this particularly persuasive. To my mind, the prelusory goal is to satisfy a 'checkmate algorithm', whose specification overlaps with the rules of chess. There are states which satisfy the checkmate algorithm but can't be reached by playing chess, just like you could 'cross the finish line before the other players' but still be found to be cheating because you were doping, or had rocket boots, or cut across the field. I feel that if this author's argument holds, then *nothing* is a Suitsian game.
+I don't find any of this particularly persuasive. To my mind, the prelusory goal is to satisfy a 'checkmate algorithm', whose specification overlaps with the rules of chess. There are states which satisfy the checkmate algorithm but can't be reached by playing chess, just like you could 'cross the finish line before the other players' but still be found to be cheating because incontrovertible evidence was found that you were doping, or had rocket boots, or cut across the field. I feel that if this author's argument holds, then *nothing* is a Suitsian game.
 
 In short, if the invariant of `valid_move` returning true for every state transition is not upheld, then it doesn't matter what `prelusory_goal` returns for those cases. We just need `prelusory_goal` to be computable.
 
