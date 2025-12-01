@@ -90,6 +90,8 @@ So it's a satire of trad D&D and common arguments in its defence, and perhaps al
 
 This criticism is associated with the figure of the 'forever DM', the one player in a group willing to put up with the heavy workload and responsibility of running games. Now, this is not always a resented position. Indeed, some people even make their living as a professional DM! Many DMs are simply the person in their group who is the biggest nerd about RPGs, and in a different play culture, they might instead be the person to continually bring new story games to the table. But for some people, the enjoyment wears off over time, and they end up in a frustrating position where the satisfaction of playing the game doesn't match the effort it takes...
 
+<aside>Later edit: I found another, earlier argument on similar lines, targeted specifically at the OSR, in the form of <a href='https://todistantlands.github.io/2022/05/30/fk-you-design.html'>Fuck-You Design</a> by Alex Chalk. Alex specifically says that on-the-fly game design of things that ought to be provided by the rules, like HP or magic systems, is an unwelcome feature of a game.</aside>
+
 In fact, Gary Gygax himself might have been the first put-upon 'forever DM'. His comments to prospective DMs in AD&D 1E go like this...
 
 > Welcome to the exalted ranks of the overworked and harrassed, whose cleverness and imagination are all too often unappreciated by cloddish characters whose only thought in life is to loot, pillage, slay, and who fail to appreciate the hours of preparation which went into the creation of what they aim to destroy as cheaply and quickly as possible. As a DM you must live by the immortal words of the sage who said: “Never give a sucker an even break.” 
