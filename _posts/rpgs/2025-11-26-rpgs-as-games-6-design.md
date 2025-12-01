@@ -90,7 +90,7 @@ So it's a satire of trad D&D and common arguments in its defence, and perhaps al
 
 This criticism is associated with the figure of the 'forever DM', the one player in a group willing to put up with the heavy workload and responsibility of running games. Now, this is not always a resented position. Indeed, some people even make their living as a professional DM! Many DMs are simply the person in their group who is the biggest nerd about RPGs, and in a different play culture, they might instead be the person to continually bring new story games to the table. But for some people, the enjoyment wears off over time, and they end up in a frustrating position where the satisfaction of playing the game doesn't match the effort it takes...
 
-<aside>Later edit: I found another, earlier argument on similar lines, targeted specifically at the OSR, in the form of <a href='https://todistantlands.github.io/2022/05/30/fk-you-design.html'>Fuck-You Design</a> by Alex Chalk. Alex specifically says that on-the-fly game design of things that ought to be provided by the rules, like HP or magic systems, is an unwelcome feature of a game.</aside>
+<aside>Later edit: I found another, earlier argument on similar lines, targeted specifically at the OSR, in the form of <a href='https://todistantlands.github.io/2022/05/30/fk-you-design.html'>Fuck-You Design</a> by Alex Chalk. Alex specifically says that demanding on-the-fly game design of things that ought to be provided by the rules, like HP or magic systems, is an unwelcome feature of a game.</aside>
 
 In fact, Gary Gygax himself might have been the first put-upon 'forever DM'. His comments to prospective DMs in AD&D 1E go like this...
 
@@ -347,7 +347,7 @@ But yes, in general, roleplaying games are composite structures. Books might pro
 - <cite>Dungeons & Dragons</cite>, in later editions, defines a precise and intricate rule structure, and a variety of potential setting elements such as monsters, but leaves the premise and setting details up to the players and DM
 - <cite>Hot Guys Making Out</cite> (Ben Lehman, 2013) provides a very specific premise and characters, very little further detail on the scenario, and a procedure for the game which gives it pacing and structure (using cards).
 - <cite>The Caverns of Thracia</cite> (Jenell Jaquays, 1979) provides a premise and detailed scenario with characters and maps. It does not specify procedural rules, since it's assumed you'll be using it together with an existing system such as D&D.
-- <cite>Empire of the Petal Throne</cite> (M.A.R. Barker, 1974) was the very first game to provide a detailed RPG setting, as well as novel mechanics such as a skill system. As such, it specified a lot more than D&D. However, it still left the specific story premise to a GM.
+- <cite>Empire of the Petal Throne</cite> (M.A.R. Barker, 1974) was the very first game to provide a detailed RPG setting, as well as novel mechanics such as a skill system. As such, it specified a lot more than D&D. I assumed it doesn't supply a scenario, [but I was mistaken](https://rlyehreviews.blogspot.com/2017/11/an-original-rpg.html): it at least has a standard starting point where the characters are travellers 'fresh off the boat' in a specific city.
 
 Blog and forum posts tend to offer more modular pieces, to be grafted into whatever game you like.
 
