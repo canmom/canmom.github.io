@@ -152,7 +152,7 @@ From then on the war progresses as a deadlock. Until the incident in 7645.
 
 {% include figure.html src="/embed/nier/FireofPrometheus.webp" alt="A drawing of Kalil illustrating 'The Fire of Prometheus'." class="float right" wraptight=true %}
 
-This story was originally published in <cite>Drag-on Dragoon INSIDE WORLD</cite>, then later republished in <cite>A Short Story</cite>. I know of three translations: the official one in <cite>Short Story Long</cite> translated by Shota Okui; what is probably [the most idiomatic one, by Kho-Dazat](https://nier.fandom.com/wiki/The_Fire_of_Prometheus); and [Rekka's translation of the first five parts](https://web.archive.org/web/20190909201448/http://nier2.com/blog/2014/09/14/novella-the-fire-of-prometheus/) (archive link since she's taken it down on her site), or the official translation in <cite>Short Story Long</cite>. The original story renders the robot phrases in katakana, which is variously translated with e.g. ALL-CAPS-WITH-DASHES or leetspeak.
+This story was originally published in <cite>Drag-on Dragoon INSIDE WORLD</cite>, then later republished in <cite>A Short Story</cite>. I know of three translations: the official one in <cite>Short Story Long</cite> by Shota Okui; what is probably [the most idiomatic one, by Kho-Dazat](https://nier.fandom.com/wiki/The_Fire_of_Prometheus); and [Rekka's translation of the first five parts](https://web.archive.org/web/20190909201448/http://nier2.com/blog/2014/09/14/novella-the-fire-of-prometheus/) (archive link since she's taken it down on her site). The original story renders the robot phrases in katakana, which is variously translated with e.g. ALL-CAPS-WITH-DASHES or leetspeak.
 
 The story concerns Beepy, or P-chan, the P-33 combat robot who befriended a young shade named Kalil in the Replicant/Gestalt. Per the timeline, it takes place in 7645. Despite their clunky outward appearance, Beepy has a sophisticated set of self-repair machinery in the form of tiny robotic 'ants' who gradually restore their functionality over thousands of hours after the battle with Nier.
 
@@ -228,6 +228,10 @@ While the main sphere of Beepy seems to have departed into space, we can presume
 ## The machines experiment with living
 
 Eventually, the newly awakened Machine Lifeforms turn on their creators. The androids are unaware of this until the confrontation with Adam during <cite>NieR Automata</cite>. But per the timeline, the machine rebellion takes place in the 11000s, and the aliens are extinct as of 11306, a few hundred years before <cite>Automata</cite>.
+
+{% include youtube.html src="https://www.youtube.com/watch?v=PsQko0cn8qU" %}
+
+Ah, but! After I first wrote this article, the destruction of the aliens by the machine lifeforms was depicted obliquely in the 'music video' for <cite>Antinomy</cite> by Amazarashi, the ending song for the first cour of the <cite>NieR Automata ver 1.1a</cite> anime, which in true Yoko Taro style is a ten-minute long puppet show with the actual *song* only playing over a looping credits sequence at the end.
 
 {% include figure.html src="/embed/nier/MachineConcept2.webp" alt="A rough drawing of a large machine lifeform with long piston arms." capt="Another Hisayoshi Kijima concept sketch for the Machine Lifeforms." contentsrc="https://www.platinumgames.com/official-blog/article/9863" %}
 
