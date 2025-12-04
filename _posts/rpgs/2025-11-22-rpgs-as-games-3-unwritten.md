@@ -87,7 +87,7 @@ In the 1990s, other publishers such as White Wolf joined the field, and brought 
 
 However, I can't really tell you much about how the *theory* of roleplaying games evolved in this period. A bit of a blindspot that I hope to remedy at some point.
 
-<aside>Since writing this article, I came across <a href='https://www.blackgreengames.com/lcn/2014/10/2/theory-roundup'>a history of roleplaying theory by Emily Care Boss written in 2014, which I have yet to fully dig through. Maybe we'll get into it later in the series. Just putting that there in case anyone is interested in that subject!</aside>
+<aside>Since writing this article, I came across <a href='https://www.blackgreengames.com/lcn/2014/10/2/theory-roundup'>a history of roleplaying theory</a> by Emily Care Boss written in 2014, which I have yet to fully dig through. Maybe we'll get into it later in the series. Just putting that there in case anyone is interested in that subject!</aside>
 
 By the 2000s, when I got into roleplaying games, TSR went bust and D&D had been handed over to Wizards of the Coast, a company which had built itself selling Richard Garfield's card game <cite>Magic: The Gathering</cite> (1993). <cite>Magic</cite> and similar CCGs define a kind of interface through turn order and rules 'keywords', allowing the cards to be self-contained rules modules which can interact robustly with other cards. (More or less robustly, anyway! Tournament <cite>Magic</cite> has judges on hand to resolve tricky rules questions.)
 
