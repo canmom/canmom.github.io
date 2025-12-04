@@ -404,6 +404,12 @@ The story is also related in a novelisation by Eishima Jun as <cite>YoRHa v1.05<
 
 Recently the 1.2 version of the play has started being adapted into manga by Megumu Soramichi, titled <cite>YoRHa Pearl Harbor Descent Mission Record</cite> (<ruby lang="ja">ヨルハ 真珠湾降下作戦記録<rp> (</rp><rt>YoRHa Shinjuwan Kouka Sakusen Kiroku</rt><rp>)</rp></ruby>). This can be read on various scan sites \[2025 edit: unfortunately the source I linked before has gone offline, but here is [the mangaupdates page](https://www.mangaupdates.com/group/euuulef/magicalgirlelsatranslations), and a torrent is available [here](https://nyaa.si/view/2002065)\], or you could watch a fanmade video version of the first chapter with audio from the musical [here](https://www.youtube.com/watch?v=9xe89Zwfcns).
 
+### Anime
+
+Since I wrote the first version of this article, the events were *also* recounted, more briefly, in Episode 6 of the <cite>NieR Automata ver 1.1a</cite> anime.
+
+I wrote up a description of the anime version [here on Tumblr](https://canmom.tumblr.com/post/755497888134692864/nier-automata-anime-episode-6). The anime version *very briefly* alludes to some events not seen in the show, a backstory for Lily where she is sexually assaulted by another android and Rose intervenes to protect her. The major difference in the anime is that Lily, rather than Anemone, is the central character and sole survivor of the resistance unit.
+
 ### So what happens?
 
 Do you want the long version or the short version?
@@ -472,7 +478,7 @@ The YoRHa are an experimental group of androids deployed to test out potential p
 
 {% include figure.html src="/embed/nier/YoRHaPlay3.webp" alt="A still from the 1.2 version of the YoRHa play. Rose points her gun at Margaret's head, while No. 2 and No.4 look on, and the Red Girls laugh in the background." %}
 
-Ultimately the mountain is destroyed by the fusion bombs implanted in each of the YoRHa, one of which explodes when No. 4 is killed inside the server room. One YoRHa, Attacker No. 2 (A2), survives the explosion, and one Resistance member, Anemone, escapes to a safe distance, intending suicide by enemy forces---but ends up surviving. Betrayed and traumatised, A2 breaks off contact with Command and sets out on a one woman extermination campaign against the Machine Lifeforms; N2 permits her to live out of curiosity..
+Ultimately the mountain is destroyed by the fusion bombs implanted in each of the YoRHa, one of which explodes when No. 4 is killed inside the server room. One YoRHa, Attacker No. 2 (A2), survives the explosion, and one Resistance member, Anemone, escapes to a safe distance, intending suicide by enemy forces---but ends up surviving. (In the anime, Lily is the one who survives, and Rose orders her to not commit suicide.) Betrayed and traumatised, A2 breaks off contact with Command and sets out on a one woman extermination campaign against the Machine Lifeforms; N2 permits her to live out of curiosity..
 
 </details>
 
