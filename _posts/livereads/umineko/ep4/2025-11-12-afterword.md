@@ -142,7 +142,7 @@ The only red text we have is:
 
 > <b class="name smallcaps">Lambdadelta:</b> <span class="red">Genji, Kumasawa, and Nanjo were not killers</span>!
 
-However, since all four people outside of the room have been declared not to have been the killers, and other actors ruled out, we have quite a conundrum. However, in this case a 'trap X' theory has *not* yet been ruled out. Though it would be a pretty daft solution, because there is no 'aha' moment like the previous problem where you need to notice the hidden assumption. Also, shortly thereafter, someone comes out and shoots Natsuhi on the stairway, and for that one, a 'trap X' has been ruled out.
+Since all four people outside of the room have been declared not to have been the killers, and other actors ruled out, we have quite a conundrum. However, in this case a 'trap X' theory has *not* yet been ruled out. Though it would be a pretty daft solution, because there is no 'aha' moment like the previous problem where you need to notice the hidden assumption. Also, shortly thereafter, someone comes out and shoots Natsuhi on the stairway, and for that one, a 'trap X' has been ruled out.
 
 If Battler was not present in this scene, we could of course imagine that Natsuhi walked into the room and gunned down the three servants. However, assuming we can at least trust piece!Battler as a reliable witness, he'd have noticed that.
 
