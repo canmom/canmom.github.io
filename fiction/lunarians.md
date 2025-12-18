@@ -41,7 +41,7 @@ Harani woke up first. It took her longer to become lucid, so I sang quietly in t
 
 Quan would be harder to treat with the equipment we had available. It felt rather like that last tour in the trenches, fighting for one more month of Jianese independence. At least there was no rain! But if the second lander could survive its descent, Quan might still have a chance---to live, if not to walk, or remember much of anything.
 
-The tent possessed a clever, if rather yonic, opening into my spacesuit, and I made use of it, leaving Quan to Harani's care. Her specialism may be plants, but she was certainly the better medic as well, and I would only get in the way. So I spent those first days busying myself with setting up the leaves of the electricals---north-facing, angled for our latitude---to sustain my brief radio conversations with the orbiter.
+I slipped out into my spacesuit, leaving Quan to Harani's care. Her specialism may be plants, but she was certainly the better medic as well, and I would only get in the way. So I spent those first days busying myself with setting up the leaves of the electricals---north-facing, angled for our latitude---to sustain my brief radio conversations with the orbiter.
 
 Anything to avoid thinking of Uyam.
 
