@@ -397,3 +397,11 @@ Violet blanched. "God, no. No, we don't use LLMs. Those are other players."
 
 Violet was spared further questioning by another door opening. Su-ni. She was dressed in the same odd uniform as the two of us, but hers was a much richer purple.
 
+"You signed the thing?" she said, with a yawn. I nodded. Su-ni walked to the windows and pulled the curtain back.
+
+Light spilled into the room, and I went to peer out. Outside was... water. A scraggly cliff going straight down to the sea, which stretched nearly to the horizon. I could make out a distant smudge of land.
+
+"Where is this?"
+
+"Scotland." Su-ni said. "Firth of Clyde. Basically, we're on a rock."
+
