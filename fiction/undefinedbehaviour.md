@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour \[draft 0.0.1\]
+# Undefined Behaviour \[draft 0.0.2\]
 
 It was one of the last times I spoke to her.
 
@@ -413,28 +413,28 @@ Yeong-Mi laughed, way too loud in the room. "Brick jokes..." she said, after a m
 
 "You're taking people who'd kill themselves and signing them up to experiment neurosurgeries? Should I ask the success rate?"
 
-"You shouldn't." Yeong-Mi says, abruptly serious. "But they're working on it."
+"You shouldn't." Yeong-Mi said, abruptly serious. "But they're working on it."
 
 "Oh..."
 
-"But don't you see?" Violet stares at me, eyes as fierce as I'd ever seen them. "We can be *free*. An actual, genuine, other world to escape to. A world where you can be embodied however the fuck you want."
+"But don't you see?" Violet stared at me, eyes as fierce as I'd ever seen them. "We can be *free*. An actual, genuine, other world to escape to. A world where you can be embodied however the fuck you want."
 
 "You've had this surgery?"
 
 "Yeah. I was the first patient."
 
-"First patient who *lived*." Yeong-Mi interjects.
+"First patient who *lived*." Yeong-Mi interjected.
 
-"First patient who lived..." Violet winces. "That's why I'm up and talking to you. That's why I know we have to succeed."
+"First patient who lived..." Violet winced. "That's why I'm up and talking to you. That's why I know we have to succeed."
 
 "If you're the first patient, why aren't you in a box?"
 
 "Because they did other stuff to me. Riskier stuff. The box is step one." Violet swallows, and breaks eye contact with me.
 
-"OK." I'm starting to feel like an inquisitor at this point. "Fine. This is insane, but fine. Just one more question." I reach out, place my hand on her shoulder. She meets my gaze again... "Why <cite>TRISMEGISTUS</cite>? Shouldn't it be, like, some kind of heaven? The game's kind of, you know, *dark*, Violet..."
+"OK." I'm starting to feel like an inquisitor at this point. "Fine. This is insane, but fine. Just one more question." I reached out, placed my hand on her shoulder. She met my gaze again... "Why <cite>TRISMEGISTUS</cite>? Shouldn't it be, like, some kind of heaven? The game's kind of, you know, *dark*, Violet..."
 
-"Because it has to feel like a place that means something to inhabit. Because I'm the one making it. And this is just, you know, the proof of concept. There can be other worlds. But we have to make this one, first." Violet doesn't break eye contact this time. She looks up at me, almost pleading.
+"Because it has to feel like a place that means something to inhabit. Because I'm the one making it. And this is just, you know, the proof of concept. There can be other worlds. But we have to make this one, first." Violet didn't break eye contact this time. She looked up at me, almost pleading.
 
-"Well." I let her go. "In for a penny, in for a pound, I guess."
+"Well." I let her go. "In for a penny, in for a pound."
 
-I could never say no to Violet, in the end.
+No, I could never say no to Violet.
