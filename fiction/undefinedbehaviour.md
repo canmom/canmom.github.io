@@ -155,7 +155,7 @@ I'll be honest, for my part, those fifteen years were hideous. I bounced from st
 
 And, OK, lets not mope too hard. I make it all sound pretty wretched. But I managed. There were good times. Didn't get sent to prison. I kinda had to soft-detrans, they don't know I'm a woman at work. Frankly, I'm not entirely sure if I can really count as a woman *outside* of work, even with bottom surgery. I don't go to trans events anymore. I switched to DIY after the whole thing with the NHS, but it got a lot harder to get that stuff in through the cracks.
 
-The graphics stuff was my escape. I made a few films, here and there, but nobody paid them much attention. Made a couple indie games. And of course, now and then, once a year pretty much, I'd do a run of <cite>TRISMEGISTUS</cite>. Sometimes alone, sometimes with Yeong-Mi. It was our little <i>yortseyt</i> ritual to say, hey, Violet, I'm coming to visit you. That's how I kept her alive.
+The graphics stuff was my escape. I made a few films, here and there, but nobody paid them much attention. Made a couple indie games. And of course, every year, I'd do a run of <cite>TRISMEGISTUS</cite>. Sometimes alone, sometimes with Yeong-Mi. It was our little <i>yortseyt</i> ritual to say, hey, Violet, I'm coming to visit you. That's how I kept her alive.
 
 It was really just a few months ago that I finally accepted I couldn't bear to live in the UK anymore. Got my papers in order (big fat M on the passport), a ticket to Germany, and a job lined up at a studio making games about cars.
 
