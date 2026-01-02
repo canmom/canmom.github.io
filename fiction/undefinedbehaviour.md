@@ -27,11 +27,11 @@ I gave her the look. She pivoted the chair back and spun it round to face me pro
 
 She stood, wobbled the way she does when she hasn't been paying attention to hunger signals for several hours, and picked her way past the books to settle between me and the pile of plushies. I held her for a minute or two, stroking her hair while she figured out the words.
 
-"It's just..." She glances at the cold cup of tea on the desk she left and winces. "None of them *get* it, you know? I keep thinking, maybe this one will actually do it properly, but it's always just... it's just a simple version of this world in medieval cosplay, it doesn't even try to get the <i>weltanschauung</i>, or---"
+"It's just..." She glances at the cold cup of tea on the desk she left and winces. "None of them *get* it, you know? I keep thinking, maybe this one will actually do it properly, but it's always just... it's just a simple version of this world in medieval cosplay, it doesn't even try to get the <i>weltanschauung</i>, or--"
 
 I couldn't suppress my smirk. "Weltanschauung, sweetie?"
 
-"You know, like---"
+"You know, like--"
 
 "Yeah, no, just, that's like the most Violet way you could put it."
 
@@ -217,7 +217,7 @@ I couldn't contain it. All the tears gave way to laughter. "No. You're actually 
 
 "I have. And that's *why* I need you here. Why we all do."
 
-"Yeong-Mi---oh, you would have known her as -"
+"Yeong-Mi---oh, you would have known her as--"
 
 "Don't worry, I know about Yeong-Mi."
 
@@ -233,7 +233,7 @@ Here's what Violet told me.
 
 She had, in fact, been hit by a truck. *Obviously* I made the truck-kun joke. But she was not, as dramatic convention would have it, transported away to a fantastical world where she could gather a harem of monstergirls and level up to become the demon lord. She was just in a coma.
 
-However, that only accounted for the first five years or so. The rest, well, I confess I'm not sure I really believed her. She said that she came back from the coma but not as herself. That, for years, she was convinced she was another person, a boy even, and that 'Violet' was something like a character in a story. That she'd been taken to some kind of rehab centre, that they did experiments on her or something. I didn't want to press her for details there. But it was right here in Glasgow. She'd never even left the damn city. Whoever these fuckers were, they hadn't bothered to contact her legally registered next of kin (me).
+However, that only accounted for the first five years or so. The rest, well, I confess I'm not sure I really believed her. She said that she came back from the coma but not as herself. That, for years, she was convinced she was another person, a guy even, and that 'Violet' was something like a character in a story. That she'd been taken to some kind of rehab centre, that they did experiments on her or something. I didn't want to press her for details there. But it was right here in Glasgow. She'd never even left the damn city. Whoever these fuckers were, they hadn't bothered to contact her legally registered next of kin (me).
 
 "So you escaped?" I'd asked her. And she'd shaken her head, and said, it's a bit more complicated than that, and she'd explain everything if I took the job.
 
@@ -259,7 +259,7 @@ She watched me, forlorn. "I thought you'd..."
 
 "No, let me be clear, I'm going to take it. I'm going to take the job." I watched the tension leave her, and even the other woman looked a little relieved. "But please, tell me who I'm going to be working for. Like... who the hell pays real money to remake a forgotten fifteen-year-old RPG that's only played by autistic trans women in their forties?"
 
-"I do." said Violet's friend, rather sternly. I stared at her. Trying to figure her out. She gulped down the rest of the tea I'd given her, which by now must be lukewarm. "And that's exactly why, Ms. Indigo. I'll explain everything. Read this, sign it if there isn't a problem, the address is on there, we can sort out the details tomorrow."
+"I do." said Violet's friend, rather sternly. I stared at her. Trying to figure her out. She gulped down the rest of the tea I'd given her, which by then must have been lukewarm. "And that's exactly why, Ms. Indigo. I'll explain everything. Read this, sign it if there isn't a problem, the address is on there, we can sort out the details tomorrow."
 
 She swept out of the room.
 
@@ -321,7 +321,7 @@ She nodded. "Yes, Glasgow. It's not because of the war. Family drama."
 
 A quiet whine announced Violet's wheelchair entering the... well, not so much room as corridor. She looked about as tired as the day before.
 
-"Su-ni's family ran the rehab centre." she said, as if that explained everything.
+"Su-ni's family own the rehab centre." she said, as if that explained everything.
 
 "Right." I said. "Ach. Hey, Violet. I can't believe this is real..."
 
@@ -373,7 +373,7 @@ It was, at first glance, a storeroom.
 
 At least, that's what my mind went to. Hundreds of crates, stacked four high on shelves. But then I saw that each crate was wired into the wall, multiple colours of cable all carefully tied in thick braids, and each box bore a small screen showing some numbers. A server room, then..?
 
-Violet rolled her wheelchair up to one of the racks. Yeong-Mi found some handle and rolled it out on rails. There was a glass panel on the top, and she stepped aside so I could look in.
+Violet rolled her wheelchair up to one of the racks. Yeong-Mi found some handle and rolled one of the crates out on built-in rails. There was a glass panel on the top, and she stepped aside so I could look in.
 
 "Violet, that's a person."
 
@@ -389,7 +389,7 @@ A quick look around the room gave me an estimate. Four people per rack, maybe a 
 
 "Hold on, I might." I managed to say. Turned my gaze back to the person in the box, legs feeling week. "What the fuck, Violet, your players are, what, the actual fucking Sybil system?"
 
-Yeong-Mi shot Violet a questioning glance. "Old anime." she said. Then, to me. "Not exactly. It's basically impossible to sustain a brain outside a human body with today's technology."
+Yeong-Mi shot Violet a questioning glance. "Old anime." she said. Then, to me: "Not exactly. It's basically impossible to sustain a brain outside a human body with today's technology."
 
 "I don't know what is or isn't possible after seeing this!"
 
@@ -411,7 +411,7 @@ Yeong-Mi laughed, way too loud in the room. "Brick jokes..." she said, after a m
 
 "You don't mean..."
 
-"I think there are some friends of yours in here, in fact. But there's quite a queue. Not everyone's wired up, yet. We keep them sleepy until we get to them."
+"I think there are some friends of yours in here, in fact. But there's quite a queue. Not everyone's wired up, yet. We keep them sleepy until the surgical team can get to them."
 
 "You're taking people who'd kill themselves and signing them up to experimental neurosurgeries? Should I ask the success rate?"
 
