@@ -35,7 +35,7 @@ I couldn't suppress my smirk. "Weltanschauung, sweetie?"
 
 She didn't laugh like I expected. Just pushed away from me to hug her knees instead. "That's the problem, isn't it... Among, you know, the company, we're like, the two weird trannies. And, well," She smiled at me weakly. "It means the world that I'm not the only weird tranny. But among the weird trannies, I'm still like... I'm still the girl that says <i>weltanschauung</i>. The words that come naturally to me are like, they're the words that make me an incomprehensible nerd."
 
-"You know we're all incomprehensible nerds, right?" Even then I'm sure I knew this wasn't bait I should be taking, but... "Like we're all freaky autists with our little obsessions. You don't know what I'm on about when I talk about graphics programming. And the fact that you even humour me, most people don't even give me that."
+"You know we're all incomprehensible nerds, right?" Even then I'm sure I knew this wasn't bait I should be taking, but... "Like, we're all freaky autists with our little obsessions. You don't know what I'm on about when I talk about graphics programming. And the fact that you even humour me, most people don't even give me that."
 
 She winces a little. "You've got all those nerds on Discord. The demoscene."
 
@@ -45,7 +45,7 @@ This made her crack a brief smile at last. "I don't know what a mesh shader is e
 
 "Right. Everyone's got a, uh, veltanshung."
 
-"Yeah. And with these isekai type stories, I always hope that they'll actually take me into a *different* world. Take me across the magic circle. And I suppose they do, like, have *a* world they wanna explore. The same janky fucking RPG that nobody ever made, where the protag has some unbalanced power and everyone loves them."
+"Yeah. And with these isekai type stories, I always hope that they'll actually take me into a *different* world. Take me across the magic circle. And I suppose they do have *a* world they wanna explore. The same janky fucking RPG that nobody ever made, where the protag has some unbalanced power and everyone loves them."
 
 "And he just goes around collecting girls, yeah."
 
@@ -59,11 +59,11 @@ I guestured for her to come back in for more cuddles. She obliged, face still cr
 
 "If you actually got isekaied into a game, it wouldn't be like that, would it? I mean, you've played MMOs, obviously."
 
-"Yeah, I mean, FFXIV mainly..." I stretched past her, fumbled around for my plush tonberry, and dropped it in her lap.
+"Yeah, I mean, Final Fantasy mainly..." I stretched past her, fumbled around for my plush tonberry, and dropped it in her lap.
 
-"Well, that's a great example." She picked the tonberry up and fiddled with its little knife. "Did you like, raid and that? Or just RP?"
+"Well, that's a great example." She picked the tonberry up and fiddled with its little knife. "Did you raid and that? Or just RP?"
 
-"I had a static back in SHB, we used to do savage prog. Before I got this job, obviously. Not much time for raiding these days..."
+"I had a static back in 5.0, we used to do savage prog. Before I got this job, obviously. Not much time for raiding these days..."
 
 "Oh yeah, that was Eden right? Well, you know what it's like, then. There's a whole meta. You can go on youtube and learn the mechanics. Someone works out all the gear and rotations."
 
@@ -71,11 +71,11 @@ I guestured for her to come back in for more cuddles. She obliged, face still cr
 
 "If there was a broken mechanic, everyone would use it, and then the devs would patch it out. There wouldn't be one ultra special little guy who's better than everyone. Being good at the game is grinding up the gear ladder, a few extra GCDs for a 3% dps boost..."
 
-"Yeah!" I tapped through the Dragoon rotation on her leg. "That's double weaving." This elicited a giggle. "I mean, I always thought of it like a dance I was trying to learn. But in other games, like, fighting games and such, there's more room for someone to be the best player..."
+"Yeah!" I tapped through the Dragoon rotation on her leg. "That's double weaving." This elicited a giggle. "I mean, I always thought of it like a dance I was trying to learn. But in other games, fighting games and such, there's more room for someone to be the best player..."
 
-"Right, but like, fighting gamers, there's still that community aspect! They know all the framedata and stuff, so everyone's on five levels of prediction mindgames and you have to understand all that shit before you even have a chance." She wiggled the tonberry around, making it lunge.
+"Right, but like, with fighting gamers, there's still that community aspect! They know all the framedata and stuff, so everyone's on five levels of prediction mindgames and you have to understand all that shit before you even have a chance." She wiggled the tonberry around, making it lunge.
 
-"OK, sure. But..." I was getting caught up in it. "That's just how it is with fiction, isn't it? I mean, it's always like, heroic guy fighting through dozens of people, not 'I got gangrene in a trench'. In sports manga, the protagonist is special too..."
+"OK, sure. But..." I was getting caught up in it. "That's just how it is with fiction, isn't it? I mean, it's always 'heroic guy fighting through dozens of people', not 'I got gangrene in a trench'. In sports manga, the protagonist is special too..."
 
 She squirmed; twisted to face me again. "Sure. But, in sports manga, their special power is always just tenacity, isn't it? They're usually a huge idiot who's maybe good at like one thing at most. But they keep trying and getting beat up and trying again, until eventually people respect them."
 
@@ -85,15 +85,15 @@ Violet flopped down into my lap, dispelling thoughts of the laptop. I stroked he
 
 "That's not it, though..." she was saying. "I mean, it's sort of 'it'. Like, sports manga is usually trying to explain the sport to you, right? It's trying to say, here's why you should care about this. Welcome to that special interest. But it can't get too far into the weeds with it."
 
-"I don't know about that. Do you remember the one about mahjong where the girls just get bigger and bigger boobs for the entire run so it goes from just like regular manga to full-on fetish art? But it's still all about mahjong?"
+"I don't know about that. Do you remember the one about mahjong where the girls just get bigger and bigger boobs for the entire run, so it goes from just like regular manga to full-on fetish art? But it's still all about mahjong?"
 
 She laughed. "Well, OK. I guess the mahjong boobs one is pretty out there. But... it's still gotta follow the formula right? If it's too esoteric, it won't sell."
 
 "Hm." I said. "I mean, I kinda worry our game is like that, you know. We've gone too deep."
 
-"Have some faith..." Violet rested there a moment on my lap, staring up at the broken lightbulb on her ceiling. "Do you think you could make, like, a sports manga about graphics programming?"
+"Have some faith..." Violet rested there a moment on my lap, staring up at the broken lightbulb on her ceiling. "Do you think you could make a sports manga about graphics programming?"
 
-I cracked up. "What, like, the protagonist is being beaten down by Vulkan, teeth gritted, tears in her eyes?"
+I cracked up. "What, so like, the protagonist is being beaten down by Vulkan, teeth gritted, tears in her eyes?"
 
 "No, seriously! She's gotta go to those, you know, demoparties and stuff. SIGGRAPH tournament arc! And it's always like, here's an opponent of the week whose special power is path tracing or something. They reveal the number of triangles in a scene, and the protag is all, nani!?... so this is the power of Phong shading..."
 
@@ -107,7 +107,7 @@ I cracked up. "What, like, the protagonist is being beaten down by Vulkan, teeth
 
 I didn't really know how to answer that, so I kissed her, and we didn't discuss games or isekai stories any more.
 
-...no, that's way too coy, isn't it? We were having sex. But like, that's not really germaine to the point right now.
+...no, that's way too coy, isn't it? We were having sex. But that's not really germaine to the point right now.
 
 ---
 
@@ -117,7 +117,7 @@ It went pretty well, all things considered! We rolled out of the NextFest with a
 
 My efforts got some praise as well. You know, one or two lines in the reviews saying the 'graphics' are 'pretty good'. But really it's what they *didn't* say. Nobody complaining about frame drops, no crashes on unusual hardware, no motion sickness for the VR players. (All ten of them.)
 
-Let me tell you about the game. We called it TRISMEGISTUS. It was one of those overambitious heartbreaker projects that is like a candle to the indie developer moth: an immersive RPG with a robust simulation. We used a heavily customised version of Bevy for the engine. There was networked coop, even, with proper rollback netcode. Violet was the head writer, and she cooked up this wonderful branching narrative with five different factions. You could side with the Seelie or Unseelie Courts, or the Alchemists, the Homunculi, the Jellies... or take it your own way, and whatever you did would advantage one side or another and trigger events all over the map. I'm pretty sure it was based on an old tabletop campaign she'd run. She worked like a machine. I can't even pretend to know half the things that could happen, and I've kept the script on my hard drive for years since.
+Let me tell you about the game. We called it <cite>TRISMEGISTUS</cite>. It was one of those overambitious heartbreaker projects that is like a candle to the indie developer moth: an immersive RPG with a robust simulation. We used a heavily customised version of Bevy for the engine. There was networked coop, even, with proper rollback netcode. Violet was the head writer, and she cooked up this wonderful branching narrative with five different factions. You could side with the Seelie or Unseelie Courts, or the Alchemists, the Homunculi, the Jellies... or take it your own way, and whatever you did would advantage one side or another and trigger events all over the map. I'm pretty sure it was based on an old tabletop campaign she'd run. She worked like a machine. I can't even pretend to know half the things that could happen, and I've kept the script on my hard drive for years since.
 
 We were all very energised after that. Violet came round a few times, fizzing with new ideas for the game. Obviously, we got everyone in the polycule to play it.
 
@@ -135,7 +135,7 @@ After a week, I went round her flat. All her shit was still there, the milk goin
 
 We found an ex who got us in touch with her parents, but of course none of them knew anything. After a couple months the landlord got pissy about rent not being paid and, as the girlfriend with the key, it was my job to get her stuff into storage.
 
-I never found out. Dead, kidnapped by some weird cult, some other mad thing. Never. We put out word, but like, there's a lot of trans girls called Violet. I think someone put her on the TDOR list. We never held a real funeral or anything because like, I think we all kind of hoped she'd show up one day and by the time we got resigned to it, it the moment had passed.
+For all that time, I never found out. Dead, kidnapped by some weird cult, some other mad thing. Never. We put out word, but there's a lot of trans girls called Violet. I think someone put her on the TDOR list. We never held a real funeral or anything because, well, I think we all kind of hoped she'd show up one day and by the time we got resigned to it, it the moment had passed.
 
 At work, well, they never officially *fired* her, but that's because the company went bust six few months later. With Violet gone, it was like there was something fundamental missing. We made updates still, worked through the backlog of writing she left or did our best to build on the skeleton she'd put together, but we'd lost some sort of spark. PURPLE moved on to another game, and so did our other players. I wish I could say it went out with a bang, some big social media storm or something, but no.
 
@@ -147,7 +147,7 @@ At some point in all that geopolitical chaos, the game got covered by one of tho
 
 Still, it was nice that someone remembered it. I can't really say that about any of my other games. I got in touch with the girl that made the video, another trans girl, went by Rose Reviews. We talked on Discord now and again, but at some point, we drifted, one or other of us got cold feet, we stopped messaging as much. But in response to that, I decided I'd opensource it. I don't think I know who actually had the rights, but I had the whole repo, so why not?
 
-As a result, it got a second wind. Niche cult indie game, we love that kind of thing. Actually, some speedrunners picked it up. I don't think it was a major speed game, but it actually got a couple of GDC runs. The WR was held for years by a girl called Lilac. By that point I was pretty burned out. I put in a big donation during her GDC run saying I was a dev, and they read it out, but that was about the extent of what I said to Lilac.
+As a result, it got a second wind. Niche cult indie game, trannies love that kind of thing. Actually, some speedrunners picked it up. I don't think it was a major speed game, but it actually got a couple of GDC runs. The WR was held for years by a girl called Lilac. By that point I was pretty burned out. I put in a big donation during her GDC run saying I was a dev, and they read it out, but that was about the extent of what I said to Lilac.
 
 I'll be honest, for my part, those fifteen years were hideous. I bounced from studio to studio. Made assets and shaders for this and that. Mobile games and such, some of them were even released. And as I'm sure you know, the law got worse and worse. More of my friends died, in rather less ambiguous ways. Suicide, mostly. Some of them got *got*. I'm sure I'll tell you about them before the end of this story. But I stopped travelling to demoparties and all that, stopped going to synagogue even the few times a year I had, then I stopped going out at all.
 
@@ -173,7 +173,7 @@ You know where this is going, don't you? It was Violet. She looked different, th
 
 How can I describe what I was feeling in this moment? It was like I broke on a rock. In movies, they have pithy ways to express it like, <i>how could you, I thought you were dead, I could kill you</i>. I didn't have anything like that to say.
 
-I felt... I felt like a monster, to be honest. I hadn't shaved. Wearing what they used to call a boymoder hoodie. I was a fair bit heavier than I had been, and like, normally I try to be proud of that, I'm always telling other trans girls to eat more, but in that moment all the politics went out of my head.
+I felt... I felt like a monster, to be honest. I hadn't shaved. Wearing what they used to call a boymoder hoodie. I was a fair bit heavier than I had been, and well, normally I try to be proud of that, I'm always telling other trans girls to eat more, but in that moment all the politics went out of my head.
 
 I felt those fifteen years coming down on top of me. Everything I'd done and, more importantly, hadn't done.
 
@@ -239,7 +239,7 @@ However, that only accounted for the first five years or so. The rest, well, I c
 
 "What's the job, then?" I mean, frankly, the very second she'd asked I knew I would take it. But I couldn't just say that.
 
-"Finish <cite>Trismegistus</cite>. But... more than that."
+"Finish <cite>TRISMEGISTUS</cite>. But... more than that."
 
 I'd frowned. "Finish it? We already shipped it. There's people speedrunning it."
 
@@ -263,7 +263,7 @@ She swept out of the room.
 
 Violet smiled plaintively. "I promise," she said. "It isn't anything evil. This will actually matter, Indigo. This might be the only thing that matters."
 
-Before I could ask what she was talking about, Violet swivelled her wheelchair and made for the door. I followed, if only to make sure she could handle the latch. There was indeed a car waiting, a plain grey one of a type which I'd surely know a lot more about if I'd gotten the job in Germany. The window rolled down as Violet approached, and sure enough, it really was Yeong-Mi. She stuck her tongue out at me.
+Before I could ask what she was talking about, Violet swivelled her wheelchair and made for the door. I followed, if only to make sure she could handle the latch. There was indeed a car waiting, a plain grey one of a type which I'd surely know a lot more about after a few months on that job in Germany. The window rolled down as Violet approached, and sure enough, it really was Yeong-Mi. She stuck her tongue out at me.
 
 What the fuck was going on here?
 
@@ -279,7 +279,7 @@ I was *definitely* not in good shape to cycle. I'd left a lot of time, which mea
 
 I won't tell you the exact address. Probably too much to say it was central already...
 
-The receptionist waved me through, directing me towards the basement. The words forcefemme dungeon flashed through my head and made me crack a weird smile, but he didn't seem too put off. Must get all sorts coming through here. A short ride in the lift, and I emerged in a space that resembled a hacker conference more than a game studio. Low ceiling, wires running this way and that in metal cradles, colourful LED strips. I half expected a smoke machine to run. No sign of Violet, but her mysterious friend was waiting for me.
+The receptionist waved me through, directing me towards the basement. The words forcefemme dungeon flashed through my head and made me crack a weird smile, but he didn't seem too put off. Must get all sorts coming through here. A short ride in the lift, and I emerged in a space that resembled a hacker event more than a game studio. Low ceiling, wires running this way and that in metal cradles, colourful LED strips. I half expected a smoke machine to run. No sign of Violet, but her mysterious friend was waiting for me.
 
 "Good morning, Ms. Indigo." she said, with a wry smile. No longer wearing her coat, now she was dressed in... honestly, I think I would describe it as some flavour of military lolita fashion? Absolutely insanely over the top. It looked like she was in cosplay. White embroidered jacket and skirt, long purple cape over one shoulder. She had a subtle accent, now I was paying attention. Her enunciation felt almost mathematically precise, but having lived with Yeong-Mi all those years, I was fairly sure it was Korean.
 
@@ -287,13 +287,13 @@ The receptionist waved me through, directing me towards the basement. The words 
 
 "Indeed. The name on it?"
 
-"Yes, uh, I do appreciate the gesture and all, but with the Real Names Act and all that..."
+"Yes, uh, I do appreciate the gesture, but with the Real Names Act and all that..."
 
 "This may not be entirely reassuring to hear, Ms. Indigo, but if the government ever finds out what we're doing here, the Real Names Act will be the least of our worries. Consider this contract more a statement of good faith intent. We will honour it regardless, of course."
 
 She was right. This was not reassuring.
 
-Yeong-Mi sauntered in, flashed me a smile. "Hey Indie!" She loved to call me that. *Especially* when I released a new game. "Funny being back in gamedev after all this time, isn't it?"
+Yeong-Mi sauntered in, flashed me a smile. "Hey Indie!" She loved to call me that. *Especially* when I released a new game. "Funny being back in gamedev after all this time."
 
 "I'm, uh, glad you're out of prison." I said. "Daring prison break? Should I check the news?"
 
@@ -311,7 +311,7 @@ Yeong-Mi cackled. "*Definitely* not the person I expected to bust me out of pris
 
 "Yeah, I'll bet." I looked between them both. "Wait, you're telling me being a vtuber actually *pays*?"
 
-"It did back then. And my parents are rich." PURPLE said. "But you might gather from the fact I'm in Glasgow..."
+"It did back then. More importantly, my parents are rich." PURPLE said this completely offhandedly, without pride or shame. "But you might gather from the fact I'm in Glasgow..."
 
 "Yeah, no, this only makes it more confusing. Though I guess with the war and everything... I wouldn't want to stay either. Still. *Glasgow*?"
 
@@ -327,7 +327,7 @@ Violet peered at me, very seriously.
 
 "Indigo. It *is* real. Or, well, that's what we're here to do. To *make* it real."
 
-"Right. We're remaking TRISMEGISTUS. Honestly, I have so many questions. Like, what is even your business model? I don't think anyone's buying this kind of RPG in 204X. And why are you acting like this is some super-illegal top secret that nobody can know about?"
+"Right. We're remaking <cite>TRISMEGISTUS</cite>. Honestly, I have so many questions. Like, what is even your business model? I don't think anyone's buying this kind of RPG in 204X. And why are you acting like this is some super-illegal top secret that nobody can know about?"
 
 "Indigo." Violet says.
 
@@ -345,7 +345,7 @@ I watched the bright array of screens on my new desk. There was a VR headset nea
 
 "Bevy fork. But there's a ton of custom stuff, yeah."
 
-"Ah, yeah. That's good for all these NPCs. I know it's placeholder assets, but someone's done some really nice work on the NPC movement."
+"Ah, that takes me back! Good for all these NPCs. I know it's placeholder assets, but someone's done some really nice work on the movement."
 
 "About that..." Yeong-Mi said.
 
@@ -379,9 +379,9 @@ Under the glass, eyes closed serenely, was recognisably the face and upper body 
 
 The window showed the face and clavicles, and I couldn't make out much else. But it did not look like there was enough space in the box to fit this person. The inside seemed to be padded, at least, but...
 
-Now I was up close, I could see that the numbers included medical information: heart rate, blood pressure, sugar levels, and a great deal of other data I could only speculate about.
+From here, I could see that the numbers included medical information: heart rate, blood pressure, sugar levels, and a great deal of other data I could only speculate about.
 
-A quick look around the room gave me the data to estimate. Four people per rack, maybe a couple dozen racks in this room, and a door at the end suggested there might be others...
+A quick look around the room gave me an estimate. Four people per rack, maybe a couple dozen racks in this room, and a door at the end suggested there might be others...
 
 "I told you she wouldn't freak out." said Violet, incongruously. "She's crazy horny for this kind of thing."
 
@@ -423,15 +423,15 @@ Yeong-Mi laughed, way too loud in the room. "Brick jokes..." she said, after a m
 
 "Yeah. I was the first patient."
 
-"First patient who *lived*." Yeong-Mi interjected.
+"First patient who *lived*." Yeong-Mi said, severely.
 
 "First patient who lived..." Violet winced. "That's why I'm up and talking to you. That's why I know we have to succeed."
 
 "If you're the first patient, why aren't you in a box?"
 
-"Because they did other stuff to me. Riskier stuff. The box is step one." Violet swallows, and breaks eye contact with me.
+"Because they did other stuff to me. Riskier stuff. The box is step one." She swallowed, and broke eye contact.
 
-"OK." I'm starting to feel like an inquisitor at this point. "Fine. This is insane, but fine. Just one more question." I reached out, placed my hand on her shoulder. She met my gaze again... "Why <cite>TRISMEGISTUS</cite>? Shouldn't it be, like, some kind of heaven? The game's kind of, you know, *dark*, Violet..."
+"OK." I was starting to feel like an inquisitor at this point. "Fine. This is insane, but fine. Just one more question." I reached out, placed my hand on her shoulder. She met my gaze again... "Why <cite>TRISMEGISTUS</cite>? Shouldn't it be some kind of heaven? The game's kind of, you know, *dark*, Violet..."
 
 "Because it has to feel like a place that means something to inhabit. Because I'm the one making it. And this is just, you know, the proof of concept. There can be other worlds. But we have to make this one, first." Violet didn't break eye contact this time. She looked up at me, almost pleading.
 
