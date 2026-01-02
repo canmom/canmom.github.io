@@ -1,7 +1,9 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour \[draft 0.0.2\]
+# Undefined Behaviour \[draft 0.0.3\]
+
+## chapter_one::glasgow_coma_scale
 
 It was one of the last times I spoke to her.
 
@@ -411,7 +413,7 @@ Yeong-Mi laughed, way too loud in the room. "Brick jokes..." she said, after a m
 
 "I think there are some friends of yours in here, in fact. But there's quite a queue. Not everyone's wired up, yet. We keep them sleepy until we get to them."
 
-"You're taking people who'd kill themselves and signing them up to experiment neurosurgeries? Should I ask the success rate?"
+"You're taking people who'd kill themselves and signing them up to experimental neurosurgeries? Should I ask the success rate?"
 
 "You shouldn't." Yeong-Mi said, abruptly serious. "But they're working on it."
 
