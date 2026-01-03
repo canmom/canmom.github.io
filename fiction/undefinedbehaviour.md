@@ -3,7 +3,7 @@ layout: nierstory
 ---
 # Undefined Behaviour \[draft 0.0.3\]
 
-## chapter_one::glasgow_coma_scale
+## Chapter::GlasgowComaScale
 
 It was one of the last times I spoke to her.
 
@@ -353,7 +353,7 @@ I watched the bright array of screens on my new desk. There was a VR headset nea
 
 "Right." Violet spoke up. "Those aren't NPCs."
 
-I gave her a look. "But there's hundreds of them." The screen showed a bustling area, a market suspended on bridges between giant upside-down mushrooms. A lot of it still greyboxed at this stage, but I could see what was intended---a much expanded version of the Secret Market area in the original game. Tiny figures ran about, jumping gaps between the bridges, bumping into each other, conversing, using tools...
+I gave her a look. "But there's hundreds of them." The screen showed a bustling area, a village of bulbous huts tangled in bridges, all supported by these giant upside-down mushrooms. A lot of it still greyboxed at this stage, but I could see what was intended---a much expanded version of the Scurriers' Market area in the original game, with the original assets jutting out here and there. Tiny figures ran about, jumping gaps between the bridges, bumping into each other, conversing, using tools...
 
 "We had to be sure it would work before we started recruiting everyone." Yeong-Mi said. "But it does."
 
@@ -379,9 +379,7 @@ Violet rolled her wheelchair up to one of the racks. Yeong-Mi found some handle 
 
 Under the glass, eyes closed serenely, was recognisably the face and upper body of... someone. Not anyone I knew. Their hair was shaved, and I saw with a mix of fascination and alarm that the wires went to some kind of interface on the scalp, that there were other wires running around their body, connecting up to other interfaces or electrode pads. A feeding tube ran into the mouth. I was looking at a piece of cyberpunk concept art, surely. One of my inscrutable little animations with the dolls.
 
-The window showed the face and clavicles, and I couldn't make out much else. But it did not look like there was enough space in the box to fit this person. The inside seemed to be padded, at least, but...
-
-From here, I could see that the numbers included medical information: heart rate, blood pressure, sugar levels, and a great deal of other data I could only speculate about.
+From here, I could see that the numbers included medical information: heart rate, blood pressure, sugar levels, and a great deal of other data I could only speculate about. The window showed the face and clavicles, and I couldn't make out much else. But it did not look like there was enough space in the box to fit this person. The inside seemed to be padded, at least, but... I couldn't help but think about bed sores.
 
 A quick look around the room gave me an estimate. Four people per rack, maybe a couple dozen racks in this room, and a door at the end suggested there might be others...
 
@@ -429,9 +427,9 @@ Yeong-Mi laughed, way too loud in the room. "Brick jokes..." she said, after a m
 
 "First patient who lived..." Violet winced. "That's why I'm up and talking to you. That's why I know we have to succeed."
 
-"If you're the first patient, why aren't you in a box?"
+"If you're the first patient, why aren't you in a box?" I had to ask.
 
-"Because they did other stuff to me. Riskier stuff. The box is step one." She swallowed, and broke eye contact.
+"Because they did other stuff to me. Riskier stuff. The box is step one. Step three was supposed to involve robots, but it didn't quite work out." She swallowed, and broke eye contact.
 
 "OK." I was starting to feel like an inquisitor at this point. "Fine. This is insane, but fine. Just one more question." I reached out, placed my hand on her shoulder. She met my gaze again... "Why <cite>TRISMEGISTUS</cite>? Shouldn't it be some kind of heaven? The game's kind of, you know, *dark*, Violet..."
 
@@ -440,3 +438,81 @@ Yeong-Mi laughed, way too loud in the room. "Brick jokes..." she said, after a m
 "Well." I let her go. "In for a penny, in for a pound."
 
 No, I could never say no to Violet.
+
+## PaddingByte::Rose
+
+It is a grove in a forest, a splendid one at that. Warm, treacly light catches motes of dust, drapes itself over glistening moss, picks shadows from gnarled bark.
+
+But something is off about it. Something's off about you, for that matter. Your body feels incongruously light when you move. The sunlight fails to warm you. You go to hug yourself, but your hand seems to go right through your arm.
+
+No, that can't be right. You can see your arms, they are right there. Wrapped in sleeves floating an inch away from your wrist, fabric bending rigidly at the elbow...
+
+---
+
+The water is the weirdest part. It ripples when you put your hand in it, refracting the stones underneath. But... where it touches the shore, it doesn't seem to work properly. More than that, though. Something about the way light reflects off it leaves you queasy. You stick your head in, and it certainly makes a loud splash, but you can't feel the touch of water, your vision isn't blurred, and your breathing is not interrupted. Under the water there is a blue-brown fog. When you lift your head out, the water seems to slide down the front of your face, like you're looking through a camera.
+
+So you walk through the forest. It doesn't take long before you notice that all the trees are the same. Well, there are five or six variations. And within those, some are bigger, some are smaller. But you start spotting telltale marks on the bark.
+
+All the trees are the same. It *should* be disorienting.
+
+---
+
+You know what this is, don't you? Not just that it's a videogame; you have played this exact game before, several times, over and over while you edited the video, and afterwards, too...
+
+Your walk becomes more purposeful. There should be an NPC here who starts a quest. And sure enough, that's their caravan, broken wheel and bright fabric, polygons rippling in a wind you cannot feel.
+
+The NPC is waiting, a 'jellylike', the game's nonbinary gender. Soft features and long white hair, and the patchwork robe of a journeyman Alchemist. There's even a helpful marker over their head, which serves to remind you of their name: Hypat.
+
+---
+
+You speak to them, and your voice sounds very strange, like you're not really hearing it through your head. And Hypat does not answer.
+
+In the game, you'd interact with Hypat by walking up and pressing the 'interact' button. You try squeezing your fingers together in various combinations, hoping to bring up a menu. Nothing happens. Hypat stands there, their idle animation looping every minute or so. You try touching them, and you feel your hand meets a solid surface... they even bend a little, and spring back when you let go. Something is wrong with your sense of touch. It's like the feeling is on the wrong side of your hand.
+
+---
+
+At some point, you slept. You must have done, though you have no memory of finding a place to lie down. When you wake up, Hypat is gone. You touch your own hands, experimentally. The movement feels correct, and the touch is close enough to the right place that you can't really tell if it's wrong or not. You try touching your arms, and this time, your hand does not go through, but there is yet an incongruity... you can feel it in your fingers, but not your arm. But your body is working, sort of...
+
+Your body is working, but there is no one in the forest. You are alone.
+
+---
+
+How long did you walk in that forest? You are genuinely uncertain. There must be another lacuna in your memory.
+
+You can't enter the dungeons. An invisible barrier separates them from the world you can walk. They must not be implemented, yet. You call out, and your voice echoes from the trees.
+
+After a minute, the word "Text" appears above you. Incongruous. It is deleted, letter by letter, and then a new message emerges.
+
+"Sit tight."
+
+---
+
+Hypat is back. They move oddly. No more smoothly looping canned animations. They stand as if their feet do not need to support their weight, but must instead scurry after them to get in position. Their hands will sometimes abruptly jump around.
+
+"Hello, Rose." says Hypat, who was never voiced in the game but surely did not sound like this. A Scottish accent, you think. "This will take some explanation..."
+
+## FanWiki::Anchoress
+
+(redirected from Maude)
+
+The Anchoress (sometimes called Maude by fans after the name on her model file, although this name is never used in-game) is an NPC who sometimes spawns in the Lesser Dungeons, Barrows and the Sour Undergarden.
+
+In-game, the Anchoress is represented by a rectangular wall the exact same size, shape and texture as regular dungeon walls, except for a slight fringe at the right edge (due to slightly different UV coordinates). This makes her almost impossible to see.
+
+### Finding the Anchoress
+
+The easiest way to find the Anchoress is by sound. Although difficult to hear over the dungeon ambience, she emits a faint breathing sound.
+
+If the player detonates the Atlantean weapon in the quest "Her Magnificence", the Anchoress will sometimes cough in the same way as the Catspaw Villagers. However, this locks out the third part of the Anchoress's quest line, since the requested offering can no longer be retrieved after the Cornucopia is destroyed.
+
+The Anchoress may spawn in a different location if the player re-enters the area without interacting with her. Once the player speaks to her, her location will no longer change, and that dungeon tile will always be a wall. (See Speedrun: Sour Undergarden).
+
+### Interactions
+
+Although no interaction marker is shown, if the player faces the wall and presses the interact button, the Anchoress will call to them unless they are wearing the Visage of the White, initiating dialogue.
+
+In her dialogue, the Anchoress is sometimes forlorn, sometimes gleeful. After the first conversion, she refers to the player as 'my pretty Phantom of the mind' and 'o beauteous Phantom' regardless of gender. The word Phantom is always capitalised.
+
+At least one in-game day must pass between each conversation with the Anchoress.
+
+To initiate the Anchoress's quest series, the player must speak to her four times and in the fourth conversation, correctly recite the Catechism of Dudley when she asks. If the player makes a mistake, she will accuse them of being an impostor. In this case, the player has one additional chance to give the Catechism or the Anchoress will stop speaking to them altogether. The Catechism dialogue is not randomised, so the correct sequence is always 1, 3, 1, 2.
