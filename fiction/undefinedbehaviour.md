@@ -377,7 +377,7 @@ Violet rolled her wheelchair up to one of the racks. Yeong-Mi found some handle 
 
 "Violet, that's a person."
 
-Under the glass, eyes closed serenely, was recognisably the face and upper body of... someone. Not anyone I knew. Their hair was shaved, and I saw with a mix of fascination and alarm that the wires went to some kind of interface on the scalp, that there were other wires running around their body, connecting up to other interfaces or electrode pads. A feeding tube ran into the mouth. I was looking at a piece of cyberpunk concept art, surely. One of my inscrutable little animations with the dolls.
+Under the glass, eyes closed serenely, was recognisably the face and upper body of... someone. Not anyone I knew. Their hair was shaved, and I saw with a mix of fascination and alarm that the wires went to some kind of interface on the scalp, that there were other wires running around their body, connecting up to other interfaces or electrode pads. A respirator covered the mouth. I was looking at a piece of cyberpunk concept art, surely. One of my inscrutable little animations with the dolls.
 
 From here, I could see that the numbers included medical information: heart rate, blood pressure, sugar levels, and a great deal of other data I could only speculate about. The window showed the face and clavicles, and I couldn't make out much else. But it did not look like there was enough space in the box to fit this person. The inside seemed to be padded, at least, but... I couldn't help but think about bed sores.
 
