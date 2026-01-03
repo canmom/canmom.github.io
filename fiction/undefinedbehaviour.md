@@ -477,7 +477,7 @@ Your body is working, but there is no one in the forest. You are alone.
 
 ---
 
-How long did you walk in that forest? You are genuinely uncertain. There must be another lacuna in your memory.
+How long did you walk in that forest? You are genuinely uncertain. There seems to be another lacuna in your memory.
 
 You can't enter the dungeons. An invisible barrier separates them from the world you can walk. They must not be implemented, yet. You call out, and your voice echoes from the trees.
 
