@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour \[draft 0.0.3\]
+# Undefined Behaviour \[draft 0.0.4\]
 
 ## Chapter::GlasgowComaScale
 
@@ -467,7 +467,7 @@ The NPC is waiting, a 'jellylike', the game's nonbinary gender. Soft features an
 
 You speak to them, and your voice sounds very strange, like you're not really hearing it through your head. And Hypat does not answer.
 
-In the game, you'd interact with Hypat by walking up and pressing the 'interact' button. You try squeezing your fingers together in various combinations, hoping to bring up a menu. Nothing happens. Hypat stands there, their idle animation looping every minute or so. You try touching them, and you feel your hand meets a solid surface... they even bend a little, and spring back when you let go. Something is wrong with your sense of touch. It's like the feeling is on the wrong side of your hand.
+In the game, you'd talk to Hypat by walking up and pressing the 'interact' button. You try squeezing your fingers together in various combinations, hoping to bring up a menu. Nothing happens. Hypat stands there, their idle animation looping every minute or so. You try touching them, and you feel your hand meets a solid surface... they even bend a little, and spring back when you let go. Something is wrong with your sense of touch. It's like the feeling is on the wrong side of your hand.
 
 ---
 
