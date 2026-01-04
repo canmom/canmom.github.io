@@ -109,7 +109,7 @@ I cracked up. "What, so like, the protagonist is being beaten down by Vulkan, te
 
 I didn't really know how to answer that, so I kissed her, and we didn't discuss games or isekai stories any more.
 
-...no, that's way too coy, isn't it? We were having sex. But that's not really germaine to the point right now.
+...no, that's way too coy, isn't it? We were having sex. But that's not really germane to the point right now.
 
 ---
 
@@ -257,7 +257,7 @@ Violet looked over at the other woman, who'd been very quiet through the whole e
 
 She watched me, forlorn. "I thought you'd..."
 
-"No, let me be clear, I'm going to take it. I'm going to take the job." I watched the tension leave her, and even the other woman looked a little relieved. "But please, tell me who I'm going to be working for. Like... who the hell pays real money to remake a forgotten fifteen-year-old RPG that's only played by autistic trans women in their forties?"
+"No, let me be clear, I'm going to take it. I'm going to take the job." I watched the tension leave her, and even the other woman looked a little relieved. "But please, tell me who I'm going to be working for. Like... who the hell pays real money to remake a forgotten fifteen-year-old RPG that's only played by autistic trans women in their forties?" Something of an ungenerous description, but... no, that is really about the sum of it.
 
 "I do." said Violet's friend, rather sternly. I stared at her. Trying to figure her out. She gulped down the rest of the tea I'd given her, which by then must have been lukewarm. "And that's exactly why, Ms. Indigo. I'll explain everything. Read this, sign it if there isn't a problem, the address is on there, we can sort out the details tomorrow."
 
@@ -275,7 +275,17 @@ The contract was boilerplate. It felt like a statistical average of every game i
 
 My name was listed as Indigo, as well. Could I even sign a contract with that name anymore? I hesitated. I'd sort it out tomorrow.
 
-I applied to cancel my flight by phone. No refund, obviously. Wrote an email to the German company to apologise, and report a family emergency of some suitably vague sort. And the next day, I found myself cycling across the bridge, past the Riverside Museum, and towards the city centre. It was my first time going out in... frankly, I don't want to think about how long. Since my last trip to the doctors, maybe. I watched the people going up and down the bridge warily, but none of them seemed to be in a hurry to hatecrime me. (Ha, to imagine that tranny bashing would still be a hate crime. They'd probably give them a medal.)
+I applied to cancel my flight by phone. No refund, obviously. Wrote an email to the German company to apologise, and report a family emergency of some suitably vague sort. The rest... the rest could wait, it would have to. I was still trying to comprehend Violet being alive.
+
+Fifteen years is a lot of time. I'd had other relationships of course, most recently with Yeong-Mi. And I'd had a lot of time to process what Violet and I were. The sense of betrayal I'd felt, however cruel and unjustified. Wondering why she hadn't *told* me, if she was struggling that bad. Or if she had told me, and I'd been too oblivious to pick up the signals. Seeing Violet now could only bring to mind gothic metaphors, ghosts and hauntings. I'd gone over every conversation we'd had in my head, searching it for clues, and none of it was right.
+
+She'd been hit by a damn truck. Comical. Unless, of course, she was lying for some reason. So much of this mysterious job seemed sketchy. Like, why show up at my flat at 1am? Why not tell me more?
+
+I remembered a piece of concept art I'd once rendered. It had shown a magician working a magic circle, and a lopsided little homunculus peering around the corner. I'd composed it to hide what the magician was doing, limit it to a tantalising glimpse of the intricate circle. A nice bit of visual storytelling, and also saved me the trouble of modelling some kind of demon or monster.
+
+Tomorrow, I would walk around that corner, and see Violet's monster.
+
+So, the next morning, I found myself cycling across the bridge, past the Riverside Museum, and towards the city centre. It was my first time going out in... frankly, I don't want to think about how long. Since my last trip to the doctors, maybe. I watched the people going up and down the bridge warily, but none of them seemed to be in a hurry to hatecrime me. (Ha, to imagine that tranny bashing would still be a hate crime. They'd probably give them a medal.)
 
 I was *definitely* not in good shape to cycle. I'd left a lot of time, which meant very little sleep, and so it was hard to appreciate the frost glittering on the railings and wires of the bridge, the wintery Clyde, that old ship they have... bit by bit, though, I inched my way along the river, past the science centre and all that, stopping for breath whenever I had to.
 
@@ -287,7 +297,7 @@ The receptionist waved me through, directing me towards the basement. The words 
 
 "Um, hello!" I managed after slightly too long a pause. "I don't think we got introduced yesterday. I, uh, had some questions about the contract?"
 
-"Indeed. The name on it?"
+"Indeed. The name on it?" Of course she knew.
 
 "Yes, uh, I do appreciate the gesture, but with the Real Names Act and all that..."
 
@@ -299,9 +309,9 @@ Yeong-Mi sauntered in, flashed me a smile. "Hey Indie!" She loved to call me tha
 
 "I'm, uh, glad you're out of prison." I said. "Daring prison break? Should I check the news?"
 
-She grinned wider. "Apparently rich bitches can pull a lot of strings." She pointed to the other woman with an ostentatious flourish. "You should tell her who you are. She's gonna shit."
+Her grin got wider. "Apparently rich bitches can pull a lot of strings." She pointed to the other woman with an ostentatious flourish. "You should tell her who you are. She's gonna shit."
 
-"Right..." I said, peering at my new boss. Trying to figure out if I could place her.
+"Right..." I said, peering at my new boss. Trying to figure out if I could place her. And to stop my brain playing the 'cis or trans' game.
 
 "You will not recognise me." she said, seemingly unperturbed by Yeong-Mi's tone. "But... 하지만 제 스트림을 보셨죠?" She suddenly made an incongruous V-pose as my brain worked to process the Korean.
 
@@ -319,17 +329,17 @@ Yeong-Mi cackled. "*Definitely* not the person I expected to bust me out of pris
 
 She nodded. "Yes, Glasgow. It's not because of the war. Family drama."
 
-A quiet whine announced Violet's wheelchair entering the... well, not so much room as corridor. She looked about as tired as the day before.
+Silently, I cursed myself for the insensitive speculation. I was saved further embarassment by a quiet whine, announcing Violet's wheelchair entering the... well, not so much room as corridor. She looked about as tired as the day before.
 
 "Su-ni's family own the rehab centre." she said, as if that explained everything.
 
-"Right." I said. "Ach. Hey, Violet. I can't believe this is real..."
+"Right." I said. "Ach. Hey, Violet. I can't believe this is real..." I looked at her, and it seemed the air was sliced by an array of transparent years, small differences accumulating with each one. I knew a Violet, the Violet of fifteen years ago, or the version that my imagination had built during her absence. But who was *this* Violet? I contemplated, for a moment, the space of all possible Violets.
 
-Violet peered at me, very seriously.
+This Violet peered back at me, very seriously.
 
 "Indigo. It *is* real. Or, well, that's what we're here to do. To *make* it real."
 
-"Right. We're remaking <cite>TRISMEGISTUS</cite>. Honestly, I have so many questions. Like, what is even your business model? I don't think anyone's buying this kind of RPG in 204X. And why are you acting like this is some super-illegal top secret that nobody can know about?"
+"Right." Right... "We're remaking <cite>TRISMEGISTUS</cite>. Honestly, I have so many questions. Like, what is even your business model? I don't think anyone's buying this kind of RPG in 204X. And why are you acting like this is some super-illegal top secret that nobody can know about?"
 
 "Indigo." Violet says.
 
@@ -341,23 +351,25 @@ Violet peered at me, very seriously.
 
 I watched the bright array of screens on my new desk. There was a VR headset nearby, but it didn't seem to be plugged in.
 
+At this point, I have to say I was pretty much emotionally sandblasted to nothing. A polished desert. But I could do 'technically knowledgeable'. I was here to make a game. Let's talk about games.
+
 "This is a pretty early build." Yeong-Mi said. "But the architecture is solid. Rust. I love getting to write Rust."
 
 "This is a custom engine?"
 
-"Bevy fork. But there's a ton of custom stuff, yeah."
+"Bevy fork, actually! SpacetimeDB backend. But there's a ton of custom stuff, yeah."
 
-"Ah, that takes me back! Good for all these NPCs. I know it's placeholder assets, but someone's done some really nice work on the movement."
+"Wow, takes me back. Good for all these NPCs... I know it's placeholder assets, but someone's done some really nice work on the movement." I meant it. The screen showed a bustling area, a village of bulbous huts tangled in bridges, all supported by these giant upside-down mushrooms. A lot of it was still greyboxed, but I could see what was intended---a much expanded version of the Scurriers' Market area in the original game, with the original assets jutting out here and there. Tiny figures ran about, jumping gaps between the bridges, bumping into each other, conversing, using tools...
 
 "About that..." Yeong-Mi said.
 
 "Right." Violet spoke up. "Those aren't NPCs."
 
-I gave her a look. "But there's hundreds of them." The screen showed a bustling area, a village of bulbous huts tangled in bridges, all supported by these giant upside-down mushrooms. A lot of it still greyboxed at this stage, but I could see what was intended---a much expanded version of the Scurriers' Market area in the original game, with the original assets jutting out here and there. Tiny figures ran about, jumping gaps between the bridges, bumping into each other, conversing, using tools...
+I gave her a look. "But there's hundreds of them."
 
 "We had to be sure it would work before we started recruiting everyone." Yeong-Mi said. "But it does."
 
-"What am I looking at? Are these some sort of like, actual AIs? AGIs, whatever. Is that why this is a secret?"
+"What am I looking at? Are these some sort of like, actual AIs? AGIs, whatever. Is that why this is a secret?" I didn't want it to be that. But my dalliances with certain online cults had done a number on my imagination, here.
 
 "I'm afraid we haven't cracked the secret of AGI in a basement in Glasgow."
 
@@ -411,9 +423,11 @@ Yeong-Mi laughed, way too loud in the room. "Brick jokes..." she said, after a m
 
 "I think there are some friends of yours in here, in fact. But there's quite a queue. Not everyone's wired up, yet. We keep them sleepy until the surgical team can get to them."
 
+Some of my friends. She said it so casually I almost didn't register it. It was too much to take in what that would mean, that somewhere in this morgue-like room, someone *else* I'd mourned might be sleeping quietly in a cradle of wires. *Technical questions*... Ask technical questions. If I understood what I was seeing, I could figure out how to feel about it.
+
 "You're taking people who'd kill themselves and signing them up to experimental neurosurgeries? Should I ask the success rate?"
 
-"You shouldn't." Yeong-Mi said, abruptly serious. "But they're working on it."
+"You shouldn't." Yeong-Mi said, abruptly serious. "I asked that too, and they promised they're working on it."
 
 "Oh..."
 
@@ -427,9 +441,11 @@ Yeong-Mi laughed, way too loud in the room. "Brick jokes..." she said, after a m
 
 "First patient who lived..." Violet winced. "That's why I'm up and talking to you. That's why I know we have to succeed."
 
-"If you're the first patient, why aren't you in a box?" I had to ask.
+The story she'd told me, the whole saga of recovery, was starting to feel both more and less incredible.
 
-"Because they did other stuff to me. Riskier stuff. The box is step one. Step three was supposed to involve robots, but it didn't quite work out." She swallowed, and broke eye contact.
+"If you're the first patient, why aren't you in a box?" It felt crass to say it, but I had to ask. Something was missing.
+
+"They did other stuff to me! Riskier stuff." She did not seem offended. More excited, and nervous too. "The box is step one. Step three was supposed to involve robots, but it didn't quite work out." She swallowed, and broke eye contact. "I can't really talk about that."
 
 "OK." I was starting to feel like an inquisitor at this point. "Fine. This is insane, but fine. Just one more question." I reached out, placed my hand on her shoulder. She met my gaze again... "Why <cite>TRISMEGISTUS</cite>? Shouldn't it be some kind of heaven? The game's kind of, you know, *dark*, Violet..."
 
