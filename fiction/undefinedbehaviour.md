@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour \[draft 0.0.5\]
+# Undefined Behaviour \[draft 0.0.6\]
 
 ## Chapter::GlasgowComaScale
 
@@ -141,7 +141,7 @@ For all that time, I never found out. Dead, kidnapped by some weird cult, some o
 
 At work, well, they never officially *fired* her, but that's because the company went bust six few months later. With Violet gone, it was like there was something fundamental missing. We made updates still, worked through the backlog of writing she left or did our best to build on the skeleton she'd put together, but we'd lost some sort of spark. PURPLE moved on to another game, and so did our other players. I wish I could say it went out with a bang, some big social media storm or something, but no.
 
-That was fifteen years ago.
+That was ten years ago.
 
 And I mean, you know how much has happened since. The AI crash. All the mad shit with the government. The second pandemic.
 
@@ -149,11 +149,21 @@ At some point in all that geopolitical chaos, the game got covered by one of tho
 
 Still, it was nice that someone remembered it. I can't really say that about any of my other games. I got in touch with the girl that made the video, another trans girl, went by Rose Reviews. We talked on Discord now and again, but at some point, we drifted, one or other of us got cold feet, we stopped messaging as much. But in response to that, I decided I'd opensource it. I don't think I know who actually had the rights, but I had the whole repo, so why not?
 
-As a result, it got a second wind. Niche cult indie game, trannies love that kind of thing. Actually, some speedrunners picked it up. I don't think it was a major speed game, but it actually got a couple of GDC runs. The WR was held for years by a girl called Lilac. By that point I was pretty burned out. I put in a big donation during her GDC run saying I was a dev, and they read it out, but that was about the extent of what I said to Lilac.
+As a result, it got a second wind. Niche cult indie game, trannies love that kind of thing. Actually, some speedrunners picked it up. I don't think it was a major speed game, but it actually got a couple of GDC runs. The WR was held for years by a girl called Fandango. By that point I was pretty burned out. I put in a big donation during her GDC run saying I was a dev, and they read it out; that was about the extent of what I said to Fandango.
 
-I'll be honest, for my part, those fifteen years were hideous. I bounced from studio to studio. Made assets and shaders for this and that. Mobile games and such, some of them were even released. And as I'm sure you know, the law got worse and worse. More of my friends died, in rather less ambiguous ways. Suicide, mostly. Some of them got *got*. I'm sure I'll tell you about them before the end of this story. But I stopped travelling to demoparties and all that, stopped going to synagogue even the few times a year I had, then I stopped going out at all.
+I'll be honest, for my part, those ten years were hideous. Work was whatever. I bounced from studio to studio. Made assets and shaders for this and that. Mobile games and such, some of them were even released.
 
-And, OK, lets not mope too hard. I make it all sound pretty wretched. But I managed. There were good times. Didn't get sent to prison. I kinda had to soft-detrans, they don't know I'm a woman at work. Frankly, I'm not entirely sure if I can really count as a woman *outside* of work, even with bottom surgery. I don't go to trans events anymore. I switched to DIY after the whole thing with the NHS, but it got a lot harder to get that stuff in through the cracks.
+But as I'm sure you know, the law got worse. More of my friends died, in rather less ambiguous ways. Suicide, mostly. Some of them got *got*. Maggie, Fuchsia, Amaranth, Finn, even fucking Heliotrope... some people I knew very well, others I did not but still called friends. One who I'd never managed to reconcile with, and that hurt in its own way.
+
+Each time, I helped hold the funeral, and it all started feeling more and more absurd. I'd be looking at the faces. Trying to guess who'd be next. Meeting the gaze of others who were doing the same.
+
+On top of all that, I kinda had to soft-detrans. They don't know I'm a woman at work. Frankly, I'm not entirely sure if I can really count as a woman *outside* of work, even with bottom surgery. I don't go to trans events anymore. I switched to DIY after the whole thing with the NHS, but it got a lot harder to get that stuff in through the cracks. There'd be months without hormones, and they'd *suck*. Casually microdosing menopause!
+
+At some point I just couldn't handle it anymore.
+
+I stopped going to protests, stopped travelling to demoparties and film festivals and all that, stopped going to synagogue even the few times a year I had. Stopped going out at all. Younger people could keep up the fight. I was fucking done.
+
+Let's not mope too hard, right? It was wretched, but I managed. Weren't there good times? I loved people, while they were alive. And I'm not dead, somehow. I didn't get sent to prison. I wouldn't let them get rid of me that easily. Or was I just too much of a coward to risk my shitty life? One way or another, *I stuck around*.
 
 The graphics stuff was my escape. I made a few films, here and there, but nobody paid them much attention. Made a couple indie games. And of course, every year, I'd do a run of <cite>TRISMEGISTUS</cite>. Sometimes alone, sometimes with Yeong-Mi. It was our little <i>yortseyt</i> ritual to say, hey, Violet, I'm coming to visit you. That's how I kept her alive.
 
@@ -161,7 +171,7 @@ It was really just a few months ago that I finally accepted I couldn't bear to l
 
 I will be honest, I hate cars. But I mean who gives a shit? It's the only offer I got. That's my role in this system, right? The ones who have some sort of tech skill are like siphons to pull money out for the rest of the community. Doesn't matter how I feel about it. At least it's not fintech!
 
-I'd been living with Yeong-Mi. She hadn't transitioned back when we were working on the game, but she did a couple years after. Unlike me, she had some sense, so she left the game industry... actually, she was supplying a whole load of people with HRT. We'd dated for a few years, and then sorta broke up but actually stayed friends. I know, living with your ex... well, to be honest, it was kind of ambiguous whether we were still together, but for the last few years our relationship mostly consisted of watching bad movies once a week.
+I'd been living with Yeong-Mi the last few years. She hadn't transitioned back when we were working on the game, but she did a couple years after. Unlike me, she had some sense, so she left the game industry... actually, she was supplying a whole load of people with HRT. We'd dated for a few years, and then sorta broke up but actually stayed friends. I know, living with your ex... well, to be honest, it was kind of ambiguous whether we were still together, but for the last few years our relationship mostly consisted of watching bad movies once a week.
 
 *Anyway.*
 
@@ -169,7 +179,9 @@ She got arrested on some political demo, trans shit or anti-war shit, I can't te
 
 So, when I got a knock on my door, 1am the night before my plane? Well, frankly, I thought this is it, they're finally gonna put me in a camp.
 
-You know where this is going, don't you? It was Violet. She looked different, the wheelchair especially, different hair, but even my faceblind ass could tell it was her.
+You know where this is going, don't you?
+
+Violet looked different, the wheelchair especially, different hair. But even my faceblind ass could tell it was her.
 
 ---
 
@@ -177,7 +189,7 @@ How can I describe what I was feeling in this moment? It was like I broke on a r
 
 I felt... I felt like a monster, to be honest. I hadn't shaved. Wearing what they used to call a boymoder hoodie. I was a fair bit heavier than I had been, and well, normally I try to be proud of that, I'm always telling other trans girls to eat more, but in that moment all the politics went out of my head.
 
-I felt those fifteen years coming down on top of me. Everything I'd done and, more importantly, hadn't done.
+I felt the last decade coming down on top of me. Everything I'd done and, more importantly, hadn't done.
 
 I am pretty sure I made some sort of weird squeak and gestured for her to come inside. At least my flat was actually accessible! More accessible than ever with all the furniture gone.
 
@@ -199,7 +211,7 @@ Violet was tearing up too, now. Her friend awkwardly inspected my freshly-repain
 
 "I couldn't tell you." she said. "I'm sorry, Indigo. You were my other half, I would have done anything to tell you I was still there. But I couldn't."
 
-"You're alive." I held onto her. "I mean, I don't know, fifteen years is a long time. I don't know what we are now. But I'm fucking glad you're alive, Violet. I'm fucking glad..."
+"You're alive." I held onto her. "I mean, I don't know, a decade is a long time. I don't know what we are now. But I'm fucking glad you're alive, Violet. I'm fucking glad..."
 
 "Yeah." Violet said. We didn't say anything else for a while.
 
@@ -257,7 +269,7 @@ Violet looked over at the other woman, who'd been very quiet through the whole e
 
 She watched me, forlorn. "I thought you'd..."
 
-"No, let me be clear, I'm going to take it. I'm going to take the job." I watched the tension leave her, and even the other woman looked a little relieved. "But please, tell me who I'm going to be working for. Like... who the hell pays real money to remake a forgotten fifteen-year-old RPG that's only played by autistic trans women in their forties?" Something of an ungenerous description, but... no, that is really about the sum of it.
+"No, let me be clear, I'm going to take it. I'm going to take the job." I watched the tension leave her, and even the other woman looked a little relieved. "But please, tell me who I'm going to be working for. Like... who the hell pays real money to remake a forgotten ten-year-old RPG that's only played by autistic trans women in their forties?" Something of an ungenerous description, but... no, that is really about the sum of it.
 
 "I do." said Violet's friend, rather sternly. I stared at her. Trying to figure her out. She gulped down the rest of the tea I'd given her, which by then must have been lukewarm. "And that's exactly why, Ms. Indigo. I'll explain everything. Read this, sign it if there isn't a problem, the address is on there, we can sort out the details tomorrow."
 
@@ -277,7 +289,7 @@ My name was listed as Indigo, as well. Could I even sign a contract with that na
 
 I applied to cancel my flight by phone. No refund, obviously. Wrote an email to the German company to apologise, and report a family emergency of some suitably vague sort. The rest... the rest could wait, it would have to. I was still trying to comprehend Violet being alive.
 
-Fifteen years is a lot of time. I'd had other relationships of course, most recently with Yeong-Mi. And I'd had a lot of time to process what Violet and I were. The sense of betrayal I'd felt, however cruel and unjustified. Wondering why she hadn't *told* me, if she was struggling that bad. Or if she had told me, and I'd been too oblivious to pick up the signals. Seeing Violet now could only bring to mind gothic metaphors, ghosts and hauntings. I'd gone over every conversation we'd had in my head, searching it for clues, and none of it was right.
+A whole decade had gone by. I'd had other relationships of course, most recently with Yeong-Mi. And I'd had a lot of time to process what Violet and I were. The sense of betrayal I'd felt, however cruel and unjustified. Wondering why she hadn't *told* me, if she was struggling that bad. Or if she had told me, and I'd been too oblivious to pick up the signals. Seeing Violet now could only bring to mind gothic metaphors, ghosts and hauntings. I'd gone over every conversation we'd had in my head, searching it for clues, and none of it was right.
 
 She'd been hit by a damn truck. Comical. Unless, of course, she was lying for some reason. So much of this mysterious job seemed sketchy. Like, why show up at my flat at 1am? Why not tell me more?
 
@@ -333,13 +345,13 @@ Silently, I cursed myself for the insensitive speculation. I was saved further e
 
 "Su-ni's family own the rehab centre." she said, as if that explained everything.
 
-"Right." I said. "Ach. Hey, Violet. I can't believe this is real..." I looked at her, and it seemed the air was sliced by an array of transparent years, small differences accumulating with each one. I knew a Violet, the Violet of fifteen years ago, or the version that my imagination had built during her absence. But who was *this* Violet? I contemplated, for a moment, the space of all possible Violets.
+"Right." I said. "Ach. Hey, Violet. I can't believe this is real..." I looked at her, and it seemed the air was sliced by an array of transparent years, small differences accumulating with each one. I knew a Violet, the Violet of ten years ago, or the version that my imagination had built during her absence. But who was *this* Violet? I contemplated, for a moment, the space of all possible Violets.
 
 This Violet peered back at me, very seriously.
 
 "Indigo. It *is* real. Or, well, that's what we're here to do. To *make* it real."
 
-"Right." Right... "We're remaking <cite>TRISMEGISTUS</cite>. Honestly, I have so many questions. Like, what is even your business model? I don't think anyone's buying this kind of RPG in 204X. And why are you acting like this is some super-illegal top secret that nobody can know about?"
+"Right." Right... "We're remaking <cite>TRISMEGISTUS</cite>. Honestly, I have so many questions. Like, what is even your business model? I don't think anyone's buying this kind of RPG in 203X. And why are you acting like this is some super-illegal top secret that nobody can know about?"
 
 "Indigo." Violet says.
 
@@ -455,6 +467,8 @@ The story she'd told me, the whole saga of recovery, was starting to feel both m
 
 No, I could never say no to Violet.
 
+---
+
 ## PaddingByte::Rose
 
 It is a grove in a forest, a splendid one at that. Warm, treacly light catches motes of dust, drapes itself over glistening moss, picks shadows from gnarled bark.
@@ -506,6 +520,8 @@ After a minute, the word "Text" appears above you. Incongruous. It is deleted, l
 Hypat is back. They move oddly. No more smoothly looping canned animations. They stand as if their feet do not need to support their weight, but must instead scurry after them to get in position. Their hands will sometimes abruptly jump around.
 
 "Hello, Rose." says Hypat, who was never voiced in the game but surely did not sound like this. A Scottish accent, you think. "This will take some explanation..."
+
+---
 
 ## FanWiki::Anchoress
 
