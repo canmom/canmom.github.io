@@ -481,9 +481,9 @@ I settled in an armchair as Violet shifted out of her chair onto the bed. It see
 
 "Fuck..."
 
-"They did it better for the later patients. At some point they'll swap out my chips too. But, I think Su-ni wants them to iron out the procedure first. It definitely wasn't her idea for them to operate on me so early. She was really mad about it, actually, that's kind of where the situation with her family --"
+Violet continued, the words seeming to come out in a flood. "They did it better for the later patients. At some point they'll swap out my chips too. But, I think Su-ni wants them to iron out the procedure first. It definitely wasn't her idea for them to operate on me so early. She was really mad about it, actually, that's kind of where the situation with her family --"
 
-"Hang on, hang on, slow down." I love a good autistic infodump, but this was a bit much. "Go back a minute, Violet. Did you say the operation made you plural?"
+"Hang on, hang on, slow down." I love a good infodump, but this was a bit much. "Go back a minute, Violet. Did you say the operation made you plural?"
 
 Violet shook her head. "I've always been plural, silly." She paused. "I mean. Since I was a kid anyway."
 
@@ -744,4 +744,4 @@ If the player has acquired a musical instrument such as the Barrow Carnyx, Homun
 
 Many of the dialogues from Mari Lwyd are drawn from Welsh wassailing songs, but sometimes a Mari Lwyd will address the faerie civil war, generally in verse as well. These songs are tied to the overall state of the civil war. If Titania and Oberon have been killed, there is a special funeral song.
 
-In 2030,
+In 2030, during the pandemic, speedrunner Fandango held an 'online wassail' event in which fans of TRISMEGISTUS recorded their own versions of Mari Lwyd's songs. The full, compiled song is included below.
