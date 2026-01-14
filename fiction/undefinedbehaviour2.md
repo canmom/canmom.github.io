@@ -289,7 +289,7 @@ After Violet had disappeared, Maggie had been hit about as hard as me. But for h
 
 "That's really fucked up." I didn't know what else to say. I had agreed to be part of this... whatever the hell this was. "She can't revoke consent if she's in a coma."
 
-"I know." Violet said. "I do know that, Indigo! But... I mean, she would have, you know."
+"I know." Violet said. "I do know that, Indigo! But... I mean, she would have... you know."
 
 "Maybe she wouldn't. She was doing better." I wasn't sure I believed this myself, and Violet did not dignify it with a response. "So... this is supposed to be a way to save her?"
 
@@ -317,7 +317,7 @@ She folded her arms round me again. "Aren't you glad?"
 
 "That's not it, though, is it?" She could be so vexaciously perceptive at times like this.
 
-"Right." I said. "I guess I'm thinking, well, what do you say? Someone killed themselves, or close as. You play all these conversations in your head, things you wish you'd said or done together, ways you might have helped. You tell yourself that they're at peace, somewhere. But it's just, you know, a simulacrum. Your idea of them. Your brain's way of making piece with the sudden hole in the world. What do you say when they come back?"
+"Right." I said. "I guess I'm thinking, well, what do you say? Someone killed themselves, or close as. You play all these conversations in your head, things you wish you'd said or done together, ways you might have helped. You tell yourself that they're at peace, somewhere. But it's just, you know, a simulacrum. Your idea of them. Your brain's way of making peace with the sudden hole in the world. What do you say when they come back?"
 
 "You don't have to say anything." Violet said. "You're outside and they're inside. You don't have to say a single thing, if you don't want to."
 
