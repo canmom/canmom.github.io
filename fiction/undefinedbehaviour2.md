@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour ch2 \[draft 0.0.1\]
+# Undefined Behaviour ch2 \[draft 0.0.2\]
 
 ## Chapter::Encapsulation
 
@@ -13,11 +13,11 @@ Let me take you back to the monthly Glasgow Leatherdykes pub night. This would b
 
 On that night, all sorts of trans (mostly) girls (mostly) had found whatever articles of leather clothing and colourful symbolic handkerchiefs they might have about the house to gather here for bootblacking, arm wrestling, hooking up, and for a few of them, the pool tables next door. A novice in the ways of Glasgow, I was a little nervous. I didn't know anyone, I didn't own anything made of leather, but I'd heard it was the place to be.
 
-As it turned out, I was right!
+As it turned out, I'd heard right!
 
 "So, it's all moving data around at the end of the day. You have this big chunk of numbers in memory, like toothpaste, which you squeeze into the GPU to tell it where to put the triangles. There's not *really* a 3D space." I was saying.
 
-"Damn, I see." said Violet. Both of us were speaking loudly to cut through the blanket of conversation enveloping us.
+"Damn, I see!" said Violet. Both of us were speaking loudly to cut through the enveloping blanket of conversation.
 
 I was certainly a little drunk, on the hope it might shield me from sensory overload. Violet, for her part, was sipping apple juice, occasionally taking a cold chip from a basket on the table. I would later learn she always went for apple juice. Violet was by no means absolutely sober, but her substances of choice were more in the area of LSD. She had no taste for alcohol, and seemed to find it a little embarassing.
 
@@ -99,9 +99,7 @@ Maggie tutted in mock-disapproval. Violet cracked up. "She's from London." she s
 
 "I like it a whole lot better! But, uh, honestly a whole lot of bad shit happened in Bath." I hoped that came off in a suitably 'don't ask' way. "So it's a chance to start over. Knowing how the world works a bit more." Both girls nodded seriously.
 
-"Yeah, that's real. So what's all this about pissing turtles, anyway?" She pulled up a chair opposite and I noticed she was indeed flagging yellow.
-
-Someone in a harness walked by behind her and scratched her head, followed by a slightly taller someone in a full latex dress who stopped briefly to blow a kiss to Violet. I tried to remember their faces.
+"Yeah, that's real. So what's all this about pissing turtles, anyway?" She pulled up a chair opposite and I noticed she was indeed flagging yellow. Behind her, someone in a harness stopped briefly to scratch her head and blow a kiss to Violet, then hurried off in pursuit of a slightly taller someone in a full latex dress. I tried to remember their faces.
 
 "Ehe, well." I scratched my jaw. "I dunno if it's as exciting as you think. We were talking about abstractions. So you know, the turtles on turtles metaphor."
 
@@ -291,7 +289,7 @@ After Violet had disappeared, Maggie had been hit about as hard as me. But for h
 
 "That's really fucked up." I didn't know what else to say. I had agreed to be part of this... whatever the hell this was. "She can't revoke consent if she's in a coma."
 
-"I know." Violet said. "I do know that, Indigo! But... I mean, she would have done, you know. Anyway."
+"I know." Violet said. "I do know that, Indigo! But... I mean, she would have, you know."
 
 "Maybe she wouldn't. She was doing better." I wasn't sure I believed this myself, and Violet did not dignify it with a response. "So... this is supposed to be a way to save her?"
 
@@ -331,7 +329,7 @@ She folded her arms round me again. "Aren't you glad?"
 
 "Mm." Violet said. "I thought you'd see it that way."
 
-She rested her head on my shoulder, just like she used to, and I felt myself beginning to cry once more.
+Still holding me in a hug, she rested her chin on my shoulder, just like she used to, and I felt myself beginning to cry once more.
 
 ---
 
@@ -607,7 +605,9 @@ You're starting to remember how you went out.
 
 "So. I guess I'm still alive." It's hard to remember. All of your memories seem strangely distant, wrapped in some sort of dissociative haze. Drips of distant pain echoing through a cavern.
 
-"Magenta. As agreed in October 202X, you have been maintained in a medically induced coma for seven years, and then participated in an experimental neurosurgery. I can report the operation has been successful, and as a result, you are now inside an experimental virtual world." Violet, this time. Unlike Indigo's body, she is a sort of floating amorphous mass, constantly shifting between different shapes, the world beyond refracting through her body. You vaguely recall these things. 'Jellies.' Inspired by some ancient webcomic.
+"Magenta. As agreed in October 202X, you have been maintained in a medically induced coma for seven years, and then participated in an experimental neurosurgery. I can report the operation has been successful, and as a result, you are now inside an experimental virtual world." Violet, this time. Unlike Indigo's body, she is a sort of floating amorphous mass, constantly shifting between different shapes, the world beyond refracting through her body.
+
+You vaguely recall these things. 'Jellies.' Inspired by some ancient webcomic.
 
 Violet continues. "Right, that's what the script requires me to say." She glances over at Indigo. "In short, your nervous system has been rewired. Right now, you are in a virtual world based on <cite>TRISMEGISTUS</cite>. We're trying to make it better than the outside one."
 
