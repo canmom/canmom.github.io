@@ -251,27 +251,27 @@ We started by figuring out the tech stack to make the first area. The last game 
 
 Yeong-Mi really pushed for multiplayer from the start, and I think she was right to. It's what we were known for. But that implied various design tradeoffs. Like, if it's an RPG, and one player is interacting with NPCs or progressing a quest, or they're at different points in the main story, how is that going to work?
 
-We decided to go for something semi-procedural. Storylet cards, an underlying system-driven faction sim, that kind of thing. But also some fixed event chains where Violet, and other writers whenever we hired them, could really go to town. Narratively, the multiplayer was about multiple changelings teaming up for a while. Ideally, few enough rough edges that a multiplayer session could fit into either player's version of the story, without the story as a whole being consistent for everyone.
+We decided to go for something semi-procedural. Storylet cards, an underlying system-driven faction sim, that kind of thing. But also some fixed event chains where Violet, and other writers whenever we hired them, could really go to town.
 
 Our vertical slice was to be an indoor area, ideally something that could succinctly depict the major themes of the game. We decided to go for a factory which made 'alchemical rods', basically magic guns that turn you into goo.
 
 There's a reason games love industrial architecture, and it's that it's full of wide-open spaces and weird shapes. And as such, with the whole quintessence concept in mind, I started prototyping some assets. I was having fun with the idea that the alchemists would just pile up a bunch of random objects and transmute them into stone, so as you wandered around you'd see the traces of what things used to be. Also pretty easy to model, since I could throw a bunch of existing assets together, remesh them, smooth and decimate it a bit, and you'd get the vibe of a bunch of junk that had been melted together...
 
-After a few different experiments, we'd settled on a first-person character controller, taking after classic immersive sims and CRPGs. These days people would think Elder Scrolls but if I'm honest, it was the <cite>Wizardry</cite> series that I had in mind. But after some iteration it was actually starting to play like a movement shooter, with the combat parts framed around dodging attacks with short-range teleports. I think the internal name for the movement code was 'Nothing Personal Kid'.
+After a few different experiments, we'd settled on a first-person character controller, taking after classic immersive sims and CRPGs. These days people would think Elder Scrolls but if I'm honest, it was the <cite>Wizardry</cite> series that I had in mind. But after some iteration it was actually starting to play like a movement shooter, with the combat parts framed around dodging attacks with short-range teleports and lining up the right angle to hit a weak point. I think the internal name for the movement code was 'Nothing Personal Kid'.
 
-Rather than fighting big swarms of guys, which never seemed narratively appropriate, we focused on fights with one or two boss enemies at a time: rival fairies, alchemists pumped up on quintessence, complicated spider homunculi: the idea was that every enemy should be memorable and varied enough to fight multiple times without it getting rote. Sorta <cite>Monster Hunter</cite>, now I think about it.
+Rather than fighting big swarms of guys, which never seemed narratively appropriate, we focused on fights with one or two boss enemies at a time: rival fairies, alchemists pumped up on quintessence, complicated spider homunculi. The idea was that every enemy should be memorable and varied enough to fight multiple times without it getting rote. Sorta <cite>Monster Hunter</cite>, now I think about it.
 
 Violet, meanwhile, absolutely went to town writing a scenario for the place. The core of this mini-scenario was a labour dispute between the humans and the homunculi that the alchemists were trying to bring in. The homunculi could physically adapt their bodies to the work in ways the humans couldn't, so it was kind of drawing on, you know, industrialism, the Luddite movement. But here the machines are also people, the guys that own the factory are absolutely trying to play these sides off against each other, and the homunculi are really just the scapegoats, right? They're scared shitless and they have no friends but they need the work too.
 
 As a sneaky fairy spy, you weren't really there to resolve the situation, but to flip the factory owner to your side in the cold war, or put someone else in charge. But of course, to even get in there, you'd need to get in with one of the other groups. And of course, there was another fairy trying to stop you.
 
+Narratively, the multiplayer was about multiple changelings teaming up for a while. Ideally, few enough rough edges that a multiplayer session could fit into either player's version of the story, without the story as a whole being consistent for everyone. But of course the tricky part is, what happens when the players do something inconsistent? We came up with this kind of model of influence on an NPC, so if one player started a quest, the other player could even convince them to betray the first player. The great part is, the NPC spy could work on the same system.
+
 I think we put together about two thirds of what we had in mind when the internal deadline came, but those two thirds clearly had the juice. Even the guys that had been skeptical could see we had something.
 
-And Violet, well, she *really* took to the work. I'd never seen her so driven. Honestly, I got worried. She saw it as something like her big break, but honestly, having all of our colleagues hanging on to her ideas and turning them into models and gameplay was *definitely* doing something for her ego. It's like a dam had burst. She'd been prolific before, and maybe she'd been writing like this all the time in private.
+And Violet, well, she *really* took to the work. She'd just started ADHD meds, but even so it was hard to believe how driven she was. Honestly, I got worried. She saw it as something like her big break, but I think having all of our colleagues hanging on to her ideas and turning them into models and gameplay was definitely doing something for her ego. Whatever the reason, it was like a dam had burst.
 
-But then again, now I think about it, she'd started ADHD meds around that time. That probably had something to do with it.
-
-We didn't have any voice acting at this stage, but our UI programmer Alice came up with quite a creative mode of presentation inspired by music videos: the text would kinetically burst on the screen in relevant places, in ways that didn't require you to peer at a little text box. Like, a character would be yelling, and the words would ripple out of them, or at the edge of the frame if you weren't looking their way. Very slick. Also worked pretty well in VR, which we'd decided to include for some reason that now escapes me...
+We didn't have any voice acting at this stage, but our UI programmer Alice came up with quite a creative mode of presentation inspired by music videos: the text would kinetically burst on the screen in relevant places, in ways that didn't require you to peer at a little text box. Like, a character would be yelling, and the words would ripple out of them, or at the edge of the frame if you weren't looking their way. Very slick. Also worked pretty well in VR, which we'd decided to add to the game for some reason that now escapes me...
 
 I helped her set up completely custom rendering because Bevy didn't really have much in the way of UI support back then. I'm proud of the work, but honestly it was so tailor-made for the existing English dialogues that it became kind of a nightmare when we had to localise it for different scripts. We could get it working for Hangul, but something like Arabic would have been real trouble. I have some ideas for how we could have done it, though...
 
@@ -301,7 +301,7 @@ Violet reached out, to lay her hand on mine. "Most players do. We're not too ter
 
 "How'd you mean?" I was sure there was a note of anxiety in her voice now.
 
-"Like, you've got some number of coma patients from the hospital, but like, how many can there actually be who are in a ward and actually treatable? And then, there's the suicide rescue route. If you wanna call it that. But how many trans people are actually gonna do it every year, and then, multiply that by the number who actually get contacted by this programme..."
+"Like, you've got some number of coma patients from the hospital, but like, how many can there actually be? And then, there's the suicide rescue route. If you wanna call it that. But how many trans people actually are there dying that way? And then, multiply that by the fraction who get contacted by this programme, and decide to go along with it..."
 
 Violet was silent, watching me. Like she knew the answer but wanted me to finish the thought.
 
@@ -315,19 +315,19 @@ Violet was silent, watching me. Like she knew the answer but wanted me to finish
 
 "Huh. Wow. I guess that tracks. But from the sounds of things, not very many people?"
 
-"Yeah, like, less than ten total." Violet counted on her fingers, probably more for show than anything. "Yeah, I think eight. Nine if I'm forgetting someone."
+"Yeah, like, less than ten total." Violet counted on her fingers. "Yeah, I think eight. Nine if I'm forgetting someone."
 
 "And we know there's at least a couple people from around Glasgow in here. Do they go further afield, like, if they're doing the whole UK, maybe it adds up?"
 
-"You'd think it would blow their cover sooner or later, right? Like, if someone's feeling depressed and suicidal and then this weird agent showed up like 'do you wanna sell your body to neuroscience instead'. Someone would definitely blab about it." Violet shook her head. "Like, I told you what they told me. I don't really know how it went down."
+"It would blow their cover sooner or later, right? Like, if someone's feeling depressed and suicidal and then this weird agent showed up like 'do you wanna sell your body to neuroscience instead'. Someone would definitely blab about it." Violet shook her head. "Like, I told you what they told me. I don't really know how it went down."
 
 "Then do you think they're just, like, kidnapping people? Drug them and tell them they consented later?"
 
-"If they are, nobody's ever told me. But I haven't really asked many people about the time before, because I assume they'd rather forget. I've done a handful of inductions, but only Glasgow people. It's possible, I guess."
+"If they are, nobody's ever told me. But I haven't really asked many people about the time before, because I assume they'd rather forget. I've done a handful of inductions, but only Glasgow people. ... It's possible, I guess."
 
-We sat with this disturbing thought for a minute. On the screen, Maggie's avatar---Maggie's body, I suppose you could just as well say now!---got up and stretched.
+We sat with this disturbing thought for a minute. On the screen, Maggie's avatar got up and stretched. Or would it be more accurate to say her body, in the world she now inhabited..?
 
-"Why didn't they build this lab in Korea, anyway?"
+"Say, why didn't they build this lab in Korea, anyway?"
 
 "I think there *is* a lab in Korea. But it's, you know, a regular old neuroscience lab that is very keen not to be Hwang Affair 2. This is the weird cadet branch. But definitely some of the surgeons at this place trained over there."
 
@@ -357,7 +357,7 @@ I kicked a beanbag into position to be a tree root, and settled down. "Hey!"
 
 Maggie's ears pricked up---that had taken a lot of work, but it seemed her brain was able to neuroplasticity its way into controlling virtual ears---and she trotted over.
 
-"This has been really amazing. I don't know how it's possible."
+"This has been really amazing! I don't know how it's possible."
 
 "Thanks Maggie." There were so many things I wanted to say, and none of them seemed right. "That really means a lot."
 
@@ -383,7 +383,7 @@ I knew immediately there was absolutely no *technical* reason we couldn't. I cou
 
 "I'll ask." I said. "It's, um, not my department."
 
-"Thanks Indigo." At least, if nothing else, she seemed sleepy. "You're a real one, you know..."
+"Thanks Indigo." At least, if nothing else, she seemed too sleepy to be seriously depressed. "You're a real one, you know..."
 
 ---
 
@@ -395,7 +395,7 @@ I knew immediately there was absolutely no *technical* reason we couldn't. I cou
 
 "Fucking hell..." I could feel a really bad headache coming on. "This is a house of cards, right? Like, I don't even know how it lasted this long. If even a whiff of it could get the government cracking down on us. I don't know what to do about it, but..."
 
-"Ms. Indigo, Ms. Violet. Are you two all right?" Su-Ni appeared around the corner, Heather behind her. Today she was wearing an ensemble with thigh-high boots and epaulettes. I had gotten so used to this that I honestly just sort of felt, sick outfit again, boss.
+"Ms. Indigo, Ms. Violet. Are you two all right?" Su-Ni appeared around the corner, Heather behind her. We must have been speaking quite loudly. Today, my boss was wearing a red-accented ensemble with thigh-high boots and epaulettes. I had gotten so used to this that I honestly just sort of found myself thinking sick outfit again, boss. Another few months here and I'd be dressing up the same...
 
 "Uh, hey." I said. "One of the patients wants an internet client. Violet was telling me why we can't do that..."
 
@@ -409,7 +409,7 @@ I gritted my teeth. "That raises a *lot* of questions. You never mentioned a gov
 
 "It's not a simply bribery, if that's what you're thinking. They stand to benefit."
 
-I felt sick. "Don't tell me it's military." If it was, well, I'd have to do something, obviously, and find a way to do that without getting black-bagged, and... "Or, you know, if they're planning to put prisoners or migrants in this."
+I felt sick. "Wait. Don't tell me this is military." If it was, well, I'd have to do something, obviously, and find a way to do that without getting black-bagged, and... "Or, you know, if they're planning to put prisoners or migrants in this."
 
 "You have a remarkable imagination, Ms. Indigo, but I assure you I haven't duped you here for some malevolent design. Our goal, and our supporters' goal, is only to perfect the surgery and develop the virtual worlds it opens up. Surely you can see why people would want such a technology for *positive* reasons?"
 
@@ -419,10 +419,14 @@ I felt sick. "Don't tell me it's military." If it was, well, I'd have to do some
 
 "I guess so. Egh." I shook my head, hard, as if trying to purge the malaise settling over me, imagining some wretched politician settling down in my virtual garden alongside the people they'd pushed there. "Not exactly the target audience I thought we had in mind..."
 
-"It is enough that they believe, isn't it? If this allows us to complete the work."
+"It is enough that they believe they are, isn't it? If this allows us to complete the work."
 
 The work. Or did she say it with a special emphasis, like a capital W?
 
-"Anyway. Indigo. I understand why you have misgivings. But we are not building a prison. You can tell Ms. Magenta that we will set her up with the internet soon. Now, I think Heather has something to say..."
+"Anyway. Ms. Indigo, you are a kind person. I understand why you have misgivings. But we are not building a prison. You can tell Ms. Magenta that we will set her up with the internet soon."
+
+"Well..." Damn! "Thank you. I'll get to work on that right away..."
+
+"Hold on, now. I think Ms. Heather wanted a word with you!" Su-Ni gave me a vaguely maternal smile, and drifted away.
 
 ---
