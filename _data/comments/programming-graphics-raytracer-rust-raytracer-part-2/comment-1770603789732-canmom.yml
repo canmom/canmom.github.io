@@ -1,0 +1,20 @@
+_id: 4686f370-055e-11f1-9353-33434b3e6d51
+name: canmom
+tripcode: 742623938c762ec774109eebb1c42915
+comment: >-
+  Driving by my old article and I realised I never replied to this comment!
+
+
+  If I were to write this series again I would certainly recommend a crate which
+  already has a robust implementation of 2, 3 and 4D vectors for graphics, such
+  as `glam`, which is what I am currently using for my game
+  <cite>Shaderland</cite>. (`cgmath` is another option, and has a cute approach
+  of using the relevant algebraic structures to define its generic traits, but
+  `glam` has a lot of useful functions which `cgmath` lacks and some nice
+  efficient implementation details.)
+
+
+  That said, I am glad I did this back in the day, since I learned a lot from
+  learning how to write these kinds of traits!
+h: ''
+date: 1770603789
