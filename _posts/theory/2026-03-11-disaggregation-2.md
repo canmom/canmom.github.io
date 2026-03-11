@@ -300,6 +300,12 @@ She shakes of this fantasy; but the course of the novel does see her betray the 
 * {: .person2} it is to her. the bugs have meaning for her and we get to inhabit that world with her. until amy gives her a route towards a different expression of what they both are.
   
   what is scary about being in a cult? is it that your microworld would lose its interface with the other worlds? that you would do harm, or be harmed in ways you are unable to perceive, because you cannot see the other worlds layered over yours?
+* {: .person1} It's being controlled. Not making your own meaning but having it forced onto you by violence.
+* {: .person2} which we do every day. like that's the whole theme of all of this.
+* {: .person1} When it's diffuse, from everywhere, it's... you can redirect it, let it flow past, find points of shelter. When you have someone's personal attention...
+* {: .person2} serious weakness would say it's the opposite, perhaps...
+* {: .person1} I still don't think we're ready to write about seriweak.
+* {: .person2} not right now. not here. but we should try.
 {: .chat}
 
 (The discussion continues in [part 3](./disaggregation-3))
