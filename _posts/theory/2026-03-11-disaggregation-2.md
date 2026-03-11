@@ -283,4 +283,21 @@ Sometimes the girls actually do go and build the cult. There was a section here 
 
 Instead, we landed on the discussion of pheromone trails.
 
+## betrayal
+
+Early in the novel, Lilith rationalises her ghosting of Sash by coming to a belief that "the main ethical choice in life is who to betray." This theme of deception and betrayal comes back soon after we rejoin her after the timeskip, as she contemplates how she must be seen by the bank where she works:
+
+> It was like the part in <cite>Mystic Knights 2</cite> when the sorceress first joins the party and the other heroes don't trust her yet. She's evil, she's a witch, she used to be our enemy. How do we know she won't betray us?
+> 
+> Lilith tried to see the situation through Ronin's eyes. The first thing she saw: she was a transsexual. This was never the first fact she noticed about herself anymore, when she chose to look, but it must always be the first thing Ronin saw, even the object of his fantasies of her. And what were those fantasies? Fantasies of blur, fantasies of instability. A transsexual is inherently unstable: she is someone who yanks herself out of her context and plants herself in altogether different soil. No transsexual's roots can ever be as strong as a cis person's. We are built to betray. This is how Ronin must see it.
+
+She shakes of this fantasy; but the course of the novel does see her betray the bank for Abraxa's sake. In the eyes of the Default Persona: quitting a decent job Out There for the sake of weird online tranny shit that nobody can understand. Yet, for the likely trans reader, this is no doubt Lilith's redeeming act; the point where she brings her loyalties back to the sacred work of making a videogame with some other trannies.
+
+* {: .person2} but the instability is universal. the possibility of the break is universal. we trannies certainly don't have a monopoly on weird incomprehensible online shit, but we do live beside and within it. the abyss the cis see through us is the possibility that having a stable job at a bank wouldn't be the most important thing for someone, right? they glimpse a world they do not understand and have to face up to the fact that their world is hollow.
+* {: .person1} Is Annie's rotten apartment equally as sacred as making a videogame?
+* {: .person2} it is to her. the bugs have meaning for her and we get to inhabit that world with her. until amy gives her a route towards a different expression of what they both are.
+  
+  what is scary about being in a cult? is it that your microworld would lose its interface with the other worlds? that you would do harm, or be harmed in ways you are unable to perceive, because you cannot see the other worlds layered over yours?
+{: .chat}
+
 (The discussion continues in [part 3](./disaggregation-3))
