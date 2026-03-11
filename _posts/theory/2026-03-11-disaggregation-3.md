@@ -93,7 +93,7 @@ this is a book article but it is also part of a ritual and an exploration; you c
   Anyway. The Wired is full of strange creatures, people inhabiting nonhuman bauplans, secretive organisations. It is a vision of the internet of the late 90s, before anyone had any real experience with what was soon to unfold; back when the internet was a hole for strange people to hide in and not the mass of Everyone.
 - {: .person3} The line between the strange-person hole and the overwhelming mass is pretty nebulous, isn't it. Consider aoife's words on the default persona. Consider that the creator went on to become a right-wing conspiracy theorist.
 - {: .person2} who are you, person3 (purple)? where did you emerge from?
-- {: .person3} I thought I was you, because I was responding to person1 (red), but then it didn't seem like a very person2 thing to be thinking, so I realised I must be a third thing. Hello. I suppose I am trying to steer us away from potholes.
+- {: .person3} I thought I was you, because I was responding to person1 (green), but then it didn't seem like a very person2 thing to be thinking, so I realised I must be a third thing. Hello. I suppose I am trying to steer us away from potholes.
 - {: .person1} Well, welcome to the party. If we three stick around, we will have to adopt names or something.
 - {: .person2} do we? there is something comforting about being a nameless swarm of beings, any of which can be Bryn.
 {: .chat}
