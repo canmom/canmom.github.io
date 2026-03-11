@@ -294,7 +294,9 @@ Early in the novel, Lilith rationalises her ghosting of Sash by coming to a beli
 She shakes of this fantasy; but the course of the novel does see her betray the bank for Abraxa's sake. In the eyes of the Default Persona: quitting a decent job Out There for the sake of weird online tranny shit that nobody can understand. Yet, for the likely trans reader, this is no doubt Lilith's redeeming act; the point where she brings her loyalties back to the sacred work of making a videogame with some other trannies.
 
 * {: .person2} but the instability is universal. the possibility of the break is universal. we trannies certainly don't have a monopoly on weird incomprehensible online shit, but we do live beside and within it. the abyss the cis see through us is the possibility that having a stable job at a bank wouldn't be the most important thing for someone, right? they glimpse a world they do not understand and have to face up to the fact that their world is hollow.
-* {: .person1} Is Annie's rotten apartment equally as sacred as making a videogame?
+* {: .person1} Hold on now. We can't just go on like that. As if 'the cis' is a coherent category and they all want to work in a bank. We can do a lot better than this.
+* {: .person2} well not 'the cis'. but like. people for whom the system works, to some degree. i mean you can kinda see it with Lilith's friend, the one who calls herself a communist but thinks it's lame to support Abraxa's efforts. she's trans but she's still doing the thing. a small world is seen as a corruption by the big one.
+* {: .person1} Hmm. Is Annie's rotten apartment equally as sacred as making a videogame?
 * {: .person2} it is to her. the bugs have meaning for her and we get to inhabit that world with her. until amy gives her a route towards a different expression of what they both are.
   
   what is scary about being in a cult? is it that your microworld would lose its interface with the other worlds? that you would do harm, or be harmed in ways you are unable to perceive, because you cannot see the other worlds layered over yours?
