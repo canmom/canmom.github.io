@@ -145,3 +145,5 @@ In [part 4](./rpgs-as-games-4-restrictions), I take a look at the other side of 
 In [part 5](./rpgs-as-games-5-balance), I examine one major pillar of game design theory, the question of 'game balance', to see what conceptual shifts are necessary to apply it to RPGs.
 
 In [part 6](./rpgs-as-games-6-design) I examine two accusations of inappropriate game design: on the one hand, that RPG designers do too little and leave too much to the DM, and on the other, returning to Vi's video, that they are overreaching and trying to use crude behaviourist methods to control players.
+
+In [part 7](./rpgs-as-games-7-play) I start to venture some opinions, and examine RPGs in light of a different theory-tradition: the ideas of play espoused by Huizinga and Caillois, and the creative skills developed by players of RPGs. I end with a sketch of modelling RPG materials as creative tools.
