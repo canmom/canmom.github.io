@@ -154,7 +154,7 @@ We should briefly comment on the subjective experience of thoughts, here. Like m
 
 But where do these thoughts 'come from'? For us it is as if they 'bubble up' in some vague form: a sentence is coming, but we have to sort of let it run through to actually become language. After a sentence has been thought, we can perceive it from the point of view of the currently 'active' sentence.
 
-Not every thought is rendered verbal like this, however. We do not have to consciously, verbally think through every action we might take, although sometimes we will talk ourselves through the actions that need to be taken (incantation: "a series of steps need to be performed in sequence".)
+Not every thought is rendered verbal like this, however. We do not have to consciously, verbally think through every action we might take, although sometimes we will talk ourselves through the actions that need to be taken (incantation: "a series of operations need to be performed in sequence".)
 
 Indeed, since we started observing all this closely, we notice that often our body will start carrying out an intention without any conscious or verbal direction: for example, a need to plug in our phone charger would be directed to the series of movements, even if the conscious linguistic part of the brain is busy thinking very hard about something else, and was slightly surprised to realise that our body had seemingly carried out some actions on its own.
 
