@@ -56,7 +56,7 @@
                             </article>
                         </section>
                     </section>
-                    {% assign categorylist = "animation crit physics theory rpgs animation-night" | split: ' ' %}
+                    {% assign categorylist = "demoscene animation crit theory physics rpgs animation-night" | split: ' ' %}
                     {% for category_name in categorylist %}
                     <section class="articles">
                         <h2><a href="/{{category_name}}/">{{category_name}}</a></h2>
@@ -104,25 +104,6 @@
                         </section>
                     </section>
                     {% endfor %}
-                    <section class="articles" id="projects">
-                        <h2>projects</h2>
-                        <section class="listing">
-                            {% for repo in site.github.public_repositories%}
-                            {% unless page.project_excludes contains repo.name %}
-                            <article>
-                                <a href="{{ repo.html_url }}">
-                                    <h1>{{ repo.name }}</h1>
-                                    {% if repo.name == "canmom.github.io" %}
-                                    <p>The source code to the website you're looking at right now!</p>
-                                    {% else %}
-                                    <p>{{ repo.description }}</p>
-                                    {% endif %}
-                                </a>
-                            </article>
-                            {% endunless %}
-                            {% endfor %}
-                        </section>
-                    </section>
                 </nav>
             </section>
         </main>
