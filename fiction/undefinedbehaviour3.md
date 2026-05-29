@@ -15,13 +15,13 @@ I suppose we should probably begin at the beginning. Let's talk about how the ga
 
 It was not long after I'd gotten Violet a job.
 
-At the time, our last game---a silly physics-based party game loosely based on the <cite>Divine Comedy</cite>---had been an unexpectedly viral hit and we had a bit of a war chest. We'd been pitching various ideas for the next project, and we had enough money to consider taking on someone new.
+At the time, our last game---a silly physics-based party game loosely based on the <cite>Divine Comedy</cite>---had been an unexpectedly viral hit and we had a bit of a war chest. We'd been pitching various ideas for the next project, and we had enough money to consider taking on some new people...
 
 By this point, I had been with Violet for a few months. The café she'd been working at had gone bust, and she'd had little luck finding another job. I'd been making sure to take her out for food a lot, because I was kind of afraid she just *wouldn't eat* otherwise. Or try to subsist on crackers or something. When I suggested trying to get her work as a game writer, she'd been doubtful, but agreed to put together some samples I could present to my colleagues to argue for a narrative game as our next project.
 
-Glasgow is, I'll be real, not exactly know for its gamedev scene. It's sooort of a techy city, like you have all the fintech companies in the centre, big banks drawn by the smell of lower-than-average wages to find new developers to bleed into the infinite death machine. I have very positive feelings about that. And don't get me fucking started on the arms companies. 
+Glasgow is, I'll admit, not exactly know for its gamedev scene. It's sooort of a techy city, like you have all the fintech companies in the centre, big banks drawn by the smell of lower-than-average wages to find new developers to bleed out for the money machine. I have *terribly* positive feelings about that. And don't get me fucking started on the arms companies.
 
-But as far as game dev... well, over in Edinburgh, you'd obviously got a Rockstar office, at the time still embroiled in that union-busting controversy. I think there was also an animation studio which made pre-rendered trailers and the like for really *big* games here. But for the most part it was definitively indie stuff. Let me put it this way: the game developer pub meet took place in the same building as the leatherdyke one, but the latter was easily three or four times bigger.
+But as far as game dev... well, an hour away in Edinburgh, you've got a Rockstar office, at the time still embroiled in that union-busting controversy. Back here, I think there was also an animation studio which made pre-rendered trailers and the like for big games. But for the most part it was definitively indie stuff. Let me put it this way: the game developer pub meet took place in the same building as the leatherdyke one, but the latter was easily three or four times bigger.
 
 As such, the studio I used to work for was that kind of small scale. But we had some really technical people. Not all of them were passionate fans of narrative games, but we liked to do something a bit weird and arty, and Violet's writing really struck a chord. (Helped that she was local, too!) We were riding pretty damn high on the success of our last game---not to toot my own horn too much here, I was still learning the ropes, but my colleagues cooked up some crazy stuff, really kind of a technical marvel, and it paid off. So we thought we could pull off this even more ambitious plan: an action-RPG with a branching storyline.
 
@@ -33,11 +33,9 @@ Ah, but I'm getting ahead of myself. As I said, it was not so long after I'd got
 
 ---
 
-We were sitting by the duck pond in Queen's Park, looking over the shallow, wind-flecked pool with the odd angular American sculpture half-broken at the centre. Of course, far more than ducks, we were joined by a small army of pigeons, marching about in force and eyeing up passers-by who might be persuaded to bring out a handful of bread or, if they're really lucky, peanuts.
+We were sitting by the duck pond in Queen's Park, looking over the shallow, wind-flecked pool with the odd angular American sculpture still wobbling half-broken at the centre. Far more than ducks, we were joined by a small army of pigeons, marching about in force and eyeing up passers-by who might be persuaded to bring out a handful of bread or peanuts if they're really lucky.
 
-I was indeed feeding the pigeons. They'll actually jump right up on your hand with the right enticement, it's very cute.
-
-Violet, though, was *locked in*. Alternately scribbling in her notebook or sucking on the end of the pencil as her gaze bore its way into the asthenosphere.
+I was indeed feeding the pigeons. They'll actually jump right up on your hand with the right enticement, it's very cute. Violet, for her part, was *locked in*. Alternately scribbling in her notebook or sucking on the end of the pencil as her gaze bore its way into the asthenosphere.
 
 "You wanna feed these little fucks?" I said. Then, catching her expression at last, I started to worry. "Damn, Violet, are you OK?"
 
@@ -121,7 +119,7 @@ Violet giggled. "But yeah, so, when I came out, that basically cracked my dad's 
 
 "Haha, I mean, that's pretty much all of us, right? Everyone's got some fucked up family shit."
 
-"Yeah..." I figured I'd better reciprocate. "You wanna hear about my fucked up family shit?"
+"Yeah..." I figured I'd better reciprocate. "Ehh... you wanna hear about my family shit? Fucked up or otherwise."
 
 "Ha, sure. Fair's fair."
 
@@ -137,21 +135,29 @@ Violet giggled. "But yeah, so, when I came out, that basically cracked my dad's 
 
 "I can't imagine that's a fun thing to have in the background like, right now."
 
-"I mean, I'd stopped talking to them years before, there was a *very* messy breakup before that. But yeah, like, when I was a kid, I had this really good rabbi, like, you know all the jokes about how you ask three rabbis a question and get five answers, he was absolutely like that. Really represented the incredibly nerdy side of Judaism, where you're just constantly rules-lawyering God and he's like, haha, you got me, well played. So you can imagine how much I was into that. I'd bring him all these scifi thought experiments about vampires and stuff and he'd always give me a thought-out answer, it was great."
+"I mean, I'd stopped talking to them years before, there was a *very* messy breakup before that. So I wasn't exactly sorry to see them go. But yeah, like, my mum was actually a rabbi, and a really fucking awesome one, like, you know all the jokes about how you ask three rabbis a question and get five answers, she is the embodiment of that. She can give you all five without even having to think about it. Just the incredibly nerdy side of Judaism, where you're just constantly rules-lawyering God and he's like, haha, you got me, well played."
 
-"Aw, that's so fucking cute. And yeah... I read about that stuff online sometimes. *Very* different from my experience." She stabbed the blunt end of the pencil against the notebook.
+"Damn!"
 
-"Yeah?"
+"So you can imagine how much I was into that. I'd bring her all these scifi thought experiments about vampires and stuff and she'd always give me a thought-out answer, it was great."
 
-"Yeah. Like, we only had cult-approved books, the only interpretation of anything was mostly learning what to say so I wasn't the one getting screamed at. I don't know what I'd have thought if not for the internet."
+"Aw, that's so fucking cute. I read about that stuff online sometimes. *Very* different from my experience." She stabbed the blunt end of the pencil against the notebook.
 
-"Fucking hell, Violet." I pulled into as tight a hug as I could. Felt her shoulders, full of tension.
+"Yeah?" I scratched the back of her neck.
+
+"Yeah." Violet leaned into the scritches, closing her eyes. "Mmm. Like, we only had cult-approved books. The only interpretation of anything was mostly learning what to say so I wasn't the one getting screamed at. I don't know what I'd have thought if not for the internet."
+
+"Fucking hell, Violet." I pulled into as tight a hug as I could. Such tension in her shoulders.
 
 "Eh." she said, slightly muffled. "I put it all into my writing, you know. Let's not dwell on it. What changed for you?"
 
-"Mmm." I said. "I mean, well. After I got into my teens, and all the family shit went down... I kind of couldn't get into it anymore. It was only kinda later, when I started hanging out with, y'know, anarchists and such and got into history, learned about the Jewish Bund and all that, the whole radical tradition... I started thinking like no I should actually make this part of my life again. Though I'm really half-assed with it, I'll be real."
+"Mmm." I said. "I mean, well. After I got into my teens and started transing, which was also when all the family shit went down... I started learning a lot about Palestinian history, right? I became, like, a real firebrand about it. And I also got into other weird online ideologies, the rats and all that. So I kind of couldn't get into religion anymore, too many stupid arguments with people. But I guess when she figured out what a dorky anarchist her kid was, my mum would tell me a lot about the other side of our history, the Jewish Bund and all that. The whole radical, anti-Zionist tradition... So, it took me a while, I kind of needed a time out, but eventually I started thinking like no I should actually make this part of my life again. Though I'm really half-assed with it, I'll be real."
 
-Violet nuzzled against my shoulder. "Do you like, believe in God? ...Don't answer if you don't want, that's a hell of a fucking question."
+"Your mum sounds kind of awesome, honestly."
+
+"Yeah... I mean, she can be a bit intense. But she's legit."
+
+Violet nuzzled against my shoulder. "So, do you like, believe in God now? ...Don't answer if you don't want, that's a hell of a fucking question."
 
 "I mean, you're the philosophy nerd, Violet. Define 'God'."
 
@@ -167,15 +173,15 @@ Violet nuzzled against my shoulder. "Do you like, believe in God? ...Don't answe
 
 "How about you?"
 
-"I mean, I guess that's the thing. There's so many different ideas. So many different ways of looking at every damn thing. I got into philosophy because I wanted to know properly, and like, it definitely blew wide open all the shit the cult was saying, but also, like, absolutely nothing is settled. About the only thing anyone can agree on is that logical positivism doesn't work."
+"I mean, I guess that's the thing. There's so many different ideas. So many different ways of looking at every damn thing. I got into philosophy because I wanted to know, properly, what the real answers are and how we know. And it definitely blew wide open all the shit the cult was saying, but also, like, absolutely nothing is settled! About the only thing anyone can agree on is that logical positivism doesn't work."
 
 "Is it all just talking in circles?"
 
 "Not exactly. It's like. You know, you have some question, like, idk, how do minds relate to brains or something. And then you have two different answers to that question, say, monism and dualism. Seems pretty simple, there's one thing or there are two things. But for each of those there's like, eight different flavours, and some of them overlap with the other side, and they all turn on these incredibly subtle points which are hard to even understand, and even when you've sort of got an idea of what everyone is saying, they all sound kinda plausible in their context..."
 
-"God, right. Sounds kinda futile. 'Angels on the head of a pin', right? How many qualia can dance in the Chinese Room."
+"God, right. Sounds kinda futile. 'Angels on the head of a pin', right? 'How many qualia can dance in the Chinese Room'?"
 
-"I mean, a lot of people seem to think that. But then..." Violet gripped my arms, full of intensity. "You get into the sort of theories of stuff like, how science advances, or like, the foundations of the whole field. Kuhn's paradigms or Wittgenstein saying it's all just playing games with language. But it's not like *all* of it is equally bullshit. And the thing is you can't actually escape doing philosophy, like you do anything else and at some point you'll hit some deep conceptual difficulty that leads you back into philosophy-land."
+Violet l"I mean, a lot of people seem to think that. But then..." Violet gripped my arms, full of intensity. "You get into the sort of theories of stuff like, how science advances, or like, the foundations of the whole field. Kuhn's paradigms or Wittgenstein saying it's all just playing games with language. But it's not like *all* of it is equally bullshit. And the thing is you can't actually escape doing philosophy, like you do anything else and at some point you'll hit some deep conceptual difficulty that leads you back into philosophy-land."
 
 "I mean, maybe you should make the story about this? Like, if we have a faction system, the factions represent different worldviews, sorta like <cite>Alpha Centauri</cite>."
 
@@ -225,7 +231,15 @@ I took a breath. "I like it, but that's very ambitious. We don't exactly have Ob
 
 "But yeah..." Violet ran her finger along the edge of the notebook. "So what I've been worrying about is, well, I need to make all these weirdos as varied as any real group. Like, you draw from experience, but also you rotate stuff around, nothing should be exactly 1:1 allegory. And part of that is about religion. When I came up with the alchemist thing, I was kinda riffing on Federici, right, the enclosures and so on, the European Wars of Religion... But I don't want to just do sorta, Catholics In Funny Hats and Protestants In Funny Hats."
 
-"I think the Catholics mostly wore the hats." I regarded her, the awkward set in her shoulders even as she laughed at my dumb joke. "It's not like you to worry this much. Usually you're pretty gung-ho about, hey, I made this thing about parasitic selkies and seal clubbing games, it'll fuck you up for a week."
+"I think the Catholics mostly wore the hats." I regarded her, the awkward set in her shoulders even as she laughed at my dumb joke. "It's impossible to do that though, right? Like, to have a fictional world as complex as the real one."
+
+"Yeah." Violet said. "The trick is to hint at it. Like, you meet a guy, and that's an instance of a type of guy there might be, so you imagine there are other guys like that going around."
+
+"Kind of like Monte-Carlo sampling, now I think of it..."
+
+
+
+"It's not like you to worry this much. Usually you're pretty gung-ho about, hey, I made this thing about parasitic selkies and seal clubbing games, it'll fuck you up for a week."
 
 Violet cackled. "You've got to do that in public. You can't ever hedge. You have to act absolutely confident about your stuff if you want it to hit. So lucky you, Indigo, you get access to the inner secret Violet who's actually an anxious mess."
 
@@ -427,6 +441,6 @@ The work. Or did she say it with a special emphasis, like a capital W?
 
 "Well..." Damn! "Thank you. I'll get to work on that right away..."
 
-"Hold on, now. I think Ms. Heather wanted a word with you!" Su-Ni gave me a vaguely maternal smile, and drifted away.
+"Hold on, now. I think Ms. Heather also wanted a word with you!" Su-Ni gave me a vaguely maternal smile, and drifted away.
 
 ---
