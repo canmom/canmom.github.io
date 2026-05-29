@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour ch3 \[draft 0.0.1\]
+# Undefined Behaviour ch3 \[draft 0.0.2\]
 
 ## Chapter::FooBar
 
