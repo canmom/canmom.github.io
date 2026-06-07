@@ -69,7 +69,7 @@
 /comics/:
   display: comics
 /crit/annecy/:
-  display: Annecy
+  display: Annecy 
 /films/:
   display: films
 /films/animation-night/:
@@ -84,5 +84,7 @@
   display: adventures
 /adventure/demoscene/:
   display: demoscene
-/programming/graphics/demoscene/:
+/programming/demoscene/:
   display: demoscene
+/programming/magic/:
+  display: the wizard's guide
