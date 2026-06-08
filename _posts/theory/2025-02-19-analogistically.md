@@ -17,7 +17,7 @@ Two months ago I dropped acid for the first time, which surely explains a lot ab
 
 This, however, is not a trip report; just an attempt to explain some ideas and connections that were formulated while on acid, in a state where my eyes were full of interesting fractals and I couldn’t remember the world 'analogously’.
 
-Here’s some music to start us off - one of the first things that I listened to during the trip and something which probably informed the very geometric path I went down…
+Here’s some music to start us off---one of the first things that I listened to during the trip and something which probably informed the very geometric path I went down…
 
 {% include youtube.html id="BDERfRP2GI0" %}
 
@@ -31,13 +31,13 @@ One of the curious experiences I had during the trip was what the (sadly no long
 >
 > (...)
 > 
-> These specific pieces of information are often felt and understood to be a profound unveiling of an undeniable truth at the time. Afterward, they are usually realized to be ineffable due to the limitations of human language and cognition, or simply nonsensical, and <a href="https://psychonautwiki.org/wiki/Delusions">delusional</a> due to the impairment caused by of other accompanying <a href="https://psychonautwiki.org/wiki/Cognitive_effects">cognitive effects</a>.</blockquote>
+> These specific pieces of information are often felt and understood to be a profound unveiling of an undeniable truth at the time. Afterward, they are usually realized to be ineffable due to the limitations of human language and cognition, or simply nonsensical, and <a href="https://psychonautwiki.org/wiki/Delusions">delusional</a> due to the impairment caused by of other accompanying <a href="https://psychonautwiki.org/wiki/Cognitive_effects">cognitive effects</a>.
 
 Here, it felt like a kind of separating out of processes within my brain: a separation of sensory processing, <a href="https://psychonautwiki.org/wiki/Conceptual_thinking">conceptual thinking</a>, and the word stream operating with a slight delay between them.
 
 I imagined these different elements of me kind of floating in some kind of space, that each one possessed its own space of meaning, and that thoughts were being mapped between the different parts. I imagined that they were all working in concert to make 'Bryn’ happen, so much so that I didn’t perceive the different parts most of the time, and that they seemed happy with this arrangement. I also hit on a very striking metaphor of thoughts as oscillations and the resonant modes of the brain.
 
-Afterwards, I wondered how much of this was driven simply by inputs - elaboration on stuff I’d been learning about recently, which we’ll get into in a bit. I find it hard to be confident that what I perceived was actual 'direct’ introspection, rather than a narrative conjured on the fly by my brain when prompted to generate a 'look inside’.
+Afterwards, I wondered how much of this was driven simply by inputs---elaboration on stuff I’d been learning about recently, which we’ll get into in a bit. I find it hard to be confident that what I perceived was actual 'direct’ introspection, rather than a narrative conjured on the fly by my brain when prompted to generate a 'look inside’.
 
 However, even if it was not the direct observation of some kind of 'brain telescope’, it certainly gave me a lot of rich connections to think about. So the purpose of this post is to flesh out and record what came to me very intuitively at the time. Although my direct memory has faded a bit, my brain is still oscillating intently (upcoming metaphor) with thoughts inspired by what I explored there.
 
