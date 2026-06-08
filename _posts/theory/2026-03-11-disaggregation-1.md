@@ -144,7 +144,7 @@ Right. So, let's start with [something out of <cite>Baru Cormorant</cite>](https
 > 
 > “No, child. Your obsession was with a woman. Through study and obsession you have built inside yourself the soul of Tain Hu.”
 
-Elsewhere in the novel, the idea of inheriting a soul is discussed; a mathematician, Kimbune, claims that a soul has been inherited along with a transmissible cancer once carried by her husband, because the inheritor of the cancer expressed an identical stubbornnes. Baru prods her about memories, the question of whether Abdumasi could remember something he shouldn't, but it is not memories that Kimbune is concerned with: it is a way of being and thinking. *Dynamics*.
+Elsewhere in the novel, the idea of inheriting a soul is discussed; a mathematician, Kimbune, claims that a soul has been inherited along with a transmissible cancer once carried by her husband, because the inheritor of the cancer expressed an identical stubbornness. Baru prods her about memories, the question of whether Abdumasi could remember something he shouldn't, but it is not memories that Kimbune is concerned with: it is a way of being and thinking. *Dynamics*.
 
 Contra Xate Yawa, we continue to find people very mysterious. But the concept of an 'inner law' is a fruitful one. We can think of it as something like a program: the 'system' which determines what a person would think, say and do in any given situation.
 
