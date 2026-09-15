@@ -6,34 +6,34 @@
 @import "listing";
 
 .column {
-    width: 90%;
-    margin: 0 5%;
+  width: 90%;
+  margin: 0 5%;
 }
 
 header {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .page-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    flex-wrap: wrap;
-    background-color: rgba($border-colour,0.4);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  background-color: rgba($border-colour, 0.4);
 }
 
 header time {
-    font-size: 80%;
-    display: block;
-    text-align: right;
-    float: right;
-    margin-top: 5px;
+  font-size: 80%;
+  display: block;
+  text-align: right;
+  float: right;
+  margin-top: 5px;
 }
 
 h1.title {
-    margin: 0;
-    // line-height: 45px;
-    font-size: 32px;
+  margin: 0;
+  // line-height: 45px;
+  font-size: 32px;
 }
 
 /* ==============
@@ -41,31 +41,31 @@ h1.title {
    ============== */
 
 header nav {
-    display: flex;
-    flex-shrink: 0;
-    align-items: baseline;
-    flex-direction: row-reverse;
+  display: flex;
+  flex-shrink: 0;
+  align-items: baseline;
+  flex-direction: row-reverse;
 }
 
 header nav a {
-    display: block;
+  display: block;
 
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
 
-    margin-right: 8px;
-    margin-left: 2px;
-    width: max-content;
+  margin-right: 8px;
+  margin-left: 2px;
+  width: max-content;
 
-    border-bottom: 4px solid $border-colour;
+  border-bottom: 4px solid $border-colour;
 
-    font-family: "Lato", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 header nav a:hover {
-    background-color: rgba($accent-colour, 0.05);
-    border-bottom: 4px solid $accent-colour;
+  background-color: rgba($accent-colour, 0.05);
+  border-bottom: 4px solid $accent-colour;
 }
 
 /* ==============
@@ -73,454 +73,476 @@ header nav a:hover {
    ============== */
 
 main {
-    margin-top: 25px;
-    // padding: 0 25px;
-    width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
+  margin-top: 25px;
+  // padding: 0 25px;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 main h1 {
-    margin: 20px 0 20px 0;
-    font-size: 32px;
-    line-height: 33px;
+  margin: 20px 0 20px 0;
+  font-size: 32px;
+  line-height: 33px;
 }
 
 main h2 {
-    font-size: 20px;
-    margin: 20px 0 20px 10px;
+  font-size: 20px;
+  margin: 20px 0 20px 10px;
 }
 
 main h3 {
-    font-size: 18px;
-    opacity:.8;
-    margin: 20px 0 20px 20px;
+  font-size: 18px;
+  opacity: 0.8;
+  margin: 20px 0 20px 20px;
 }
 
 main h4 {
-    font-size: 18px;
-    opacity: .8;
-    margin: 20px 0 20px 24px;   
+  font-size: 18px;
+  opacity: 0.8;
+  margin: 20px 0 20px 24px;
 }
 
-main p, main ul, main ol, main dl, main aside {
-    margin: 0 0 20px 25px;
+main p,
+main ul,
+main ol,
+main dl,
+main aside {
+  margin: 0 0 20px 25px;
 }
 
 main ol#markdown-toc {
-    font-family: "Lato", sans-serif;
-    font-size: 17px;
+  font-family: "Lato", sans-serif;
+  font-size: 17px;
 }
 
 main ol#markdown-toc li ol {
-    margin: 0;
+  margin: 0;
 }
 
 main dl dt {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 main dl dt::after {
-    content: ":"
+  content: ":";
 }
 
 main li {
-    margin-top: 5px;
+  margin-top: 5px;
 }
 
 main ul.listing {
-    margin-left: 25px;
+  margin-left: 25px;
 }
 
 main blockquote {
-    margin-left: 45px;
-    margin-right: 20px;
-    padding-left: 15px;
-    background-color: $blockquote-background-colour;
+  margin-left: 45px;
+  margin-right: 20px;
+  padding-left: 15px;
+  background-color: $blockquote-background-colour;
 }
 
 main .highlighter-rouge {
-    background-color: $blockquote-background-colour;
-    font-size: 80%;
+  background-color: $blockquote-background-colour;
+}
+
+main code {
+  font-size: 80%;
 }
 
 main div.highlighter-rouge {
-    padding-left: 15px;
+  padding-left: 15px;
 }
 
-main blockquote p, main blockquote ul, main blockquote ol, main blockquote blockquote {
-    margin-left: 0;
+main blockquote p,
+main blockquote ul,
+main blockquote ol,
+main blockquote blockquote {
+  margin-left: 0;
 }
 
-main blockquote h1, main blockquote h2, main blockquote h3, main blockquote h4 {
-    margin-left: -5px;
+main blockquote h1,
+main blockquote h2,
+main blockquote h3,
+main blockquote h4 {
+  margin-left: -5px;
 }
 
 main aside {
-    font-size: 80%;
+  font-size: 80%;
 }
 
 nav.tags {
-    margin-top: 20px;
-    margin-left: 25px;
+  margin-top: 20px;
+  margin-left: 25px;
 }
 
 nav.tags:empty {
-    display:none;
+  display: none;
 }
 
 .tagnav {
-    margin: 0 auto 5px auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr;
-    justify-items: stretch;
-    font-size: 90%;
-    background-color: rgba($border-colour,0.4);
+  margin: 0 auto 5px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  justify-items: stretch;
+  font-size: 90%;
+  background-color: rgba($border-colour, 0.4);
 }
 
 .tagnav .previous {
-    grid-column: 1;
+  grid-column: 1;
 }
 
-.tagnav .tagname, {
-    padding-top: 5px;
-    padding-bottom: 5px;
-    grid-column: 2;
+.tagnav .tagname {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  grid-column: 2;
 }
 
 .tagnav .next {
-    grid-column: 3;
+  grid-column: 3;
 }
 
-.tagnav .next, .tagnav .tagname, .tagnav .previous, .comicnav .first, .comicnav .previous, .comicnav .index, .comicnav .next, .comicnav .current {
-    grid-row: 0;
-    text-align: center;
-    align-self: center;
+.tagnav .next,
+.tagnav .tagname,
+.tagnav .previous,
+.comicnav .first,
+.comicnav .previous,
+.comicnav .index,
+.comicnav .next,
+.comicnav .current {
+  grid-row: 0;
+  text-align: center;
+  align-self: center;
 }
 
-.tagnav a, .comicnav a {
-    padding-top: 5px;
-    padding-bottom: 5px;
-    display: block;
-    width: 100%;
+.tagnav a,
+.comicnav a {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: block;
+  width: 100%;
 }
 
 .comicnav {
-    margin: 0 auto 5px auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr;
-    justify-items: stretch;
-    font-size: 90%;
-    background-color: rgba($border-colour,0.4);
+  margin: 0 auto 5px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  justify-items: stretch;
+  font-size: 90%;
+  background-color: rgba($border-colour, 0.4);
 }
 
 .comicnav .first {
-    grid-column: 1
+  grid-column: 1;
 }
 
 .comicnav .previous {
-    grid-column: 2
+  grid-column: 2;
 }
 
 .comicnav .index {
-    grid-column: 3;
-    padding-top: 5px;
-    padding-bottom: 5px;
+  grid-column: 3;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .comicnav .next {
-    grid-column: 4
+  grid-column: 4;
 }
 
 .comicnav .current {
-    grid-column: 5
+  grid-column: 5;
 }
 
 .origin {
-    font-size: 80%;
-    font-style: italic;
-    margin-bottom:10px;
+  font-size: 80%;
+  font-style: italic;
+  margin-bottom: 10px;
 }
 
 main .citation {
-    font-size: 90%;
+  font-size: 90%;
 }
 
 #license {
-    font-size: 80%;
-    display: grid;
-    grid-template-columns: 88 auto;
-    margin-left: 25px;
-    grid-column-gap: 10px;
-    align-items: center;
+  font-size: 80%;
+  display: grid;
+  grid-template-columns: 88 auto;
+  margin-left: 25px;
+  grid-column-gap: 10px;
+  align-items: center;
 }
 
 #license img {
-    grid-column-start: 1;
-    grid-column-end: 2;
+  grid-column-start: 1;
+  grid-column-end: 2;
 }
 
 #license p {
-    grid-column-start: 2;
-    grid-column-end: 3;
-    margin: 0;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  margin: 0;
 }
 
 main figure {
-    margin: 0 0 20px 25px;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+  margin: 0 0 20px 25px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 main figure.video {
-    height: 0;
-    padding-bottom: 56.25%;
-    position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  position: relative;
 }
 
 main figure.video.hascaption {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 main figure.video iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 main.comic figure {
-    clear: right;
+  clear: right;
 }
 
 main figure img {
-    max-width: 100%;
-    color: #f00;
+  max-width: 100%;
+  color: #f00;
 }
 
 main figure figcaption {
-    margin: 0 20px;
-    font-size: 90%;
+  margin: 0 20px;
+  font-size: 90%;
 }
 
 main figure.video figcaption {
-    margin-top: calc(56.25% + 10px);
+  margin-top: calc(56.25% + 10px);
 }
 
 main figure figcaption p {
-    margin-left: 0;
-    margin-right: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 main figure figcaption p:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 main figure pre {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 main a {
-    color: $accent-colour;
+  color: $accent-colour;
 }
 
 main a:hover {
-    background-color: rgba($accent-colour, 0.05);
+  background-color: rgba($accent-colour, 0.05);
 }
 
 main hr {
-    width: 60%;
-    margin: 20px auto;
-    border-top: 3px solid $border-colour;
+  width: 60%;
+  margin: 20px auto;
+  border-top: 3px solid $border-colour;
 }
 
 main details {
-    margin: 5px 10px 20px 10px;
-    padding: 10px;
-    background-color: rgba($border-colour,0.2);
+  margin: 5px 10px 20px 10px;
+  padding: 10px;
+  background-color: rgba($border-colour, 0.2);
 }
 
 main details summary {
-    border: 1px solid $border-colour;
-    background-color: rgba($border-colour,0.2);
-    padding: 10px;
-    font-weight: bold;
-    font-size: 18px;
-    opacity: .8;
-    display: list-item;
-    margin: -10px -10px -10px -10px;
+  border: 1px solid $border-colour;
+  background-color: rgba($border-colour, 0.2);
+  padding: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  opacity: 0.8;
+  display: list-item;
+  margin: -10px -10px -10px -10px;
 }
 
 main details[open] > summary {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 main details blockquote {
-    margin-left: 15px;
+  margin-left: 15px;
 }
 
 .hiddencontent {
-    padding-top: 20px;
-    display: none;
-    background-color: rgba($border-colour,0.2);
-    border: 1px solid $border-colour;
-    border-top: none;
-    padding-right: 20px;
+  padding-top: 20px;
+  display: none;
+  background-color: rgba($border-colour, 0.2);
+  border: 1px solid $border-colour;
+  border-top: none;
+  padding-right: 20px;
 }
 
 .hiddencontent p:first-child {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .question {
-    background-color: rgba($border-colour,0.2);
-    border: 1px solid $border-colour;
-    padding: 10px;
-    margin-left: 45px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+  background-color: rgba($border-colour, 0.2);
+  border: 1px solid $border-colour;
+  padding: 10px;
+  margin-left: 45px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .question ul {
-    padding: 0;
-    margin: 0;
-    width: 100%;
+  padding: 0;
+  margin: 0;
+  width: 100%;
 }
 
 .question li {
-    background-color: rgba($border-colour,0.6);
-    list-style: none;
-    border-left: 5px solid $border-colour;
-    display: flex;
-    justify-content: flex-start;
-    padding: 0 20px;
-    align-items: center;
-    transition-property: background-color, border-left;
-    transition-duration: 0.5s;
-    transition-timing-function: ease;
-    min-height: 1.7em;
+  background-color: rgba($border-colour, 0.6);
+  list-style: none;
+  border-left: 5px solid $border-colour;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 20px;
+  align-items: center;
+  transition-property: background-color, border-left;
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+  min-height: 1.7em;
 }
 
 .question li .mjx-math {
-    margin-left: 6px;
-    margin-right: 6px;
+  margin-left: 6px;
+  margin-right: 6px;
 }
 
 .question li:first-child {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .question li.selectable {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .question li.selectable:hover {
-    background-color: rgba($accent-colour, 0.1);
-    border-left: 5px solid $accent-colour;
+  background-color: rgba($accent-colour, 0.1);
+  border-left: 5px solid $accent-colour;
 }
 
-.question li.correct, .question li.correction {
-    background-color: rgba($correct-colour,0.1);
-    border-left: 5px solid $correct-colour;
+.question li.correct,
+.question li.correction {
+  background-color: rgba($correct-colour, 0.1);
+  border-left: 5px solid $correct-colour;
 }
 
 .question li.wrong {
-    background-color: rgba($wrong-colour,0.1);
-    border-left: 5px solid $wrong-colour;
+  background-color: rgba($wrong-colour, 0.1);
+  border-left: 5px solid $wrong-colour;
 }
 
 .question li::after {
-    transition-property: opacity;
-    transition-duration: 0.5s;
-    transition-timing-function: ease;
-    margin-left: auto;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+  margin-left: auto;
 }
 
 .question li.selectable::after {
-    opacity: 0;
-    content:"";
+  opacity: 0;
+  content: "";
 }
 
 .question li.correct::after {
-    opacity: 1;
-    color: $correct-colour;
-    content: "✓";
-    font-size: 150%;
+  opacity: 1;
+  color: $correct-colour;
+  content: "✓";
+  font-size: 150%;
 }
 
 .question li.wrong::after {
-    opacity: 1;
-    color: $wrong-colour;
-    content: "✗";
-    font-size: 150%;
+  opacity: 1;
+  color: $wrong-colour;
+  content: "✗";
+  font-size: 150%;
 }
 
 .question li.correction::after {
-    opacity: 1;
-    color: $correct-colour;
-    content: "⬅";
-    font-size: 150%;
+  opacity: 1;
+  color: $correct-colour;
+  content: "⬅";
+  font-size: 150%;
 }
 
 .question li.greyedout {
-    opacity: 0.5;
+  opacity: 0.5;
 }
 
 .question input {
-    border: 1px solid $border-colour;
-    background-color: white;
-    margin-right: 10px;
-    font-size: 150%;
-    transition-property: background-color, color, border;
-    transition-duration: 0.5s;
-    transition-timing-function: ease;
-    text-align: right;
-    margin-left: auto;
-    width: 100%;
+  border: 1px solid $border-colour;
+  background-color: white;
+  margin-right: 10px;
+  font-size: 150%;
+  transition-property: background-color, color, border;
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
+  text-align: right;
+  margin-left: auto;
+  width: 100%;
 }
 
 .question input + span {
-    margin-right: 10px;
-    white-space: nowrap;
+  margin-right: 10px;
+  white-space: nowrap;
 }
 
 .question input + span::after {
-    content: "✓";
-    font-size: 150%;
-    opacity: 0;
-    transition-property: opacity, width;
-    transition-duration: 0.5s;
-    transition-timing-function: ease;
+  content: "✓";
+  font-size: 150%;
+  opacity: 0;
+  transition-property: opacity, width;
+  transition-duration: 0.5s;
+  transition-timing-function: ease;
 }
 
 .question input.correct {
-    background-color: rgba($correct-colour, 0.2);
-    border: 1px solid $correct-colour;
-    color: $correct-colour;
+  background-color: rgba($correct-colour, 0.2);
+  border: 1px solid $correct-colour;
+  color: $correct-colour;
 }
 
 .question input.correct + span::after {
-    opacity: 1;
-    color: $correct-colour;
+  opacity: 1;
+  color: $correct-colour;
 }
 
 .question input.wrong {
-    background-color: rgba($wrong-colour, 0.2);
-    border: 1px solid $wrong-colour;
-    color: $wrong-colour;
+  background-color: rgba($wrong-colour, 0.2);
+  border: 1px solid $wrong-colour;
+  color: $wrong-colour;
 }
 
 .question input.wrong + span::after {
-    content: "✗";
-    opacity: 1;
-    color: $wrong-colour;
+  content: "✗";
+  opacity: 1;
+  color: $wrong-colour;
 }
 
 @import "chat";
@@ -528,84 +550,83 @@ main details blockquote {
 
 /* Umineko styles */
 .red {
-    color: red;
+  color: red;
 }
 
 .blue {
-    color: blue;
+  color: blue;
 }
 
 .smallcaps {
-    font-variant: small-caps;
+  font-variant: small-caps;
 }
 
 .japanese {
-    font-style: normal;
+  font-style: normal;
 }
 
 ol.poem {
-    
-    margin-left: 0;
-    font-style: italic;
-    padding-left: 10px;
+  margin-left: 0;
+  font-style: italic;
+  padding-left: 10px;
 }
 
 ol.poem li {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 ol.poem li p {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 ol.poem li ol {
-    margin-top: 20px;
-    padding-left: 0;
+  margin-top: 20px;
+  padding-left: 0;
 }
 
 ol.poem li li {
-    margin-left: 0;
-    padding-left: 0;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 /* Information on films*/
 article.film {
-    border: 1px solid $border-colour;
-    margin: 0 0 20px 25px;
+  border: 1px solid $border-colour;
+  margin: 0 0 20px 25px;
 }
 
 article.film h1 {
-    padding: 20px 0 15px 20px;
-    font-size: 18px;
-    margin: 0
+  padding: 20px 0 15px 20px;
+  font-size: 18px;
+  margin: 0;
 }
 
 article.film h1 cite {
-    font-style: normal;
+  font-style: normal;
 }
 
 article.film figure {
-    margin: 0 0 20px 0;
+  margin: 0 0 20px 0;
 }
 
 dd p {
-    margin-left: 0;
+  margin-left: 0;
 }
 
 dd p:first-child {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 dd blockquote {
-    margin-left: 0;
+  margin-left: 0;
 }
 
 .smallcaps {
-    font-variant: small-caps;
+  font-variant: small-caps;
 }
 
 ruby rt {
-    font-size: 15px;
+  font-size: 15px;
 }
 
 /* ===============
@@ -613,7 +634,7 @@ ruby rt {
    =============== */
 
 .ie7 .title {
-    padding-top: 20px;
+  padding-top: 20px;
 }
 
 /* ==========================================================================
@@ -621,146 +642,143 @@ ruby rt {
    ========================================================================== */
 
 @media only screen and (min-width: 420px) {
-
-/* ====================
+  /* ====================
     INTERMEDIATE: Menu
    ==================== */
 
-    header nav a {
-        padding-top: 20px;
-    }
+  header nav a {
+    padding-top: 20px;
+  }
 }
 
 @media only screen and (min-width: 768px) {
-
-/* ============
+  /* ============
     WIDE: Menu
    ============ */
 
-    // nav {
-    //     width: 38%;
-    // }
+  // nav {
+  //     width: 38%;
+  // }
 
-    main {
-        width: 691px;
-        margin: 25px auto 0 auto;
-    }
+  main {
+    width: 691px;
+    margin: 25px auto 0 auto;
+  }
 
-    main.comic {
-        // padding: 0 25px;
-        width: 90%;
-        max-width: 1000px;
-    }
+  main.comic {
+    // padding: 0 25px;
+    width: 90%;
+    max-width: 1000px;
+  }
 
-    main figure.float {
-        max-width: 300px;
-        shape-image-threshold: 0.5;
-        shape-margin: 1em;
-        margin-bottom: 0;
-    }
+  main figure.float {
+    max-width: 300px;
+    shape-image-threshold: 0.5;
+    shape-margin: 1em;
+    margin-bottom: 0;
+  }
 
-    main figure.float.right {
-        float: right;
-        margin-left: 0.5em;
-    }
+  main figure.float.right {
+    float: right;
+    margin-left: 0.5em;
+  }
 
-    main figure.float.left {
-        float: left;
-        margin-right: 0.5em;
-        margin-left: 0;
-    }
+  main figure.float.left {
+    float: left;
+    margin-right: 0.5em;
+    margin-left: 0;
+  }
 
-    main figure.float figcaption {
-        text-align: center;
-    }
+  main figure.float figcaption {
+    text-align: center;
+  }
 
-    article.film dl {
-        margin-left: 40px;
-        display: grid;
-        grid-template-columns: [start] max-content [mid] 1fr [end];
-    }
+  article.film dl {
+    margin-left: 40px;
+    display: grid;
+    grid-template-columns: [start] max-content [mid] 1fr [end];
+  }
 
-    article.film dt {
-        grid-column-start: start;
-        grid-column-end: mid;
-    }
+  article.film dt {
+    grid-column-start: start;
+    grid-column-end: mid;
+  }
 
-    article.film dd {
-        grid-column-start: mid;
-        grid-column-end: end;
-    }
+  article.film dd {
+    grid-column-start: mid;
+    grid-column-end: end;
+  }
 }
 
 @media only screen and (min-width: 1000px) {
-
-/* ===============
+  /* ===============
     Maximal Width
    =============== */
 
-    main {
-        margin-top: 10px;
-    }
+  main {
+    margin-top: 10px;
+  }
 
-    nav.tags.floating {
-        width: 300px;
-        float: right;
-        margin: 20px -100px 0 20px;
-    }
+  nav.tags.floating {
+    width: 300px;
+    float: right;
+    margin: 20px -100px 0 20px;
+  }
 
-    .column {
-        width: 900px; /* 1000px - 10% for margins */
-        margin: 0 auto;
-    }
+  .column {
+    width: 900px; /* 1000px - 10% for margins */
+    margin: 0 auto;
+  }
 
-    header.page-header {
-        flex-wrap: nowrap;
-        align-items: flex-end;
-    }
+  header.page-header {
+    flex-wrap: nowrap;
+    align-items: flex-end;
+  }
 
-    main div.highlighter-rouge.wide {
-        margin-left: -100px;
-        margin-right: -100px;
-    }
+  main div.highlighter-rouge.wide {
+    margin-left: -100px;
+    margin-right: -100px;
+  }
 
-    main figure {
-        margin-left: -75px;
-        margin-right: -100px;
-    }
+  main figure {
+    margin-left: -75px;
+    margin-right: -100px;
+  }
 
-    main figure img {
-        max-width: 1000px;
-    }
+  main figure img {
+    max-width: 1000px;
+  }
 
-    main figure.float img {
-        max-width: 100%;
-    }
+  main figure.float img {
+    max-width: 100%;
+  }
 
-    main > figure.video {
-        padding-bottom: calc(0.5625 * (100% + 75px + 100px));
-    }
+  main > figure.video {
+    padding-bottom: calc(0.5625 * (100% + 75px + 100px));
+  }
 
-    main aside {
-        float: right;
-        width: 400px;
-        margin-right: calc(max(280px - 40vw,-420px));
-        margin-left: 10px;
-        margin-top: -15px;
-    }
+  main aside {
+    float: right;
+    width: 400px;
+    margin-right: calc(max(280px - 40vw, -420px));
+    margin-left: 10px;
+    margin-top: -15px;
+  }
 
-    main aside p {
-        margin-bottom: 0;
-    }
+  main aside p {
+    margin-bottom: 0;
+  }
 
-    main table {
-        width: 1000px;
-        margin-left: -150px;
-        border-collapse: separate;
-        border-spacing: 5px;
-    }
+  main table {
+    width: 1000px;
+    margin-left: -150px;
+    border-collapse: separate;
+    border-spacing: 5px;
+  }
 
-    main table tbody tr:nth-child(odd) {
-        background-color: #eee;
-    }
+  main table tbody tr:nth-child(odd) {
+    background-color: #eee;
+  }
 }
 
 /* ==========================================================================
@@ -768,33 +786,33 @@ ruby rt {
    ========================================================================== */
 
 .hidden {
-    display: none !important;
-    visibility: hidden;
+  display: none !important;
+  visibility: hidden;
 }
 
 .visuallyhidden {
-    border: 0;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
 }
 
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
-    clip: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto;
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
 }
 
 .invisible {
-    visibility: hidden;
+  visibility: hidden;
 }
 
 /* ==========================================================================
@@ -802,61 +820,61 @@ ruby rt {
    ========================================================================== */
 
 @media print {
-    *,
-    *:before,
-    *:after {
-        background: transparent !important;
-        color: #000 !important;
-        box-shadow: none !important;
-        text-shadow: none !important;
-    }
+  *,
+  *:before,
+  *:after {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
 
-    a,
-    a:visited {
-        text-decoration: underline;
-    }
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
 
-    a[href]:after {
-        content: " (" attr(href) ")";
-    }
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
 
-    abbr[title]:after {
-        content: " (" attr(title) ")";
-    }
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
 
-    a[href^="#"]:after,
-    a[href^="javascript:"]:after {
-        content: "";
-    }
+  a[href^="#"]:after,
+  a[href^="javascript:"]:after {
+    content: "";
+  }
 
-    pre,
-    blockquote {
-        border: 1px solid #999;
-        page-break-inside: avoid;
-    }
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
 
-    thead {
-        display: table-header-group;
-    }
+  thead {
+    display: table-header-group;
+  }
 
-    tr,
-    img {
-        page-break-inside: avoid;
-    }
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
 
-    img {
-        max-width: 100% !important;
-    }
+  img {
+    max-width: 100% !important;
+  }
 
-    p,
-    h2,
-    h3 {
-        orphans: 3;
-        widows: 3;
-    }
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
 
-    h2,
-    h3 {
-        page-break-after: avoid;
-    }
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
 }
