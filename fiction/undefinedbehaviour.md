@@ -27,7 +27,7 @@ I give her the look. She pivots the chair back, spins it round to face me proper
 
 "Yeah, OK." she says, after I fail to answer. "I... OK. Come on, Indigo. Don't look at me like that."
 
-"You wouldn't read it if you weren't getting something out of it." I lift the laptop off my knees, patted the off-brand blue shark next to me. "Come on. Tools down. You can't tell me that's research. Come and tell me whats up."
+"You wouldn't read it if you weren't getting something out of it." I lift the laptop off my knees, pat the off-brand blue shark next to me. "Come on. Tools down. You can't tell me that's research. Come and tell me what's up."
 
 She stands, wobbling the way she does when she hasn't been paying attention to hunger signals for several hours, and picks her way through the floor's esoteric book collection to settle between me and the pile of plushies. I hold her for a minute or two, stroking her hair while she figures out the words.
 
@@ -205,7 +205,7 @@ That was ten years ago.
 
 And I mean, you know how much has happened since. The AI crash. All the mad shit with the government. The second pandemic. I don't... like, I don't want to talk about that. I was so tired. Let's... please, let's just stay on the game.
 
-At some point in all that geopolitical chaos, the game got covered by one of those Youtube video essay people. I believe she titled it, 'the insane MMORPG whose writer DISAPPEARED', which bugged me because it wasn't an MMO but whatever! (...we'd have made in an MMO if we could.)
+At some point in all that geopolitical chaos, the game got covered by one of those Youtube video essay people. I believe she titled it, 'the insane MMORPG whose writer DISAPPEARED', which bugged me because it wasn't an MMO but whatever! (...we'd have made it an MMO if we could.)
 
 Still, it was nice that someone remembered it. I can't really say that about any of my other games. I got in touch with the girl that made the video, another trans girl, went by Rose Reviews. We talked on Discord now and again, but at some point, we drifted, one or other of us got cold feet, we stopped messaging as much.
 
@@ -243,7 +243,7 @@ Well, unlike me, she had some sense, so she left the game industry... actually, 
 
 She got arrested on some political demo, trans shit or anti-war shit, I can't tell you. She told me to hand out the rest of her stash to whoever asked, and I did, for want of a better idea. It lasted about two months. She left me a darkweb address to get more, but it was already taken down by that point...
 
-So, when I got a knock on my door, 1am the night before my plane? Well, frankly, I thought this is it, they're finally gonna put me in a camp.
+So, when I got a knock on my door, 1 a.m. the night before my plane? Well, frankly, I thought this is it, they're finally gonna put me in a camp.
 
 You know where this is going, don't you?
 
