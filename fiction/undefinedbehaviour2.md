@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour ch2 \[draft 0.0.3\]
+# Undefined Behaviour ch2 \[draft 0.0.4\]
 
 ## Chapter::Encapsulation
 

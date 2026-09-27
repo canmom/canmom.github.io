@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour \[draft 0.0.7\]
+# Undefined Behaviour \[draft 0.0.8\]
 
 ## Chapter::GlasgowComaScale
 
