@@ -111,7 +111,7 @@ I crack up. "What, so like, the protagonist is being beaten down by Vulkan, teet
 
 "But... agh, that's the whole problem. I don't just want the same formula all the time. If I'm going to another world, I want it to actually be... different. And if I wanted to *take* someone into my world... I'd want them to understand it. So I guess I want that from these isekai stories. I want to be taken somewhere that I'd really have to understand."
 
-I didn't really know how to answer that, so I kiss her, and we don't discuss games or isekai stories any more.
+I don't really know how to answer that, so I kiss her, and we don't discuss games or isekai stories any more.
 
 ...no, that's way too coy, isn't it? We spend the rest of the night having sex. That's not really germane to the point right now. Maybe I'll tell you about it later.
 
@@ -219,7 +219,7 @@ But as I'm sure you know, the law got worse. More of my friends died, in rather 
 
 Each time, I helped hold the funeral, and it all started feeling more and more absurd. I'd be looking at the faces. Trying to guess who'd be next. Meeting the gaze of others who were doing the same.
 
-On top of all that, I kinda had to soft-detrans. They don't know I'm a woman at work. Frankly, I'm not entirely sure if I can really count as a woman *outside* of work, even with bottom surgery. I don't go to trans events anymore. I switched to DIY after the whole thing with the NHS, but it got a lot harder to get that stuff in through the cracks. There'd be months without hormones, and they'd *suck*. Casually microdosing menopause!
+On top of all that, I kinda had to soft-detrans. They didn't know I'm a woman at work. Frankly, I'm not entirely sure if I can really count as a woman *outside* of work, even with bottom surgery. I don't go to trans events anymore. I switched to DIY after the whole thing with the NHS, but it got a lot harder to get that stuff in through the cracks. There'd be months without hormones, and they'd *suck*. Casually microdosing menopause!
 
 Before too long, I just couldn't handle it anymore.
 
