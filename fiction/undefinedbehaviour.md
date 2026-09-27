@@ -249,7 +249,7 @@ You know where this is going, don't you?
 
 ---
 
-Violet looks different, the wheelchair especially, different hair. But even my faceblind ass could tell it was her.
+Violet looked different, the wheelchair especially, different hair. But even my faceblind ass could tell it was her.
 
 How can I describe what I was feeling in that moment? It was like I broke on a rock. In movies, they have pithy ways to express it like, <i>how could you, I thought you were dead, I could kill you</i>. I didn't have anything like that to say.
 
@@ -263,27 +263,29 @@ I am pretty sure I made some sort of weird squeak and gestured for her to come i
 
 ---
 
-But Violet is not alone. There is someone behind her, a tall East Asian woman in a heavy coat who I can best describe as 'pointy'. She keeps looking back, furtive, along the street. Her breath mists.
+Violet---it's actually, genuinely, Violet, I'm not dreaming or high, it's her---is not alone. There's someone behind her, a tall East Asian woman in a heavy coat who I can best describe as 'pointy'. She keeps looking back, furtive, along the street. Her breath mists.
 
 Get them inside. No kitchen table, so me and Violet's mysterious friend end up sitting on my air mattress, Violet of course in this new wheelchair. I still have my kettle so I set it to boil, sat incongruously in the middle of the carpet I'd spent the day cleaning.
 
 "Violet, I... hey." I manage. "<i>Hi</i>... Long time no see."
 
-Violet looks at me with... I mean, what are you supposed to read, here? Pain... affection? That's what I want to imagine in her face. No, that isn't it. More than anything she looks *exhausted*.
+Violet looks at me with... I mean, what am I supposed to read in her face, here? Pain... affection? That's what I want to imagine. But no, that isn't it. More than anything, she looks *exhausted*.
 
-"You were going to say '久しぶりですね', weren't you, you fucking weeb." she says. Then she coughs. "I mean, um. Hey, Indigo. God, I am *so* fucking sorry."
+"You were going to say '<ruby lang="jp">久しぶりですね<rp> (</rp><rt>hisashiburi desu ne</rt><rp>)</rp>', weren't you, you fucking weeb." she says. Then she coughs. "I mean, um. Hey, Indigo. God, I am *so* fucking sorry."
 
 I swallow, and I'm definitely tearing up. I can feel the hotness of the tears. My throat is already sore. I'll end up absolutely *bawling* at this rate. That would be no good, would it?
 
 "Violet, you're... um. Where were you? Literally, like..." I can't see how to finish the sentence. It makes no sense.
 
-She purses her lips. "It's. It's a long story. I'll tell you. Please..."
+She slumps in the wheelchair, and is silent for a moment. The kettle starts bubbling.
+
+"It's. It's a long story. I'll tell you. Please..."
 
 "I honestly thought you were dead." I don't mean it as an accusation. Just have to tell her.
 
 "I kinda was for a bit, actually. Like, clinically."
 
-I don't know what to do with this. I look up at her, no doubt resembling like a particularly bedraggled cat.
+I don't know what to do with this. I look up at her, no doubt resembling a particularly bedraggled cat.
 
 "I got better, obviously." she says, approximating something like a smile.
 
@@ -293,7 +295,7 @@ Violet is tearing up too, now. Her friend sits quietly, apparently pondering my 
 
 "I couldn't tell you." she says, muffled. "I'm sorry, Indigo. I would have done anything to tell you I was still there. I couldn't."
 
-"I'm just fucking glad to know you're alive." I can't let go of her. "G-d, it has been the worst fucking decade of ever. I don't know what we are now. But fuck, I'm glad you're alive, Violet. I'm fucking glad..."
+"I'm just fucking glad to know you're alive." I can't let go of her. "God, it has been the worst fucking decade of ever. I don't know what we are now. But fuck, I'm glad you're alive, Violet. I'm fucking glad..."
 
 "Yeah." Violet says. And for a while, we don't find anything else to say.
 
@@ -347,7 +349,7 @@ That was really not even the half of it, though.
 
 "Finish <cite>TRISMEGISTUS</cite>. But... more than that."
 
-I'd frowned. "Finish it? We already shipped it. There's people speedrunning it."
+I frown. "Finish it? We already shipped it. There's people speedrunning it."
 
 "Yeah, well." Violet said. "That was a good first draft. But... it's hard to explain. It has to be a whole lot more, this time."
 
@@ -401,7 +403,7 @@ Morning. I find myself cycling across the bridge, past the Riverside Museum, and
 
 My bike's tires crunch up the bridge, and I peer fretfully at passers-by. Thick winter coats; the climate is so fucky now. None of them seem to be in a hurry to hatecrime me, at least. Is tranny bashing still a hate crime? They'd probably give them a medal these days...ah shut up, it isn't that bad, you idiot.
 
-I am *definitely* not in good shape to cycle. I'd left a lot of time, which meant very little sleep. It's hard to appreciate the frost glittering on the railings and wires of the bridge, the wintery Clyde, that old ship they have... bit by bit, though, I inch my way along the river, past the science centre and all that, stopping for breath whenever I have to.
+I am *definitely* not in good shape to cycle. I'd set my alarm to leave a lot of time, which meant I was running on maybe three or four hours. It's hard to appreciate the frost glittering on the railings and wires of the bridge, the wintery Clyde, that old ship they have... bit by bit, though, I inch my way along the river, past the science centre and all that, stopping for breath whenever I have to.
 
 I won't tell you the exact address. Probably too much to say it was central already...
 
@@ -463,7 +465,7 @@ This Violet peers back at me, very seriously.
 
 The other three glance at each other knowingly. I wonder how many times they've had this conversation. Su-Ni gestures for me to continue.
 
-"OK, to start with, what is even your business model? Our business model. I don't think anyone's buying this kind of RPG in 203X. And why are you acting like this is some super-illegal top secret that nobody can know about?"
+"OK, to start with, what is even your business model? Our business model. I don't think anyone's buying this kind of RPG in 2036. And why are you acting like this is some super-illegal top secret that nobody can know about?"
 
 "Indigo." Su-ni says.
 
@@ -473,11 +475,11 @@ The other three glance at each other knowingly. I wonder how many times they've 
 
 ---
 
-I watched the bright array of screens on my new desk. There was a VR headset nearby, but it didn't seem to be plugged in.
+I watch the bright array of screens on my new desk. There is a VR headset nearby, but it doesn't seem to be plugged in.
 
-At this point, I have to say I was pretty much emotionally sandblasted to nothing. A polished desert. But I could do 'technically knowledgeable'. I was here to make a game. Let's talk about games.
+At this point, I have to say I am pretty much emotionally sandblasted to nothing. A polished desert. But I can do 'technically knowledgeable'. I'm here to make a game. Let's talk about games.
 
-"This is a pretty early build." Yeong-Mi said. "But the architecture is solid. Rust. I love getting to write Rust."
+"This is a pretty early build." Yeong-Mi says. "But the architecture is solid. Rust. I love getting to write Rust."
 
 "This is a custom engine?"
 
@@ -487,15 +489,15 @@ At this point, I have to say I was pretty much emotionally sandblasted to nothin
 
 I mean it. Behind the screen is a bustling area, a village of bulbous huts tangled in bridges, all supported by these giant upside-down mushrooms. A lot of it still greyboxed, but I can see what's intended. It's recognisably an expanded version of the Scurriers' Market area in the original game. Here and there I can spot an old asset I made. And throughout it all, tiny figures run about, jumping gaps between the bridges, bumping into each other, conversing, using tools...
 
-"About that..." Yeong-Mi said.
+"About that..." Yeong-Mi says.
 
 "Right." Violet speaks up. "Those aren't NPCs."
 
-I gave her a look. "But there's hundreds of them."
+I give her a look. "But there's hundreds of them."
 
-"We had to be sure it would work before we started recruiting everyone." Yeong-Mi said. "But it does."
+"We had to be sure it would work before we started recruiting everyone." Yeong-Mi says. "But it does."
 
-"What am I looking at? Are these some sort of like, actual AIs? AGIs, whatever. Is that why this is a secret?" I didn't want it to be that. But I lived through the late 2020s, and my dalliances with certain online cults have done a number on my imagination, here.
+"What am I looking at? Are these some sort of like, actual AIs? AGIs, whatever. Is that why this is a secret?" I don't want it to be that. But I lived through the late 2020s, and my dalliances with certain online cults have done a number on my imagination, here.
 
 "I'm afraid we haven't cracked the secret of AGI in a basement in Glasgow."
 
@@ -523,7 +525,7 @@ A quick look around the room gives an estimate. Four people per rack, maybe a co
 
 "I told you she wouldn't freak out." says Violet, incongruously. "She's crazy horny for this kind of thing."
 
-"Hold on, I might." I just about manage. Is she serious? Turning my gaze back to the person in the box, legs feeling weak. "What the fuck, Violet, your players are, what, the actual fucking Sybil system?"
+"Hold on, I might." I just about manage. Is she serious? I turn my gaze back to the person in the box, legs feeling weak. "What the fuck, Violet, your players are, what, the actual fucking Sybil system?"
 
 Yeong-Mi shoots Violet a glance. "Old anime." she says, rolling her eyes a bit. "Basically the Matrix." Then, to me: "Not exactly. It's basically impossible to sustain a brain outside a human body with today's technology."
 
@@ -549,7 +551,9 @@ Yeong-Mi laughs, way too loud in the room. "Brick jokes..." she said, after a mo
 
 "I think there are some friends of yours in here, in fact. But there's quite a queue. Not everyone's wired up, yet. We keep them sleepy until the surgical team can get to them."
 
-Some of my friends. She said it so casually, and it takes a moment to really register it. Too much to take in what that would mean; that somewhere in this morgue-like room, someone *else* I'd mourned might be sleeping quietly in a cradle of wires. *Technical questions*... Ask technical questions. If I can just understand what I'm seeing, I'll know how to feel about it.
+Some of my friends. She said it so casually, and it takes a moment to really register it. Too much to take in what that would mean; that somewhere in this morgue-like room, someone *else* I'd mourned might be sleeping quietly in a cradle of wires.
+
+*Technical questions*... Ask technical questions. If I can just understand what I'm seeing, I'll know how to feel about it.
 
 Surely.
 
@@ -563,21 +567,21 @@ Violet nods.
 
 "Oh..."
 
-"But don't you see?" Violet stared at me, eyes as fierce as I'd ever seen them. "We can be *free*. An actual, genuine, other world to escape to. A world where you can be embodied however the fuck you want."
+"But don't you see?" Violet stares at me, eyes as fierce as I've ever seen them. "We can be *free*. An actual, genuine, other world to escape to. A world where you can be embodied however the fuck you want."
 
 "You've had this surgery?"
 
 "Yeah. I was the first patient."
 
-"First patient who *lived*." Yeong-Mi said, severely.
+"First patient who *lived*." Yeong-Mi says, severely.
 
-"First patient who lived..." Violet winced. "That's why I'm up and talking to you. That's why I know we have to succeed."
+"First patient who lived..." Violet winces. "That's why I'm up and talking to you. That's why I know we have to succeed."
 
-The story she'd told me, the whole saga of recovery, was starting to feel both more and less incredible.
+The story she told me, the whole saga of recovery, is somehow starting to feel both more and less incredible.
 
-"If you're the first patient, why aren't you in a box?" It felt crass to say it, but I had to ask. Something was missing.
+"If you're the first patient, why aren't you in a box?" It feels crass to say it, but I have to ask. Something is missing.
 
-"They did other stuff to me! Riskier stuff." She did not seem offended. More excited, and nervous too. "The box is step one. Step three was supposed to involve robots, but it didn't quite work out." She swallows, and breaks eye contact. "I can't really talk about that."
+"They did other stuff to me! Riskier stuff." She does not seem offended. More like excited, and nervous too. "The box is step one. Step three was supposed to involve robots, but it didn't quite work out." She swallows, and breaks eye contact. "I can't really talk about that."
 
 "OK." I feel like an inquisitor. "Fine. This is insane, but fine. Just one more question." I reach out to place my hand on her shoulder, and she looks up to meet my gaze again...
 
@@ -587,7 +591,7 @@ The story she'd told me, the whole saga of recovery, was starting to feel both m
 
 "Well." I let her go. "In for a penny, in for a pound."
 
-No, I could never say no to Violet.
+No, I can never say no to Violet.
 
 ---
 

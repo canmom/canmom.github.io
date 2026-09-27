@@ -105,7 +105,7 @@ Maggie tuts in mock-disapproval. Violet cracks up. "She's from London." she says
 
 "I like it a whole lot better! But, uh, honestly a whole lot of bad shit happened in Bath." Hope that comes off in a suitably 'don't ask' way. "So it's a chance to start over. Knowing how the world works a bit more." Both girls nod seriously.
 
-"Yeah, that's real. So what's all this about pissing turtles, anyway?" She turns to grab a chair opposite and oh, yes, flagging yellow. Behind her, someone in a harness stops briefly to scratch her head and blow a kiss to Violet, then hurries off in pursuit of a slightly taller someone in a full latex dress. Try to remember their faces.
+"Yeah, that's real. So what's all this about pissing turtles, anyway?" She turns to grab a chair opposite and oh, yes, flagging yellow. Behind her, someone in a harness stops briefly to scratch her head and blow a kiss to Violet, then hurries off in pursuit of a slightly taller someone in a full latex dress. I try to remember their faces.
 
 "Ehe, well." I scratch my jaw. "I dunno if it's as exciting as you think. We were talking about abstractions. So you know, the turtles on turtles metaphor."
 
@@ -123,7 +123,7 @@ Maggie tuts in mock-disapproval. Violet cracks up. "She's from London." she says
 
 "I said, you're taking the process of perception, and you're hiding the details! Of, you know, what you're perceiving!"
 
-"Huh!" My brain worked to parse out her words. "Yeah! I guess you've got shape, texture, line, colour... but not trying to relate those to some physical object that has that texture. Just the elements themselves."
+"Huh!" My brain works to parse out her words. "Yeah! I guess you've got shape, texture, line, colour... but not trying to relate those to some physical object that has that texture. Just the elements themselves."
 
 "And, you said the abstractions leak, right?"
 
@@ -135,7 +135,7 @@ Maggie tuts in mock-disapproval. Violet cracks up. "She's from London." she says
 
 Maggie is looking between us, her expression somewhere between exasperation and fascination. "God, I fucking love trans women."
 
-Violet laughed loudly. "This one really brings it out in me!" I beamed.
+Violet laughs loudly. "This one really brings it out in me!" I beamed.
 
 "Why don't we go upstairs where it's a bit quieter!?" Maggie says.
 
@@ -169,7 +169,7 @@ Maggie bursts out laughing. "You really *are* a STEM girlie. But yeah, OK, I thi
 
 ---
 
-"So, what's your thing?" Maggie says. Violet had gone back downstairs to pick us up some drinks.
+"So, what's your thing?" Maggie says. Violet has gone back downstairs to pick us up some drinks.
 
 "Like, what do I do? Or like, what kind of sex I'm into?"
 
@@ -231,9 +231,9 @@ Violet sighs, but she sounds amused. "Here she goes."
 
 "Hmm."
 
-She waved it away. "It's probably bullshit. But I like to think about it."
+She waves it away. "It's probably bullshit. But I like to think about it."
 
-"I think I get you." I said. "I think of, you know, Lynn Conway, Sophie Wilson. They probably didn't make computer architecture in an inherently trans way or whatever, but it makes me feel good to think we've always been like this..."
+"I think I get you." I say. "I think of, you know, Lynn Conway, Sophie Wilson. They probably didn't make computer architecture in an inherently trans way or whatever, but it makes me feel good to think we've always been like this..."
 
 "Hey, you know what!" Violet says suddenly. She looks between us. "Rachel Pollack had a bit about oldschool trans hackers in one of her books. 'Cross-gendered computer outlaws' is how she put it, I think?" She fishes out her phone, encrusted with stickers, and starts  fiddling.
 
@@ -253,9 +253,9 @@ She laughs and raises her hands. "Hey, I'm fine with analogue shit! That's liter
 
 ---
 
-"Come over here, Indigo." I scoot my chair closer to Violet. She pats her lap. I open my mouth, closed it, and scoot up there. On the other side of Violet, Maggie watches with an affectionate expression.
+"Come over here, Indigo." I scoot my chair closer to Violet. She pats her lap. I open my mouth, close it, and scoot up there. On the other side of Violet, Maggie watches with an affectionate expression.
 
-I can feel Violet's breath on my neck and shoulder. (Trapezius, scapula. Thanks brain.) And then she wraps her arms around me, keeping me stable. I am suddenly *very* warm.
+I can feel Violet's breath on my neck and shoulder. (Trapezius, scapula. Thanks, brain.) And then she wraps her arms around me, keeping me stable. I am suddenly *very* warm.
 
 "I don't wanna take advantage of you being my fan and all that." Violet says quietly, near my ear. "But you are super fucking cute, you know that right?"
 
@@ -279,7 +279,7 @@ I am not.
 
 Ten years later, I'm sat on Violet's lap again, looking at a database of patients.
 
-The lap thing hadn't entirely been planned, but Violet has the security clearance to look at the patient database. I probably shouldn't be seeing it. But she wants to show me. And there is not a lot of room to see the screen without sitting in her lap. That had to be the only reason she asked me. It had been ten years, after all.
+The lap thing hadn't entirely been planned, but Violet has the security clearance to look at the patient database. I probably shouldn't be seeing it. But she wants to show me. And there is not a lot of room to see the screen without sitting in her lap. That had to be the only reason she asked me. It has been ten years, after all.
 
 I spot Magenta's name. Not, as I'd half expected, her deadname. Apparently the mysterious multinational conglomerate that's funding this place is a stickler for respecting trans people. Probably something to do with Su-ni. What the hell is her deal? Like, either trans herself or some kind of ultra-chaser. But I can't think about that.
 
@@ -297,7 +297,7 @@ After Violet had disappeared, Maggie had been hit about as hard as me. But for h
 
 "Maybe she wouldn't. She was doing better." I don't really believe it, and Violet does not dignify it with a response. "So... this is supposed to be a way to save her?"
 
-"People kill themselves," Violet said, "for a whole lot of reasons. But one description that strikes a chord with me is that they just can't imagine any sort of future anymore. So, this way, we can flush the context and put them into another world entirely. An afterlife, in a way."
+"People kill themselves," Violet says, "for a whole lot of reasons. But one description that strikes a chord with me is that they just can't imagine any sort of future anymore. So, this way, we can flush the context and put them into another world entirely. An afterlife, in a way."
 
 "If they can even wake her up from the coma. There's got to be something less drastic."
 
@@ -315,7 +315,7 @@ Oh, Violet. I grimace... "Heliotrope and I... had a real falling out. About two 
 
 "Fucking hell, Violet."
 
-She folded her arms round me again. "Aren't you glad?"
+She folds her arms round me again. "Aren't you glad?"
 
 "I'm... this is just a lot to take in. And Yeong-Mi said it's not guaranteed, right? I don't want to get my hopes up and grieve them twice."
 
@@ -419,7 +419,7 @@ Violet giggles. "I'm results." I roll my eyes. Yeah, she hasn't changed *that* m
 
 "Why go to such lengths, though?" Even as the new hire, I can't resist pressing. "I mean, I'm glad you liked the game and everything, but..."
 
-"Ms. Indigo, I did not simply like the game." She looked at me severely. "Do not underestimate your accomplishment. <cite>TRISMEGISTUS</cite> was a revelation. It made clear that I was wasting my one, only life."
+"Ms. Indigo, I did not simply like the game." She looks at me severely. "Do not underestimate your accomplishment. <cite>TRISMEGISTUS</cite> was a revelation. It made clear that I was wasting my one, only life."
 
 "Surely you've played other deeply immersive RPGs? Games that moved you the same way? I mean, there's <cite>Disco Elysium</cite> right there."
 
@@ -513,7 +513,7 @@ Violet shakes her head. "I've always been plural, silly." She pauses. "I mean. S
 
 She nods. The clock on the wall keeps ticking. A minute or more.
 
-"How's he with the trans thing?" What an awkward thing to say.
+"How's he with the trans thing?" I say. Foot, straight to mouth.
 
 "Pretty chill." Violet shrugs. "I think he IDs as a femboy or something. He can probably explain it. Anyway, he's cool with hormones and all that."
 
@@ -567,7 +567,7 @@ I hesitate for a moment. "Are we still..."
 
 "I don't care what we are. I just want cuddles."
 
-Seems fair. I kick off my shoes and push myself over to the bed, wriggled into the covers beside her. Her head finds its way to my clavicle, and I massage her neck and shoulder, firmer and firmer, the way she used to like it. Evidently she still does! That happy murmur, capable of melting me just as well after ten years. If she'd been a cat, I am quite sure she would be purring.
+Seems fair. I kick off my shoes and push myself over to the bed, wriggle into the covers beside her. Her head finds its way to my clavicle, and I massage her neck and shoulder, firmer and firmer, the way she used to like it. Evidently she still does! That happy murmur, capable of melting me just as well after ten years. If she'd been a cat, I am quite sure she would be purring.
 
 "Magic hands..." she murmurs.
 
@@ -613,7 +613,7 @@ You're starting to remember how you went out.
 
 "So. I guess I'm still alive." It's hard to remember. All of your memories seem strangely distant, wrapped in some sort of dissociative haze. Drips of distant pain echoing through a cavern.
 
-"Magenta. As agreed in October 202X, you have been maintained in a medically induced coma for seven years, and then participated in an experimental neurosurgery. I can report the operation has been successful, and as a result, you are now inside an experimental virtual world." Violet, this time. Unlike Indigo's body, she is a sort of floating amorphous mass, constantly shifting between different shapes, the world beyond refracting through her body.
+"Magenta. As agreed in October 2029, you have been maintained in a medically induced coma for seven years, and then you participated in an experimental neurosurgery. I can report the operation has been successful, and as a result, you are now inside an experimental virtual world." Violet, this time. Unlike Indigo's body, she is a sort of floating amorphous mass, constantly shifting between different shapes, the world beyond refracting through her body.
 
 You vaguely recall these things. 'Jellies.' Inspired by some ancient webcomic.
 

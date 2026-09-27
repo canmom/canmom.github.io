@@ -21,7 +21,7 @@ By this point, I had been with Violet for a few months. The café she'd been wor
 
 Glasgow was, I'll admit, not exactly known for its gamedev scene. It's sooort of a techy city, like you had all the fintech companies in the centre, big banks drawn by the smell of lower-than-average wages to find new developers to bleed out for the money machine. I have *terribly* positive feelings about that. And don't get me fucking started on the arms companies.
 
-But as far as game dev... well, an hour away in Edinburgh, you've got a Rockstar office, at the time still embroiled in that union-busting controversy. Back here, I think there was also an animation studio which made pre-rendered trailers and the like for big games. But for the most part it was definitively indie stuff. Let me put it this way: the game developer pub meet took place in the same building as the leatherdyke one, but the latter was easily three or four times bigger.
+But as far as game dev... well, an hour away in Edinburgh, you've got a Rockstar office, at the time still embroiled in that union-busting controversy. Back here, I think there was also an animation studio which made pre-rendered trailers and the like for big games. There was another studio making a <cite>Silent Hill</cite> spinoff, which  But for the most part it was definitively indie stuff. Let me put it this way: the game developer pub meet took place in the same building as the leatherdyke one, but the latter was easily three or four times bigger.
 
 So the studio I worked for was that kind of small scale. But we had some really technical people. Not *all* passionate fans of narrative games, but we liked to do something a bit weird and arty, and Violet's writing really struck a chord. (Helped that she was local, too!) We were riding pretty damn high on the success of our last game---not to toot my own horn too much here, I was still learning the ropes, but my colleagues cooked up some crazy stuff, really kind of a technical marvel, and it paid off. So we thought we could pull off this even more ambitious plan: an action-RPG with a branching storyline.
 
@@ -169,7 +169,7 @@ Violet nuzzles against my shoulder. "So, do you like, believe in God now? ...Don
 
 "That would be pretty great. Do you think that?"
 
-"Nah, but <cite>Houseki no Kuni</cite> fucking slaps." This gets some big nodding. "But I mean I guess I view it like a game? I like playing around with rules and structures and rituals and stuff. Being part of all that. Same reason I'm into programming. Whether or not God is really real is kinda besides the point. Don't tell hashem I said that, though."
+"Nah, but <cite>Houseki no Kuni</cite> fucking slaps." This gets some big nodding. "But I mean I guess I view it like a game? I like playing around with rules and structures and rituals and stuff. Being part of all that. Same reason I'm into programming. Whether or not God is really real is kinda besides the point. Don't tell HaShem I said that, though."
 
 "Yeah... I guess so." No reaction to my dumb joke.
 
@@ -193,7 +193,7 @@ I fidget. "How about you?"
 
 "She seems to like it in there."
 
-Violet and I are at my desk, now cluttered with a few weeks' detritus, mostly lots of equations and sketches that wander all higgledy-piggledy across the sheets, seizing every available corner with not even a facsimile of organisation. It seems fitting, somehow.
+Violet and I are at my desk, now cluttered with a few weeks' detritus... mostly, lots of equations and sketches that wander all higgledy-piggledy across the sheets, seizing every available corner with not even a facsimile of organisation. It seems fitting, somehow.
 
 On the screens stands the forest where we'd been putting new players, and at the centre of it, Maggie, sleeping soundly in the nook of a tree. There's something comforting about a nature scene, especially in a game that is so full of uncanny body horror. By this point, maybe three or four areas of the game have been updated to our new system and more or less fleshed out. Our full-time playtesters have taken up residence in various parts of the world. Maggie, though, seems happy enough in the forest.
 
@@ -215,19 +215,19 @@ Violet reaches out, wiggles her fingers into mine. "Most players do. We're not t
 
 "Like, you've got some number of coma patients from the hospital, but like, how many can there actually be? And then, there's the 'suicide rescue' route. If you wanna call it that. But how many trans people actually are there dying that way? And then, multiply that by the fraction who get contacted by this programme, and decide to go along with it..."
 
-Violet is silent, watching me. Like she knew the answer but wanted me to finish the thought.
+Violet is silent, watching me. Like she knows the answer but wants me to finish the thought.
 
-"And, I mean, I don't know why they didn't tell me you were in here, since I'm supposed to be your next of kin, and if not me, well, one of your dads should've got the memo. Most people in a hospital are gonna have family and such, right? If they suddenly disappear one day, someone's going to start sniffing around and asking questions. Even if you pretend they died, they're gonna want the body. There can't be *that* many unaccounted-for coma patients in the world. Especially since, it's not like this operation can help *everyone* right?"
+"And, I mean, I don't know why they didn't tell me you were in here, since I'm supposed to be your next of kin, and if not me, well, one of your dads should've gotten the memo. Most people in a hospital are gonna have family and such, right? If they suddenly disappear one day, someone's going to start sniffing around and asking questions. Even if you pretend they died, they're gonna want the body. There can't be *that* many unaccounted-for coma patients in the world. Especially since, it's not like this operation can help *everyone* right?"
 
 "Yeah." Violet says. "You're not wrong, Indigo. There's something fishy about it. I mean, I talk to most people in there, and I've had a look over the patient database... been *very* naughty and gone sniffing around for social media, and for a lot of people I just can't find any sort of footprint."
 
-"Huh." I try to make it add up. "Do you think they've been shipped in from Korea or somewhere? Something to do with Su-Ni and her family?"
+"Huh." I try to make it add up. "Do you think they've been shipped in from Korea or somewhere? Something to do with Su-ni and her family?"
 
 ---
 
 Su-ni's office. Nineteen days after I joined the company. She's been asking to talk to me for a while, and I've run out of excuses. I don't know what I'm expecting, really. An alchemist's workshop full of cobwebbed tomes, candles dribbling onto each alembic? A clean, perfect corpo office with some plastic trees? Lain's nest of wires? An actual UFO?
 
-But no: it's a regular, if cluttered office for the most part, except for big a window into the hall of 'players'. The floor is inlaid with a geometric figure---but not some traditional magic circle like I half-expected from the <cite>Key of Solomon</cite> or whatever. No, of course it's from <cite>Trismegistus</cite>. That's what this is all about, isn't it?
+But no: it's a regular (if cluttered) office for the most part, except for big a window into the hall of 'players'. The floor is inlaid with a geometric figure---but not some traditional magic circle like I half-expected from the <cite>Key of Solomon</cite> or whatever. No, of course it's from <cite>Trismegistus</cite>. That's what this is all about, isn't it?
 
 "You recognise it, Ms. Indigo." Su-ni is standing behind four or five different monitors on her desk, whatever's on them casting all sorts of colours across her white costume.
 
@@ -423,7 +423,7 @@ Putting me on a chair has left me looking up at Su-ni. "How much have you been p
 
 "You mean..."
 
-"I mean, Indigo, nobody has any clue what's going on out there anymore. We are *deep* in the time of monsters. Out there is a complex system beyond human understanding. In here we're midwifing the new world." She claps her hands together. "Now, do you know what I mean when I say 'weird machine'?"
+"I mean, Indigo, nobody has any clue what's going on out there anymore. We are *deep* in the time of monsters. Out there is a complex system beyond human understanding. In here, we're midwifing the new world." She claps her hands together. "Now, do you know what I mean when I say 'weird machine'?"
 
 ---
 
@@ -449,7 +449,7 @@ Well, you, the sneaky fairy spy, aren't really there to resolve the situation, b
 
 "There's no way anything is predictable or consistent enough to pull that off."
 
-"Well, it's nothing as complicated as all that really. That's just a helpful metaphor. Mostly, we steer attention, get a little creative accounting through the cracks in a bloated military budget, and distract whoever we need to look the other way."
+"Well, it's nothing as complicated as all that really. That's just a helpful metaphor. Mostly, we steer attention, get a little creative accounting through the cracks in a bloated military budget, trade legitimacy and authority upwards, and distract whoever we need to look the other way."
 
 "It sounds like a very... convoluted conspiracy. How can you trust everyone who's involved in this? Like, what if I went straight to the press?"
 
@@ -579,9 +579,9 @@ The Scurrier's Market was at one point the whole of New Trismegistus (you're the
 
 The inhabitants are a varied bunch. Most of them speak English, with a variety of accents, but a certain jargon has been developing among the players.
 
-One little group declared a library in one of the larger mushrooms, and you find yourself going there more often than not. Three levels, each taking you further from the world. On the top floor there's a search terminal on the top floor, which lets you type in the title of just about any book written before 2032, and have a copy miraculously appear beside you on the shelf from a libgen dump somewhere. But that's the 'outerworld' section. The middle section has all the lorebooks from the original game, of course each one just a fragmentary passage in Violet's instantly recognisable style; the ground floor houses the 'New Literature of TRISMEGISTUS'.
+One little group declared a library in one of the larger mushrooms, and you find yourself going there more often than not. Three levels, each taking you further from the world. On the top floor there's a search terminal, which lets you type in the title of just about any book written before 2032, and have a copy miraculously appear beside you on the shelf from a libgen dump somewhere. But that's the 'outerworld' section. The middle section has all the lorebooks from the original game, of course each one just a fragmentary passage in Violet's instantly recognisable style; the ground floor houses the 'New Literature of TRISMEGISTUS'.
 
-There are players, here. Some are typing at typewriters that for inexplicable reasons each contain a bubbling alembic; others have learned to use the neural interface to stream words out directly, and they sit there in apparent meditation as a book fills itself out. The New Literature is for now maybe five or six authors, but they do not lack enthusiasm.
+There are players here. Some are typing at typewriters that for inexplicable reasons each contain a bubbling alembic; others have learned to use the neural interface to stream words out directly, and they sit there in apparent meditation as a book fills itself out. The New Literature is for now maybe five or six authors, but they do not lack enthusiasm.
 
 You're not here for the New Literature, though.
 
@@ -595,7 +595,7 @@ Helio is sitting in the middle layer, lorebook room, on an armchair which looks 
 
 "Umm. Good photos?"
 
-"Yeah... I think I'm doing some pretty good stuff with composition." You feel humoured, but it's sweet of it to take an interest. A gesture in the air summons a perfectly flat rectangle with your photo gallery, and Heliotrope flips through them for a minute, before waving it away like smoke.
+"Yeah... I think I'm doing some pretty good stuff with composition." You feel humoured, but it's sweet of Helio to take an interest. A gesture in the air summons a perfectly flat rectangle with your photo gallery, and Heliotrope flips through them for a minute, before waving it away like smoke.
 
 "Nice."
 
@@ -687,9 +687,21 @@ Don't you want to know what's down there?
 
 Atlantis is a city and hub area. It can normally be accessed only after completing **"Oberon's Judgement"** on a **Fae playthrough**, or **"Mercy to Poets"** on a **Traitor playthrough**.
 
-An underwater city which has been reclaimed by specialist homunculi, Atlantis is divided into three main areas. From the **Sour Undergarden**, it is possible to reach the **Bathyal Colony** and the **Excavators' Warrens**. These both connect to the **Keep**, but the player must win favour with the Garrulous Unterbaron or find a secret entrance to enter this area. (See **Questlines: Atlantis**.)
+An underwater city which has been reclaimed by specialist homunculi, Atlantis is divided into three main areas. From the **Sour Undergarden**, it is possible to reach the **Bathyal Colony** and the **Excavators' Warrens**. These both connect to the **Unterkeep**, but the player must win favour with the Garrulous Unterbaron or find a secret entrance to enter this area. (See **Questlines: Atlantis**.)
 
-### Significant Atlantean NPCs
+### Atlantean events
+
+See **Events: Bathyal Colony**, **Events: Excavator's Warrens**, **Events: Unterkeep**, **Events: Deluge**.
+
+Money
+: For a Fae-aligned player, the Gargoyle Soothsayer double-or-nothing game in the **Procession of Fools** event is the fastest way to get money in Atlantis, provided the player has acquired some **Atlantean Bones** to manipulate luck.
+
+  A Traitor player can attempt to bluff Fae alignment with the Soothsayer. Otherwise, joining the Free Homunculi gives the lucrative recurring **Knaves at Work** event.
+
+Influence
+: The **Injured Cat-Sìth** event is a good source of Blackmail Material. **Alms and Arms** can be used to gain reputation with the local Free Homunculi. The Alchemists have a limited presence in Atlantis itself, but **Atlantean Bones** can be traded at the **Southern Atelier** for a small amount of reputation.
+
+### Permanent Atlantean NPCs
 
 Garrulous Unterbaron
 : The human ruler of Atlantis, secret friend of the **Free Homunculi**, a major questgiver and holder of the area's **Seal**. He has been smuggling weapons and <i>quintessence</i>. The player has the choice of gaining his trust by assisting with the excavations, or infiltrating his palace. The Unterbaron is a sincere believer in the doctrine of **Homunculisation** and, once his trust is gained, will eagerly argue the matter with the player.
