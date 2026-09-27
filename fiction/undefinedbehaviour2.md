@@ -87,7 +87,7 @@ Violet grinned. "Dog ahead. Try finger but hole." On the other side of the table
 
 "This is Indigo. Computer graphics nerd." Violet said. "Hey, Indigo, this is Magenta."
 
-"Just Maggie is fine! So, you're new in Glasgow?" I can'g figure out her accent. Not Scottish, though.
+"Just Maggie is fine! So, you're new in Glasgow?" I can't figure out her accent. Not Scottish, though.
 
 "I've been here a few months." I'm really having to raise my voice. "Up from Bath."
 
@@ -363,11 +363,11 @@ I'm frowning. "It's crazy. Couldn't you really hurt someone if it goes wrong? Li
 
 "Basically every player gets their own rig, roughly a decent gaming PC." Yeong-mi is across the table, ticking items off on her fingers. "Pretty high-end stuff, lots of VRAM to play with, but we've got a lot more pixels to push than a normal game. On top of that, there's an authoritative server for each area. Latency is great at the moment, because everyone's in the same building. But we still predict everything on-device because you really cannot afford any lag in this kind of situation."
 
-"Wow." Given the cost of life support and surgery, I supposed the computers wouldn't even be the expensive part of this operation. "Seems like you have this worked out pretty well already. What's my role in it?"
+"Wow." Given the cost of life support and surgery, the computers might not even be the expensive part of this operation. "Seems like you have this worked out pretty well already. What's my role in it?"
 
-"Well." Xander said. "You've got to make our rendering stack good enough that people won't go crazy--"
+"Well." Xander says. "You've got to make our rendering stack good enough that people won't go crazy--"
 
-"What he means is, what worked in 202X," Violet interrupted, "or even now, is not good enough when you're living inside it. It's uncanny. All the hacks that you make in a game..."
+"What he means is, what worked in 2025," Violet says, "or even now, is not good enough when you're living inside it. It's uncanny. All the hacks that you make in a game..."
 
 "Fuck, it would be awful."
 
@@ -385,17 +385,17 @@ I'm frowning. "It's crazy. Couldn't you really hurt someone if it goes wrong? Li
 
 We're in the cafeteria, upstairs, in what is some clearly sort of regular office building. A sign lists the businesses in the building; upstairs is some sort of community film studio. Likely with no idea what was going on below their feet---better to imagine than the alternative, at least. It's decently busy, and the overlapping conversations provide a wall against getting overheard. Even so, I'm speaking quietly, leaning across the table towards Violet.
 
-"Well." she says. "I never got the *full* story. But it's like this. She's an early transitioner. Her mum and dad are trillionaires or something. Like, I'm pretty sure they're at the top of one the chaebol. And she's an only child, and her parents were weirdly cool about it all so when her egg cracked she basically got whatever she wanted."
+"Well." she says. "I never got the *full* story. But it's like this. She's an early transitioner. Her mum and dad are trillionaires or something. Like, I'm pretty sure they're at the top of one of the <i>chaebol</i>. And she's an only child, and her parents were weirdly cool about it all so when her egg cracked she basically got whatever she wanted."
 
-"Huh." I processed this. "So she *is* trans, then? I had sorta wondered given that like, you know, I haven't seen one cis person since I went down there."
+"Huh." It takes a second to process. "So she *is* trans, then? I had sorta wondered given that like, you know, I haven't seen one cis person since I went down there."
 
-Violet's face twitches, she rolls her eyes. "Yeah. That's by design. Like, you can ask her about this yourself, but she had a real personal crisis about getting to ride above it all like that. Especially when she came over here. So she's made a point of hiring other trans people, paying for hormones and all that."
+Violet's face twitches as she rolls her eyes. "Yeah. That's by design. Like, you can ask her about this yourself, but she had a real personal crisis about getting to ride above it all like that. Especially when she came over here. So she's made a point of hiring other trans people, paying for hormones and all that."
 
 "And also making her own personal sorta zoo or cult or whatever for us..."
 
 "I mean, if you *want* to see it that way." Violet shrugs. "I think she's cool. I'm sure I'd be doing something insane like this if I had her sort of money."
 
-"There's no way this is completely under the radar, though, right?" I couldn't let go of it. "Like, that much money moving around, all these surgeons getting involved."
+"There's no way this is completely under the radar, though, right?" I can't let go of it. "Like, that much money moving around, all these surgeons getting involved."
 
 "Well." Violet says. "It is officially known as a research hospital. Just, a lot of patients are undocumented. The actual *hospital* part is across the river. I'm sure she's got people doing real creative accounting to cover this all up."
 
@@ -417,13 +417,13 @@ I scoot to the side to make space for her to sit down. She obliges, smoothing th
 
 Violet giggles. "I'm results." I roll my eyes. Yeah, she hasn't changed *that* much.
 
-"Why go to such lengths, though?" I have to keep asking Su-ni. "I mean, I'm glad you liked the game and everything, but..."
+"Why go to such lengths, though?" Even as the new hire, I can't resist pressing. "I mean, I'm glad you liked the game and everything, but..."
 
 "Ms. Indigo, I did not simply like the game." She looked at me severely. "Do not underestimate your accomplishment. <cite>TRISMEGISTUS</cite> was a revelation. It made clear that I was wasting my one, only life."
 
 "Surely you've played other deeply immersive RPGs? Games that moved you the same way? I mean, there's <cite>Disco Elysium</cite> right there."
 
-"Oh, <cite>Disco Elysium</cite> was a profound game. And so are many others. But unlike your game, they did not perform *magic*." She takes a deep breath. "Do not mistake my project here for pure benevolence, Ms. Indigo. I am, at heart, a selfish woman. I came to Scotland to save Ms. Violet, after her accident. And I did so because she could give me something I wanted---something I could not get anywhere else."
+"Oh, <cite>Disco Elysium</cite> was a profound game. And so are many others. But unlike your game, they did not perform a certain, specific *magic*." She takes a deep breath. "Do not mistake my project here for pure benevolence, Ms. Indigo. I am, at heart, a selfish woman. I came to Scotland to save Ms. Violet, after her accident. And I did so because she could give me something I wanted---something I could not get anywhere else."
 
 And I stare at her, trying to make sense of these baffling pronouncements. And she watches me, severe and impassive as ever. I feel... angry?
 
@@ -439,25 +439,25 @@ I groaned. "Look, yeah, I get the philosophy and all..."
 
 "Do you?" She reached across the table, and gripped my hand tightly. "That chair exists in your mind, Indigo. 'Really' it's quarks, electrons, quantum fields, whatever. None of that knows it's a chair. We say it's a chair because we trust they will *act* as a chair."
 
-"Yes, it's the phenomena! I understand about the *fucking* phenomena!" I saw someone on another table turn their head, and bit my tongue. "Can we continue this somewhere else?"
+"Yes, it's the phenomena! I understand about the *fucking* phenomena!" I see someone on another table turn their head, and bit my tongue. "Can we continue this somewhere else?"
 
 ---
 
-We stand in the lift, me and Su-ni at one end, Violet's wheelchair at the other, as it descends back to what I was increasingly thinking of as a sorcerer's dungeon. Both of them were looking at me.
+We stand in the lift, me and Su-ni at one end, Violet's wheelchair at the other, as it descends back to what I am increasingly thinking of as a sorcerer's dungeon. Both of them are looking at me.
 
 "People don't like our game because it was a perfect simulation of another world." I say into the silence. "They liked it because of your writing, Violet, and the art team's designs, and all of that work we did... it told a story. They could fill in the rest themselves. You know, willing suspension of disbelief. Make-believe play. How are we going to have any of that here? If everyone's just some random person plucked off the streets of Glasgow, they're not going to roleplay Maude the Anchoress or Chairman Oberon or the Garrulous Unterbaron or whoever. This team doesn't seem all that big. We'd never churn out content patches fast enough."
 
-"They are not." Violet said. "We've had to pick some people to play the vital characters. But more importantly, the rules of the world are what they are. If we do our jobs right, what emerges from that will be something new and rich."
+"They are not." Violet says. "We've had to pick some people to play the vital characters. But more importantly, the rules of the world are what they are. If we do our jobs right, what emerges from that will be something new and rich."
 
 "Then how is it <cite>TRISMEGISTUS</cite>!? Your writing *made* that game, Violet. If Su-ni wants a sequel so badly---"
 
-"Ms. Indigo." Su-ni placed a hand on my arm. I flinched slightly. "I am grateful to hear your feelings and I hope you will continue to be just as forthright with me. However... I said I came to Scotland to save Ms. Violet. I did not say I simply wanted a sequel to <cite>TRISMEGISTUS</cite>."
+"Ms. Indigo." Su-ni places a hand on my arm. I flinch slightly. "I am grateful to hear your feelings and I hope you will continue to be just as forthright with me. However... I said I came to Scotland to save Ms. Violet. I did not say I simply wanted a sequel to <cite>TRISMEGISTUS</cite>."
 
-"Hey." I turned to look at her, still riding the wave of annoyance. "OK. Thanks for not firing me immediately, I guess. Why do you keep calling us 'Ms.'?"
+"Hey." I look at her, still riding the wave of annoyance. "OK. Thanks for not firing me immediately, I guess. Why do you keep calling us 'Ms.'?"
 
-She laughed. "It's an affectation, obviously. Roleplaying. You're not an idiot, Indigo. I do it to remind you that I am your grandiose, megalomaniac boss, and not your buddy like Violet---Ms. Violet---here. So let's not forget ourselves."
+She laughs. "It's an affectation, obviously. Roleplaying. You're not an idiot, Indigo. I do it to remind you that I am your grandiose, megalomaniac boss, and not your buddy like Violet---Ms. Violet---here. So let's not forget ourselves."
 
-"Indigo." Violet said quietly. "The <cite>TRISMEGISTUS</cite> thing was my idea. *I* convinced her to do it."
+"Indigo." Violet says quietly. "The <cite>TRISMEGISTUS</cite> thing was my idea. *I* convinced her to do it."
 
 "Oh."
 
@@ -469,7 +469,7 @@ The lift reached the basement with a soft 'ping'.
 
 Violet has a room on the premises. I suppose that makes sense. She is, supposedly, a patient at the research hospital. As hospital rooms go, it is more like a fancy hotel. Double bed, fresh sheets, beautiful view of the Clyde under a steely sky---though the bank of monitoring equipment, currently inactive, breaks the spell a little.
 
-So I settle in an armchair as Violet shifts out of her chair onto the bed. It seemed she was not completely unable to walk, but it didn't look easy. I watch her unclip a blood pressure cuff, fold it round her arm with practiced motions, and press the button. A hiss; the cuff inflates. She rests, quiet against the headboard.
+So I settle in an armchair as Violet shifts out of her chair onto the bed. Seems she's not completely unable to walk, but it doesn't look easy. I watch her unclip a blood pressure cuff, fold it round her arm with practiced motions, and press the button. A hiss; the cuff inflates. She rests, quiet against the headboard.
 
 After a minute, she speaks. "You don't have to stay here if you don't want to." Sounding a whole lot more exhausted than she had at lunch.
 
@@ -483,11 +483,11 @@ After a minute, she speaks. "You don't have to stay here if you don't want to." 
 
 "Fuck..."
 
-Violet continues, words flooding out of a broken dam. "They did it better for the later patients. At some point they'll swap out my chips too. But, I think Su-ni wants them to iron out the procedure first. It definitely wasn't her idea for them to operate on me so early. She was really mad about it, actually, that's kind of where the situation with her family --"
+Violet's words keep flooding out, a broken dam. "They did it better for the later patients. At some point they'll swap out my chips too. But, I think Su-ni wants them to iron out the procedure first. It definitely wasn't her idea for them to operate on me so early. She was really mad about it, actually, that's kind of where the situation with her family --"
 
-"Hang on, hang on, slow down." I love a good infodump, but this was a bit much. "Go back a minute, Violet. Did you say the operation made you plural?"
+"Hang on, hang on, slow down." I love a good infodump, but this is a bit much. "Go back a minute, Violet. Did you say the operation made you plural?"
 
-Violet shook her head. "I've always been plural, silly." She paused. "I mean. Since I was a kid anyway."
+Violet shakes her head. "I've always been plural, silly." She pauses. "I mean. Since I was a kid anyway."
 
 "Oh, fuck. You never told me..." Had I come across like I'd be prejudiced or something? Half my friends are systems, these days.
 
@@ -507,9 +507,13 @@ Violet shook her head. "I've always been plural, silly." She paused. "I mean. Si
 
 "That's... wow, I don't know what to say about that. Which one of you named yourself first? Or was it like a mutual thing?"
 
-"Well. Originally he was like, my deadname, like, you know it right?" I nodded. "But then I became Violet and he didn't wanna be that anymore so he changed to be Chartreuse."
+"Well. Originally he was like, my deadname, like, you know it right?" I nod. "But then I became Violet and he didn't wanna be that anymore so he changed to be Chartreuse."
 
-"Huh." I say. "Well, tell him I said hi, I guess." The clock on the wall ticks for a minute. "How's he with the trans thing?"
+"Huh." I say. "Well, tell him I said hi, I guess."
+
+She nods. The clock on the wall keeps ticking. A minute or more.
+
+"How's he with the trans thing?" What an awkward thing to say.
 
 "Pretty chill." Violet shrugs. "I think he IDs as a femboy or something. He can probably explain it. Anyway, he's cool with hormones and all that."
 
@@ -529,7 +533,7 @@ I reach out to take her hand. "I can't imagine what it was like."
 
 "Nah, mostly they just asked Yeong-Mi a whole bunch of questions when they got her out of jail."
 
-"Huh. Didn't think she'd be the type to blab." Not that this was the cops, but still...
+"Huh. Didn't think she'd be the type to blab." Not that this is the cops, but still...
 
 "She didn't say a damn word until they brought me in to see her."
 
@@ -553,17 +557,17 @@ I look at her, frown deepening. "Bound together in conspiracy. Like we're alread
 
 Violet shrugs. "Probably. You always had a better memory for them than I did."
 
-That struck me as terribly sad.
+That strikes me as terribly sad.
 
 ---
 
-"Come cuddle me." she said.
+"Come cuddle me." she says.
 
-I hesitated for a moment. "Are we still..."
+I hesitate for a moment. "Are we still..."
 
 "I don't care what we are. I just want cuddles."
 
-Seems fair. I kick off my shoes and push myself over to the bed, wriggled into the covers beside her. Her head finds its way to my clavicle, and I massage her neck and shoulder, firmer and firmer, the way she used to like it. Evidently she still does! That happy murmur, capable of melting me just as well after ten years. If she'd been a cat, I was quite sure she would be purring.
+Seems fair. I kick off my shoes and push myself over to the bed, wriggled into the covers beside her. Her head finds its way to my clavicle, and I massage her neck and shoulder, firmer and firmer, the way she used to like it. Evidently she still does! That happy murmur, capable of melting me just as well after ten years. If she'd been a cat, I am quite sure she would be purring.
 
 "Magic hands..." she murmurs.
 

@@ -19,7 +19,7 @@ At the time, our last game---a silly physics-based party game loosely based on t
 
 By this point, I had been with Violet for a few months. The café she'd been working at had gone bust, and she'd had little luck finding another job. I'd been making sure to take her out for food a lot, because I was kind of afraid she just *wouldn't eat* otherwise. Or try to subsist on cream crackers or something. When I suggested trying to get her work as a game writer, she'd been doubtful, but agreed to put together some samples for my colleagues. And I went to argue for a narrative game as our next project.
 
-Glasgow was, I'll admit, not exactly know for its gamedev scene. It's sooort of a techy city, like you had all the fintech companies in the centre, big banks drawn by the smell of lower-than-average wages to find new developers to bleed out for the money machine. I have *terribly* positive feelings about that. And don't get me fucking started on the arms companies.
+Glasgow was, I'll admit, not exactly known for its gamedev scene. It's sooort of a techy city, like you had all the fintech companies in the centre, big banks drawn by the smell of lower-than-average wages to find new developers to bleed out for the money machine. I have *terribly* positive feelings about that. And don't get me fucking started on the arms companies.
 
 But as far as game dev... well, an hour away in Edinburgh, you've got a Rockstar office, at the time still embroiled in that union-busting controversy. Back here, I think there was also an animation studio which made pre-rendered trailers and the like for big games. But for the most part it was definitively indie stuff. Let me put it this way: the game developer pub meet took place in the same building as the leatherdyke one, but the latter was easily three or four times bigger.
 
@@ -87,7 +87,7 @@ Violet squirms. "I wouldn't know. You say the prayer and stuff when we eat. It s
 
 "Ha." I say. "I mean I'd say ask people to give it a look over? Don't just try and, I don't know, keep writing it different ways til you git gud at not doing antisemitism?"
 
-She snorts. "Yeah, fair point. But then, idk, let's say we have another category, let's say there's a gay leather guy in his 50s or something. Or, I dunno, a working-class taxi driver from Pakistan. Hell, maybe they're the same guy. But if I need to have a whole bunch of characters in *every* category, the story is just completely bogged down by it, right?"
+She snorts. "Yeah, fair point. But then, I dunno, let's say we have another category, let's say there's a gay leather guy in his 50s or something. Or, I dunno, a working-class taxi driver from Pakistan. Hell, maybe they're the same guy. But if I need to have a whole bunch of characters in *every* category, the story is just completely bogged down by it, right?"
 
 "Well." I say. "I mean, a story doesn't have to be about *everything*, right? Like this is kind of a really Tumblr way of reading, right, where everyone has to be viewed as a stand-in for some bigger social group, and you've gotta fill your bingo card or something."
 
@@ -217,7 +217,7 @@ Violet reaches out, wiggles her fingers into mine. "Most players do. We're not t
 
 Violet is silent, watching me. Like she knew the answer but wanted me to finish the thought.
 
-"And, I mean, I don't know why they didn't tell me you were in here, since I'm supposed to be your next of kin, and if not me, well, one of your dads should've got a memo. Most people in a hospital are gonna have family and such, right? If they suddenly disappear one day, someone's going to start sniffing around and asking questions. Even if you pretend they died, they're gonna want the body. There can't be *that* many unaccounted-for coma patients in the world. Especially since, it's not like this operation can help *everyone* right?"
+"And, I mean, I don't know why they didn't tell me you were in here, since I'm supposed to be your next of kin, and if not me, well, one of your dads should've got the memo. Most people in a hospital are gonna have family and such, right? If they suddenly disappear one day, someone's going to start sniffing around and asking questions. Even if you pretend they died, they're gonna want the body. There can't be *that* many unaccounted-for coma patients in the world. Especially since, it's not like this operation can help *everyone* right?"
 
 "Yeah." Violet says. "You're not wrong, Indigo. There's something fishy about it. I mean, I talk to most people in there, and I've had a look over the patient database... been *very* naughty and gone sniffing around for social media, and for a lot of people I just can't find any sort of footprint."
 
@@ -227,7 +227,7 @@ Violet is silent, watching me. Like she knew the answer but wanted me to finish 
 
 Su-ni's office. Nineteen days after I joined the company. She's been asking to talk to me for a while, and I've run out of excuses. I don't know what I'm expecting, really. An alchemist's workshop full of cobwebbed tomes, candles dribbling onto each alembic? A clean, perfect corpo office with some plastic trees? Lain's nest of wires? An actual UFO?
 
-Instead it's... a regular, if cluttered office for the most part, except for big window into the hall of 'players'. The floor is inlaid with a geometric figure---but not some traditional magic circle like I half-expected from the <cite>Key of Solomon</cite> or whatever. No, of course it's from <cite>Trismegistus</cite>. That's what this is all about, isn't it?
+But no: it's a regular, if cluttered office for the most part, except for big a window into the hall of 'players'. The floor is inlaid with a geometric figure---but not some traditional magic circle like I half-expected from the <cite>Key of Solomon</cite> or whatever. No, of course it's from <cite>Trismegistus</cite>. That's what this is all about, isn't it?
 
 "You recognise it, Ms. Indigo." Su-ni is standing behind four or five different monitors on her desk, whatever's on them casting all sorts of colours across her white costume.
 
@@ -353,7 +353,7 @@ She lowers her hand. "Yeah. I mean, more or less."
 
 ---
 
-A clear evening in Kelvingrove park, painfully cold. Stargazing, at least in principle. Not many stars have been gazed at.
+A clear evening in Kelvingrove Park, painfully cold. Stargazing, at least in principle. Not many stars have been gazed at.
 
 Violet has devised a story.
 
@@ -461,7 +461,7 @@ Well, you, the sneaky fairy spy, aren't really there to resolve the situation, b
 
 ---
 
-Queen's park, the pigeons.
+Queen's Park, the pigeons.
 
 "It's not like you to worry this much. Usually you're pretty gung-ho about, hey, I made this thing about parasitic selkies and seal clubbing games, it'll fuck you up for a week."
 
@@ -689,7 +689,7 @@ Atlantis is a city and hub area. It can normally be accessed only after completi
 
 An underwater city which has been reclaimed by specialist homunculi, Atlantis is divided into three main areas. From the **Sour Undergarden**, it is possible to reach the **Bathyal Colony** and the **Excavators' Warrens**. These both connect to the **Keep**, but the player must win favour with the Garrulous Unterbaron or find a secret entrance to enter this area. (See **Questlines: Atlantis**.)
 
-### significant Atlantean NPCs
+### Significant Atlantean NPCs
 
 Garrulous Unterbaron
 : The human ruler of Atlantis, secret friend of the **Free Homunculi**, a major questgiver and holder of the area's **Seal**. He has been smuggling weapons and <i>quintessence</i>. The player has the choice of gaining his trust by assisting with the excavations, or infiltrating his palace. The Unterbaron is a sincere believer in the doctrine of **Homunculisation** and, once his trust is gained, will eagerly argue the matter with the player.
@@ -719,20 +719,20 @@ Stola
 : A homunculus worker in the Excavators' Warrens who is fascinated by doors. The player can tell them door-related facts for a very small reward.
 
 Modulofinor
-: A human jellylike alchemist in the Excavator's Warrens. The first time the player enters the Warrens, they will be performing a **Work of Disintegration**. Subsequently, they can be approached to provide cryptic comments, mostly on alchemical matters.
+: A human jellylike alchemist in the Excavator's Warrens. The first time the player enters the Warrens, sie will be performing a **Work of Disintegration**. Subsequently, sie can be approached to provide cryptic comments, mostly on alchemical matters.
 
 Porridge
-: A young jelly in the Warrens who has recently split, losing most of their memories. They ask the player questions about the world, which they can answer truthfully or not. Answering all of Porridge's questions *in*correctly gives the 'Miseducation' **achievement**.
+: A young jelly in the Warrens who has recently split, losing most of hir memories. Sie asks the player questions about the world, which they can answer truthfully or not. Answering all of Porridge's questions *in*correctly gives the 'Miseducation' **achievement**.
 
 Catspaw Emissary 
-: A **Catspaw Villager** in the Bathyal Colony, who wishes to petition the Unterbaron to stop excavations near the village. If the player gains the Baron's trust, it is possible to help the Emissary. (See: **"Her Magnificence"**).
+: A **Catspaw Villager** in the Bathyal Colony, who wishes to petition the Unterbaron to stop excavations near the village. If the player gains the Baron's trust, it is possible to help or deliberately deceive the Emissary. (See: **"Her Magnificence"**).
 
 Puck
 : The Puck can be encountered in the Bathyal Colony during a real-world waning gibbous moon. (This is based on the system time, see **Puck manipulation**.)
 
 ### Speedrun: Atlantis
 
-On **Speedrun: any%**, Atlantis is accessed early by manipulating [Mari Llwd](./undefinedbehaviour2#fanwikimarilwyd) to grant water breathing, then diving from the **Bleeding Cliffs**. The player must swim directly downwards for at least 49 seconds to ensure they will respawn in the Bathyal Colony after drowning.
+On **Speedrun: any%**, Atlantis is accessed early by manipulating [Mari Lwyd](./undefinedbehaviour2#fanwikimarilwyd) to grant water breathing, then diving from the **Bleeding Cliffs**. The player must swim directly downwards for at least 49 seconds to ensure they will respawn in the Bathyal Colony after drowning.
 
 The player can then enter the **Sour Undergarden** from the back entrance, which will immediately trigger the fight with **Ysbaddaden**.
 
