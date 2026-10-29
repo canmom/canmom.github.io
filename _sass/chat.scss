@@ -1,44 +1,69 @@
-$person-colours: ("person1": rgb(0, 127, 74), "person2": rgb(198, 9, 50), "person3": rgb(193, 0, 167));
+$person-colours: (
+  "person1": rgb(0, 127, 74),
+  "person2": rgb(198, 9, 50),
+  "person3": rgb(193, 0, 167),
+  "fragment": rgb(0, 150, 198),
+  "creature": rgb(200, 120, 90),
+);
+
+$person-prefixes: (
+  "person1": "author",
+  "person2": "magician",
+  "person3": "guard",
+  "fragment": "fragment",
+  "creature": "creature",
+);
 
 ul.chat {
-	padding-left: 0;
+  padding-left: 0;
 }
 
 ul.chat li {
-	list-style-type: none;
-	margin-bottom: 15px;
-	margin-top: 0;
-	padding-left: 15px;
-	text-indent: -10px;
+  list-style-type: none;
+  margin-bottom: 15px;
+  margin-top: 0;
+  padding-left: 15px;
+  text-indent: -10px;
 }
 
 ul.chat li p {
-	margin-top: 0;
-	margin-left: 0;
-	margin-bottom: 5px;
-	text-indent: 0;
+  margin-top: 0;
+  margin-left: 0;
+  margin-bottom: 5px;
+  text-indent: 0;
 }
 
 ul.chat li p:first-child {
-	text-indent: -10px;
+  text-indent: -10px;
 }
 
 @each $person, $colour in $person-colours {
-	ul.chat li.#{$person} {
-		border-left: 2px solid $colour;
-		background: linear-gradient(to right, rgba($colour,0.05),rgba($colour,0));
-	}
+  ul.chat li.#{$person} {
+    border-left: 2px solid $colour;
+    background: linear-gradient(
+      to right,
+      rgba($colour, 0.05),
+      rgba($colour, 0)
+    );
+  }
 
-	ul.chat li.#{$person} b.name {
-		color: $colour;
-	}
+  ul.chat li.#{$person} b.name {
+    color: $colour;
+  }
 }
 
 ul.chat li ol {
-	margin-left: 0;
+  margin-left: 0;
 }
 
 ul.chat li ol li {
-	list-style-type: lower-alpha;
-	margin-bottom: 0;
+  list-style-type: lower-alpha;
+  margin-bottom: 0;
+}
+
+@each $person, $prefix in $person-prefixes {
+  ul.chat.names li.#{$person}::before {
+    content: $prefix + ": ";
+    font-weight: bold;
+  }
 }
