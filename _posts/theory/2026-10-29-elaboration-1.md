@@ -26,9 +26,9 @@ OK, that's enough from this voice I think. Let's disaggregate.
 
 featuring:
 * {: .person1} an undifferentiated <b>core</b>
-* {:.fragment} a <b>fragment</b> of a cultist
 * {: .creature} a <b>creature</b> that lives in a head
 * {: .person2} a would-be <b>magician</b>
+* {:.fragment} a <b>fragment</b> of a rat cult apostate, lately distinguished
 {: .chat}
 
 ---
