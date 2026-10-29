@@ -247,7 +247,7 @@ Doug's general frame is first laid out first in the dialogue <cite>Ant Fugue</ci
 The mind in question is named Aunt Hillary, though we only hear about her existence through the character of the Anteater, who describes how, by striking fear into the individual ants, eating them etc., he is able to read out thoughts and communicate with Aunt Hillary. Stacking up the incongruities, Aunt Hillary is described as being a laissez-faire libertarian in contrast to the 'communistic' society of ants that make her up and so on. Of course, it leaves open the possibility that this is all something the Anteater is imagining, that there is no 'mind' of Aunt Hillary at all.
 
 * {: .person2} told you it all comes back to ants!!
-{: .chat}
+{: .chat .names}
 
 ### abstraction and philosophy and that
 
@@ -301,7 +301,7 @@ So in this regard, each 'person' is a distributed system, running not just on on
 >
 > I shared so many of [Carol's] memories, both from our joint times and from times before we ever met, I knew so many of the people who had formed her, I loved so many of the same pieces of music, movies, books, friends, jokes, I shared so many of her most intimate desires and hopes. So her point of view, her interiority, her *self*, which had originally been instantiated in just one brain, came to have a second instantation, although that one was far less complete and intricate than the other one.
 
-{: .person2} this is an idea getting expanded, recursively. an elaboration. doug has this vague idea of 'seeing things for carol', and immediately sets to elaborating it into a whole theory that would support such an assertion. perhaps from such a thing is a tulpa made.
+* {: .person2} this is an idea getting expanded, recursively. an elaboration. doug has this vague idea of 'seeing things for carol', and immediately sets to elaborating it into a whole theory that would support such an assertion. perhaps from such a thing is a tulpa made.
 {: .chat .names}
 
 It is very unlikely that Doug Hofstadter has ever heard the term 'introject'. But what he's speaking about is unmistakably what plural communities call '[introjection](https://pluralpedia.org/w/Introject)'. This is sufficiently common that even [more medically inclined sources](https://did-research.org/did/alters/functions) acknowledge it. In fact, at least for the more spirtually inclined, this is extended into [a whole complicated set of ideas](https://pluralpedia.org/w/Category:Sourced_%26_Introject_Terms) classifying numerous types of introjects or describing different system members jumping between hosts.
@@ -358,6 +358,6 @@ From there, it is a short jump to consider 'other I's' that have no particular c
 * {: .fragment} it thinks so too. but it does not believe we know how to do things by half measures. so abstention isn't just a principled stance, it's the way to avoid diving straight into the abyss. *we would go fucking crazy*. we're already going crazy just by indirect exposure, or we wouldn't be writing an article like this one.
 * {: .person2} everyone we know and love is "crazy". why does this terrify us so much?
 * {: .person1} Oh, now *that's* a can of worms.
-{: .chat}
+{: .chat .names}
 
 This feels like an appropriate point to release this section of the dialogue to wider eyes. Let this part of Bryn replicate itself to Bryns that may exist in the mind of others. But we have not yet found a stable direction to proceed, so we are not yet done. Next time, our magician seems to be very eager to talk about Alan Moore, Grant Morrison, the <cite>Last War in Albion</cite>, and so on. So let's see where that goes...
