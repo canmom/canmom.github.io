@@ -304,7 +304,7 @@ So in this regard, each 'person' is a distributed system, running not just on on
 * {: .person2} this is an idea getting expanded, recursively. an elaboration. doug has this vague idea of 'seeing things for carol', and immediately sets to elaborating it into a whole theory that would support such an assertion. perhaps from such a thing is a tulpa made.
 {: .chat .names}
 
-It is very unlikely that Doug Hofstadter has ever heard the term 'introject'. But what he's speaking about is unmistakably what plural communities call '[introjection](https://pluralpedia.org/w/Introject)'. This is sufficiently common that even [more medically inclined sources](https://did-research.org/did/alters/functions) acknowledge it. In fact, at least for the more spirtually inclined, this is extended into [a whole complicated set of ideas](https://pluralpedia.org/w/Category:Sourced_%26_Introject_Terms) classifying numerous types of introjects or describing different system members jumping between hosts.
+It is very unlikely that Doug Hofstadter has ever heard the term 'introject'. But what he's speaking about is unmistakably what plural communities call '[introjection](https://pluralpedia.org/w/Introject)'. This is sufficiently common that even [more medically inclined sources](https://did-research.org/did/alters/functions) acknowledge it. In fact, at least for the more spiritually inclined, this is extended into [a whole complicated set of ideas](https://pluralpedia.org/w/Category:Sourced_%26_Introject_Terms) classifying numerous types of introjects or describing different system members jumping between hosts.
 
 * {: .fragment} at some point it feels that all of this 'recursive elaboration' becomes totally unmoored from anything.
 {: .chat .names}
