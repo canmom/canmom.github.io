@@ -1,5 +1,5 @@
 ---
-title: recursive elaboration 0
+title: Recursive Elaboration 0
 layout: article
 origin: https://canmom.tumblr.com/post/818495534114471936/recursive-elaboration
 categories:

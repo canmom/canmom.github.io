@@ -1,11 +1,12 @@
 ---
-title: "Recursive elaboration"
+title: "Recursive elaboration 1"
 excerpt: "Struggling to make sense of it all."
 categories:
  - theory
 tags:
  - introspection
  - plurality
+ - ai
 layout: article
 ---
 This is going to be another dialogue. In that sense it is a kind of magic working, in that it is laying down some material which will be used to make 'us' in the future. Just like [How many of us are in here?](./plural) and [disaggregation](./disaggregation-1), committing to writing this thing is likely to have a significant effect on the future course of our life.
