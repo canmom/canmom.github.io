@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour ch2 \[draft 0.0.4\]
+# Undefined Behaviour ch2 \[draft 0.0.5\]
 
 ## Chapter::Encapsulation
 
@@ -281,7 +281,7 @@ Ten years later, I'm sat on Violet's lap again, looking at a database of patient
 
 The lap thing hadn't entirely been planned, but Violet has the security clearance to look at the patient database. I probably shouldn't be seeing it. But she wants to show me. And there is not a lot of room to see the screen without sitting in her lap. That had to be the only reason she asked me. It has been ten years, after all.
 
-I spot Magenta's name. Not, as I'd half expected, her deadname. Apparently the mysterious multinational conglomerate that's funding this place is a stickler for respecting trans people. Probably something to do with Su-ni. What the hell is her deal? Like, either trans herself or some kind of ultra-chaser. But I can't think about that.
+I spot Magenta's name. Not, as I'd half expected, her deadname. Apparently the mysterious multinational conglomerate that's funding this place is a stickler for respecting trans people. Probably something to do with Bora. What the hell is her deal? Like, either trans herself or some kind of ultra-chaser. But I can't think about that.
 
 "Maggie..."
 
@@ -381,7 +381,7 @@ I'm frowning. "It's crazy. Couldn't you really hurt someone if it goes wrong? Li
 
 ---
 
-"So what's her deal, anyway?" I ask Violet. "Su-ni."
+"So what's her deal, anyway?" I ask Violet. "Bora."
 
 We're in the cafeteria, upstairs, in what is some clearly sort of regular office building. A sign lists the businesses in the building; upstairs is some sort of community film studio. Likely with no idea what was going on below their feet---better to imagine than the alternative, at least. It's decently busy, and the overlapping conversations provide a wall against getting overheard. Even so, I'm speaking quietly, leaning across the table towards Violet.
 
@@ -401,9 +401,9 @@ Violet's face twitches as she rolls her eyes. "Yeah. That's by design. Like, you
 
 "Still, sounds like we're on borrowed time. What do we do if the cops show up?"
 
-"Honestly, Indigo? I don't know." She purses her lips. "Su-ni says there's contingencies in place. But as far as I'm concerned, we just make it work as long as we can."
+"Honestly, Indigo? I don't know." She purses her lips. "Bora says there's contingencies in place. But as far as I'm concerned, we just make it work as long as we can."
 
-"Indeed." The voice came from behind me. I look back. Su-ni's there, apparently happy to come up here in her absurd cosplay outfit. "Don't worry, Ms. Indigo. I have security in hand."
+"Indeed." The voice came from behind me. I look back. Bora's there, apparently happy to come up here in her absurd cosplay outfit. "Don't worry, Ms. Indigo. I have security in hand."
 
 I scoot to the side to make space for her to sit down. She obliges, smoothing the fancy white skirt.
 
@@ -427,7 +427,7 @@ Violet giggles. "I'm results." I roll my eyes. Yeah, she hasn't changed *that* m
 
 And I stare at her, trying to make sense of these baffling pronouncements. And she watches me, severe and impassive as ever. I feel... angry?
 
-"Ms. Su-ni." I say. "I know you are my new boss and this is my first day, but I have to be frank."
+"Ms. Bora." I say. "I know you are my new boss and this is my first day, but I have to be frank."
 
 "Please." The ghost of a smile.
 
@@ -443,15 +443,15 @@ I groaned. "Look, yeah, I get the philosophy and all..."
 
 ---
 
-We stand in the lift, me and Su-ni at one end, Violet's wheelchair at the other, as it descends back to what I am increasingly thinking of as a sorcerer's dungeon. Both of them are looking at me.
+We stand in the lift, me and Bora at one end, Violet's wheelchair at the other, as it descends back to what I am increasingly thinking of as a sorcerer's dungeon. Both of them are looking at me.
 
 "People don't like our game because it was a perfect simulation of another world." I say into the silence. "They liked it because of your writing, Violet, and the art team's designs, and all of that work we did... it told a story. They could fill in the rest themselves. You know, willing suspension of disbelief. Make-believe play. How are we going to have any of that here? If everyone's just some random person plucked off the streets of Glasgow, they're not going to roleplay Maude the Anchoress or Chairman Oberon or the Garrulous Unterbaron or whoever. This team doesn't seem all that big. We'd never churn out content patches fast enough."
 
 "They are not." Violet says. "We've had to pick some people to play the vital characters. But more importantly, the rules of the world are what they are. If we do our jobs right, what emerges from that will be something new and rich."
 
-"Then how is it <cite>TRISMEGISTUS</cite>!? Your writing *made* that game, Violet. If Su-ni wants a sequel so badly---"
+"Then how is it <cite>TRISMEGISTUS</cite>!? Your writing *made* that game, Violet. If Bora wants a sequel so badly---"
 
-"Ms. Indigo." Su-ni places a hand on my arm. I flinch slightly. "I am grateful to hear your feelings and I hope you will continue to be just as forthright with me. However... I said I came to Scotland to save Ms. Violet. I did not say I simply wanted a sequel to <cite>TRISMEGISTUS</cite>."
+"Ms. Indigo." Bora places a hand on my arm. I flinch slightly. "I am grateful to hear your feelings and I hope you will continue to be just as forthright with me. However... I said I came to Scotland to save Ms. Violet. I did not say I simply wanted a sequel to <cite>TRISMEGISTUS</cite>."
 
 "Hey." I look at her, still riding the wave of annoyance. "OK. Thanks for not firing me immediately, I guess. Why do you keep calling us 'Ms.'?"
 
@@ -463,7 +463,7 @@ She laughs. "It's an affectation, obviously. Roleplaying. You're not an idiot, I
 
 The lift reached the basement with a soft 'ping'.
 
-"Why don't you take the afternoon off?" Su-ni says. "You too, Violet. This has been an emotional day for both of you."
+"Why don't you take the afternoon off?" Bora says. "You too, Violet. This has been an emotional day for both of you."
 
 ---
 
@@ -483,7 +483,7 @@ After a minute, she speaks. "You don't have to stay here if you don't want to." 
 
 "Fuck..."
 
-Violet's words keep flooding out, a broken dam. "They did it better for the later patients. At some point they'll swap out my chips too. But, I think Su-ni wants them to iron out the procedure first. It definitely wasn't her idea for them to operate on me so early. She was really mad about it, actually, that's kind of where the situation with her family --"
+Violet's words keep flooding out, a broken dam. "They did it better for the later patients. At some point they'll swap out my chips too. But, I think Bora wants them to iron out the procedure first. It definitely wasn't her idea for them to operate on me so early. She was really mad about it, actually, that's kind of where the situation with her family --"
 
 "Hang on, hang on, slow down." I love a good infodump, but this is a bit much. "Go back a minute, Violet. Did you say the operation made you plural?"
 
@@ -539,7 +539,7 @@ I reach out to take her hand. "I can't imagine what it was like."
 
 "That's something." I manage to look back at her face, and she reaches over and lays her hand on mind. Take another breath. "So... getting the old gang back together?"
 
-"Nah." Violet said. "Half of them aren't even in the country. And those that are, well, Su-ni's got that policy..."
+"Nah." Violet said. "Half of them aren't even in the country. And those that are, well, Bora's got that policy..."
 
 "Trans only? Seems like a recipe for disaster, honestly. And kind of a shame for them to be left out of this."
 

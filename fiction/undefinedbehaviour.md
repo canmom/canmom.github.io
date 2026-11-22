@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour \[draft 0.0.8\]
+# Undefined Behaviour \[draft 0.0.9\]
 
 ## Chapter::GlasgowComaScale
 
@@ -437,7 +437,7 @@ Her grin gets wider. "Apparently rich bitches can pull a lot of strings." She tu
 
 "Your stream? Wait... no fucking way. *PURPLE?* The fucking, vtuber with, the, uh, shell thingy?"
 
-PURPLE relaxes back, her expression forlorn if anything. "Just Su-ni these days. I graduated years ago."
+PURPLE relaxes back, her expression forlorn if anything. "Just Bora these days. I graduated years ago."
 
 Yeong-Mi cackled. "*Definitely* not the person I expected to bust me out of prison."
 
@@ -451,7 +451,7 @@ She nods. "Yes, Glasgow. It's not because of the war. Family drama."
 
 Oh, fucking hell, way to go, Indigo. I'm saved further embarassment by a quiet whine, announcing Violet's wheelchair entering the... well, not so much room as corridor. She looks about as tired as the day before.
 
-"Su-ni's family own the rehab centre." she says, as if that explains everything.
+"Bora's family own the rehab centre." she says, as if that explains everything.
 
 "Right." It's a relief to see her, even after everything. "Ach. Hey, Violet. I can't believe this is real..."
 
@@ -463,11 +463,11 @@ This Violet peers back at me, very seriously.
 
 "Right." Right... "We're remaking <cite>TRISMEGISTUS</cite>. Honestly, I have so many questions."
 
-The other three glance at each other knowingly. I wonder how many times they've had this conversation. Su-Ni gestures for me to continue.
+The other three glance at each other knowingly. I wonder how many times they've had this conversation. Bora gestures for me to continue.
 
 "OK, to start with, what is even your business model? Our business model. I don't think anyone's buying this kind of RPG in 2036. And why are you acting like this is some super-illegal top secret that nobody can know about?"
 
-"Indigo." Su-ni says.
+"Indigo." Bora says.
 
 "Yeah?"
 
@@ -587,7 +587,7 @@ The story she told me, the whole saga of recovery, is somehow starting to feel b
 
 "Why <cite>TRISMEGISTUS</cite>? Shouldn't it be some kind of heaven? The game's kind of, you know, *dark*, Violet..."
 
-"Because it has to feel like a place that means something to inhabit. Because me and Su-ni are making it. And this is just, you know, the proof of concept. There can be other worlds. But we have to make this one, first." Violet doesn't break eye contact this time. Her eyes are full of intensity. Almost feverish. I find myself caught in them.
+"Because it has to feel like a place that means something to inhabit. Because me and Bora are making it. And this is just, you know, the proof of concept. There can be other worlds. But we have to make this one, first." Violet doesn't break eye contact this time. Her eyes are full of intensity. Almost feverish. I find myself caught in them.
 
 "Well." I let her go. "In for a penny, in for a pound."
 

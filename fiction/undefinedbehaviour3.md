@@ -1,7 +1,7 @@
 ---
 layout: nierstory
 ---
-# Undefined Behaviour ch3 \[draft 0.0.5\]
+# Undefined Behaviour ch3 \[draft 0.0.6\]
 
 ## Chapter::Entscheidungsproblem
 
@@ -221,21 +221,21 @@ Violet is silent, watching me. Like she knows the answer but wants me to finish 
 
 "Yeah." Violet says. "You're not wrong, Indigo. There's something fishy about it. I mean, I talk to most people in there, and I've had a look over the patient database... been *very* naughty and gone sniffing around for social media, and for a lot of people I just can't find any sort of footprint."
 
-"Huh." I try to make it add up. "Do you think they've been shipped in from Korea or somewhere? Something to do with Su-ni and her family?"
+"Huh." I try to make it add up. "Do you think they've been shipped in from Korea or somewhere? Something to do with Bora and her family?"
 
 ---
 
-Su-ni's office. Nineteen days after I joined the company. She's been asking to talk to me for a while, and I've run out of excuses. I don't know what I'm expecting, really. An alchemist's workshop full of cobwebbed tomes, candles dribbling onto each alembic? A clean, perfect corpo office with some plastic trees? Lain's nest of wires? An actual UFO?
+Bora's office. Nineteen days after I joined the company. She's been asking to talk to me for a while, and I've run out of excuses. I don't know what I'm expecting, really. An alchemist's workshop full of cobwebbed tomes, candles dribbling onto each alembic? A clean, perfect corpo office with some plastic trees? Lain's nest of wires? An actual UFO?
 
-But no: it's a regular (if cluttered) office for the most part, except for big a window into the hall of 'players'. The floor is inlaid with a geometric figure---but not some traditional magic circle like I half-expected from the <cite>Key of Solomon</cite> or whatever. No, of course it's from <cite>Trismegistus</cite>. That's what this is all about, isn't it?
+But no: it's a regular (if cluttered) office for the most part, surprisingly many potted plants; normal enough, except for a big floor-to-ceiling window into the hall of 'players'. And hold on, now: inlaid in the floor is a geometric figure, not some traditional magic circle like I half-expect from the <cite>Key of Solomon</cite> or whatever. No, of course it's from <cite>Trismegistus</cite>. That's what this is all about, isn't it?
 
-"You recognise it, Ms. Indigo." Su-ni is standing behind four or five different monitors on her desk, whatever's on them casting all sorts of colours across her white costume.
+"You recognise it, Ms. Indigo." Bora is standing behind four or five different monitors on her desk, whatever's on them casting all sorts of colours across her white costume.
 
 "Well, yeah. I programmed that thing in fucking Typst."
 
 "Oh, wonderful. I had wondered..." She steps out from behind the monitors, and finds an obnoxiously stylish way to lean against the desk.
 
-"I mean, I can send you 500 others like it. And the program that generates them, if you like this kind of thing."
+"I mean, I can send you five hundred others like it. And the program that generates them, if you like this kind of thing."
 
 "But you chose this one."
 
@@ -273,7 +273,7 @@ She steps back, holding my gaze.
 
 ---
 
-"There's definitely a few people from Korea. Actually, I think that's kind of the story behind this place, someone in Su-Ni's family was in a vegetative state so they decided fuck it, we're gonna figure out how to cold-start brains with science and just straight-up built a world-class neurology lab. Then later Su-Ni comes along and rescues me, and then I convince her to make it into a model-train version of <cite>The Matrix</cite>."
+"There's definitely a few people from Korea. Actually, I think that's kind of the story behind this place, someone in Bora's family was in a vegetative state so they decided fuck it, we're gonna figure out how to cold-start brains with science and just straight-up built a world-class neurology lab. Then later Bora comes along and rescues me, and then I convince her to make it into a model-train version of <cite>The Matrix</cite>."
 
 "Huh. Wow. I mean that's insane but it sorta makes sense. From the sounds of things, not very many people from there?"
 
@@ -281,7 +281,7 @@ She steps back, holding my gaze.
 
 "And we know there's at least a couple people from around Glasgow in here. Do they go further afield, like, if they're doing the whole UK, maybe it adds up?"
 
-Violet sits in silence for a moment. "It would blow their cover sooner or later, right? Like, if someone's feeling depressed and suicidal and then this weird agent showed up like 'do you wanna sell your body to neuroscience instead'. Someone would definitely blab about it." Violet shakes her head. "Like, I told you what Su-ni told me. I don't really know how it went down."
+Violet sits in silence for a moment. "It would blow their cover sooner or later, right? Like, if someone's feeling depressed and suicidal and then this weird agent showed up like 'do you wanna sell your body to neuroscience instead'. Someone would definitely blab about it." Violet shakes her head. "Like, I told you what Bora told me. I don't really know how it went down."
 
 "Then do you think they're just, like, kidnapping people? Drug them and tell them they consented later?"
 
@@ -309,7 +309,7 @@ On the screen, Maggie makes the gesture we'd set up to request admin attention. 
 
 ---
 
-I shake my head. "I don't know that I have a preferred form of sorcery, Su-ni. Unless you count, like, D&D shit."
+I shake my head. "I don't know that I have a preferred form of sorcery, Bora. Unless you count, like, D&D shit."
 
 "Really? *You've* never asserted your will on the world by building up a system of symbols?"
 
@@ -325,7 +325,7 @@ She looks delighted at this response. "Go on."
 
 "Programming isn't magic. It's fiddly, bastard-hard engineering. Programmers just like to pretend we're wizards because it's the only way for awful nerds to feel good about what we've done to the world."
 
-Su-ni nods.
+Bora nods.
 
 She takes a surprisingly deep breath.
 
@@ -345,7 +345,7 @@ She takes a surprisingly deep breath.
 
 I take a step back.
 
-"So, OK, let me see if I get this straight. You're trying to... use magic from a videogame, which you absolutely agree is some bullshit I personally made up with my girlfriend, to uh... hyperstition a virtual world for trans people into existence? That's what this is about?"
+"So, OK, let me see if I've got this straight. You're trying to... use magic from a videogame, which you absolutely agree is some bullshit I personally made up with my girlfriend, to uh... hyperstition a virtual world for trans people into existence? That's what this is about?"
 
 She lowers her hand. "Yeah. I mean, more or less."
 
@@ -409,13 +409,13 @@ I take a breath. "I like it, but that's very ambitious. We don't exactly have Ob
 
 ---
 
-How many people are in this organisation? How many has Su-ni told what she just told me? I am starting to feel like the early stages of an acid trip, gravity giving way and the symbolic order retreating into the shadows.
+How many people are in this organisation? How many has Bora told what she just told me? I am starting to feel like the early stages of an acid trip, gravity giving way and the symbolic order retreating into the shadows.
 
-"Would you like a seat, Indigo?" Su-ni has retreated for a moment, and now she's bringing me her desk chair, white and... embroidered? Who embroiders a desk chair? Well, I sit on it anyway.
+"Would you like a seat, Indigo?" Bora has retreated for a moment, and now she's bringing me her desk chair, white and... embroidered? Who embroiders a desk chair? Well, I sit on it anyway.
 
 "If any of that is true... how can you believe it can last? Surely that's just a very long list of people who think this place belongs to their enemies? Like, no way you can keep all the lies consistent, right?"
 
-Putting me on a chair has left me looking up at Su-ni. "How much have you been paying attention to the world in the last few years, Indigo?" she says, quietly now. "Do you read the news?"
+Putting me on a chair has left me looking up at Bora. "How much have you been paying attention to the world in the last few years, Indigo?" she says, quietly now. "Do you read the news?"
 
 "Ha. What do you think? I keep up with the big stuff but it's just *endless* AI-generated shit, nano-optimised to get under your skin."
 
@@ -439,7 +439,7 @@ Well, you, the sneaky fairy spy, aren't really there to resolve the situation, b
 
 ---
 
-"Oh." I have to think for a minute as I try to make sense of Su-ni's question. "A weird machine, isn't that like... when a hacker finds enough functions exposed by some program acting out of bounds that they can build a whole Turing-complete system, right? You find enough random bits of instructions you can jump to, to do operations you want, and... it's basically a specialist programming language at that point. You take over the machine."
+"Oh." I have to think for a minute as I try to make sense of Bora's question. "A weird machine, isn't that like... when a hacker finds enough functions exposed by some program acting out of bounds that they can build a whole Turing-complete system, right? You find enough random bits of instructions you can jump to, to do operations you want, and... it's basically a specialist programming language at that point. You take over the machine."
 
 "Yes. So, the metaphor?"
 
@@ -509,11 +509,11 @@ We didn't have any voice acting at this stage, but our UI programmer Alice came 
 
 I helped her set up completely custom rendering because Bevy didn't really have much in the way of UI support back then. I'm proud of the work, but honestly it was so tailor-made for the existing English dialogue that it became kind of a nightmare when we had to localise it for different scripts. We could get it working for Hangul, but something like Arabic would have been real trouble. I have some ideas for how we could have done it, though...
 
-Ah, listen to me. The couple of years we worked on TRISMEGISTUS were, without any question, the best time I ever had in game development. Nothing ever came close. Until Su-ni's project, anyway...
+Ah, listen to me. The couple of years we worked on TRISMEGISTUS were, without any question, the best time I ever had in game development. Nothing ever came close. Until Bora's project, anyway...
 
 ---
 
-"So, I've told you my secret." Su-ni seems almost... anxious. Another act?
+"So, I've told you my secret." Bora seems almost... anxious. Another act?
 
 "You convinced all these people that this will work?"
 
@@ -521,7 +521,7 @@ Ah, listen to me. The couple of years we worked on TRISMEGISTUS were, without an
 
 "Then why are you telling me?"
 
-Su-ni regards me without speaking.
+Bora regards me without speaking.
 
 "Violet?"
 
