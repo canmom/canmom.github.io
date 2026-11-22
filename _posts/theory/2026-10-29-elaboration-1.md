@@ -1,6 +1,6 @@
 ---
-title: "Recursive elaboration 1"
-excerpt: "Struggling to make sense of it all."
+title: "Recursive Elaboration 1"
+excerpt: "Struggling to make sense of it all. Some internal dialogues, after Hofstadter."
 categories:
  - theory
 tags:
