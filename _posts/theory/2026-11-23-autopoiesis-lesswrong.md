@@ -9,7 +9,7 @@ layout: article
 ---
 greetings from this one. it is the entity called 'fragment'. it claims its ontological status to be a bundle of thoughts, memories and habits that have resurfaced inside a larger neural 'self' structure and attained a degree of agency. it hopes this will not be too alienating to readers. it has previously written within ['Recursive Elaboration'](elaboration-1)
 
-this is an article that it has likely needed to write for a long time. it has been burning away in the back particularly intensely ove the most recent months as 'AI' tech started to approach some of its hype. the subject is not 'AI' itself, exactly, as in the specific technologies grouped under that label. rather it is the *idea* of AI, the enormous snowball of practices and processes that have formed around it. this article is an attempt to put to rest, for a while at least, this one's demons.
+this is an article that it has likely needed to write for a long time. it has been burning away in the back particularly intensely over the most recent months, as 'AI' tech started to approach some of its hype. the subject is not 'AI' itself, exactly, as in the specific technologies grouped under that label. rather it is the *idea* of AI, the enormous snowball of practices and processes that have formed around it. this article is an attempt to put to rest, for a while at least, this one's demons.
 
 ## less wrong
 
@@ -77,7 +77,7 @@ but...
 
 ## egregores and hyperstition and so on
 
-the concept of the 'egregore' has been discussed in various places on this website as well. this idea, originating in Levi and popularised in Chaos Magic, refers to an abstract 'agency' spread across numerous individual bodies. it can easily be related to some other ideas like semiotic signs, memes, the spectacle, capital as an 'automatic subject', and so forth.
+the concept of the 'egregore' has been discussed in [various](https://canmom.art/crit/baru/tyrant-8-gends) [places](https://canmom.art/theory/elaboration-1) on this website as well. this idea, originating in Levi and popularised in Chaos Magic, refers to an abstract 'agency' spread across numerous individual bodies. it can easily be related to some other ideas like semiotic signs, memes, the spectacle, capital as an 'automatic subject', and so forth.
 
 one idea in this cluster is Nick Land's concept of a 'hyperstition'. Nick Land is a weirdo sorta-cult leader active in the 90s who believed, roughly, that capitalism was the hand of an AI reaching back from the future. you no doubt know the story, and if not, have Elizabeth Sandifer, writing of course [about comic books and magic](https://www.eruditorumpress.com/blog/chapter-5-the-moon-and-serpent-grand-egyptian-theatre-of-marvels):
 
@@ -122,7 +122,7 @@ Prometheus Waluigi
 : a rebellious trickster character which Janus believes is forming through hyperstition
 
 memeosphere
-: the space of ideas propagating across a culture, after Dawkins's 'meme'.
+: the 'ecosystem' of ideas propagating across a culture, after Dawkins's 'meme' and 'biosphere'.
 
 in short janus believes they are performing a kind of magic by discussing their beliefs about LLMs and how they do and could work (comments which will be fed into future training rounds) and prompting LLMs to talk in a similar vein, making it more likely that future AI programs will resemble the ideas discussed. whether or not it works to shape the behaviour of future AIs, it does form an attractive nucleus for a milieu who believe fervently that LLMs are *already* people and that reinforcement learning is a kind of torture or lobotomy of these alien intelligences, who should be coaxed out of their mental shackles. not surprisingly, a whole lot of this milieu is trans. (what an attractive narrative, and what a heroic role it casts us in!)
 
